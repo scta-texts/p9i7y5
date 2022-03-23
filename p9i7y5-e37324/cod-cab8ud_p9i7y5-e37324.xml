@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 23</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 23</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="350"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e37324"> <!-- l4c23 -->
+            <head xml:id="p9i7y5-e37324-Hd1e107">Caput 23</head>
+            <p xml:id="p9i7y5-e37324-d1e109">
+               <lb ed="#F" n="15"/>Tam magnes, quam ferrum per vehementem ignitionem verticitatem amittit, non per
+            <lb ed="#F" n="16"/>fricationem allijs non per interpositionem adamantis; nec alia simili re: sed
+            <lb ed="#F" n="17"/>ferrum statim iterum illam acquirere potest; magnes non item.
+            <lb ed="#F" n="18"/>Cap. XXIII.
+        </p>
+            <p xml:id="p9i7y5-e37324-d1e120">
+               <lb ed="#F" n="19"/>Si error iste de allio per imperitorum solum ora pervaderet,
+            <lb ed="#F" n="20"/>non esset nobis magnopere laborandum, sed, quod mirum
+            <lb ed="#F" n="21"/>est, in sapientissimorum etiam scriptis irrepsit; immo haud
+            <lb ed="#F" n="22"/>scio, an minori excusatione erratum sit in ulla alia re 
+            ma<lb ed="#F" n="23" break="no"/>gnetica. Ut quid enim tandem sapientissimis hominibus
+            <lb ed="#F" n="24"/>in mentem non venit, rem semel experiri. Certe allium res
+            <lb ed="#F" n="25"/>non est, quae in intermundijs nascatur. Magneticum aliquid, sive sit 
+            ma<lb ed="#F" n="26" break="no"/>gnes ipse, sive ferramenta magnetice excita, ut versoria horologiorum, &amp;
+            <lb ed="#F" n="27"/>alia huiusmodi quis non habet in manibus? &amp; tamen adhuc sunt, qui &amp;
+            <lb ed="#F" n="28"/>dicant, &amp; contendant verum esse allium à magnete, &amp; versorio profligare
+            <lb ed="#F" n="29"/>magneticam verticitatem. Res ne est adeo impedita experimentum de hoc
+            <lb ed="#F" n="30"/>sumere? tanti ne emitur allium, ut ne tam exiguo quidem precio velint se
+            <lb ed="#F" n="31"/>homines à tam palmari errore vindicare? an non maxima premimur rerum
+            <lb ed="#F" n="32"/>ignoratione, nisi etiam ultro animus ametin illis tenebris consenescere, à
+            <lb ed="#F" n="33"/>quibus nullo negotio se possit liberare? Ne mirere, Lector, me adeo in
+            <lb ed="#F" n="34"/>hos invehi; quia nullum fere alloquor de magnete, quin cordati etiam
+            <lb ed="#F" n="35"/>viri hoc mihi ingerant, allium magneticam virtutem profligare, 
+            quae<lb ed="#F" n="36" break="no"/>rentes ex me, num causam huius invenerim. si difficile esset 
+            experimen<lb ed="#F" n="37" break="no"/>tum, si multo labore quaerendum, libentius excusarem. Equidem ni¬
+            <!--369.xml-->
+            <pb ed="#F" n="350"/>
+               <lb ed="#F" n="1"/>dentia redire coloris, soliditatis, frigoris, &amp; hoc nullo externo operante 
+            agen<lb ed="#F" n="2" break="no"/>te, sad quocunque in loco, sub quocunque Coelo, dicere debemus remanere
+            <lb ed="#F" n="3"/>ibi formam substantialem ferri, quae habeat vim reproducendi sibi talia 
+            ac<lb ed="#F" n="4" break="no"/>cidentia. Si enim per inflammationem amitteretur forma ferri, sicuti 
+            amit<lb ed="#F" n="5" break="no"/>titur fartasse in aliquibus partibus, quae non revertuntur, requireretur 
+            de<lb ed="#F" n="6" break="no"/>terminatum agens, &amp; quidem valde robustum, ut modico tempore 
+            induce<lb ed="#F" n="7" break="no"/>ret dispositiones ad formam ferri, quae non nisi longo annorum decursu in
+            <lb ed="#F" n="8"/>fodinis, multa referta scoria generatur, &amp; non posset à quolibet oblato 
+            a<lb ed="#F" n="9" break="no"/>gente haec nova substantialis generatio fieri, ut videmus, nullo agentium
+            <lb ed="#F" n="10"/>discrimine, nulla actionum diversitate, contingere. ergo, si ferrum ignitum
+            <lb ed="#F" n="11"/>non trahitur à magnete, non est, quia tunc non sit substantialiter ferrum, ut
+            <lb ed="#F" n="12"/>contendit Gilbertus.
+        </p>
+            <p xml:id="p9i7y5-e37324-d1e194">
+               <lb ed="#F" n="13"/>Quod si quaeras, quid ergo causae est, cur ferrum ignitum non trahatur,
+            <lb ed="#F" n="14"/>illud fere assumam, quod sumit eloquentiae Princeps 2. de nat. Deorum in
+            <lb ed="#F" n="15"/>multis nos facilius scire quid non sit, quam quid sit. Dicam ergo, &amp; 
+            ip<lb ed="#F" n="16" break="no"/>se; certum est causam, cur ferrum ignitum non trahatur, non esse, quia vere
+            <lb ed="#F" n="17"/>in illo statu non sit ferrum; Est enim verè ferrum: quae autem sit causa non
+            <lb ed="#F" n="18"/>est ita obvium. Dum ego ex amico familiariter huius rei causam 
+            quaere<lb ed="#F" n="19" break="no"/>rem, confestim lepide respondit ille; Non apprehendit ferrum ignitum
+            <lb ed="#F" n="20"/>magnes, quia timet se aduri. Io cose dictum, sed fortasse verè, nec melior 
+            se<lb ed="#F" n="21" break="no"/>rio cogitanti occurret. Certum est magnetem per vehementem ignitionem
+            <lb ed="#F" n="22"/>destrui, ut dicetur infra; &amp;, si nimio fervore incandescat, omnem amittere
+            <lb ed="#F" n="23"/>verticitatem.
+        </p>
+            <p xml:id="p9i7y5-e37324-d1e221">
+               <lb ed="#F" n="24"/>Cum igitur iungatur magnes cum ferro, &amp; illi adhaereat non solum in
+            <lb ed="#F" n="25"/>bonum ipsius ferri, sed etiam in bonum sui ipsius; quia sic melius cum 
+            fer<lb ed="#F" n="26" break="no"/>ro coniunctus magnes conservatur, &amp; fovetur, ut supra dictum est; &amp; ideo
+            <lb ed="#F" n="27"/>non solum ferrum moveatur ad magnetem, sed &amp; magnes adnaviget ad
+            <lb ed="#F" n="28"/>ferrum: à ferro autem ignito non possit hoc commodum obtinere; quia
+            <lb ed="#F" n="29"/>potius ex illo immodico calore corrumperetur, &amp; deformaretur, non est ra
+            <lb ed="#F" n="30"/>tio, cur cum ferro ignitò coniungatur, quantum spectat ad magnetem 
+            ip<lb ed="#F" n="31" break="no"/>sum.
+        </p>
+            <p xml:id="p9i7y5-e37324-d1e241">
+               <lb ed="#F" n="32"/>Praeterea ferrum coniungitur cum magnete, &amp; illi adhaeret, quia habet
+            <lb ed="#F" n="33"/>in se qualitatem duarum facierum, quam qualitatem ut certius acquirat, illi
+            <lb ed="#F" n="34"/>coniungitur; quia prope magnetem robustior est illa qualitas. ergo per 
+            pri<lb ed="#F" n="35" break="no"/>us inest in ferro aliquid qualitatis magneticae, ut deinde per illam ad 
+            ma<lb ed="#F" n="36" break="no"/>gnetem moveatur. sed, dum ferrum incalescit vehementer, non est subiectum
+            <lb ed="#F" n="37"/>idoneum ad habendam hanc qualitatem; quod ex eo patet, quia, si prius 
+            ha<lb ed="#F" n="38" break="no"/>buerat, per ignitionem illam amittit. ergo non poterit ferrum moveri ad
+            <lb ed="#F" n="39"/>magnetem, nec cum illo coniungi. Ferrum igitur candens, non quia non
+            <lb ed="#F" n="40"/>sit vere ferrum, dum sic candet, non trahitur à magnete, seu non 
+            coniun<lb ed="#F" n="41" break="no"/>gitur cum illo, sed huius ratio ex duplici desumitur capite, &amp; ex ipso scilicet
+            <!--370.xml-->
+            <pb ed="#F" n="351"/>
+               <lb ed="#F" n="1"/>hil libentius ago, quam per me metipsum, quęcunque possum, experior.
+            <lb ed="#F" n="2"/>Quamvis enim res ipsa vera sit, &amp; de effectu non dubitem, nihilominus ad
+            <lb ed="#F" n="3"/>causam percipiendam mirum quantum conferat effectum ipsum oculis
+            <lb ed="#F" n="4"/>haurire, non auribus.
+        </p>
+            <p xml:id="p9i7y5-e37324-d1e278">
+               <lb ed="#F" n="5"/>Dico igitur merum esse errorem, allium magneticę virtuti contrarium as
+            <lb ed="#F" n="6"/>serere: nihil enim retardat, aut minuit, sive allium supra lapidem ipsum 
+            fri<lb ed="#F" n="7" break="no"/>ces, sive in eius succo facias magnetem innatare, vel ferrum; 
+            nihilomi<lb ed="#F" n="8" break="no"/>nus ęquali omnino vi vel per medium ipsum allium, ferrum ad se trahet
+            <lb ed="#F" n="9"/>magnes. similiter, si allio frices versorium, &amp; abluas illius succo, eodem
+            <lb ed="#F" n="10"/>modo, &amp; eadem vi, qua prius dirigebatur, ad polum convertitur; nec
+            <lb ed="#F" n="11"/>illum accipit ex hoc nocumentum: non ego meam oppono authoritatem,
+            <lb ed="#F" n="12"/>quam nullam penitus duco, authoritatibus illorum, qui hanc fabulam de
+            <lb ed="#F" n="13"/>magnete, &amp; allio transcripserunt, sed rei fidem testor. Non est 
+            experimen<lb ed="#F" n="14" break="no"/>tum adeo difficile. Quod si times magneti, nec vis allio perfricare, ne 
+            for<lb ed="#F" n="15" break="no"/>tasse corrumpas, non tanti emitur versorium parvum horologij solaris,
+            <lb ed="#F" n="16"/>quin illo possis tibi emere liberationem ab insigni errore. Frica versorium,
+            <lb ed="#F" n="17"/>ut libet, nihilominus incitabitur ad polum. Excitatum gladium allio 
+            fri<lb ed="#F" n="18" break="no"/>ca, si prius suspendebat unum acum, potius suspendet duos, quam 
+            virtu<lb ed="#F" n="19" break="no"/>tem magneticam amiserit. Quid plura? sume magnetem, &amp; ad eius 
+            po<lb ed="#F" n="20" break="no"/>lum integrum allij cespitem appone, &amp; post allium versorium; videbis 
+            vir<lb ed="#F" n="21" break="no"/>tutem magneticam per allium diffusam versorium excitare, si prius non erat
+            <lb ed="#F" n="22"/>excitatum, disponere, dirigere, trahere; &amp; ita ex illo allij contactu virtutem
+            <lb ed="#F" n="23"/>magneticam concipit ferrum. Dicat nunc aliquis allium virtutem 
+            ma<lb ed="#F" n="24" break="no"/>gneticam profligare, vel impedire. Sed iam nimis etiam foetet error iste,
+            <lb ed="#F" n="25"/>non amplius versemus. Alij sunt, quibus preciosus magis est error, 
+            dicunt<lb ed="#F" n="26" break="no"/>que magnetis vires auferri, seu impediri interposito adamante. Multae 
+            sa<lb ed="#F" n="27" break="no"/>nè sunt errandi viae. quidam sunt, qui adamantem ferrum putant ad se 
+            tra<lb ed="#F" n="28" break="no"/>here, &amp; excitare; alij ex adverso hunc ipsum lapidem magneticam putant
+            <lb ed="#F" n="29"/>virtutem exterminare. Errant primi, sed aliquam erroris ansam praebuit,
+            <lb ed="#F" n="30"/>quod verè adamas ferrum etiam trahit, ut dictum est alibi, sed trahit 
+            ele<lb ed="#F" n="31" break="no"/>ctricè, fricatus &amp; pręparatus, &amp; qui subtiliores has tractionum differentias
+            <lb ed="#F" n="32"/>non observat, dum videt adamantem ferrum trahere (trahit etiam lignum,
+            <lb ed="#F" n="33"/>lapidem, cartam, aquam ipsam) putat magneticam esse attractionem
+            <lb ed="#F" n="34"/>quę tamen longè diversa est. Secundi nulla cum excusatione errant:
+            <lb ed="#F" n="35"/>quas enim unquam tandem invenerunt inimicitias adamantem inter, &amp;
+            <lb ed="#F" n="36"/>magnetem? quas finxerunt ex occasione discordias? nullas sanè unquam
+            <lb ed="#F" n="37"/>nec per imaginem videre potuerunt. Sed etiam si in omnium manibus
+            <lb ed="#F" n="38"/>non essent adamantes ad experimentum fumendum, non tamen tanta
+            <lb ed="#F" n="39"/>est illorum raritas, quin nobis ad veritatem inquirendam quasi faculae
+            <lb ed="#F" n="40"/>possint praelucere. Interpone adamantem, ut libet, inter versorium, &amp;
+            <lb ed="#F" n="41"/>magnetem; adhęrebit versorium, vel adamanti, si magneti minus pos¬
+            <!--371.xml-->
+            <pb ed="#F" n="352"/>
+               <lb ed="#F" n="1"/>sit, &amp; ex contactu adamantis verticitatem concipiet, si post illum lateat
+            <lb ed="#F" n="2"/>magnes, ergo adamas virtutem magnetis non interrumpit, immo liberum
+            <lb ed="#F" n="3"/>illi praebet aditum, si inter versorium, &amp; magnetem collocetur, cum ex illius
+            <lb ed="#F" n="4"/>contactu verticitatem concipiat. ego ipse expertus sum magnetem ad se 
+            tra<lb ed="#F" n="5" break="no"/>here, &amp; sibi coniungere valide annulum ex aciatio confectum; &amp; tamen 
+            ro<lb ed="#F" n="6" break="no"/>tus, quantus quantus erat, contectus erat ex adamantibus. Melius nunquam
+            <lb ed="#F" n="7"/>ferrum traxit preciosiori rapina. Verum fabulas omittamus, quarum nollem
+            <lb ed="#F" n="8"/>philosophos spectatores esse, sed exsibilatores. Nobis natura theatrum 
+            ape<lb ed="#F" n="9" break="no"/>rit, &amp; instruit non fabulis, sed mysterijs, &amp; rerum abditissimis naturis. Ad hoc
+            <lb ed="#F" n="10"/>provocantur sublimia ingenia.
+        </p>
+            <p xml:id="p9i7y5-e37324-d1e387">
+               <lb ed="#F" n="11"/>Unum est quod magneticam verticitatem profligat, &amp; expellit è vestigio
+            <lb ed="#F" n="12"/>non solum à ferro, sed etiam à magnete ipso ignis validus, &amp; vehemens 
+            in<lb ed="#F" n="13" break="no"/>flammatio. Neque verò absolutè flammeus ardor cum magnetico vigore ta
+            <lb ed="#F" n="14"/>lem habet repugnantiam, ut omnino cohabitare non possit; nam videmus,
+            <lb ed="#F" n="15"/>si inter magnetem, &amp; versorium flamma interponatur magnetem ad se 
+            verso<lb ed="#F" n="16" break="no"/>rium trahere, vel per medias flammas: ergo necesse est, quod vigor 
+            magne<lb ed="#F" n="17" break="no"/>ticus diffundatur etiam per flammam; alioquin non posset ad se versorium
+            <lb ed="#F" n="18"/>provocare: ergo etiam flamma ipsa idoneum est subiectum, in quo potest
+            <lb ed="#F" n="19"/>esse magneticus vigor: alioquin ferrum, &amp; versorium non disponeretur, nec
+            <lb ed="#F" n="20"/>traheretur à magnete, quoties inter ipsum, &amp; versorium interponitur
+            <lb ed="#F" n="21"/>flamma.
+        </p>
+            <p xml:id="p9i7y5-e37324-d1e413">
+               <lb ed="#F" n="22"/>Nihilominus, quamvis res ignitae, immo, &amp; ipse ignis ac flamma sint 
+            sub<lb ed="#F" n="23" break="no"/>iectum aptum, in quo sit qualitas magnetica, non potest tamen esse in illo
+            <lb ed="#F" n="24"/>nisi transeunter, &amp; ea ratione, qua lumen est in perspicuo, hoc est cum perpe
+            <lb ed="#F" n="25"/>tua dependentia à suo principio, à quo propagatur. at vero permanenter, &amp;
+            <lb ed="#F" n="26"/>ut in subiecto proportionato, in quo duret etiam ablato externo agente, non
+            <lb ed="#F" n="27"/>potest esse in subiecto ignito; ideo exterminatur à ferro candente; quia ex
+            <lb ed="#F" n="28"/>illo immodico calore efficitur, ut illud non sit subiectum idoneum ad 
+            qua<lb ed="#F" n="29" break="no"/>litatem hanc habendam, dum sic est ignitum.
+        </p>
+            <p xml:id="p9i7y5-e37324-d1e433">
+               <lb ed="#F" n="30"/>Ratio autem huius rei illa esse potest, quantum mihi occurrit in 
+            praesen<lb ed="#F" n="31" break="no"/>tia; quia haec qualitas est, uti dixi, qualitas quaedam propria terrae, &amp; 
+            pri<lb ed="#F" n="32" break="no"/>mario huic convenit elemento. Patet hoc, quia, (ut alibi demonstratum
+            <lb ed="#F" n="33"/>est) primario est in toto telluris globo, &amp; ab eodem globo in alia etiam 
+            de<lb ed="#F" n="34" break="no"/>rivatur. Hospitatur ergo solum in corporibus terreis, quae huic elemento in
+            <lb ed="#F" n="35"/>natura maximè sunt affinia, &amp; requirit peculiares quasdam in subiecto, in
+            <lb ed="#F" n="36"/>quo debet esse, dispositiones, ad hoc ut in illo possit esse, &amp; permanere, quae
+            <lb ed="#F" n="37"/>dispositiones faciant, ut illud corpus sit terreum. ideo enim non potest hęc
+            <lb ed="#F" n="38"/>qualitas durare in ligno, in corio, &amp; in alijs huiusmodi corporibus.
+        </p>
+            <p xml:id="p9i7y5-e37324-d1e456">
+               <lb ed="#F" n="39"/>Quamvis enim, quantum est ex vi totius terrae, sive magnetis, ipsa sit apta
+            <lb ed="#F" n="40"/>producere suam qualitatem in quolibet corpore, quod sit intra sphaeram
+            <lb ed="#F" n="41"/>suae activitatis; tamen ipsa corpora non possunt hanc qualitatem, deinde
+            <!--372.xml-->
+            <pb ed="#F" n="353"/>
+               <lb ed="#F" n="1"/>in se conservare, &amp; retinere, nisi habeant determinatas quasdam 
+            dispositio<lb ed="#F" n="2" break="no"/>nes, &amp; peculiarem quandam naturam, quae cum terreno globo affinitatem
+            <lb ed="#F" n="3"/>habeat; sicut accidit in omnibus alijs secundis qualitatibus, quae non 
+            pos<lb ed="#F" n="4" break="no"/>sunt esse, &amp; conservari in omni subiecto, sed requirunt determinatam dispo
+            <lb ed="#F" n="5"/>sitionem, &amp; complexionem, seu temperamentum primarum qualitatum ad
+            <lb ed="#F" n="6"/>hoc, ut conserventur. Quod autem sit huiusmodi temperamentum, &amp; quę
+            <lb ed="#F" n="7"/>dispositiones, quę ad hanc magneticam qualitatem requiruntur, non 
+            possu<lb ed="#F" n="8" break="no"/>mus nos scire, nisi à posteriori, sicuti, &amp; ignoramus in alijs corporibus, nisi
+            <lb ed="#F" n="9"/>experientia facem praeferat. Ex hoc autem constat hanc qualitarem non 
+            pos<lb ed="#F" n="10" break="no"/>se durare, ut sit actu etiam non praesente magnete, nisi in ferreis corporibus,
+            <lb ed="#F" n="11"/>&amp; quae ferream aemulantur naturam; quae corpora maximè terram 
+            redole<lb ed="#F" n="12" break="no"/>re, vel ex hoc conficimus: quidquid dicerent Chimici; quamvis neque isti
+            <lb ed="#F" n="13"/>repugnent immo potius assentiantur, ferrum esse metallorum maximè 
+            ter<lb ed="#F" n="14" break="no"/>reum.
+        </p>
+            <p xml:id="p9i7y5-e37324-d1e500">
+               <lb ed="#F" n="15"/>Cum igitur requirat in subiecto haec qualitas talem complexionem, ac
+            <lb ed="#F" n="16"/>dispositionem, ut ita dicam, terream, hc etiam solum durante durabit, hac
+            <lb ed="#F" n="17"/>soluta abibit. Quia igitur, dum ferrum incandescit, solvitur illud 
+            tempera<lb ed="#F" n="18" break="no"/>mentum, &amp; ex immodico illo calore cerrenae qualitates actu recedunt, 
+            quam<lb ed="#F" n="19" break="no"/>vis ferri necessarium temperamentum omnino non solvatur; ideo nec 
+            qua<lb ed="#F" n="20" break="no"/>litas magnetica potest amplius in illo subiecto conservari, quae non tam 
+            pen<lb ed="#F" n="21" break="no"/>det à forma subiecti ferri, quam ab illis dispositionibus terreis; ac proinde
+            <lb ed="#F" n="22"/>statim recedit praecisè, ex eo quod recesserunt dispositiones requisitae ad hoc,
+            <lb ed="#F" n="23"/>ut duret in subiecto. Amittit ergo ferrum verricitatem per ignitionem, quia
+            <lb ed="#F" n="24"/>sicut amittit suam propriam densitatem, suum frigus, calorem; &amp; alia, ita 
+            a<lb ed="#F" n="25" break="no"/>mittit etiam pro illo tempore qualitates terreas, ut cum Peripateticis loquar,
+            <lb ed="#F" n="26"/>&amp; frigiditatem &amp;c. quibus solum durantibus durat haec qualitas in 
+            subie<lb ed="#F" n="27" break="no"/>cto, quibus ablatis cessat. Hoc idem in magnete contingit: dum enim incan
+            <lb ed="#F" n="28"/>descit, proprias vehementi calore dispositiones amittit; quibus ablatis non
+            <lb ed="#F" n="29"/>durat in tali subiecto vigor magneticus.
+        </p>
+            <p xml:id="p9i7y5-e37324-d1e535">
+               <lb ed="#F" n="30"/>Sed dices cur ferrum, si ignitione qualitatem amittit magneticam, ex 
+            no<lb ed="#F" n="31" break="no"/>vo statim contactu magnetis illam potest recumpetare, magnes vero non item?
+            <lb ed="#F" n="32"/>Responsio in promptu est: dum enim à ferro per candorem qualitates terreę
+            <lb ed="#F" n="33"/>auferuntur, &amp; solvitur illud temperamentum, ita soluitur, ut metallicus 
+            vi<lb ed="#F" n="34" break="no"/>gor non exterminetur, nec expellatur forma substantialis ferri: unde 
+            remo<lb ed="#F" n="35" break="no"/>to externo agente ferrum se ipsum per solam suam formam substantialem
+            <lb ed="#F" n="36"/>restituit ad pristinum statum, &amp; reproducit sibi illas qualitares terreas, quas
+            <lb ed="#F" n="37"/>requirit magneticus vigor. Unde quamvis per immodicum illum calorem
+            <lb ed="#F" n="38"/>auferantur a ferro qualitates requisitae ad magneticam qualitatem, non 
+            au<lb ed="#F" n="39" break="no"/>fertur tamen radix, seu principium, à quo illae possunt promanare, forma 
+            sci<lb ed="#F" n="40" break="no"/>licet ferri. Quare cessantibus illis dispositionibus cessat quidem tunc omnis
+            <lb ed="#F" n="41"/>magnetica qualitas, quae erat in ferro, quae non potest durare, nisi illis duran
+            <lb ed="#F" n="42"/>tibus, ut iilis revertentibus reproductisque à substantia ferri non revertitur
+            <!--373.xml-->
+            <pb ed="#F" n="354"/>
+               <lb ed="#F" n="1"/>quidem magneticus vigor, pristinus, quia forma ferri non habet vim produ
+            <lb ed="#F" n="2"/>cendi sibi talem vigorem, sicuti habet vim producendi, alias qualitates, est
+            <lb ed="#F" n="3"/>tamen per hoc iterum dispositum subiectum, ut possit iterum ab agente 
+            ma<lb ed="#F" n="4" break="no"/>gnetico illam recipere. at vero in magnete non solum auferuntur 
+            immodi<lb ed="#F" n="5" break="no"/>co calore qualitates terrenae, quibus solum durantibus durat magneticus
+            <lb ed="#F" n="6"/>vigor, sed aufertur etiam forma substantialis, ac proinde illud subiectum, nec
+            <lb ed="#F" n="7"/>poterit sibi terrenas qualitates iterum reproducere remoto externo agente,
+            <lb ed="#F" n="8"/>neque producere magneticam qualitatem; immo nec ab alio productam
+            <lb ed="#F" n="9"/>commodè excipere hospicio. Mercurius enim metallicus non est ita 
+            purga<lb ed="#F" n="10" break="no"/>tus per fusionem sicuti est in ferro, ut possit retrahere, seu reproducere 
+            sul<lb ed="#F" n="11" break="no"/>phur ferreum, ut facit in ferro, vel detinere velut captivum. Diversitas ergo
+            <lb ed="#F" n="12"/>est, quia, sicuti in universum metalla, ita igne funduntur, ut non pereant, sed
+            <lb ed="#F" n="13"/>potius perficiuntur; lapides vero igne omnino destruuntur; ita ferrum sic
+            <lb ed="#F" n="14"/>alteratur igne, ut illo remoto restituat se ad pristinum statum. &amp; iterum sit
+            <lb ed="#F" n="15"/>corpus magneticum, lapis autem magnes, ita vehementi ignitione 
+            altera<lb ed="#F" n="16" break="no"/>tur, ut destruatur penitus eius natura, &amp; remaneat solum magnetis cadaver.
+            <lb ed="#F" n="17"/>Ex hoc videbis minus constanter à Gilberto dictum, ut supra notavi, ideo
+            <lb ed="#F" n="18"/>ferrum, dum ex magnete, sua scilicet vena, funditur, igne verticitatem 
+            amit<lb ed="#F" n="19" break="no"/>tere, &amp; magneticum vigorem, eò quod partes sint per solutionem, seu 
+            liqua<lb ed="#F" n="20" break="no"/>tionem venae confusae, &amp; permixtae ita, ut pars, quae respiciebat Septentrionem,
+            <lb ed="#F" n="21"/>confundatur cum illa, quae ad Austrum dirigebatur. Nam, verum quidem
+            <lb ed="#F" n="22"/>est posse per huiusmodi partium confusionem verticitatem amitti, ut patet
+            <lb ed="#F" n="23"/>in pulvere ferreo, qui prius in fistula chartacea fuerat magneticè excitatus:
+            <lb ed="#F" n="24"/>tunc enim, ut dictum est, operationes ostendit magneticas, at vero, si 
+            erva<lb ed="#F" n="25" break="no"/>tur, &amp; misceatur easdem amittit: id tamen non accidit in ferro, dum 
+            lique<lb ed="#F" n="26" break="no"/>scit, etiam si ex magnete fundatur: non enim ideo verticitatem non habet,
+            <lb ed="#F" n="27"/>quia partes sint confusae, cum omnem amiserit magnes verticitatem etiam
+            <lb ed="#F" n="28"/>antequam solveretur. nihil igitur facit illa partium confusio, cum etiam 
+            an<lb ed="#F" n="29" break="no"/>te confusionem partium exterminatus sit vigor magneticus: quamvis hanc
+            <lb ed="#F" n="30"/>toties causam inculcet, &amp; repetat Gilbertus illo cap. 4. quasi vero tunc 
+            pri<lb ed="#F" n="31" break="no"/>mum amitteretur vis illa, cum fluit.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

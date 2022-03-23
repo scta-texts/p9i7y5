@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 27</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 27</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="362"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e38555"> <!-- l4c27 -->
+            <head xml:id="p9i7y5-e38555-Hd1e107">Caput 27</head>
+            <p xml:id="p9i7y5-e38555-d1e109">
+               <lb ed="#F" n="24"/>ex aciario temperato. Cap. XXVII.
+        </p>
+            <p xml:id="p9i7y5-e38555-d1e114">
+               <lb ed="#F" n="25"/>ERRVM rubiginosum, vt probaui supra, plurimos expirare
+            <lb ed="#F" n="26"/>ferteos spiritus constat, ac proinde minus ferreę perfectionis in se
+            <lb ed="#F" n="27"/>habere conficitur; non est igitur mirum quod minus à 
+            magne<lb ed="#F" n="28" break="no"/>te trahatur. Ita autem aegre trahitur, vt si ferrum sit valde 
+            rubi<lb ed="#F" n="29" break="no"/>ginosum, ne moueatur quidem, ne dum suspendatur. Adde
+            <lb ed="#F" n="30"/>quod externa materia ferro adiecta valde magneticas impedit attractiones,
+            <lb ed="#F" n="31"/>vt si ferrum ligno includas, vix ducatur, &amp; egre magneti coniungatur; atqui
+            <lb ed="#F" n="32"/>rubigo ferrum non est, sed ferri excrementum, &amp; iniqua fuligo. non est 
+            igi<lb ed="#F" n="33" break="no"/>tur mirum, quod non trahatur.
+        </p>
+            <p xml:id="p9i7y5-e38555-d1e136">
+               <lb ed="#F" n="34"/>Quod melius trahatur aciarium repurgatum egregie ferro vulgari, &amp; me
+            <lb ed="#F" n="35"/>lius adhuc temperatum, molli, &amp; melius perpolitum, impolito, non dicerem
+            <lb ed="#F" n="36"/>nisi experimento didicissem. Non suspendet magnes ferrum vulgare trium
+            <lb ed="#F" n="37"/>vnciarum, &amp; fere suspendet quattuor aciarijs non suspendet aciarium, si igne
+            <lb ed="#F" n="38"/>coctum, &amp; non frigida temperatum fuerit ex igne, suspendet egregie, si 
+            sta<lb ed="#F" n="39" break="no"/>tim ex ignitione aqua refrigeretur, vt obdurescat. Res tenetur, ratio 
+            quae<lb ed="#F" n="40" break="no"/>ritur. Aciarium perfectum est ferrum ex nobili vena egregie perpurga¬
+            <!--381.xml-->
+            <pb ed="#F" n="362"/>
+               <lb ed="#F" n="1"/>tum, &amp; quantum fieri potest, ab omni non ferreo corpore ignis 
+            conflatio<lb ed="#F" n="2" break="no"/>ne seiunctum sicut ergo extranea ferro adiacentia corpora attractiones 
+            im<lb ed="#F" n="3" break="no"/>pediunt, ut mox dicam, ita ferro insensibiliter intime permixtae sordes, quae
+            <lb ed="#F" n="4"/>si expellerentur, ferrum in aciarium transiret, impedient, quo minus ita
+            <lb ed="#F" n="5"/>valenter trahatur, seu ne ita efficaciter ad magnetem confluat. Politum
+            <lb ed="#F" n="6"/>ad nitorem usque ferrum obductos habet externos poros, ut dictum est, ac
+            <lb ed="#F" n="7"/>proinde non transpirant tam facilè ferrei spiritus: quod etiam accidit in 
+            fri<lb ed="#F" n="8" break="no"/>gida extincto ferro. quod si dicas, per ignitionem illam, dum candescit, 
+            spi<lb ed="#F" n="9" break="no"/>ritus ferrei resolvuntur. ergo minus trahetur? respondeo falsum assumi: si
+            <lb ed="#F" n="10"/>enim per ignitionem convenientem spiritus ferrei resolverentur, ferrum
+            <lb ed="#F" n="11"/>fietet magis impurum, quod perfectiores partes evolarent relictis 
+            imper<lb ed="#F" n="12" break="no"/>fectioribus: hoc autem est falsum; subtiliores ergo mercurij, &amp; sulphuris
+            <lb ed="#F" n="13"/>partes, quae perfectiores quidem sortasse sunt in se, sed minus ferreae, &amp; 
+            mi<lb ed="#F" n="14" break="no"/>nus permixtae exhalantur, &amp; fit magis purum ferrum, &amp; ita magis corpus
+            <lb ed="#F" n="15"/>magneticum. vim huius rationis sentient metallici, ac proinde aliud non
+            <lb ed="#F" n="16"/>addo. Hac igitur ratione dum vividos suo refovet sinu spiritus, non est
+            <lb ed="#F" n="17"/>mirum, quod ad magnetem velocius concurrat, ex quo etiam senties quam
+            <lb ed="#F" n="18"/>inepte sentiant, qui putant magnetem ferrum ad se trahere, ut ferreis illis
+            <lb ed="#F" n="19"/>pascatur spiritibus (durum sane nutrimentum) si enim hoc esset, libentius 
+            at<lb ed="#F" n="20" break="no"/>traheret fertum illud, ex quo facilius educuntur isti spiritus; contrarium
+            <lb ed="#F" n="21"/>autem hic suadet experientia. Versorium quod melius fiat ex aciario, &amp;
+            <lb ed="#F" n="22"/>quidem temperato, primum didici experientia, Versorium enim 
+            inclina<lb ed="#F" n="23" break="no"/>tionis, in quo exactissime requiruntur magneticae directiones perfectum
+            <lb ed="#F" n="24"/>non habui, donec ex optimo aciario optimè temperato composui. Nec
+            <lb ed="#F" n="25"/>versoria horizontalia paulo maiora certas habebunt directiones, &amp; exactas,
+            <lb ed="#F" n="26"/>nisi ex eodem perfecto metallo elaborentur. re prius bene perspecta ad 
+            cau<lb ed="#F" n="27" break="no"/>sam inquirendam animum adijcio. Haec autem mihi videtur esse, 
+            quocie<lb ed="#F" n="28" break="no"/>scunque aliquid mouetur ad unum terminum, tunc facilius, &amp; expeditius
+            <lb ed="#F" n="29"/>movetur, quando totum illud, quod movetur, &amp; singulae eius partes 
+            om<lb ed="#F" n="30" break="no"/>nino vim habent activam in se, quae illum motum efficiant, &amp; nihil 
+            us<lb ed="#F" n="31" break="no"/>quam est in illo subiecto mobili, quod illam virturem activam in se non
+            <lb ed="#F" n="32"/>habeat ita, ut cuiuslibet partis sit innata virtus, sed versorium ex perfecto
+            <lb ed="#F" n="33"/>aciario est huiusmodi in ordine ad magneticas directiones, ex vulgari vero
+            <lb ed="#F" n="34"/>ferro non est tale, ergo in ordine ad illos motus efficiendos melius erit 
+            ver<lb ed="#F" n="35" break="no"/>sorium ex aciario. quam ex ferro. Maior propositio, quamvis videatur 
+            mi<lb ed="#F" n="36" break="no"/>hi nota ex terminis; ideo enim facilius ambulamus exonerati, quam 
+            gra<lb ed="#F" n="37" break="no"/>vi oppressi pondere, quia pondus illud active non influit ad motum; facilius
+            <lb ed="#F" n="38"/>currit robustus equus solutus, quam si trahat onustum ferro plaustrum; 
+            con<lb ed="#F" n="39" break="no"/>stat nihiloninus vel ex eo, quod si totum illud, quod est in mobili, vim 
+            acti<lb ed="#F" n="40" break="no"/>vam motus participet, totum erit permodum actus, &amp; secundum omnes par
+            <lb ed="#F" n="41"/>tes motus ille quasi naturalis erit; si autem partes adsint extraneae activis 
+            per<lb ed="#F" n="42" break="no"/>mixtae, erunt solum potentia, &amp; illis motus erit vel praeter, vel contra natu¬
+            <!--382.xml-->
+            <pb ed="#F" n="363"/>
+               <lb ed="#F" n="1"/>ram: actus autem ab actu provenit non à potentia: &amp; quisque videt
+            <lb ed="#F" n="2"/>mobile, quod naturaliter movetur facilius ad suum pervenire terminum,
+            <lb ed="#F" n="3"/>quam quod movetur vel praeter, vel contra naturam: &amp; dum illę partes, quae
+            <lb ed="#F" n="4"/>cumactivam habent, se debent movere, &amp; simul rapere, quae talem non 
+            ha<lb ed="#F" n="5" break="no"/>bent facultatem, nihilque conferunt ad motum, non ne vides earum aegrius
+            <lb ed="#F" n="6"/>futurum motum, quam si etiam illae suum conferrent symbolum? luvant 
+            e<lb ed="#F" n="7" break="no"/>nim se invicem multiplicatae causae ad eundem effectum. Minor vero primi
+            <lb ed="#F" n="8"/>illius argumenti probatur: nam ferrum dirigit se ad polos per virtutem in se
+            <lb ed="#F" n="9"/>acquisitam à magnete, quae virtus activum est instrumentum illius motus,
+            <lb ed="#F" n="10"/>ut probatum est alibi; atqui illa virtus non recipitur nisi in ferro: ferrum 
+            e<lb ed="#F" n="11" break="no"/>nim solum, ut probavi, est subiectum capax illius virtutis, &amp; si quid ferro
+            <lb ed="#F" n="12"/>permixtum sit, quod ferrum non sit, in illud non derivatur virtus 
+            magne<lb ed="#F" n="13" break="no"/>tica, quae solum in ferro hospitatur, at hoc inter aciarium, &amp; ferrum interest,
+            <lb ed="#F" n="14"/>quod in ferro sunt adhuc aliquae faeces, &amp; impurae partes, quas nondum 
+            pe<lb ed="#F" n="15" break="no"/>nitus per exactam concoctionem eiecit, &amp; hae ferrum non sunt, sed ferri 
+            im<lb ed="#F" n="16" break="no"/>puritates, &amp; solae si eijciantur, iam aciarium erit, ut constat ex metallicis 
+            do<lb ed="#F" n="17" break="no"/>ctrinis, nec potest in dubium revocari. Si ergo versorium fiat ex ferro 
+            impu<lb ed="#F" n="18" break="no"/>riore scilicet materia, erunt in illo aliquae particulę, impurę, scilicet illae, quę
+            <lb ed="#F" n="19"/>ferrum non sunt, &amp; consequenter in quas non derivatur virtus magnetica,
+            <lb ed="#F" n="20"/>&amp; tamen etiam illę debent moveri, licet non habeant in se principium activum
+            <lb ed="#F" n="21"/>motus: at vero, si fiat ex perfecto aciario, omnes &amp; singulę ferrum erunt: 
+            pu<lb ed="#F" n="22" break="no"/>rificata est enim materia; &amp; ita omnes, &amp; singulę quę debent moveti 
+            virtu<lb ed="#F" n="23" break="no"/>tem activam, habebunt ad motum concurrentem, nullaque sociam trahere
+            <lb ed="#F" n="24"/>cogetur inertem, &amp; erit utile pondus; quia etiam illa sua sponte se diriget. ergo
+            <lb ed="#F" n="25"/>melius fiet versorium ex aciario, quam ex ferro: quod erat demonstrandum.
+            <lb ed="#F" n="26"/>Si ferri uncia pendeat ex magnete addita alia ferri uncia adhuc pendebit, addita 
+            semiun<lb ed="#F" n="27" break="no"/>cia plumbi non pendebit amplius sed decidet ferrum.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

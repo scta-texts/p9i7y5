@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 8</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 8</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="214"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e22834"> <!-- l3c8 -->
+            <head xml:id="p9i7y5-e22834-Hd1e107">Caput 8</head>
+            <p xml:id="p9i7y5-e22834-d1e109">
+            <!--233.xml-->
+               <pb ed="#F" n="214"/>
+               <lb ed="#F" n="1"/>Diviso magnete per parallelum fiunt facies oppositae, quae prius erant coniunctae: iterum
+            <lb ed="#F" n="2"/>tamen amant eodem modo coniungi. Cap. VIII.
+        </p>
+            <p xml:id="p9i7y5-e22834-d1e120">
+               <lb ed="#F" n="3"/>Sit magnes A. B. cuius poli sint A. &amp; B. parallelae sectiones, ex
+            <lb ed="#F" n="4"/>nostra loquendi forma, sunt illae, quae cadunt ad angulos 
+            re<lb ed="#F" n="5" break="no"/>ctos cum axe. Dico ergo, quod si fiat divisio magnetis per 
+            ali<lb ed="#F" n="6" break="no"/>quam huiusmodi sectionem parallelam, resultabunt ex tali 
+            di<lb ed="#F" n="7" break="no"/>visione duae superficies,
+            <lb ed="#F" n="8"/>quae, si quis mihi hanc
+            <lb ed="#F" n="9"/>impropriam locutionem
+            <lb ed="#F" n="10"/>permittat, se mutuo 
+            tan<lb ed="#F" n="11" break="no"/>gebant, ante divisionem,
+            <lb ed="#F" n="12"/>&amp; quae tamen erunt oppo
+            <lb ed="#F" n="13"/>sitae, &amp; omnino contrarias
+            <lb ed="#F" n="14"/>ad se provocabunt 
+            ma<lb ed="#F" n="15" break="no"/>gneticorum partes: pars
+            <lb ed="#F" n="16"/>enim illa magnetici, quam
+            <lb ed="#F" n="17"/>trahet facies C. eandem toto impetu repellet facies D. &amp; tamen illae ipsae 
+            fa<lb ed="#F" n="18" break="no"/>cies C. D. iterum, si committantur, convenient, &amp; amico foedere 
+            sociabun<lb ed="#F" n="19" break="no"/>tur; quae omnino contraria videntur, &amp; pugnantia. Si enim prius erant
+            <lb ed="#F" n="20"/>coniunctae illae duae facies, immò etiam facta divisione iterum iungunt ami
+            <lb ed="#F" n="21"/>citias cognato foedere, fetiali natura cur non habent eandem agendi vim?
+            <lb ed="#F" n="22"/>cur vna repellit, quod altera trahit? si se invicem ipsae trahunt, cur non ad
+            <lb ed="#F" n="23"/>easdem vertuntur universi partes, sed oppositas quaerunt? &amp; si C. vertitur ad
+            <lb ed="#F" n="24"/>Austrum D. divertit ad Septentrionem? &amp; tamen hoc utrunque verum est;
+            <lb ed="#F" n="25"/>sed ista sunt magneticae naturae miracula; quae si Deo dante, cum alijs clarè
+            <lb ed="#F" n="26"/>explicentur, nemo, quaeso, amplius ignotam, &amp; obscuram magnetis naturam
+            <lb ed="#F" n="27"/>criminetur. Quod autem res ipsa vera sit, non habet difficile 
+            experimen<lb ed="#F" n="28" break="no"/>tum: plurimis poterit rationibus comprobari, vel applicando versorium
+            <lb ed="#F" n="29"/>ad partes C. &amp; D. vel ipsasmet partes suspendendo, vel aliquo simili pacto,
+            <lb ed="#F" n="30"/>ut alibi factum est.
+         <lb ed="#F" n="42" type="fixed=214"/>
+               <figure xml:id="p9i7y5-e22834-Fd1e186">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869957/506,350,416,241/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A C D B A C D B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375682-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e22834-d1e204">
+               <lb ed="#F" n="31" type="fixed=214"/>Huius igitur ratio illa est ex alibi dictis, quia cum totus magnes A. B. ita
+            <lb ed="#F" n="32"/>sit dispositus, &amp; à natura constitutus, ut à B. ad A. totus in Septentrionem,
+            <lb ed="#F" n="33"/>&amp; ab A. ad B. totus in Austrum tendat, sicuti lignum, quod est familiare 
+            e<lb ed="#F" n="34" break="no"/>xemplum, totum ascendendo flagellum versus, Cęlum spectat, totum 
+            descen<lb ed="#F" n="35" break="no"/>dendo ad radicem Terrae obvertitur; hoc &amp; de singulis partibus in magnete
+            <lb ed="#F" n="36"/>licet affirmare, sicut &amp; in ligno. Cum igitur fit divisio in C. D. quia A. 
+            re<lb ed="#F" n="37" break="no"/>spiciebat septentrionem, &amp; a B. omnes magnetis partes A. versus in 
+            se<lb ed="#F" n="38" break="no"/>ptentrionem dirigebantur etiam illa facies D. quae erat interior, &amp;
+            <lb ed="#F" n="39"/>in medio ipso lapide septentrionem respiciebat. Non est igitur mirum,
+            <lb ed="#F" n="40"/>quod remota e ablata parte A. C. facies D. respiciat Septentrionem; 
+            collo<lb ed="#F" n="41" break="no"/>cat enim se pars B. D. quae remanet, in eodem situ, in quo prius se colloca¬
+            <!--233.xml-->
+
+         <!--234.xml-->
+         <pb ed="#F" n="215"/>
+               <lb ed="#F" n="1"/>bat, &amp; consequenter facies D. in septentrionem dirigitur, sicut etiam se prius
+            <lb ed="#F" n="2"/>dirigebat, dum latebat, quasi in medio, integro lapide. Similiter pars 
+            lapi<lb ed="#F" n="3" break="no"/>dis A. C. pergit post divisionem quaerere eundem situm, quem quaerebat prius.
+            <lb ed="#F" n="4"/>&amp; sicuti prius integro lapide A. respiciebat septentrionem, reliquae omnes
+            <lb ed="#F" n="5"/>designabiles facies B. versus ad Austrum directae intelligebantur per
+            <lb ed="#F" n="6"/>ordinem ad ipsum A. sic etiam si in integro lapide intelligeretur facies C.
+            <lb ed="#F" n="7"/>intelligeretur directa ad Austrum. Non est igitur mirum, quod 
+            fa<lb ed="#F" n="8" break="no"/>cta divisione, quae divisio nihil de natura rei divisae solet immutare, pergat
+            <lb ed="#F" n="9"/>id eandem se plagam convertere. Vides igitur cur, quamvis illae duae facies
+            <lb ed="#F" n="10"/>C. &amp; D. in integro lapide essent coniunctae, &amp; copulatae, nihilominus lapide
+            <lb ed="#F" n="11"/>diviso convertant se ad oppositas Mundi plagas: pergunt enim dirigere se
+            <lb ed="#F" n="12"/>ad eundem situm, ad quem prius dirigebantur, licet modo diversae facies
+            <lb ed="#F" n="13"/>videantur: hoc totum constat etiam in ligno, si considerentur facies sursum,
+            <lb ed="#F" n="14"/>&amp; deorsum, quas in illo natura designat: facies enim, quae ex divisione 
+            resul<lb ed="#F" n="15" break="no"/>tantes se quasi tangebant oppositae sunt, quarum una respicit natura sua 
+            sur<lb ed="#F" n="16" break="no"/>sum, altera deorsum, ut consideranti patebit. quod igitur in ligno familiare
+            <lb ed="#F" n="17"/>est, &amp; notum, hoc ad magnetem trasferatur; est enim in hoc eadem ratio, &amp;
+            <lb ed="#F" n="18"/>communis expositio.
+        </p>
+            <p xml:id="p9i7y5-e22834-d1e277">
+               <lb ed="#F" n="19"/>Ex hoc porrò constabit, cur facies oppositas advocent C. &amp; D. &amp; quam
+            <lb ed="#F" n="20"/>partem in versorio, vel alio magnetico corpore trahit C. eandem repellat D.
+            <lb ed="#F" n="21"/>si enim intelligatur, quod alias dictum: est, &amp; iterum suo loco dicetur, partem
+            <lb ed="#F" n="22"/>illam magnetis, quae vertitur ad austrum trahere partem ad se versorij, quae
+            <lb ed="#F" n="23"/>vergit in Septentrionem, &amp; fugare, quae ad Austrum dirigitur, quam solam
+            <lb ed="#F" n="24"/>plagam sibi associare vult; &amp; faciem, quae ad septentrionem dirigitur, 
+            trahe<lb ed="#F" n="25" break="no"/>te ad se, &amp; sibi sociare solum illas magneticorum facies, quę ad Austrum 
+            di<lb ed="#F" n="26" break="no"/>riguntur, &amp; omnes repellere, quae Septentrionem amant; si huius rei 
+            ratio<lb ed="#F" n="27" break="no"/>intelligatur, cuius alibi doctrina exposita est, clarissimum erit ex hoc 
+            confi<lb ed="#F" n="28" break="no"/>cere, si C. in Septentrionem respiciat, &amp; D. in Austrum dirigatur, cur facies
+            <lb ed="#F" n="29"/>illa, quam trahit C. repellatur à D. &amp; contra amica ipsius D. inimica ipsi C.
+            <lb ed="#F" n="30"/>constituatur: si enim illae duae facies oppositas respiciunt plagas, quod tamen
+            <lb ed="#F" n="31"/>magnetis naturae congruum esse monstravi, non erit obscurum, cur opposi
+            <lb ed="#F" n="32"/>tas versorij partes advocent.
+        </p>
+            <p xml:id="p9i7y5-e22834-d1e310">
+               <lb ed="#F" n="33"/>Illud exageratè fortasse mirum videatur, si à lapide A. B. separetur frustum,
+            <lb ed="#F" n="34"/>non ut prius divisione facta per C. D. sed secundum longitudinem, hoc est
+            <lb ed="#F" n="35"/>divisione opposita ipsi C. D. si iterum suspenso frusto resecto applicetur ad
+            <lb ed="#F" n="36"/>antiquam plagam, in qua natura nectente arctissimo continuationis 
+            vincu<lb ed="#F" n="37" break="no"/>lo fuerat colligatum, non amplius velle coniungi ea ratione, qua prius 
+            fue<lb ed="#F" n="38" break="no"/>rat; sed partem illam, quae resecta fuit ex parte A. converti ad B. &amp; partem,
+            <lb ed="#F" n="39"/>quę erat in B. converti ad A. Nam in priori casu si ex sectione resultant 
+            fa<lb ed="#F" n="40" break="no"/>cies C. D. oppositae, quae prius erant coniunctae, si iterum suspensae liberum
+            <lb ed="#F" n="41"/>acquirant motum, ad eadem recurrunt foedera, &amp; saltem per contactum C.
+            <lb ed="#F" n="42"/>coniungitur cum D. ut prius continuatone nectebatur: at vero hic quasi in¬
+            <!--235.xml-->
+            <pb ed="#F" n="216"/>
+               <lb ed="#F" n="1"/>dignabundus lapis, quod fuerit facta divisio, non vult amplius ad eundem
+            <lb ed="#F" n="2"/>situm redire. Verum hoc ad alium spectat locum.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

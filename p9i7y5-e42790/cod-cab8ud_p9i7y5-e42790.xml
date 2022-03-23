@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 41</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 41</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="402"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e42790"> <!-- l4c41 -->
+            <head xml:id="p9i7y5-e42790-Hd1e107">Caput 41</head>
+            <p xml:id="p9i7y5-e42790-d1e109">
+               <lb ed="#F" n="12"/>Si ferri una extremitas, dum ferrum iacet horizonti parallelum, ad versorium applicetur,
+            <lb ed="#F" n="13"/>trahet crucem versorij, exempli causa; si ferrum erigatur perpendiculariter,
+            <lb ed="#F" n="14"/>vel quasi perpendiculariter, eadem extremitas trahet iam cuspidem.
+            <lb ed="#F" n="15"/>Cap. XLI.
+        </p>
+            <p xml:id="p9i7y5-e42790-d1e120">
+               <lb ed="#F" n="16"/>Quia, &amp; nova, &amp; maxime mira videtur res, volui distincto 
+            ca<lb ed="#F" n="17" break="no"/>pite proponere: quid autem magis mirum, quam eandem 
+            fer<lb ed="#F" n="18" break="no"/>ri extremitatem ex sola hac diversa collocatione, quod 
+            mo<lb ed="#F" n="19" break="no"/>do iaceat ferrum parallelum horizonti, modo erigatur, 
+            tra<lb ed="#F" n="20" break="no"/>hat oppositam versorij partem; res experimento facillimo po
+            <lb ed="#F" n="21"/>test constare; immo hoc addo, quia sic iam ratio patet: si enim ad 
+            supraposi<lb ed="#F" n="22" break="no"/>tum magnetem A. B. applices in parte B. obelum, si obelus iaceat 
+            prostra<lb ed="#F" n="23" break="no"/>tus supra magnetem; pars obeli, quae est B. versus; trahet crucem versorij, 
+            si<lb ed="#F" n="24" break="no"/>ve supra, sive infra versorium applicetur; pars, quae est A. versus, trahet 
+            cuspi<lb ed="#F" n="25" break="no"/>dem: si autem erigatur obelus, pars illa, quae est magnetem versus, &amp; illi 
+            pro<lb ed="#F" n="26" break="no"/>ximior, trahet crucem, pars vero, quae est remotion, trahet cuspidem, iam
+            <lb ed="#F" n="27"/>hoc posito.
+        </p>
+            <p xml:id="p9i7y5-e42790-d1e149">
+               <lb ed="#F" n="28"/>Constat cur ferrum debeat erectum collocari supra versorium, &amp; subtus,
+            <lb ed="#F" n="29"/>ita ut stet quali perpendiculariter ad terram. Si enim ponatur supra terram
+            <lb ed="#F" n="30"/>A. B. in nostra regione ferè horizontaliter collocatum C. D: in parte D. quę
+            <lb ed="#F" n="31"/>est polum versus, habet vim se dirigendi ad Septentrionem, &amp; ita sive 
+            verso<lb ed="#F" n="32" break="no"/>rium supra, sive subtus collocares, semper illud extremum D, traheret 
+            cru<lb ed="#F" n="33" break="no"/>cem: si vero supra, aut infra partem C. applicares pariter versorium, quia ex
+            <lb ed="#F" n="34"/>illa collocatione ferrum, quandiu non mutetur, aut convertatur C. habet
+            <lb ed="#F" n="35"/>vim se dirigendi ad Austrum D ad Septentrionem C traher cuspidem D.
+            <lb ed="#F" n="36"/>crucem versorij: neque ex diverso situ, aut collocatione, sive ponatur supra,
+            <lb ed="#F" n="37"/>sive infra versorium alia ratione trahet. Et hòc potuit esse illud, quod 
+            Gil<lb ed="#F" n="38" break="no"/>bertum fefellit, si tamen rem expertus est per ferrum non magnetice excitum,
+            <lb ed="#F" n="39"/>cum Porta dicat provenire à magnete, &amp; à ferrò magnetice excitato. Si 
+            e<lb ed="#F" n="40" break="no"/>nim ferrum adhibeatur ad horizontem prostratum; nulla fiet variatio, sive
+            <!--421.xml-->
+            <pb ed="#F" n="402"/>
+               <lb ed="#F" n="1"/>supra sive infra versorium, cum debeat ferrum verticulariter disponi. 
+            Cu<lb ed="#F" n="2" break="no"/>ius rei rationem vides, nisi ego fallor. Dum enim ponitur verticaliter, ex
+            <lb ed="#F" n="3"/>illa collocatione immutatur
+            <lb ed="#F" n="4"/>verticitas in ferro, seu 
+            appo<lb ed="#F" n="5" break="no"/>nitur versorium, &amp; applicatur
+            <lb ed="#F" n="6"/>ad diversam ferri faciem, dum
+            <lb ed="#F" n="7"/>ponitur supra, &amp; infra 
+            verso<lb ed="#F" n="8" break="no"/>rium, quod non accidit, dum 
+            fer<lb ed="#F" n="9" break="no"/>rum iacet ad horizontem: appli
+            <lb ed="#F" n="10"/>catur enim tunc versorium sem
+            <lb ed="#F" n="11"/>per ad eandem ferri faciem, sive
+            <lb ed="#F" n="12"/>ponatur supra, sive infra.
+        </p>
+            <p xml:id="p9i7y5-e42790-d1e211">
+               <lb ed="#F" n="13"/>Adverte tamen effectum hunc
+            <lb ed="#F" n="14"/>deprehendi etiam quoties ferrum
+            <lb ed="#F" n="15"/>aliquam habet notabilem 
+            alti<lb ed="#F" n="16" break="no"/>tudinem per mensuram vertica
+            <lb ed="#F" n="17"/>lem, verbi gratia, in pugione, in
+            <lb ed="#F" n="18"/>cruce illa ferrea, quae ad 
+            manu<lb ed="#F" n="19" break="no"/>brium ponitur. Quamvis enim
+            <lb ed="#F" n="20"/>tota pugionis longitudo iaceat
+            <lb ed="#F" n="21"/>horizonti parallela, ac proinde
+            <lb ed="#F" n="22"/>nullum habeat diversum 
+            effe<lb ed="#F" n="23" break="no"/>ctum attractionis, sive supra, sive infra ponatur; tamen, si ad crucis unam 
+            ex<lb ed="#F" n="24" break="no"/>tremitatem erectam versorium applices, si infra ponar, trahet crucem, si 
+            su<lb ed="#F" n="25" break="no"/>pra, trahet cuspidem, quia diversam induit ferri rationem.
+         <lb ed="#F" n="43" type="fixed=402"/>
+               <figure xml:id="p9i7y5-e42790-Fd1e244">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870145/1290,555,1016,1234/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">C D A B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375974-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e42790-d1e262">
+               <lb ed="#F" n="26" type="fixed=402"/>Quod si quaeras, cur potius ferrum sequatur versorium, dum supra, aut 
+            in<lb ed="#F" n="27" break="no"/>fra collocatur, quam totum telluris dirigentem globum: propter quod enim
+            <lb ed="#F" n="28"/>unum quodque tale, &amp; illud magis, sed propter directionem telluris est vis
+            <lb ed="#F" n="29"/>in ferro dispositiva versorij, ergo multo magis erit in toto telluris globo. Ra
+            <lb ed="#F" n="30"/>tio huius paret ex supradictis; robustior enim est vis illa magnetica telluris
+            <lb ed="#F" n="31"/>ibi prope ferrum, cum simul iungantur vites magneticae ferri iam à tellure
+            <lb ed="#F" n="32"/>excitati, &amp; vires ipsius telluris. Et sicut ferrum iuvatur à praesentia 
+            magne<lb ed="#F" n="33" break="no"/>tis ad trahendum, &amp; dirigendum ferrum; ita &amp; magnes, ut mox dicam, iuva
+            <lb ed="#F" n="34"/>tur ad trahendum ferrum à potentia ferri. Et sicuti, ut supra dicebam, ex 
+            in<lb ed="#F" n="35" break="no"/>terpositione ferri inter versorium, &amp; magnetem efficitur, ut magnes possit
+            <lb ed="#F" n="36"/>sibi disponere versorium, quod antea in illa distantia non poterat; ita etiam
+            <lb ed="#F" n="37"/>contingere potest, ut pariter ex positione ferri intra sphęram activitatis 
+            ma<lb ed="#F" n="38" break="no"/>gnetis, versorium, quod prius obediebat qualitati à magnete diffusae iam 
+            in<lb ed="#F" n="39" break="no"/>cipiat, ut ita dicam, obedire ferro sibi proximiori, &amp; sequi ferrum iuxta leges
+            <lb ed="#F" n="40"/>magneticas, ut de facto videmus accidere in tellure, ex supradictis. Unde
+            <lb ed="#F" n="41"/>si instes, esto quod, dum versorium ponitur supra ferrum erectum, 
+            dispona<lb ed="#F" n="42" break="no"/>tur ad imperium ferri, nam tunc ferrum est magis, pɹoximum telluri, &amp; con¬
+            <!--421.xml-->
+
+         <!--422.xml-->
+         <pb ed="#F" n="403"/>
+               <lb ed="#F" n="1"/>sequenter habet qualitatem efficaciorem, qua potest sibi disponere versorium;
+            <lb ed="#F" n="2"/>at vero, si ferrum ponatur supra versorium, cum versorium, sit proximius
+            <lb ed="#F" n="3"/>terrae, maior erit ibi qualitas terrae, ubi est versorium, quam ubi est ferrum
+            <lb ed="#F" n="4"/>ergo ad illam se debet accommodare, non ad illam ferri? Respondeo 
+            pro<lb ed="#F" n="5" break="no"/>pterea me supra probasse, quod ferrum adhaereat potius ferro, quam magne
+            <lb ed="#F" n="6"/>ti, etiam quando ponitur ex parte ipsius magnetis, &amp; proximius, magneti, nam
+            <lb ed="#F" n="7"/>magnes ita roborat, ut plus se ipso posse videatur: ergo etiam hoc faciet tellus
+            <lb ed="#F" n="8"/>hic. adde &amp; peculiarem rationem, quia ferrum illud erectum est in radio 
+            ma<lb ed="#F" n="9" break="no"/>gis directo secundum ferri longitudinem, &amp; consequenter efficaciori terrae
+            <lb ed="#F" n="10"/>quam sit versorium locatum horizontaliter, quae res multum facit. Verum
+            <lb ed="#F" n="11"/>hoc ipsum magis adhuc patebit ex mox dicendis.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

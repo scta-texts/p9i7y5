@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 31</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 31</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="272"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e29147"> <!-- l3c31 -->
+            <head xml:id="p9i7y5-e29147-Hd1e107">Caput 31</head>
+            <p xml:id="p9i7y5-e29147-d1e109">
+               <lb ed="#F" n="23"/>Si duo, vel plura versoria simul applicentur ad magnetem, coniunguntur ad tangendum
+            <lb ed="#F" n="24"/>eundem polum; remoto magnete à coniunctione illa abhorrent, &amp; se 
+            paral<lb ed="#F" n="25" break="no"/>lela constituunt. Cap. XXXI.
+        </p>
+            <p xml:id="p9i7y5-e29147-d1e118">
+               <lb ed="#F" n="31" type="fixed=271"/>
+               <figure xml:id="p9i7y5-e29147-Fd1e123">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870014/218,2564,1804,573/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">D D C A B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375770-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="26" type="fixed=271"/>Si magnes A. B. ad cuius polum A. applicentur duo, vel plura
+            <lb ed="#F" n="27"/>versoria supra suos stylos composita, concurrent verticibus,
+            <lb ed="#F" n="28"/>&amp; vnientur in polo A. rapide, &amp; robuste, quamdiu praesens
+            <lb ed="#F" n="29"/>est magnes, remanebuntque ita vnita, nulla pugna; at verò si
+            <lb ed="#F" n="30"/>remoueatur magnes immotis versorijs, non amplius con¬
+            <!--290.xml-->
+
+         <!--291.xml-->
+         <pb ed="#F" n="272"/>
+               <lb ed="#F" n="1"/>iungent cuspides C. nec conspirabunt simul; quin immo ab inuicem toto
+            <lb ed="#F" n="2"/>impetu refugient, &amp; quas prius amicitias simulabant, vt ab eodem polo 
+            vir<lb ed="#F" n="3" break="no"/>tutem acquirerent, in apertas erumpere ostendent inimicitias; neque tamen
+            <lb ed="#F" n="4"/>propterea partes D. coniungentur quasi transferatur amicitia ad partem
+            <lb ed="#F" n="5"/>oppositam, sed manebunt versoria parallela, vt vides. Rem ipsam veram
+            <lb ed="#F" n="6"/>esse, probationem habet ex experimento facillimo. non laboro, vt 
+            osten<lb ed="#F" n="7" break="no"/>dam, res tamen non nihil habet admirationis, quod sic &amp; cuspides 
+            dissimu<lb ed="#F" n="8" break="no"/>lare sciant insita odia ad suum commodum, vt praesente magnete conueniant,
+            <lb ed="#F" n="9"/>quo simul verticitatem sibi acquirant; statim verò cessante commodo se 
+            pro<lb ed="#F" n="10" break="no"/>dat hostilis animus; vel certe, cui se tanto odio auersentur, si ex eodem pun
+            <lb ed="#F" n="11"/>cto vires concepere. Non solent ex eodem armamentario instrui 
+            contra<lb ed="#F" n="12" break="no"/>rij, &amp;t inter se pugnantes exercitus, praesertim à natura: semper enim eadem
+            <lb ed="#F" n="13"/>qualitas eodem modo agit. quomodo ergo alterum versorium virtutem 
+            con<lb ed="#F" n="14" break="no"/>trahit alteri inimicam? res tamen ipsa constat: rationem quaerimus, pro
+            <lb ed="#F" n="15"/>quare.
+        </p>
+            <p xml:id="p9i7y5-e29147-d1e191">
+               <lb ed="#F" n="16"/>Supponendum est in praesentia, quod alibi dicitur, similes facies in 
+            ma<lb ed="#F" n="17" break="no"/>gnete se inuicem abhorrere, ita, vt illa vnius pars, quae in Septentrionem ten
+            <lb ed="#F" n="18"/>dit ab omni alia fugiat alterius magnetici, quae pariter in Septentrionem
+            <lb ed="#F" n="19"/>dirigatur, &amp; hoc propter rationes alibi positas: quia, scilicet, omnia 
+            cor<lb ed="#F" n="20" break="no"/>pora magnetica, cum vim habeant agendi magnetice, in cireumiecta 
+            cor<lb ed="#F" n="21" break="no"/>pora per sphaeram suae actiuitatis ad hoc, vt altera alterius actio non 
+            contra<lb ed="#F" n="22" break="no"/>ria sibi accidat ratione, atque natura postulat, &amp; sit potius actio perfectiua,
+            <lb ed="#F" n="23"/>qua se mutuo collatis viribus foueant, non destructiua, qua se perimant.
+            <lb ed="#F" n="24"/>ideo semper facies similes fugiunt se mutuo, &amp; dissimiles coniunguntur.
+            <lb ed="#F" n="25"/>Verum hoc alibi clarius. Iam vero vtrumque versorium ex eodem puncto
+            <lb ed="#F" n="26"/>A. non potest non concipere virtutem conuertendi se ad eundem polum:
+            <lb ed="#F" n="27"/>naturale enim agens est magnes, quod ex impetu suae formae agit, &amp; 
+            conse<lb ed="#F" n="28" break="no"/>quenter eundem producit effectum, si subiectum sit eodem modo dispositum.
+            <lb ed="#F" n="29"/>ergo dum praesens est magnes concurrunt simul cuspides; quia illo pacto
+            <lb ed="#F" n="30"/>virtutem magnetis ex A. diffusam melius concipiunt, &amp; vtrunque illorum
+            <lb ed="#F" n="31"/>robustius verticitatem acquirit, quae ex illo polo propagatur, neque ad 
+            inui<lb ed="#F" n="32" break="no"/>cem agunt tunc contrarijs actionibus, sed potius simul ambo patiuntur pas
+            <lb ed="#F" n="33"/>sione tamen perfectiua, ab eodem agente, vel certe ista passio, &amp; praeualet,
+            <lb ed="#F" n="34"/>&amp; denominatur at vero, vbi remoueatur magnes, tunc vtrunque illorum inci
+            <lb ed="#F" n="35"/>pit habere rationem agentis magnetici, &amp; mutuis sese incipiunt insectari
+            <lb ed="#F" n="36"/>vellicationibus. Quia ergo, si simul manerent, alterum in alterum ageret 
+            con<lb ed="#F" n="37" break="no"/>traria ratione, atque eius natura postulat; ideo auersantur se ad inuicem, &amp;
+            <lb ed="#F" n="38"/>recedunt. Cur autem maneant parallela, nec omnino ab inuicem discedant
+            <lb ed="#F" n="39"/>cuspides, ratio alibi ponetur. Interim satis sit cruces pariinimicitia ab 
+            inui<lb ed="#F" n="40" break="no"/>cem dissentire, atque cuspides; ac proinde, vt vtrisque aequum fiat, in 
+            paral<lb ed="#F" n="41" break="no"/>lelo situ collocantur.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

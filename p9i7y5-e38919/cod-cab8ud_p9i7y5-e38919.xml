@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 29</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 29</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="366"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e38919"> <!-- l4c29 -->
+            <head xml:id="p9i7y5-e38919-Hd1e107">Caput 29</head>
+            <p xml:id="p9i7y5-e38919-d1e109">
+               <lb ed="#F" n="7"/>Magnes universaliter non fortius suspendit directè in polo, sed firmius adhaeret ferrum,
+            <lb ed="#F" n="8"/>si lateri adiaceat convenienter, quam si pendeat ex polo. Cap. XXIX.
+        </p>
+            <p xml:id="p9i7y5-e38919-d1e116">
+               <lb ed="#F" n="9"/>Haud scio, an in contraria opinione sit Gilbertus, atque hic 
+            pro<lb ed="#F" n="10" break="no"/>pono: qui lib. 2. cap. 28. sic habet: Coitio fit in omni parte periphaeriae
+            <lb ed="#F" n="11"/>septentrionali, australi à toto corpore manante virtute, languide tamen
+            <lb ed="#F" n="12"/>magneti magnetica incumbunt in finitimis partibus Aequatori; festinant
+            <lb ed="#F" n="13"/>verò in locis poli vicinioribus. Haec illę. Verum ego hic 
+            pronun<lb ed="#F" n="14" break="no"/>tio, si sit magnes A, B, cuius
+            <lb ed="#F" n="15"/>longitudo terminetur polis
+            <lb ed="#F" n="16"/>A; B, cum sustinere maius
+            <lb ed="#F" n="17"/>ferri pondus, si ferrum 
+            adia<lb ed="#F" n="18" break="no"/>ceat ad latus C, secundum
+            <lb ed="#F" n="19"/>longitudinem dispositum,
+            <lb ed="#F" n="20"/>quam si pendeat ex altero
+            <lb ed="#F" n="21"/>polorum, ut in B, ac 
+            proin<lb ed="#F" n="22" break="no"/>de pondera ferri, quae nullo
+            <lb ed="#F" n="23"/>modo possent sustineri à ma
+            <lb ed="#F" n="24"/>gnete, si coniungerentur cum
+            <lb ed="#F" n="25"/>D. sustineri, si lateri 
+            adiace<lb ed="#F" n="26" break="no"/>ant in C. secundum lapidis
+            <lb ed="#F" n="27"/>longitudinem.
+         <lb ed="#F" n="41" type="fixed=365"/>
+               <figure xml:id="p9i7y5-e38919-Fd1e162">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870108/960,1437,1077,704/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">B D E D G E A</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375915-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e38919-d1e180">
+               <lb ed="#F" n="28" type="fixed=365"/>Rem probo experientia, quam saepissimè observavi in magnete omnis ge
+            <lb ed="#F" n="29"/>neris, armato, inermi, quadrato, oblongo, &amp; in alijs praeterquam in 
+            perfora<lb ed="#F" n="30" break="no"/>to, de quo postea: semper enim inveni plus ponderis adhaerere lapidi, si 
+            fer<lb ed="#F" n="31" break="no"/>rum ad latus apponatur, quam si iungatur praecisè in polo: neque unquam
+            <lb ed="#F" n="32"/>aliter experimentum sucessit, aut indicium ostendit alicuius 
+            diversita<lb ed="#F" n="33" break="no"/>tis. Ex quo in mentem venit cogitare, si possem Gilbertum ad bonum sensum
+            <lb ed="#F" n="34"/>trahere. Vix enim mihi possum persuadere oculatissimum virum in re tam
+            <lb ed="#F" n="35"/>certa, &amp; constanti errasse.
+        </p>
+            <p xml:id="p9i7y5-e38919-d1e201">
+               <lb ed="#F" n="36"/>Secundo probo ratione: nam tunc ferrum firmius magneti adhaeret, cum
+            <lb ed="#F" n="37"/>&amp; robustiorem habet qualitatem magneticam, &amp; est ubi magnes intensam
+            <lb ed="#F" n="38"/>magis, &amp; efficacem habet sphaeram activitatis: cum enim ferrum magneti
+            <lb ed="#F" n="39"/>non violenter connectatur, sed sponte confluat ex qualitate, quam habet
+            <lb ed="#F" n="40"/>in se, &amp; propterea connectatur, ut illam qualitatem firmius, &amp; constantius
+            <!--384.xml-->
+
+         <!--385.xml-->
+         <pb ed="#F" n="366"/>
+               <lb ed="#F" n="1"/>roboret; ideo melius iungetur, &amp; auidius, ubi hoc facilius poterit obtinere,
+            <lb ed="#F" n="2"/>natura enim, quae sola dominatur in isto negotio, semper eligit, quod 
+            me<lb ed="#F" n="3" break="no"/>lius est, magisque ad finem conducit, quem intendit; qui in re nostra est, ut
+            <lb ed="#F" n="4"/>perfectius acquirat, vel foveat habiram qualitatem magneticam: sed 
+            me<lb ed="#F" n="5" break="no"/>lius acquirit, &amp;c. talem virtutem, si adhaereat magneti adlatus, quam si 
+            pen<lb ed="#F" n="6" break="no"/>deat ex polo; ergo firmius adhaerebit parti C, quam pendeat ex B. Quod ver
+            <lb ed="#F" n="7"/>ro melius ex illo contactu acquirat verticitatem, probatur: nam, si unum 
+            ex<lb ed="#F" n="8" break="no"/>tremum tangat B, &amp; alterum ferri extremum dirigatur procul à magnete,
+            <lb ed="#F" n="9"/>illud quidem extremum, quod tangit, quia est in contactu magnetis, &amp; 
+            con<lb ed="#F" n="10" break="no"/>sequenter, ubi incipit sphaera activitatis, &amp; est robustissima, acquirit tantum
+            <lb ed="#F" n="11"/>vigoris, quantum potest ab illo magnete communicari: at veto alterum 
+            ex<lb ed="#F" n="12" break="no"/>tremum, &amp; reliquae consequenter partes quia recedunt à magnete, vel 
+            mi<lb ed="#F" n="13" break="no"/>nus vigoris contrahunt, vel, si ponantur etiam alias multum vigoris 
+            con<lb ed="#F" n="14" break="no"/>traxisse, quoniam ibi, ubi sunt, exiguum percipiunt iu, eo quòd 
+            quali<lb ed="#F" n="15" break="no"/>tas per medium diffusa minus efficax sit, minori etiam conatu ipsae illae 
+            par<lb ed="#F" n="16" break="no"/>tes, quantum est ex se, ad magnetem se urgebunt, quia ferrum considet acum
+            <lb ed="#F" n="17"/>in aliquo situ determinato, quantum est ex se, &amp; ad suum bonum; tantum 
+            ni<lb ed="#F" n="18" break="no"/>titur coniungi cum magnete, seu stare in illo situ, quantum in illo situ 
+            sen<lb ed="#F" n="19" break="no"/>tit sibi virtutis, &amp; commodi accidere ex magnete. Discedendo igitur à 
+            su<lb ed="#F" n="20" break="no"/>perficie ferri, quae magnetem tangit, semper minus, &amp; minus reliquae partes
+            <lb ed="#F" n="21"/>nituntur ad magnetem, hoc est minori adhaerent vinculo; quia semper à 
+            ma<lb ed="#F" n="22" break="no"/>gnete minus, &amp; minus iuvantur, dum ferrum pendet ex uno polo. at vero si
+            <lb ed="#F" n="23"/>ferrum ponatur tangere magnetem in C. &amp; adiacere magneti, non solum
+            <lb ed="#F" n="24"/>pars D. nititur valenter ad magnetem, quia est illi proxima, multumque 
+            iu<lb ed="#F" n="25" break="no"/>vatur, &amp; consequenter firmiter adhaeret, sed etiam alterum extremum E, 
+            pa<lb ed="#F" n="26" break="no"/>riter erit proximum magneti, &amp; consequenter intra efficacem orbem 
+            vir<lb ed="#F" n="27" break="no"/>tutis, iuvabiturque à suo convenienti polo, ad quem in tali situ accedit 
+            Quan<lb ed="#F" n="28" break="no"/>to igitur melius iuvatur, dum sic iacet, tanto robustius adhaerere conabitur:
+            <lb ed="#F" n="29"/>ergo absolutè ferrum oblongum firmius adhaeret magneti, dum tangit 
+            ma<lb ed="#F" n="30" break="no"/>gnetem in parte aequinoctiali, quam si tangat solum alterum polorum, quia
+            <lb ed="#F" n="31"/>tunc utrunque extremum ad suum polum accedit, &amp; efficaciorem subit 
+            utrun<lb ed="#F" n="32" break="no"/>que sphaeram activitatis, quam in alio casu.
+        </p>
+            <p xml:id="p9i7y5-e38919-d1e290">
+               <lb ed="#F" n="33"/>Dices hoc tunc demum verum esse, si magnes latera habeat complanata
+            <lb ed="#F" n="34"/>ita, ut ferrum secundum totam suam longitudinem possit magneti 
+            adhaere<lb ed="#F" n="35" break="no"/>re, ut singulae partes magnetem tangant: tunc demum enim ratio positam 
+            con<lb ed="#F" n="36" break="no"/>vincit, quia tangit utrunque extremum suum polum, vel quasi tangit polum,
+            <lb ed="#F" n="37"/>&amp; consequenter firmius coniungitur: quia &amp; firmius duo trahunt aequales,
+            <lb ed="#F" n="38"/>quam unum, &amp; melius ligatur, quod in utroque extremo aequali nexu 
+            strin<lb ed="#F" n="39" break="no"/>gitur, quam si in altero tantum vinciatur firmiter, in altero debilius. At si ma
+            <lb ed="#F" n="40"/>gnes sit rotundus, &amp; ferrum rectum, ratio non procedet: nam tunc, si 
+            tanga<lb ed="#F" n="41" break="no"/>tur obelus in medio à sola parte aequinoctial, tunc extremum, quod polum
+            <lb ed="#F" n="42"/>tangebat, à polo recedet, neque alterum ad contactum poli perveniet, &amp;
+            <!--386.xml-->
+            <pb ed="#F" n="367"/>
+               <lb ed="#F" n="1"/>consequenter primum extremum non aequali nexu ligabitur cum polo ut
+            <lb ed="#F" n="2"/>prius, &amp; secundum extremum paulo maiori efficacia copulabitur. Et 
+            conse<lb ed="#F" n="3" break="no"/>quenter, quia quantum uni virium accedit tantum alteri detrahitur, 
+            absolu<lb ed="#F" n="4" break="no"/>tè tunc non firmius haerebit; quia duplici quidem vinculo quasi ligatur in
+            <lb ed="#F" n="5"/>utroque extremo, sed utrunque imbecillum magis est &amp; tenue. Respondeo
+            <lb ed="#F" n="6"/>primo, mihi ad confirmandum meum dictum, &amp; ad infringendam Gilberti
+            <lb ed="#F" n="7"/>propositionem, sumendo illam, ut verba sonant, (quae proferuntur 
+            absolu<lb ed="#F" n="8" break="no"/>tè, &amp; illa est in materia necessaria, quae aequivalet universali) satis esse, ut osta
+            <lb ed="#F" n="9"/>dam semel falsum esse, quod absolutè dicitur, ferrum, scilicet infirmius adhae
+            <lb ed="#F" n="10"/>rere parti aequinoctiali: ubi enim demonstravero, vel in uno casu robustius
+            <lb ed="#F" n="11"/>ibi adhaerere, non esse illud universaliter pronunciandum confecero. Et 
+            quam<lb ed="#F" n="12" break="no"/>vis aliquando contingeret, ut infirmius haereret aequinocti ratione figure
+            <lb ed="#F" n="13"/>alterutrius, non debet tamen absolutè pronuntiari infirmiorem esse ibi 
+            coi<lb ed="#F" n="14" break="no"/>tionem. quia tamen aliquis posset dicere, non ibi firmius adhaetere in casu à
+            <lb ed="#F" n="15"/>me posito, quia tangit ferrum magnetis aequinoctium, sed quia tangit 
+            utro<lb ed="#F" n="16" break="no"/>que extremo utrunque polum, unde firmior coitio sit ex contactu polorum,
+            <lb ed="#F" n="17"/>ut contendit Gilbertus, qui solum pronuntiat infirmius haerere ferrum in
+            <lb ed="#F" n="18"/>contactu aequinoctij, quam poli.
+        </p>
+            <p xml:id="p9i7y5-e38919-d1e358">
+               <lb ed="#F" n="43" type="fixed=367"/>
+               <figure xml:id="p9i7y5-e38919-Fd1e363">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870110/1285,1779,762,882/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A C B F D H E</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375918-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="19" type="fixed=367"/>Respondeo secundo meam rationem non supponere magnetem omnino
+            <lb ed="#F" n="20"/>complanari secundum longitudinem ita, ut ferrum tangat etiam directum
+            <lb ed="#F" n="21"/>omnibus partibus magnetem: nam, etiam
+            <lb ed="#F" n="22"/>si alterum extremum tantillum discedat à
+            <lb ed="#F" n="23"/>magnete, si valdè prope accedat, adhuc ra
+            <lb ed="#F" n="24"/>tio posita suam obtinet vim, ut consideran
+            <lb ed="#F" n="25"/>ti patebit. &amp; verè in magnete oblongo hoc
+            <lb ed="#F" n="26"/>discrimen magis patenter deprehenditur;
+            <lb ed="#F" n="27"/>quod firmius ferramenta, adhaereant 
+            ma<lb ed="#F" n="28" break="no"/>gneti, si secundum longstudinem adiaceant,
+            <lb ed="#F" n="29"/>quam si ex altero solum polo dependeant.
+            <lb ed="#F" n="30"/>Respondeo tamen tertio adhuc in 
+            magne<lb ed="#F" n="31" break="no"/>te rotundo, seu in terrella, ut cum 
+            Gilber<lb ed="#F" n="32" break="no"/>to loquar, verum esse quod dico, firmiorem
+            <lb ed="#F" n="33"/>asse coitionem, si medius tangat obelus 
+            Ae<lb ed="#F" n="34" break="no"/>quinoctium, quam si altero extremo 
+            pen<lb ed="#F" n="35" break="no"/>deat ex polo. Sit enim obelus A, B; qui 
+            ap<lb ed="#F" n="36" break="no"/>ponatur magneti probo firmius adhaerere, si ponatur tangere magnetem
+            <lb ed="#F" n="37"/>in D, puncto aequinoctiali, quam si tangeret A, punctum polare, Sitenim 
+            o<lb ed="#F" n="38" break="no"/>belus A, B; aequis longitudinis cum diametro terrellae quamvis neque hoc
+            <lb ed="#F" n="39"/>ad demonstrationem omnino sit necessarium, punctum medium obcli A, B,
+            <lb ed="#F" n="40"/>quod ad vim, qua iritur adhaerere in illo situ, ita se habet ad extremum A, &amp;
+            <lb ed="#F" n="41"/>B, ut robustissime haereat A, infirmissimè B, medio modo se habeat C, stando
+            <lb ed="#F" n="42"/>praecisè in vi, qua obelus ad magnetem nititur in suum bonum: atque ita illa vis, quae
+            <!--386.xml-->
+
+         <!--387.xml-->
+         <pb ed="#F" n="368"/>
+               <lb ed="#F" n="1"/>tota est diminuta in B, medium detrimentum habeat in C, si ergo punctum
+            <lb ed="#F" n="2"/>A, obeli ponatur in C, adhęrere conabitur magneti dimidio minori conatu,
+            <lb ed="#F" n="3"/>quam adhaereret, dum polum tangebat. si vero B, poneretur in C, duplo ma
+            <lb ed="#F" n="4"/>iori conatu adhaereret, quam adhaereat, dum stat ibi in B, à quocunque tandem
+            <lb ed="#F" n="5"/>proveniat vis, quae per ferrum diffunditur; seu propagetur à solo polo A, seu
+            <lb ed="#F" n="6"/>ab utroque polo dirigantur radij ad punctum C. dum enim pendet obelus à
+            <lb ed="#F" n="7"/>C, &amp; magnes agit, necessario in puncto C, sunt radij virtutis omnis, qui ad il
+            <lb ed="#F" n="8"/>lud punctum à terrella possunt inspirari, &amp; dimidio debiliores, quam in A.
+            <lb ed="#F" n="9"/>ad punctum enim etiam A, tota terrella dirigit actionis radios dimidio 
+            de<lb ed="#F" n="10" break="no"/>biliores in B, quare si accurate advertas, semper discursus suam habet vim.
+            <lb ed="#F" n="11"/>Quod si aliquod esset in hoc dubium, non posset esse nisi, quia in puncto C,
+            <lb ed="#F" n="12"/>virtus fortasse non esset omnino dimidiato decremento imminuta, &amp; 
+            plus<lb ed="#F" n="13" break="no"/>quam duplicato in B, quod magis faceret ad meam probationem: quamvis
+            <lb ed="#F" n="14"/>si etiam B, ponatur intra sphęram activitatis magnetis, &amp; consequenter intra
+            <lb ed="#F" n="15"/>latitudinem pyramidis, seu trianguli, quo sphaera activitatis secundum 
+            inten<lb ed="#F" n="16" break="no"/>sionem exprimitur, modo supra explicato, bases illae, quae intensionem 
+            refe<lb ed="#F" n="17" break="no"/>runt, proportionaliter se habeant ad latera, quae distantiam representant. Iam
+            <lb ed="#F" n="18"/>vero ponamus obelum C, D, E, sua medietate tangere punctum aequinoctij
+            <lb ed="#F" n="19"/>D, extremum unum perveniet ad C, alterum ad E, quae duo extrema 
+            aequali<lb ed="#F" n="20" break="no"/>ter omnino distant à polo, &amp; à centro: triangulum enim F, C, D, aequale est
+            <lb ed="#F" n="21"/>triangulo E. D. F. cum duo latera F. D: D.
+            <lb ed="#F" n="22"/>C sint aequalia duobus lateribus F, D: D. E.
+            <lb ed="#F" n="23"/>&amp; anguli ad D ambo sint recti. ergo &amp; 
+            ba<lb ed="#F" n="24" break="no"/>ses F. C: F. E. sunt aequales. Similiter 
+            proba<lb ed="#F" n="25" break="no"/>tur triangulum F. A. C. triangulo F. H. E. 
+            ae<lb ed="#F" n="26" break="no"/>quale, perinde igitur est in obelo E. D. C.
+            <lb ed="#F" n="27"/>ac si extremum A. esset in C. &amp; alterum 
+            ex<lb ed="#F" n="28" break="no"/>tremum pariter in C. &amp; ita in isto obelo C.
+            <lb ed="#F" n="29"/>D. E. unum extremum dimidio minori 
+            co<lb ed="#F" n="30" break="no"/>natu adhaeret, quam in obelo A. B. at vero
+            <lb ed="#F" n="31"/>alterum extremum dimidio maiori 
+            conna<lb ed="#F" n="32" break="no"/>tu copulatur. Et ita quo ad extrema, 
+            aequa<lb ed="#F" n="33" break="no"/>liter se habent: quantum enim uni 
+            detra<lb ed="#F" n="34" break="no"/>hitur, tantum alteri additur, à quocunque
+            <lb ed="#F" n="35"/>tandem derivetur, tunc vis in obelo. non
+            <lb ed="#F" n="36"/>enim quaero hic, à quo trahatur obelus, sed quanta vi trahatur, dum est in con
+            <lb ed="#F" n="37"/>tactu aequinoctij: nec contendo conficere polum A. vehementius 
+            suspende<lb ed="#F" n="38" break="no"/>re obelum in contactu D. quam in A. sed probo obelum firmius adhęrere, dum
+            <lb ed="#F" n="39"/>tangit D. quam dum pendet ex A. at vero punctum medium non potest 
+            ne<lb ed="#F" n="40" break="no"/>gari, quin maiorem vim concipiat in obelo E. D. C. quam in obelo A. C. B.
+            <lb ed="#F" n="41"/>quia D tangit magnetem, etiam si tangat in puncto aequinoctiali, quod in
+            <lb ed="#F" n="42"/>C. procul est, &amp; uterque polus ad illud punctum suam dirigit actionem: ergo
+            <!--387.xml-->
+
+         <!--388.xml-->
+         <pb ed="#F" n="369"/>
+               <lb ed="#F" n="1"/>absolutè cum extrema sint aequalia, quod ad virtutem magneticam, medium
+            <lb ed="#F" n="2"/>vero hic maiorem vim concipiat, firmius adhaerebit in contactu 
+            aequino<lb ed="#F" n="3" break="no"/>ctiali, etiam si magnes sit rotundus, quam si uno extremo tangat polum.
+         <lb ed="#F" n="43" type="fixed=368"/>
+               <figure xml:id="p9i7y5-e38919-Fd1e545">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870111/1510,1776,793,892/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A C B F D H E</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375920-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e38919-d1e563">
+               <lb ed="#F" n="4" type="fixed=368"/>Quod si quis diceret ex doctrina 
+            suprapo<lb ed="#F" n="5" break="no"/>sita, quoniam ex polo A. virtus 
+            propaga<lb ed="#F" n="6" break="no"/>tur, minorem esse virtutem in puncto D.
+            <lb ed="#F" n="7"/>quam in loco C. quia longior est linea ab
+            <lb ed="#F" n="8"/>A,. ad D. diametralis, quam A. C. costa: 
+            pri<lb ed="#F" n="9" break="no"/>mo hoc est contra Gilbertum, qui putat
+            <lb ed="#F" n="10"/>virtutem propagari ex centro F. non ex po
+            <lb ed="#F" n="11"/>lo A. atqui brevior est linea F. D, costa, quam
+            <lb ed="#F" n="12"/>F. C. diameter. Deinde non aequaliter 
+            pro<lb ed="#F" n="13" break="no"/>pagaretur virtus circumquaque, neque 
+            ae<lb ed="#F" n="14" break="no"/>qualiter funderetur sphaera, ut putat 
+            Gil<lb ed="#F" n="15" break="no"/>bertus: citius enim absolveretur ex D. quam
+            <lb ed="#F" n="16"/>ex A. Denique etiam ex doctrina supra 
+            tra<lb ed="#F" n="17" break="no"/>dita, ita demum ex A. propagatur virtus,
+            <lb ed="#F" n="18"/>ut, etiam dum propagatur ex D. concurrant
+            <lb ed="#F" n="19"/>partes magnetis intermedię omnes inter A. &amp; D. immo, &amp; partes oppositae
+            <lb ed="#F" n="20"/>H. D. Quare radius, qui propagatur ex D. non ita diffunditur ex A. seu H. 
+            per<lb ed="#F" n="21" break="no"/>inde, ac per purum medium non magneticum perveniat ad D. sed ita, ut par
+            <lb ed="#F" n="22"/>tes intermediae magnetis conspirent ad illam actionem. ergo robustior erit
+            <lb ed="#F" n="23"/>actio in D. quam in eadem distantia ad aliam partem, ad quam propagetur
+            <lb ed="#F" n="24"/>virtus per purum medium non magneticum. Quod vel ex eo patet, quia ad
+            <lb ed="#F" n="25"/>D. concurrit magis de proximo uterque polus, quam in eadem distantia ad
+            <lb ed="#F" n="26"/>aliam partem, quae distantia esset longè remotior ab H. &amp; à parte illius.
+         <lb ed="#F" n="43" type="fixed=369"/>
+               <figure xml:id="p9i7y5-e38919-Fd1e618">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870112/1239,656,738,882/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A C B F D H E</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375921-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e38919-d1e636">
+               <lb ed="#F" n="27" type="fixed=369"/>Ut autem ostendatur obelum A, B, dum pendet ex A, minus robustè 
+            adhae<lb ed="#F" n="28" break="no"/>rere magneti in parte C, qùam dum tangit magnetem in puncto D, ostendo
+            <lb ed="#F" n="29"/>duos tadios simul A, C: H, C, maiores esse quam A, D: H, D, &amp; 
+            consequen<lb ed="#F" n="30" break="no"/>ter minorem habere efficaciam: ut autem ostendam, ducatur linea B, H, &amp;
+            <lb ed="#F" n="31"/>ducatur F,. D, ex centro F, ad tangentem C, E, ductis item duabus A, D: H, D;
+            <lb ed="#F" n="32"/>quae duae lineae erunt inter se aequales, cum subtendant arcus aequales D, H:
+            <lb ed="#F" n="33"/>D, A, qui sunt quadrantes; cum anguli ad centrum F, sint recti: similiter 
+            aequa<lb ed="#F" n="34" break="no"/>les erunt A, F; F, H, eo quod sint à centro ad circumferentiam, &amp; cum A, B, sit
+            <lb ed="#F" n="35"/>divisa bifariam in C, erunt aequales A, C: C, B, hoc posito F, D, in triangulo
+            <lb ed="#F" n="36"/>H, A, B, est ducta parallela basi A, B; cum anguli B, A, F: D, F, A, sint recti duo
+            <lb ed="#F" n="37"/>ergo latera H, A; H, B, sunt divisa proportionaliter. ergo, &amp; H, D, erit aequalis
+            <lb ed="#F" n="38"/>ipsi D, B, ergo tota A, B, est aequalis duabus A, D: D A, cum autem in triangu
+            <lb ed="#F" n="39"/>lo A, C, D, duo latera H, C: C, B, simul maiora sint reliquo H, B, etiam duae 
+            li<lb ed="#F" n="40" break="no"/>neae H, C: C, A, quae est aequalis ipsi C, B, maiores erunt duab. H, D: D. A, quod
+            <lb ed="#F" n="41"/>erat demonstrandum ergo minorem vim habebunt ad sustinendum C, duo
+            <lb ed="#F" n="42"/>radij simul A, C: C, H, quam duo A, D: D, H.
+        </p>
+            <p xml:id="p9i7y5-e38919-d1e673">
+            <!--388.xml-->
+
+         <!--389.xml-->
+               <pb ed="#F" n="370"/>
+               <lb ed="#F" n="1"/>Dices iterum, cur non ergo omnes obeli, qui apponuntur ad A, prosternunt
+            <lb ed="#F" n="2"/>se supra magnetem, sed eriguntur perpendiculariter in A. Si enim vera esset
+            <lb ed="#F" n="3"/>doctrina tradita, deberent se accommodare sic ad magnetem rotundum, ut
+            <lb ed="#F" n="4"/>essent tangentes in puncto D? quia sic omnes partes, quantum etiam fieri po
+            <lb ed="#F" n="5"/>test, proximè accederent ad magnetem, &amp; ita participarent efficacius 
+            virtu<lb ed="#F" n="6" break="no"/>tem, cum igitur hoc non videamus contingere, sed erigantur obeli 
+            perpen<lb ed="#F" n="7" break="no"/>diculariter in A, signum est peculiarem esse rationem in actione magnetis;
+            <lb ed="#F" n="8"/>neque philosophandum hic esse per principia communia alijs agentibus.
+            <lb ed="#F" n="9"/>Respondeo primo iterum, me hic praecisè impugnare universalem 
+            proposi<lb ed="#F" n="10" break="no"/>tionem Gilberti, quod facilius haereant magnetis polo ferramenta, quam
+            <lb ed="#F" n="11"/>lateri ad quod satis videtur, quod dixi. Si enim pendeat ex A, obelus tantae
+            <lb ed="#F" n="12"/>magnitudinis, ut necessario trahente gravitate non erigatur, sequitur, quod
+            <lb ed="#F" n="13"/>dixi. Verum stemus in doctrina supra posita, quod virtus disseminetur ex A,
+            <lb ed="#F" n="14"/>tanquam ex termino propagationis virtutis, ut procedat uniformiter diffor
+            <lb ed="#F" n="15"/>miter, dum disceditur ex puncto A, imo sicut in lumine ita, &amp; in magnete 
+            for<lb ed="#F" n="16" break="no"/>tior dicatur radius directus, &amp; ex axe propagatus, quam refractus ad aliquam
+            <lb ed="#F" n="17"/>partem; &amp; quo minorem habet refractionem, maiorem habere supponatur
+            <lb ed="#F" n="18"/>efficaciam, ut alibi dictum est. Quae est ratio, cur erigatur obelus in polo, si
+            <lb ed="#F" n="19"/>possit. Posito tamen quod tanta sit obeli longitudo, &amp; gravitas, ut cadat, 
+            cer<lb ed="#F" n="20" break="no"/>tum est, quod supra dixi, tantum virtutis habere in locis supra notatis ex tra
+            <lb ed="#F" n="21"/>dita doctrina; neque in ratione supra posita philosophamur per communia,
+            <lb ed="#F" n="22"/>sed ex proprijs philosophiae magneticae principijs.
+        </p>
+            <p xml:id="p9i7y5-e38919-d1e731">
+               <lb ed="#F" n="23"/>Respondeo tamen secundò aliud esse loqui de obelo parvo, seu brevi, qui
+            <lb ed="#F" n="24"/>possit erigi in A. qui necessario erit minor, quam dimidium axis magnetis,
+            <lb ed="#F" n="25"/>quaecunque sit virtus magnetica. Quod enim non erigatur directè in polo,
+            <lb ed="#F" n="26"/>aliquando provenit ex infirmitate virtutis magneticae, aliquando à nimia
+            <lb ed="#F" n="27"/>obeli longitudine. Si enim obelus ita longus sit, ut possit utriusque poli
+            <lb ed="#F" n="28"/>actionem excipere, &amp; se extendere ad participandum virtutem utriusque quia
+            <lb ed="#F" n="29"/>sua longitudine pertingit à polo ad polum, non erigetur in polo, sed 
+            exten<lb ed="#F" n="30" break="no"/>det se secundum longitudinem magnetis, ut utrunque extremum, quantum
+            <lb ed="#F" n="31"/>potest, polis accommodet, saltem si illo pacto collocetur, firmius &amp; magis
+            <lb ed="#F" n="32"/>secundum naturam haerebit; quia sic plus de virtute magnetis participat, ut
+            <lb ed="#F" n="33"/>supra demonstratum. Melius est enim obelo habere utrunque extremum 
+            pro<lb ed="#F" n="34" break="no"/>ximum utrique polo, quam per alterum uni adhaerere, ab altero longe 
+            disce<lb ed="#F" n="35" break="no"/>dere, &amp; ideo non conabitur, ut erigatur, nisi forte in casu, in quo unum extre
+            <lb ed="#F" n="36"/>mum adhaereat magneti in polo, &amp; alterum extremum ita ponatur procul
+            <lb ed="#F" n="37"/>ab alio polo, ut non sentiat eius virtutem; tunc enim non habet, ut ita 
+            lo<lb ed="#F" n="38" break="no"/>quar principium se movendi, &amp; accedendi ad alterum polum altero 
+            extre<lb ed="#F" n="39" break="no"/>mo; quia non sentit eius virtutem, nec est intra radium ab illo polo diffusum;
+            <lb ed="#F" n="40"/>sicut nunc obelus, qui est Ferrariae non accedit ad magnetem, qui est Romę,
+            <lb ed="#F" n="41"/>nec ad illum accommodatur. at, si disponatur ita, ut possit sentire amicam
+            <lb ed="#F" n="42"/>alterationem alterius poli, ad illam etiam conabitur se accommodare, &amp; ad
+            <!--390.xml-->
+            <pb ed="#F" n="371"/>
+               <lb ed="#F" n="1"/>latus se deducet, ibique firmius haerebit, ut supra demonstratum est. Si 
+            ve<lb ed="#F" n="2" break="no"/>rò ponatur obelus adeo brevis, ut non possit accedere utroque 
+            extre<lb ed="#F" n="3" break="no"/>mo ad utrunque polum, tunc etiam si deprimatur alterum posum 
+            ver<lb ed="#F" n="4" break="no"/>sus, eriget tamen se magnetica vi, ut se accommodet ad radium 
+            dire<lb ed="#F" n="5" break="no"/>ctum, &amp; magis efficacem, qui ex axe non refrangitur: &amp; quamvis tentes de
+            <lb ed="#F" n="6"/>primere, &amp; declinare lapidem versus, non acquiescet in illo statu, quia 
+            quan<lb ed="#F" n="7" break="no"/>tumvis inclinetur, non pervenit altero extremo ultra aequatorem, &amp; 
+            conse<lb ed="#F" n="8" break="no"/>quenter non potest altera illa extremitas pervenire ad vim activam alterius
+            <lb ed="#F" n="9"/>poli; ac propterea non adiacet, sed erigitur, ut cum non possit utriusque poli
+            <lb ed="#F" n="10"/>in se vim derivare, alterius saltem, quam optima potest ratione, virtutem con
+            <lb ed="#F" n="11"/>cipiat, quod facit se ad radium directum conformando.
+        </p>
+            <p xml:id="p9i7y5-e38919-d1e805">
+               <lb ed="#F" n="12"/>Illud unum addam, in quo Gilberti doctrina vera est, &amp; si hoc ille sibi 
+            vo<lb ed="#F" n="13" break="no"/>luit, verum dicit, neque absolutè contenderem hanc non fuisse illius viri
+            <lb ed="#F" n="14"/>mentem, si obeli extremitas, &amp; cuiuslibet alterius ferri finis alter applicetur
+            <lb ed="#F" n="15"/>ad magnetem, firmius hęrere magneti, si tangat in polo illo extremo 
+            magne<lb ed="#F" n="16" break="no"/>tem, quam si eodem extremo aequinoctialem; si inquam, ferri extremitas 
+            ap<lb ed="#F" n="17" break="no"/>plicetur ad magnetem: nam si, ut dixi, medium tangit, non infirmius adhę
+            re<lb ed="#F" n="18" break="no"/>bit. Si hoc igitur sibi voluit Gilbertus, verum dixit, &amp; huic experientia 
+            suf<lb ed="#F" n="19" break="no"/>fragatur: sic enim infirmior est coitio in aequatore quam in polo. &amp; ratio 
+            e<lb ed="#F" n="20" break="no"/>tiam est manifesta, quia radius ex polo diffusus efficacior est directè 
+            propa<lb ed="#F" n="21" break="no"/>gatus, quam refractus, &amp; quo maior est refractio, eo caeeris paribus est 
+            debi<lb ed="#F" n="22" break="no"/>lior virrus. Patet hoc ex directione obeli super magnetem: Si enim non
+            <lb ed="#F" n="23"/>esset robustus magis radius directus refracto, non accommodaretur ad illum
+            <lb ed="#F" n="24"/>obelus. ergo minus efficaciter haeret ferrum in aequinoctio, si pendeat altero
+            <lb ed="#F" n="25"/>extremo ab illo puncto, quam si tangat in polo, ubi virtus magis est 
+            insi<lb ed="#F" n="26" break="no"/>gnis. ac proivde non sic unquam magnes provocat ad se ferrum in puncto
+            <lb ed="#F" n="27"/>aequinoctiali, ut punctum tale magnetis trahat ferri extremum. Semper
+            <lb ed="#F" n="28"/>enim advocat medium, ut adiaceat, ac proinde in illis coltionibus 
+            magneti<lb ed="#F" n="29" break="no"/>cis, quae à natura fiunt, non debet dici absolute infirmior coitio inaequator;
+            <lb ed="#F" n="30"/>immò vix ulla fieret coitio, si prorsus in mathematico aequatore applicaret
+            <lb ed="#F" n="31"/>quis ferri extremum, &amp; directe ad angulos rectos occureret axi; sicuti tunc
+            <lb ed="#F" n="32"/>vix ulla qualitas in ferro produceretur, quia ęivaliter uterque polus 
+            contra<lb ed="#F" n="33" break="no"/>riam inspiraret qualitatem, seu contrariam faciem; verum propter ferri cras
+            <lb ed="#F" n="34"/>siciem aliquid virtutis etiam conciperet, ut consideranti patebit.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

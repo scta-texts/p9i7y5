@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 10</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 10</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="302"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e32350"> <!-- l4c10 -->
+            <head xml:id="p9i7y5-e32350-Hd1e107">Caput 10</head>
+            <p xml:id="p9i7y5-e32350-d1e109">
+               <lb ed="#F" n="21"/>Fabulosum est, quod duo Homines possint quasi se alloqui è remotissimis, &amp; clausis 
+            lo<lb ed="#F" n="22" break="no"/>cis, per duorum vensoriorum mutuam directionem.
+            <lb ed="#F" n="23"/>Cap. X.
+        </p>
+            <p xml:id="p9i7y5-e32350-d1e118">
+               <lb ed="#F" n="24"/>Iniurij sane fuere in magnetem omnes illi, qui quędam 
+            invexe<lb ed="#F" n="25" break="no"/>re portenta in hanc philosophiam, quae omnem superant fidem:
+            <lb ed="#F" n="26"/>hoc enim illud idem effecerunt proportionaliter; quod 
+            Haere<lb ed="#F" n="27" break="no"/>tici, &amp; infideles, dum sanctorum gestis falsa affingunt &amp; 
+            mira<lb ed="#F" n="28" break="no"/>cula extra omnem ordinem, &amp; legem. Vel enim homines à 
+            cau<lb ed="#F" n="29" break="no"/>sarum investigatione deterrentur etiam in rebus veris; quia hoc omnino se
+            <lb ed="#F" n="30"/>assequi non posse pertimescunt; vel omnia suspecta redduntur etiam, quae
+            <lb ed="#F" n="31"/>vera sunt. Hoc, quod hic propono, unum est ex his: unde non solum 
+            exsibi<lb ed="#F" n="32" break="no"/>landi, sed etiam malè mulctandi essent philosophica ferula, fabularum isti
+            <lb ed="#F" n="33"/>procusores, qui suis portentis deterrent homines à praeclarissimo causarum
+            <lb ed="#F" n="34"/>studio. Dixerunt ergo aliqui posse duos, qui etiam longissimo distent inter
+            <lb ed="#F" n="35"/>se intervallo, immo quorum unus delitescat arctissima inclusus custodia, 
+            al<lb ed="#F" n="36" break="no"/>ter vero procul omnino arceatur, sibi invicem animi sensa aperire magnetis
+            <lb ed="#F" n="37"/>beneficio, &amp; versorij cuspide; quasi muta quadam lingua, quascunque 
+            ma<lb ed="#F" n="38" break="no"/>lint, voces efformare, quas alter oculis hauriret certissimis. Tali autem hoc
+            <lb ed="#F" n="39"/>dicunt fieri posse artificio.
+        </p>
+            <p xml:id="p9i7y5-e32350-d1e155">
+               <lb ed="#F" n="40"/>Constituantur duae pyxides aequales, &amp; eiusdem formae, qualem tibi haec
+            <!--321.xml-->
+            <pb ed="#F" n="302"/>
+               <lb ed="#F" n="1"/>figura; utcumque representat: huius peripheria dividatur in viginti tres partes ę¬
+            <lb ed="#F" n="2"/>quales, &amp; in singulis spacijs inscri
+            <lb ed="#F" n="3"/>bantur ordine characteres 
+            om<lb ed="#F" n="4" break="no"/>nes quibus utimur in scribendo,
+            <lb ed="#F" n="5"/>&amp; huius formae, ut dixi duae ę
+            qua<lb ed="#F" n="6" break="no"/>les pyxides comparentur, tunc 
+            fi<lb ed="#F" n="7" break="no"/>ant duo versoria omnimo ę
+            qualia<lb ed="#F" n="8" break="no"/>ex eodem ferio, puto etiam ex 
+            ea<lb ed="#F" n="9" break="no"/>dem vena; dicent autem, ut 
+            arbi<lb ed="#F" n="10" break="no"/>tror fieri debere hęc versoria 
+            eo<lb ed="#F" n="11" break="no"/>dem lonco, andem temporis articu
+            <lb ed="#F" n="12"/>lo, ut dum nuscuntur eundem hav
+            <lb ed="#F" n="13"/>beant horoscopum, &amp; si quid pec
+            <lb ed="#F" n="14"/>catum fueit in istis, nihi fiet (sed
+            <lb ed="#F" n="15"/>nihilo plus fiet; si hęc omnia exa
+            <lb ed="#F" n="16"/>ctè custodiantur) peccatum enim
+            <lb ed="#F" n="17"/>est, hoc ipso, quod tam levis 
+            ar<lb ed="#F" n="18" break="no"/>maturę ingenium ostenderit aliquis, ut istis fidem adhibeat, Sapienter autem
+            <lb ed="#F" n="19"/>in re non sapientissime excogitata plurima congerunt praecepta, &amp; leges 
+            ar<lb ed="#F" n="20" break="no"/>ctissimè servandas tum ut homines rei difficultate ab experimento 
+            deterre<lb ed="#F" n="21" break="no"/>antur, tum, ut si quis obstinatè rem velit experiti, quia sciunt futurum, ut non
+            <lb ed="#F" n="22"/>succedat, refugium sibi semper velint reseuare, in quod se recipiant; dum
+            <lb ed="#F" n="23"/>dicunt aliquid omissum: esse. Miror sanc homines, qui communiter 
+            liben<lb ed="#F" n="24" break="no"/>tissimè solent in alios cum possunt; immo, &amp; cum commodissimè non 
+            pos<lb ed="#F" n="25" break="no"/>sunt, culpam derivare, in istis rebus semper se ipsos incusare, quod 
+            defece<lb ed="#F" n="26" break="no"/>rint in aliquo ad perfectum experimentum, neque adduci posse, ut de rei
+            <lb ed="#F" n="27"/>veritate dubitent.
+         <lb ed="#F" n="43" type="fixed=302"/>
+               <figure xml:id="p9i7y5-e32350-Fd1e225">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870045/1427,545,940,922/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text"/>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375819-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e32350-d1e243">
+               <lb ed="#F" n="28" type="fixed=302"/>Sic efformatis duobus illis versorijs ad mathematicam in rebus omnibus
+            <lb ed="#F" n="29"/>physicis aequalitatem, excitentur iam eodem magnete omnino aequaliter, ne
+            <lb ed="#F" n="30"/>scilicet alter; plus altero, magneti haeteat, &amp; utrunque magnetem tangat in
+            <lb ed="#F" n="31"/>eodem mathematico puncto; tum includantur in paratis pyxidibus 
+            sum<lb ed="#F" n="32" break="no"/>ma diligentia, quo facto, si unus alteram ex illis pyxidibus, alteram 
+            habue<lb ed="#F" n="33" break="no"/>rit alter, sic paratam, quantumvis isti duo, cum his pyxidibus, distent ab 
+            in<lb ed="#F" n="34" break="no"/>vicem, quantumvis alter illorum in procul positis regionibus arctissimo sit
+            <lb ed="#F" n="35"/>inclusus carcere, semper tamen talem habebunt ad iinvicem sympathiam.
+            <lb ed="#F" n="36"/>Sic isti somniant, ne dicam, mentiuntur, ut si versorium unius pyxidis, 
+            ubi<lb ed="#F" n="37" break="no"/>cunque gentium sit ille, dirigatur contra literam A. etiam versorium alterius
+            <lb ed="#F" n="38"/>quocunque tandem in loco sit, ad eandem litteram confugiat; etsi postea
+            <lb ed="#F" n="39"/>dirigatur ad alteram literam puta ad M. statim etiam alterum versorium ad
+            <lb ed="#F" n="40"/>M. confugiat cuspide, &amp; sic deinceps, ex quo fiet, ut si velit is, qui foris est ad
+            <lb ed="#F" n="41"/>tum scribere, qui est inclusus carcere, satis futurum sit, si accepta pyxide 
+            diri<lb ed="#F" n="42" break="no"/>gat cuspidem ad singulas literas, quibus verba illa efformantur, quibus ami¬
+            <!--321.xml-->
+
+         <!--322.xml-->
+         <pb ed="#F" n="303"/>
+               <lb ed="#F" n="1"/>cum admonitum vult: pariter enim, &amp; in alia pyxide dirigetur cuspis ad
+            <lb ed="#F" n="2"/>easdem literas, &amp; sic ille inspectione suae pyxidis percipiet amici sensum.
+            <lb ed="#F" n="3"/>Hoc si esset, divinas sane haberet directiones, quibus non solum nos per 
+            in<lb ed="#F" n="4" break="no"/>via Oceani spatia nullo signata vestigio ad optatum deduceret partum, sed
+            <lb ed="#F" n="5"/>etiam ad animi sensus abditissimos assequendos, ad quos sola D. O. M. pyxis
+            <lb ed="#F" n="6"/>deducit, ductare nos posset. Hunc igitur non effectum magnetis probo, sed
+            <lb ed="#F" n="7"/>improbo errorem, ne quis spe vana delusus, has severas leges subeat nullo
+            <lb ed="#F" n="8"/>eventu.
+        </p>
+            <p xml:id="p9i7y5-e32350-d1e302">
+               <lb ed="#F" n="9"/>Primum igitur quod dico, est, non solum versoria non se invicem attrahe
+            <lb ed="#F" n="10"/>re, &amp; ducere determinatis partibus, sed nec magnetes ipsos nisi ad determina
+            <lb ed="#F" n="11"/>tum spatium, quod exiguum est, &amp; paucatum spithamarum, etiam in 
+            robu<lb ed="#F" n="12" break="no"/>stissimo magnete; nec unquam protulit aliquis magnetem, qui provocaret
+            <lb ed="#F" n="13"/>ad se versorium, aut deturbaret à sua directione meridiana, nisi ad paucarum
+            <lb ed="#F" n="14"/>spithamarum distantiam; alioquin cur non dirigitur meum versorium hic
+            <lb ed="#F" n="15"/>&amp; non avocatur à magnete, quae est in India? directio ista, &amp; avocatio 
+            phy<lb ed="#F" n="16" break="no"/>sica est: omnia autem agentia physica determinant sibi sphaeram 
+            activita<lb ed="#F" n="17" break="no"/>tis, ultra quam agere non possunt, ergo unum versorium in alterum 
+            actio<lb ed="#F" n="18" break="no"/>nem habere non potest, nisi ad determinatam distantiam Praeterea ista actio,
+            <lb ed="#F" n="19"/>qua se versoria invicem commovent, non est ea ratione, sympathica, neque
+            <lb ed="#F" n="20"/>universim magneticae actiones fiunt ex sympathia modo, quo aliqui 
+            opi<lb ed="#F" n="21" break="no"/>nantur, qui sympathiam, quandam naturarum convenientiam, seu 
+            confor<lb ed="#F" n="22" break="no"/>mationem existimant; quae sentiatur nulla interiecta actione, &amp; effectum
+            <lb ed="#F" n="23"/>habeat in extremo sympathico corpore, nihil producendo in medio; sed
+            <lb ed="#F" n="24"/>attractio, &amp; directio magnetica physica actio est, &amp; alteratio, quę eadem om
+            <lb ed="#F" n="25"/>nino ratione fit, ac fiant aliae omnes alterationes; diffusa scilicet qualitate
+            <lb ed="#F" n="26"/>per medium, quae pertingit à corpore agente usque ad corpus,quod talem
+            <lb ed="#F" n="27"/>pati debet alterationem. neque commovent se invicem magnetica, nisi,
+            <lb ed="#F" n="28"/>quia magneticum B, vult se conformare qualitate per medium diffusa ab
+            <lb ed="#F" n="29"/>A. &amp; disponere se tali pacto, ut illa qualitas per medium diffusa sibi congruen
+            <lb ed="#F" n="30"/>ter accedat; nec aliam in omnibus magneticis effectibus agnovi, unquam
+            <lb ed="#F" n="31"/>agendi rationem. immo neque unquam in tota philosophia agnovi aliam
+            <lb ed="#F" n="32"/>sympathiam, aut antipathiam, neque ullum effectum offendi in tota 
+            cor<lb ed="#F" n="33" break="no"/>porea natura, quantum potui speculando, &amp; experiendo observare, qui ex
+            <lb ed="#F" n="34"/>alio sympathico motu oriatur, nisi quia illud quod ab uno per medium 
+            dif<lb ed="#F" n="35" break="no"/>funditur intra sphaeram suae activitatis, alteri in eadem sphaera posito 
+            com<lb ed="#F" n="36" break="no"/>mode, vel incommode accidit propter convenientiam, &amp; conformitatem,,
+            <lb ed="#F" n="37"/>vel disconvenientiam, vel diformitatem naturae. Unde fit, ut illud alteretur,
+            <lb ed="#F" n="38"/>&amp; aliquem ex illa alteratione ostendat effectum. Verum, quia illud, quod per
+            <lb ed="#F" n="39"/>medium diffunditur, tenue est ac subtile, neque in se sentiri potest, sed solum
+            <lb ed="#F" n="40"/>in suo effectu, nec alia afficit corpora, seu potius alia corpora non sentiunt
+            <lb ed="#F" n="41"/>eius alterationem, nisi aut sint conformia in natura cum illo corpore à quo
+            <lb ed="#F" n="42"/>provenit tale effluvium, &amp; ita solum alterantur alteratione perfectiva illa,
+            <!--323.xml-->
+            <pb ed="#F" n="304"/>
+               <lb ed="#F" n="1"/>quae à tali qualitate inveniuntur proportionata, aut deformia, &amp; ita 
+            so<lb ed="#F" n="2" break="no"/>lum alteratione corruptiva alterantur, quae contrariam, &amp; oppositam 
+            ha<lb ed="#F" n="3" break="no"/>bent complexionem, &amp; qualitatem; ac proinde ostendunt se pati contra suam
+            <lb ed="#F" n="4"/>naturam: quia, inquam, hoc effluvium tenue est, nec afficit sensibiliter 
+            om<lb ed="#F" n="5" break="no"/>nia corpora intermedia; quamvis re vera per illa etiam propagetur, sed 
+            so<lb ed="#F" n="6" break="no"/>lum sensibilem ostendit effectum bonum, vel malum in proportionato 
+            sub<lb ed="#F" n="7" break="no"/>iecto; ideo videtur res per sympathiam, &amp; antipathiam affici actione non
+            <lb ed="#F" n="8"/>propagata per medium; cum nulla appareat actio sensibilis in medio; re 
+            ta<lb ed="#F" n="9" break="no"/>men vera non sic res se habet; nec unquam agens agit in extremo, quin 
+            a<lb ed="#F" n="10" break="no"/>gat per medium; nec res per sympathiam, aut antipathiam sentiunt se 
+            invi<lb ed="#F" n="11" break="no"/>tem alia ratione, nisi quia, ut dixi, effluvia quaedam sive sint qualitates, ut in
+            <lb ed="#F" n="12"/>magnete, &amp; in lumine, sive corpuscula, ut in odoriferis corporibus, exeunt
+            <lb ed="#F" n="13"/>ex corporibus, &amp; per medium disperguntur per sphaeram activitatis 
+            unifor<lb ed="#F" n="14" break="no"/>miter difformiter, quod ad vim activam, &amp; intensionem, sicuti consuevere
+            <lb ed="#F" n="15"/>alia omnia agentia physica; quae effluvia ubi pervenerint ad corpus 
+            propor<lb ed="#F" n="16" break="no"/>tionatum, vel propter similitudinem, vel propter oppositam omnino 
+            natu<lb ed="#F" n="17" break="no"/>ram, quasdam ostendunt sensibiles alterationes, &amp; quosdam effectes, qui non
+            <lb ed="#F" n="18"/>apparent in medio quia medium non est tale subiectum proportionatum.
+            <lb ed="#F" n="19"/>Sic sensus olfactionis non fit in medio, aut in manu, sed in naribus, quia illud
+            <lb ed="#F" n="20"/>est subiectum proportionatum: sensatio auditus non sit in cubito, aut in 
+            di<lb ed="#F" n="21" break="no"/>gito, sed in aure: quamvis enim illi tremores, seu qualitates, &amp; corpuscula 
+            il<lb ed="#F" n="22" break="no"/>la odorata appellant etiam ad alias partes, &amp; sint per medium diffusa, illa 
+            ta<lb ed="#F" n="23" break="no"/>men non sunt subiecta proportionata ad illos effectus, &amp; alterationes. Sic
+            <lb ed="#F" n="24"/>igitur res moventur per sympathiam, &amp; antipathiam, non alia ratione 
+            quan<lb ed="#F" n="25" break="no"/>tum ego arbitror, ut alias etiam indicavi.
+        </p>
+            <p xml:id="p9i7y5-e32350-d1e437">
+               <lb ed="#F" n="26"/>At vero dicere, quod res aliquae per sympathiam, vel antipathiam sentiant
+            <lb ed="#F" n="27"/>se invicem, &amp; effectus quosdam edant ad quancunque distantiam, 
+            quocun<lb ed="#F" n="28" break="no"/>que interposito corpore; &amp; quod illa duo versoria, quia sympathica 
+            ponun<lb ed="#F" n="29" break="no"/>tur, debeant simul moveri, quocunque tandem in loco, &amp; in quacunque sint
+            <lb ed="#F" n="30"/>distantia, nulla habita ratione medij, non solum repugnat peripateticae, sed
+            <lb ed="#F" n="31"/>omnino verae philosophiae; nec ullus in toto naturę theatro effectus usquam
+            <lb ed="#F" n="32"/>reperietur, quantum ego scio, qui talem agendi vim inferat necessario. 
+            fue<lb ed="#F" n="33" break="no"/>runt quidem aliqui, &amp; verò viri gravissimi, qui quoddam solutivorum medi
+            <lb ed="#F" n="34"/>camentorum genus se ostendere posse polliciti sunt, quod ad quamlibet 
+            di<lb ed="#F" n="35" break="no"/>stantiam suam vim in corpus ostentaret: verum, quamvis enixe rogarim,
+            <lb ed="#F" n="36"/>nunquam impetrare potui, ut fidem oculis facerent: nihil enim magis optas
+            <lb ed="#F" n="37"/>sem in philosophia, quam videre aliquod agens, quod evidenter suam aeque
+            <lb ed="#F" n="38"/>vim osteuderet nulla habita ratione distantiae: quod enim de unguento illo
+            <lb ed="#F" n="39"/>Armario, seu sympathico dicitur, lusum puto esse: vulnera enim simplicia,
+            <lb ed="#F" n="40"/>qualia requint illud medicamentum, sanantur à sola natura, si vulnus 
+            mun<lb ed="#F" n="41" break="no"/>dum à sordibus conserves, pręsertim si vino saepe abluas; tartaro enim vini
+            <lb ed="#F" n="42"/>optime sanantur. est enim illud optimum medicamenti genus ad quam plu
+            <!--324.xml-->
+            <pb ed="#F" n="305"/>
+               <lb ed="#F" n="1"/>rimos morbos ex proprijs principijs, verum hoc alias.
+        </p>
+            <p xml:id="p9i7y5-e32350-d1e483">
+               <lb ed="#F" n="2"/>Sed, ut de re nostra loquar, motus sequelae, &amp; fugae in omni magnetico
+            <lb ed="#F" n="3"/>corpore, &amp; in qualibet magnetica directione, non ex alio sit, ut saepe iam
+            <lb ed="#F" n="4"/>demonstratum est clarissimè, congestis experimentis, nisi ut corpora se 
+            con<lb ed="#F" n="5" break="no"/>forment ad qualitatem magneticam per medium diffusam; ita ut ex eo, quod
+            <lb ed="#F" n="6"/>habeant in se qualitatem illi, quae in medio est, similem, &amp; quae habeat easdem
+            <lb ed="#F" n="7"/>positionum differentias, accommodare intendat se ad illam, ut qualitas. quę
+            <lb ed="#F" n="8"/>est in medio sit in eadem positione, cum qualitate, quam habet in se; neque
+            <lb ed="#F" n="9"/>ex alio capite oritur illa conformatio. Et haec illa est sympathia, quam 
+            ha<lb ed="#F" n="10" break="no"/>bent corpora magnetica; similitudo, scilicet, illius qualitatis, &amp; vis illam 
+            pro<lb ed="#F" n="11" break="no"/>pagandi per medium. ergo oportet ut sint magnetica in tanta distantia, ut
+            <lb ed="#F" n="12"/>qualitas per medium ab uno corpore diffusa ad alterum perveniat: alioquin
+            <lb ed="#F" n="13"/>nulla sequitur conformatio: sicuti non sequitur nunc conformatio mei ver
+            <lb ed="#F" n="14"/>sorij, ad magnetem, qui est in Hispania; quia ad meum versorium non 
+            per<lb ed="#F" n="15" break="no"/>venit qualitas per medium diffusa ab illo magnete. Quod si ille magnes, ita
+            <lb ed="#F" n="16"/>accederet, ut qualitas per medium diffusa perveniret ad meum versorium,
+            <lb ed="#F" n="17"/>statim conformaretur illi. nihil ergo facit, quod illa versoria sint aequalia
+            <lb ed="#F" n="18"/>omnino, quod sub eodem horoscopo nata; quia non commoventur, nec se
+            <lb ed="#F" n="19"/>conformant per imaginariam sympathiam, ad quam vulgares aliqui philo
+            <lb ed="#F" n="20"/>sophi nonnunquam quasi ad asylum ignorantiae se recipiunt, cum alicuius
+            <lb ed="#F" n="21"/>rei veram causam ignorant: sed per physicam alterationem unius ad 
+            alte<lb ed="#F" n="22" break="no"/>rum perfectivam, cum sunt in situ conformi distructivam, cum sunt in situ
+            <lb ed="#F" n="23"/>contrario. facit ergo ad conformationem vis magnetica robusta, &amp; ad vim
+            <lb ed="#F" n="24"/>proportionata distantia, non sympathica alia natura. Et fateor in universum
+            <lb ed="#F" n="25"/>me nondum invenisse ullum effectum sympathicum, cuius physicam 
+            altera<lb ed="#F" n="26" break="no"/>tionem non manifestè possim ostentare convenientissimè per medium etiam
+            <lb ed="#F" n="27"/>diffusam, ut possem longa inductione demonstrare, si locus exigeret, &amp; alias
+            <lb ed="#F" n="28"/>indicavi.
+        </p>
+            <p xml:id="p9i7y5-e32350-d1e544">
+               <lb ed="#F" n="29"/>Praeterea, vel vis alterum illorum hominum, ita paulatim pyxidem 
+            con<lb ed="#F" n="30" break="no"/>torquere, ut versorium sua sponte dirigat cuspidem ad litteram illam, quam
+            <lb ed="#F" n="31"/>vis indicare, puta ad A. &amp; tunc opus erit, ut dirigas A. Septentrionem versus:
+            <lb ed="#F" n="32"/>nam versorij cuspis semper sua sponte, &amp; sibi relicta directione dirigitur in
+            <lb ed="#F" n="33"/>Septentrionem, &amp; tunc ille alter, qui suam observat pyxidem, observabit
+            <lb ed="#F" n="34"/>cuspidem versorij dirigi in Septentrionem, non A. versus, nisi fortè 
+            contin<lb ed="#F" n="35" break="no"/>gat, ut etiam ipse aut casu, aut dedita opera ex condicto converterit litteram
+            <lb ed="#F" n="36"/>A. Septentrionem versus: si enim contorquendo, &amp; ipse pyxidem non 
+            dire<lb ed="#F" n="37" break="no"/>xit A. in Septentrionem, cur debet versorium illius digredi à Septentrione,
+            <lb ed="#F" n="38"/>&amp; quaerere litteram A, ad aliam partem, ex eo quod contingat alterius 
+            pyxi<lb ed="#F" n="39" break="no"/>dem habere A. Septentrionem versus? Potius si sympathica sunt versoria, si 
+            u<lb ed="#F" n="40" break="no"/>num dirigitur in Septentrionem, etiam alterum ad eandem partem 
+            dirige<lb ed="#F" n="41" break="no"/>tur non ad litteras, aut ad aliquam illarum: oporteret enim ut in litteris esset
+            <lb ed="#F" n="42"/>vis magnetica, &amp; sympathica attractio, &amp; ut ad illas dirigerentur versoria,
+            <!--325.xml-->
+            <pb ed="#F" n="306"/>
+               <lb ed="#F" n="1"/>non ad polos telluris ad hoc, ut, quia unum versorium respicit A. etiam 
+            alte<lb ed="#F" n="2" break="no"/>rum cogatur quaerere eandem litteram, ad quamcunque partem sit directa
+            <lb ed="#F" n="3"/>illa littera, quod non solum novum est, sed ridiculum.
+        </p>
+            <p xml:id="p9i7y5-e32350-d1e588">
+               <lb ed="#F" n="4"/>Quod si non velles pyxidem contorquere, ut sponte sua versorium 
+            quae<lb ed="#F" n="5" break="no"/>rat cuspide A. sed ipsum versorium violenter vis removere à sua directione,
+            <lb ed="#F" n="6"/>ut dirigatur contra A. oporteret pariter, ut in illa littera, &amp; sic in singulis alijs
+            <lb ed="#F" n="7"/>qualitates imprimeres in utraque pyxide, &amp; quidem in singulis proprias, si
+            <lb ed="#F" n="8"/>ex eo quod alterum versorium dirigitur cuspide ad unam litteram, etiam 
+            al<lb ed="#F" n="9" break="no"/>terum ad eandem ex sympathica natura debet accurrere, quamcunque 
+            tan<lb ed="#F" n="10" break="no"/>dem partem respiciat. Si enim illa littera nihil afficit versorium, nihil ad 
+            il<lb ed="#F" n="11" break="no"/>lud spectat, quaecuuque sit sympathica versoriorum natura, non accurret 
+            al<lb ed="#F" n="12" break="no"/>terum versorium ad eandem litteram, ut eodem modo alteretur, cum ab 
+            il<lb ed="#F" n="13" break="no"/>la littera nihil alteretur. Audivi alios ex proximè dictis fabulam hanc sic 
+            da<lb ed="#F" n="14" break="no"/>re, ut versorium ex ferro forment, litteras autem circompositas ex magnete:
+            <lb ed="#F" n="15"/>&amp; quidem ex simili omnino magnetis latere, ut arbitror. operosam magis
+            <lb ed="#F" n="16"/>rem aggrediuntur, sapienter, ut deterreant ab experimento: pugnax enim
+            <lb ed="#F" n="17"/>magnetis natura reluctabitur formationi litterarum, &amp; tunc, ubi versorium
+            <lb ed="#F" n="18"/>unum ad unam litteram duxeris, dicunt futurum, ut alterum etiam cuspide
+            <lb ed="#F" n="19"/>ad eandem confluat, verum huic adhuc magis magnetica philosophia repu
+            <lb ed="#F" n="20"/>gnat: litterae enim ex diviso magnete formatae singulae corpus unum iam for
+            <lb ed="#F" n="21"/>mant magneticum, in quo poli sunt, ad quos confluat versorium cuspide, &amp;
+            <lb ed="#F" n="22"/>cruce; &amp; littera illa, quae extracta fuit ex parte polari, suos eodem modo 
+            po<lb ed="#F" n="23" break="no"/>los habebit, pari omnino ratione provocabit versorium: &amp; si aequales 
+            om<lb ed="#F" n="24" break="no"/>nino sint illae litterae circa versorium compositae, sicque ita omnes vertas, ut
+            <lb ed="#F" n="25"/>singulae suum polum Septentrionalem ad centrum pyxidis dirigant, 
+            aequa<lb ed="#F" n="26" break="no"/>liter ad se provocabunt versorij crucem: si casu collocentur, res erit fortuita
+            <lb ed="#F" n="27"/>omnino, nec trahent nisi certa lege magnetica. Verum nimis etiam 
+            immo<lb ed="#F" n="28" break="no"/>ror in re clarissima, gratis conficta, nullo experimento roborata, &amp; ut verbo
+            <lb ed="#F" n="29"/>dicam, fabula, quae, non solum universa philosophia magnetica, sed etiam
+            <lb ed="#F" n="30"/>tota physica repugnante, per sympathicos motus, &amp; conformationes, 
+            qua<lb ed="#F" n="31" break="no"/>rum nullum habemus argumentum in natura, vult posse fieri motus ad
+            <lb ed="#F" n="32"/>quamcunque distantiam, quocunque interposito. non igitur versoria 
+            invi<lb ed="#F" n="33" break="no"/>cem commoventur, nisi in convenienti positione, nec ullo artificio, aut 
+            ex<lb ed="#F" n="34" break="no"/>quisita ęqualitate talia fieri possunt, quibus duo sibi invicem animi sensa
+            <lb ed="#F" n="35"/>quasi describant. quod erat ostendendum.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

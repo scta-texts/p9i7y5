@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="292"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e31323"> <!-- l4c5 -->
+            <head xml:id="p9i7y5-e31323-Hd1e107">Caput 5</head>
+            <p xml:id="p9i7y5-e31323-d1e109">
+               <lb ed="#F" n="14"/>Versorium supra lapidem positum contraria ratione se dirigit, atque si applicetur ad
+            <lb ed="#F" n="15"/>alterum polorum magnetis. Cap. V.
+        </p>
+            <p xml:id="p9i7y5-e31323-d1e116">
+               <lb ed="#F" n="24" type="fixed=292"/>
+               <figure xml:id="p9i7y5-e31323-Fd1e121">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870035/603,1994,1731,999/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375804-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="16" type="fixed=292"/>Hoc licet novum videatur exhibere spectaculum; novam tamen
+            <lb ed="#F" n="17"/>non ingerit difficultatem, immo iam explicatam confirmat phi
+            <lb ed="#F" n="18"/>losophiam. Sit magnes A. B. cuius A. dirigatur in 
+            Septentrio<lb ed="#F" n="19" break="no"/>nem B. in Austrum. si superponatur versorium magneti, diriget
+            <lb ed="#F" n="20"/>cuspidem ad B. &amp; ita cuspis erit ad dexteram. si vero apponas
+            <!--311.xml-->
+            <pb ed="#F" n="292"/>
+               <lb ed="#F" n="21"/>versorium ad B. videbis cuspidem contraria ratione ferri ad sinistram, atque
+            <lb ed="#F" n="22"/>ita videbitur contrarium occupare situm, si versorium collocetur supra, 
+            at<lb ed="#F" n="23" break="no"/>que collocetur ad alterum extremorum magnetis. Res tamen eadem est, ab
+            <!--311.xml-->
+
+         <!--312.xml-->
+         <pb ed="#F" n="293"/>
+               <lb ed="#F" n="1"/>eademque pendet causa. Semper enim cuspis versorij ad contactum ipsius B.
+            <lb ed="#F" n="2"/>aspirat; &amp; quia versorio in medio posito centrum habet, à quo detinetur, ut
+            <lb ed="#F" n="3"/>supra illud motum efficiat in medio lapide, cum alia ratione non possit se 
+            cus<lb ed="#F" n="4" break="no"/>pis ad B. accommodare, se se in illo situ accommodat, &amp; disponit secundum
+            <lb ed="#F" n="5"/>magnetis longitudinem: sic enim &amp; cuspis accedit ad B. &amp; crux pariter ad
+            <lb ed="#F" n="6"/>A. quod non minori conatu obtinere contendit. at vero si versorium 
+            appo<lb ed="#F" n="7" break="no"/>natur ipsi B. se in directum collocat contra axem; quia sic, &amp; cuspis tangit
+            <lb ed="#F" n="8"/>B. &amp; se ad radium perpendicularem, &amp; ad axem virtutis robustissimum, quod
+            <lb ed="#F" n="9"/>tunc potest accommodat.
+        </p>
+            <p xml:id="p9i7y5-e31323-d1e187">
+               <lb ed="#F" n="10"/>Verum directa, &amp; propria ratio adęquata est, quia versorium, &amp; 
+            quodli<lb ed="#F" n="11" break="no"/>bet aliud magneticum, quod ad magnetem A. B. accedat, sese accommodat
+            <lb ed="#F" n="12"/>ad qualitatem per medium diffusam, quae ex tradita doctrina illa prorsus
+            <lb ed="#F" n="13"/>ratione conformatur, qua se versorium disponit. &amp; sic semper partes 
+            opposi<lb ed="#F" n="14" break="no"/>tae se mutuo advocant; quam legem praecipuam in magneticis 
+            attractioni<lb ed="#F" n="15" break="no"/>bus statuimus.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

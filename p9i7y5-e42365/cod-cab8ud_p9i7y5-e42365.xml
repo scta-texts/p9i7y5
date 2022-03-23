@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 40</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 40</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="397"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e42365"> <!-- l4c40 -->
+            <head xml:id="p9i7y5-e42365-Hd1e107">Caput 40</head>
+            <!--416.xml-->
+            <p xml:id="p9i7y5-e42365-d1e111">
+               <pb ed="#F" n="397"/>
+               <lb ed="#F" n="1"/>Eadem non ferri facies, seu extremitas si nunquam fuerit magnetice excitum ferrum, 
+            po<lb ed="#F" n="2" break="no"/>sita supra versorium in nostro hemisphaerio trahit partem australem; eadem posita infra
+            <lb ed="#F" n="3"/>trahit partem Septentrionalem eiusdem. Cap. XL.
+        </p>
+            <p xml:id="p9i7y5-e42365-d1e122">
+               <lb ed="#F" n="4"/>Non recens error Portae delendus est, ut loquitur Gilb. lib. 3.
+            <lb ed="#F" n="5"/>cap. 14. à Porta improba repetitione inculcatus, nec vana 
+            opi<lb ed="#F" n="6" break="no"/>nione fallitur ille; sed corrigendus potius fuisset illius error,
+            <lb ed="#F" n="7"/>&amp; ex alio male sumptum experimentum emendandum, 
+            cita<lb ed="#F" n="8" break="no"/>tis illis cap. 18. 31. 42. Et sane improba repetitione inculcat,
+            <lb ed="#F" n="9"/>si unius magnetis facies ad alterum magnetem suspensum admoveatur ex
+            <lb ed="#F" n="10"/>parte superiori, trahere unam partem, si eadem facies admoveatur ad 
+            par<lb ed="#F" n="11" break="no"/>tem inferiorem, trahere oppositam. Similiter falsum est hoc idem 
+            accide<lb ed="#F" n="12" break="no"/>re in ferro magnetice excito, ut, si extremitatem A. admoveas supra 
+            verso<lb ed="#F" n="13" break="no"/>rium, trahat versorij cuspidem, si pariter A. ponatur infra, trahat crucem
+            <lb ed="#F" n="14"/>eiusdem. Hic sane Portae error est, &amp; bene à Gilb. reijcitur ex falso ortus
+            <lb ed="#F" n="15"/>experimento; si tamen Porta experimento didicit, &amp; non potius ex alio 
+            ma<lb ed="#F" n="16" break="no"/>le desumpsit: &amp; pelus adhuc ex hoc intulit tam in lapide magnete, quam in
+            <lb ed="#F" n="17"/>quolibet, alio magnetico corpore, sicuti articum, &amp; antarticum polum ha
+            <lb ed="#F" n="18"/>bemus, esse etiam occidentalem, &amp; orientalem partem supetiorem, &amp; 
+            infe<lb ed="#F" n="19" break="no"/>riorem. Debuisset potius Gilb. erroris causam indagare, &amp; invenisset 
+            pro<lb ed="#F" n="20" break="no"/>fecto, quod alibi positum fuit, in ferro esse situs differentiam: quod summam
+            <lb ed="#F" n="21"/>habet in magnetica hac philosophia admirationem, &amp; hactenus nullus 
+            evul<lb ed="#F" n="22" break="no"/>gavit, licet notaverit sub obscure Garzonius; ita ut Portae praebuerit errandi
+            <lb ed="#F" n="23"/>occasionem. illud est; si sumas ferrum non quidem magnetice excitum, in
+            <lb ed="#F" n="24"/>quo decipitur Porta; nam huiusmodi ferrum non est, idoneum ad hoc 
+            experi<lb ed="#F" n="25" break="no"/>mentum, sed quod omnino nunquam magnetem tetigerit, imo quod 
+            nun<lb ed="#F" n="26" break="no"/>quam ex terra, aut alia ratione verticitatem conceperit sensibilem, &amp; 
+            huius<lb ed="#F" n="27" break="no"/>modi ferrum altero extremo A. supra versorium ponas, trahet ad se partem
+            <lb ed="#F" n="28"/>versorij Australem: si ponas idem extremum A, deorsum infra versorium,
+            <lb ed="#F" n="29"/>trahet partem Septentrionalem. Non igitur lapis magnes, nec alia 
+            magne<lb ed="#F" n="30" break="no"/>tica corpora, dum sunt actualia, habent qualitatem, seu vim attrahendi cum
+            <lb ed="#F" n="31"/>differentia situs: sed omnia omnino ferramenta, dum sunt non actu, sed 
+            po<lb ed="#F" n="32" break="no"/>tentia magnetica, hanc facultatem obtinent, ut si ponatur supra versorium
+            <lb ed="#F" n="33"/>trahant unam partem, si ponantur infra, trahant aliam, &amp; praecise ex ista 
+            diffe<lb ed="#F" n="34" break="no"/>rentia situs, seu positionis, habent hanc diversitatem, seu facultatem 
+            attra<lb ed="#F" n="35" break="no"/>ctivam.
+        </p>
+            <p xml:id="p9i7y5-e42365-d1e195">
+               <lb ed="#F" n="36"/>Est igitur hoc certissimum experimentum (quicquid dicat Gilb. qui in
+            <lb ed="#F" n="37"/>hoc experimentum non exacte sumpsit) ferro tamen omni convenit, si 
+            nul<lb ed="#F" n="38" break="no"/>lam habeat insignem magneticam qualitatem, &amp; haec situs differentia 
+            so<lb ed="#F" n="39" break="no"/>lum in ferro, non in magnete deprehenditur, &amp; solum in ferro, dum 
+            poten<lb ed="#F" n="40" break="no"/>tia est magneticum; non vero, dum tale est actu; in quo bene reprehenditur
+            <!--417.xml-->
+            <pb ed="#F" n="398"/>
+               <lb ed="#F" n="1"/>Porta, qui proprietatem hanc, seu potius effectum hunc, à corpore 
+            magne<lb ed="#F" n="2" break="no"/>tico potentia, transtulit ad magneticum actu. Debet autem hoc observari
+            <lb ed="#F" n="3"/>diligenter, quod unum potest in errorem inducere, non solum ut ferrum.
+            <lb ed="#F" n="4"/>quod adhibetur, non sit actu magneticum; quod mihi persuadet Portam non
+            <lb ed="#F" n="5"/>ex proprio experimento illud proferre, sed
+            <lb ed="#F" n="6"/>ut ferrum erigatur directe supra versorium
+            <lb ed="#F" n="7"/>ut hic vides: quo facto deinde, sive supra
+            <lb ed="#F" n="8"/>versorium immineat A. extremum ferri, 
+            si<lb ed="#F" n="9" break="no"/>ve B. alterum extremum, semper posito fer
+            <lb ed="#F" n="10"/>ro supra sic erecto, hic in nostro hemisphę
+            <lb ed="#F" n="11"/>rio polari, idest in toto hemisphaerio poli
+            <lb ed="#F" n="12"/>arctici citra aequatorem trahitur crux, in
+            <lb ed="#F" n="13"/>alio vera hemisphaerio trahetur cuspis: 
+            po<lb ed="#F" n="14" break="no"/>sito autem infra versorium eodem 
+            extre<lb ed="#F" n="15" break="no"/>mo A. quod in parte superiori traxit 
+            cru<lb ed="#F" n="16" break="no"/>cem, perpetuo trahet cuspidem. Res est
+            <lb ed="#F" n="17"/>certissima, &amp; si talis non esset cum quolibet ferro, ut gladio, clave, &amp; alia hu
+            <lb ed="#F" n="18"/>iusmodi re possit fieri experimentum, dummodo ferrum habeat aliquam
+            <lb ed="#F" n="19"/>longitudem, &amp; consequenter cum omnes ubique instructi sint rebus ad ex
+            <lb ed="#F" n="20"/>perimentum necessarijs, imprudentissime sane, &amp; impudentissime mentirer.
+            <lb ed="#F" n="21"/>Quoniam vero res est admiranda, &amp; situ dignissima, unde nam oriatur ista
+            <lb ed="#F" n="22"/>situs differentia, non gravabor iterum clarius explicare: adverte autem me
+            <lb ed="#F" n="23"/>dixisse ferrum debere erigi supra versorium; quia sic certius veritas 
+            experi<lb ed="#F" n="24" break="no"/>menti constabit, non est tamen necesse, ut perpendiculariter erigatur, sed
+            <lb ed="#F" n="25"/>satis est, si ferrum sit quasi erectum, quod constabit, &amp; ex ratione, quam 
+            sub<lb ed="#F" n="26" break="no"/>do, &amp; ex sequenti propositione.
+         <lb ed="#F" n="43" type="fixed=398"/>
+               <figure xml:id="p9i7y5-e42365-Fd1e271">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870141/1561,692,851,692/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">B A</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375967-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e42365-d1e289">
+               <lb ed="#F" n="27" type="fixed=398"/>Garzonius quandam, qualitatem unius faciei excogitavit, quam putavit
+            <lb ed="#F" n="28"/>esse in ferro, quae differentiam situs haberet supra, &amp; infra. Sed haec qualitas
+            <lb ed="#F" n="29"/>ficta est, neque omnino potest explicari, de qua alibi non nihil dictum est.
+            <lb ed="#F" n="30"/>Rationem igitur reddo ex hactenus dictis. Si infra ferrum aliquod 
+            pona<lb ed="#F" n="31" break="no"/>tur versorium, &amp; ferrum non possit ad se versorium illud attrahere, ponatur
+            <lb ed="#F" n="32"/>vero infra versorium magnes; exeitatur vis in ferro illo, &amp; vis immittitur à
+            <lb ed="#F" n="33"/>potentia magnetis, qua possit ad se versorium provocare, &amp; disponere 
+            con<lb ed="#F" n="34" break="no"/>formiter ad qualitatem quam recipit à praesentia illius magnetis: similiter, si
+            <lb ed="#F" n="35"/>infra versorium ponatur ferrum, cuius vis magnetica sit valde tenuis, ut non
+            <lb ed="#F" n="36"/>possit versorium ad se disponere, si infra ferrum subdatur magnes, emortua
+            <lb ed="#F" n="37"/>virtus reviviscit, &amp; iam ferrum trahit ad se versorium per qualitatem, quam
+            <lb ed="#F" n="38"/>à pręsentia magnetis recipit. Quando igitur ponitur ferrum, cum illa situs
+            <lb ed="#F" n="39"/>differentia supra, &amp; infra versorium, ferrum excipit in se virtutem 
+            magne<lb ed="#F" n="40" break="no"/>ticam totius telluris per convenientem ad tellurem positionem, &amp; per 
+            il<lb ed="#F" n="41" break="no"/>lam qualitatem à tellure receptam versorium iuxta leges magneticas trahit.
+            <lb ed="#F" n="42"/>Quare effectus iste, quamvis videatur effectus ferri habentis istam differen¬
+         <!--418.xml-->
+         <pb ed="#F" n="399"/>
+               <lb ed="#F" n="1"/>tiam situs: re tamen vera non oritur ex aliqua qualitate, quae sit innata 
+            in<lb ed="#F" n="2" break="no"/>ferro, sed ex qualitate immissa à toto telluris globo, &amp; qualitas est 
+            magneti<lb ed="#F" n="3" break="no"/>ca duarum facierum eiusdem rationis, cum qualitate magnetis, non vero
+            <lb ed="#F" n="4"/>qualitas unius faciei tantum, quae differentiam situs habeat.
+        </p>
+            <p xml:id="p9i7y5-e42365-d1e339">
+               <lb ed="#F" n="23" type="fixed=399"/>
+               <figure xml:id="p9i7y5-e42365-Fd1e344">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870142/175,692,1933,1317/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">D E C C F D A B B A</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375969-r7</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="5" type="fixed=399"/>Rem autem, sic explico ex doctrina tradita. Primo sit magnes aliquis A. B.
+         <lb ed="#F" n="6"/>sit B. polus, qui convertitur in Septentrionem, si supra partem B. erigas 
+            ba<lb ed="#F" n="7" break="no"/>cillum ferreum in parte, quae est B. versus, habebit vim se convertendi ad Au
+            <lb ed="#F" n="8"/>strum, in parte superiori vim se convertendi ad Septentrionem; iam 
+            con<lb ed="#F" n="9" break="no"/>vertas bacillum, &amp; extremitarem remotam ficias proximam ipsi B. 
+            immu<lb ed="#F" n="10" break="no"/>tabitur vis magnetica in bacillo ex dictis alibi, &amp; semper pars, quae est prope
+            <lb ed="#F" n="11"/>B. habebit vim se convertendi in Austrum, &amp; trahet consequenter 
+            cuspi<lb ed="#F" n="12" break="no"/>dem versorij, remota dirigetur in Septentrionem, &amp; trahet crucem. Iam 
+            to<lb ed="#F" n="13" break="no"/>tus telluris globus A. B. intelligatur prius ferrum erectum esse supra terram
+            <lb ed="#F" n="14"/>perpendiculariler, aut quasi perpendiculariter, nihil enim facit ad physicum
+            <lb ed="#F" n="15"/>effectum mathematica dispositio ex ista dispositione ad terram ab ipsa terra
+            <lb ed="#F" n="16"/>acquirit verticitatem in isto nostro hemisphaerio, &amp; concipit vim dirigendi
+            <lb ed="#F" n="17"/>partem D. quae est terram versos ad polum telluris A: hoc est ad Septentrio
+            <lb ed="#F" n="18"/>nem: pars vero superior C. dirigitur ad Austrum: ergo existente ferro in tali
+            <lb ed="#F" n="19"/>situ, dum habet istam virtutem, necessario si versorium, collocetur supra 
+            fer<lb ed="#F" n="20" break="no"/>rum, pars ferri C trahat versorij cuspidem: quia enim pars illa ferri sic 
+            dispo<lb ed="#F" n="21" break="no"/>siti habet virtutem terrae, seu diffusam à terra, ut in Austrum ex lege 
+            magne<lb ed="#F" n="22" break="no"/>tica dirigatur, debet trahere partem versorij, quae dirigitur in Septentrio¬
+            <!--418.xml-->
+
+         <!--419.xml-->
+         <pb ed="#F" n="400"/>
+               <lb ed="#F" n="1"/>nem. Et haec est ratio, cur ferrum positum infra erectum sub versorio 
+            tra<lb ed="#F" n="2" break="no"/>hat cuspidem, quia sit versorium ponitur supra ferrum, quod in parte illa 
+            su<lb ed="#F" n="3" break="no"/>periori ex virtute magnetica telluris habeat vim directivam, sui ad Austrum:
+            <lb ed="#F" n="4"/>si vero, convertatur ferrum C. D. supra terram, ut in E. &amp; convertatur ita, ut
+            <lb ed="#F" n="5"/>non amplius D. sit in parte proximiore terrae, sed extremitas D. sit illa, quae
+            <lb ed="#F" n="6"/>terrae obvertitur, iam quia nova ratione disponitur ferrum ad ipsum telluris
+            <lb ed="#F" n="7"/>globum, ex ista nova positione ferri aufertur prior verticitas, quae 
+            produce<lb ed="#F" n="8" break="no"/>batur in ferro existente in E. quia nondum illa virtus erat bene in ferro 
+            ra<lb ed="#F" n="9" break="no"/>dicata, illa, inquam, virtus aufertur, &amp; alia nova producitur in contrario 
+            si<lb ed="#F" n="10" break="no"/>tu, &amp; positione pariter ab ipso toto telluris globo, ita ut iam in parte E. quae
+            <lb ed="#F" n="11"/>proximio, est terrae producatur vis dirigendi se ad polum A. hoc est ad 
+            Se<lb ed="#F" n="12" break="no"/>ptentrionem, in D. vero sit vis convertendi se ad Austrum. Hoc bene 
+            perce<lb ed="#F" n="13" break="no"/>pto, &amp; intellecta ista mutatione virtutis in ferro ex sua concursione, quod iam
+            <lb ed="#F" n="14"/>C. habeat vim se convertendi ad Septentrionem, prout existit in isto novo
+            <lb ed="#F" n="15"/>situ, cum prius haberet vim se dirigendi ad Austrum, dum existebat in F. quę
+            <lb ed="#F" n="16"/>mutatio verticitatis supra etiam fusius est explicata, &amp; eius ratio reddita à
+            <lb ed="#F" n="17"/>priori. Iam si ferro sic in E. existenti supponatur versorium eadem ferri pars
+            <lb ed="#F" n="18"/>C. trahet partem versorij, quae dirigitur in Austrum; quia habet vim sę 
+            dirigen<lb ed="#F" n="19" break="no"/>di in Septentrionem, dum sic sub est actioni terrae. Et haec est ratio, cur, si 
+            fer<lb ed="#F" n="20" break="no"/>rum collocetur supra versorium; habeat vim trahendi partem Aussralem
+            <lb ed="#F" n="21"/>perpetuo. Non est ergo novus error, ut volebat Gilbertus ista diversitas 
+            tra<lb ed="#F" n="22" break="no"/>ctionis ratione situs, sed est nova, &amp; iucundissima observatio, nec est evellen
+            <lb ed="#F" n="23"/>da falsa opinio, sed explicandum verissimum experimentum; quod nimirum
+            <lb ed="#F" n="24"/>non quidem magnes, sed una ferri extremitas posita infra trahat partem
+            <lb ed="#F" n="25"/>Septentrionalem, posita supra versorium trahat Australem ex sola ista situs
+            <lb ed="#F" n="26"/>differentia. Neque hoc oritur ex aliqua qualitate unius faciei, quae non 
+            ha<lb ed="#F" n="27" break="no"/>beat quidem distinctionem facierum, habeat tamen distinctionem situs, sed
+            <lb ed="#F" n="28"/>oritur ex mira totius terrestris globi magnetica virtute, quod scilicet 
+            exi<lb ed="#F" n="29" break="no"/>stente ferro in F. pars superior C. habeat in se virtutem à terra diffusam, quae
+            <lb ed="#F" n="30"/>dirigitur in Austrum, ac proinde trahit cuspidem versorij; existente vero
+            <lb ed="#F" n="31"/>ferro in E. pars item C. quae iam ipsa est terrae obversa, &amp; vicinior, habet vim
+            <lb ed="#F" n="32"/>à terra dirigendi se ad Septentrionem, ac proinde trahit versorij partem,
+            <lb ed="#F" n="33"/>quae dirigitur ad Austrum, quia vero non habet ferrum istam magneticam
+            <lb ed="#F" n="34"/>virtutem in se bene radicatam, ideo potest statim ex conversione ferri 
+            im<lb ed="#F" n="35" break="no"/>mutari verticitas.
+        </p>
+            <p xml:id="p9i7y5-e42365-d1e483">
+               <lb ed="#F" n="36"/>Hinc constat, cur non solum haec situs diversitas, quae supra, &amp; subtus 
+            fer<lb ed="#F" n="37" break="no"/>rum diversas trahat versorij partes, non sit in ipso magnete nisi fortasse ex
+            <lb ed="#F" n="38"/>aliquo accidente ob informen figuram, ut bene observavit Gilbertus 
+            con<lb ed="#F" n="39" break="no"/>tra Portam; sed etiam, cur non sit verum, in ferro prius magnetice excito
+            <lb ed="#F" n="40"/>aliquo modo. Si enim ferrum C. D. verticitatem in se haberet, non posset
+            <lb ed="#F" n="41"/>ex illa conversione supra terram à virtute telluris statim verticitas 
+            immu<lb ed="#F" n="42" break="no"/>tati, ut constat in versorio: non enim cum collocatur semel versorium in
+            <!--420.xml-->
+            <pb ed="#F" n="401"/>
+               <lb ed="#F" n="1"/>contrario situ, ut cuspidem habeat in Austrum, statim in illo immutatur
+            <lb ed="#F" n="2"/>verticitas à terra, ut iam dirigat cuspidem, in Austrum? si ergo ferrum C. D. 
+            <lb ed="#F" n="3"/>habuisset antea verticitatem certam; &amp; firmam, ut C. dirigeretur ad Austrum
+            <lb ed="#F" n="4"/>sive collocaretur ut in E. sive ut in F. semper C. traheret cuspidem; neque ex
+            <lb ed="#F" n="5"/>diversa illa collocatione traheret unquam crucem, quia in illo non 
+            immu<lb ed="#F" n="6" break="no"/>taretur verticitas. At vero, si non habeat in se ullam qualitatem 
+            magneti<lb ed="#F" n="7" break="no"/>cam, statim ubi collocatur ut in F. terra sua actione producit in illud 
+            qua<lb ed="#F" n="8" break="no"/>litatem ex lege magnetica: quia invenit subiectum denudatum contraria
+            <lb ed="#F" n="9"/>qualitate, si vero convertatur ferrum, quia prima illa qualitas non est valde
+            <lb ed="#F" n="10"/>roborata, exterminatur, &amp; nova in contrario situ producitur, &amp; novam 
+            tra<lb ed="#F" n="11" break="no"/>hit versorij partem.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

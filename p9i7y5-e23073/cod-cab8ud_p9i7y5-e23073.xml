@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 9</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 9</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="217"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e23073"> <!-- l3c9 -->
+            <head xml:id="p9i7y5-e23073-Hd1e107">Caput 9</head>
+            <p xml:id="p9i7y5-e23073-d1e109">
+               <lb ed="#F" n="3"/>Magnes non ubique terrarum directè dirigitur ad polos: variat tamen etiam ista variatio
+            <lb ed="#F" n="4"/>à polo pro varietate locorum. Cap. IX.
+        </p>
+            <p xml:id="p9i7y5-e23073-d1e116">
+               <lb ed="#F" n="5"/>Constanti pronunciato ab omnibus dicitur magnetica in 
+            po<lb ed="#F" n="6" break="no"/>los dirigi, &amp; receptissimum hoc est, cui nos addidimus supra,
+            <lb ed="#F" n="7"/>non in polos Cęli, sed in illas terrę partes, quae polo Coeli 
+            sub<lb ed="#F" n="8" break="no"/>iacent, hanc esse directionem. Verum illud difficile est, &amp; in
+            <lb ed="#F" n="9"/>philosophia magnetica arduum maximè, quod nimirum non
+            <lb ed="#F" n="10"/>pręcisè in polos colliment magnetica, sed non nihil à polis deflectant: hoc
+            <lb ed="#F" n="11"/>alibi explicatum est fusius, &amp; probatissimis experimentis demonstratum,
+            <lb ed="#F" n="12"/>non solum magnetica re ipsa declinare à vero meridiano; sed ita 
+            declina<lb ed="#F" n="13" break="no"/>re, ut aliquando plus, aliquado minus, pro varietate locorum declinent; 
+            ne<lb ed="#F" n="14" break="no"/>que in hoc certam aliquam sequi regulam, ut quanto verbi gratia 
+            elonga<lb ed="#F" n="15" break="no"/>tur ab aliquo certo meridiano, tanto magis declinet, donec in completo 
+            qua<lb ed="#F" n="16" break="no"/>drante incrementum absolvat; &amp; dum per sequentem quadrantem ad oppo
+            <lb ed="#F" n="17"/>sitam eiusdem meridiani partem descendit, incrementum minuatur. Quam
+            <lb ed="#F" n="18"/>regulam incrementi, &amp; decrementi declinationis magneticorum à vero 
+            me<lb ed="#F" n="19" break="no"/>ridiano mathematicam appellarem; sed alibi demonstratum est hanc 
+            regu<lb ed="#F" n="20" break="no"/>lam non observari. Physicum est corpus magnes; mathematicas leges non
+            <lb ed="#F" n="21"/>audit. Quamvis autem hoc alibi fusius sit explicatum, utpote pręcipuum
+            <lb ed="#F" n="22"/>in hac philosophia, nolui tamen hic omittere, dum quoscunque colligo 
+            ef<lb ed="#F" n="23" break="no"/>fectus, quos magnes eximios exhibet, ut singulorum causas exponam.
+        </p>
+            <p xml:id="p9i7y5-e23073-d1e160">
+               <lb ed="#F" n="41" type="fixed=216"/>
+               <figure xml:id="p9i7y5-e23073-Fd1e165">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869959/1249,2255,1037,532/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375685-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="24" type="fixed=216"/>Sumatur igitur magnes A. B. cuius poli sint A. &amp; B. Dico huiusmodi
+            <lb ed="#F" n="25"/>magnetem dum libratur,
+            <lb ed="#F" n="26"/>aut aquis imponitur in
+            <lb ed="#F" n="27"/>sua cymbula, ut natura
+            <lb ed="#F" n="28"/>clavum tenente ipse se 
+            di<lb ed="#F" n="29" break="no"/>rigat, non dirigere ita axem
+            <lb ed="#F" n="30"/>A. B. ut congruat cum 
+            ve<lb ed="#F" n="31" break="no"/>ro meridiano; sed pro 
+            va<lb ed="#F" n="32" break="no"/>rietate locorum nunc ma
+            <lb ed="#F" n="33"/>iori nunc minori angulo
+            <lb ed="#F" n="34"/>intersecare meridianum;
+            <lb ed="#F" n="35"/>&amp; hic quidem perpetuo,
+            <lb ed="#F" n="36"/>tum vero meridiano tantum angulum efformare, alibi vel ex eadem parte
+            <lb ed="#F" n="37"/>meridiani, vel ex opposita angulum, aut huic aequalem, aut inęqualem 
+            con<lb ed="#F" n="38" break="no"/>ficere, perpetuo tamen eundem in eodem loco. Non potest hoc in ipso 
+            ma<lb ed="#F" n="39" break="no"/>gnete prompto experimento demonstrari: potest tamen in alijs magneticis
+            <lb ed="#F" n="40"/>corporibus, ex quibus ad ipsum magnetem argumenta transferimus, non
+            <!--235.xml-->
+
+         <!--236.xml-->
+         <pb ed="#F" n="217"/>
+               <lb ed="#F" n="1"/>inepta coniectura; quidquid aliqui contendant in contrarium. Versoria
+            <lb ed="#F" n="2"/>ferrea magneticè excita, quae adhibentur ad horologia solaria riè collocan
+            <lb ed="#F" n="3"/>da, non directè collocantur, dum liberrimè se agunt supra suum stylum, in
+            <lb ed="#F" n="4"/>linea meridiana. &amp; quidem hic apud nos pars illa, quae in Septentrionem
+            <lb ed="#F" n="5"/>dirigitur, convertit se Orientem versus, ut faciat angulum, cum vera 
+            meri<lb ed="#F" n="6" break="no"/>diana linea grad. 4. cum dimidio circiter, alibi maiorem, alibi minorem 
+            an<lb ed="#F" n="7" break="no"/>gulum facit, ad has easdem partes; alibi divertit ad oppositas partes, 
+            nimi<lb ed="#F" n="8" break="no"/>rum à Septentrione ad Occidentem. Hoc idem cernitur in nautica 
+            pyxi<lb ed="#F" n="9" break="no"/>de, ex probatissimis Nautarum experimentis: quamvis ego etiam admittam
+            <lb ed="#F" n="10"/>multos esse Nautas, qui maximis navigationibus non exiguum nomen sibi
+            <lb ed="#F" n="11"/>pepere, &amp; tamen maximè sunt ineruditi, &amp;, quod ferè accidit in omni 
+            opisi<lb ed="#F" n="12" break="no"/>cum turba, experientiam solum quandam habent, &amp; praxim; caetera rudes,
+            <lb ed="#F" n="13"/>&amp; imperitissimi. Et quo fuerint huiusmodi ferramenta excitata 
+            vehemen<lb ed="#F" n="14" break="no"/>tiori, &amp; robustiori magnete, eò certiori lege discedunt à meridiano, ut 
+            sen<lb ed="#F" n="15" break="no"/>tias divaricationem istam non provenire ex infirma, &amp; imbecilla magnetis
+            <lb ed="#F" n="16"/>virtute; quasi vero conetur quidem, sed non possit pervenire ad meridianum;
+            <lb ed="#F" n="17"/>quod omnino falsum esse alibi etiam demonstratum est.
+        </p>
+            <p xml:id="p9i7y5-e23073-d1e264">
+               <lb ed="#F" n="18"/>Huius igitur effectus ea sit ratio praeclatissima, quae maximè omnium hanc
+            <lb ed="#F" n="19"/>illustrat Philosophiam. Magnes à tota tellure dirigitur, &amp; suos polos ad 
+            po<lb ed="#F" n="20" break="no"/>los telluris convertit; atqui Terra hanc vim dirigendi ad se magnetem non
+            <lb ed="#F" n="21"/>habet in solis polorum punctis, &amp; quasi mathematicis extremitatibus; 
+            phy<lb ed="#F" n="22" break="no"/>sica est enim actio, non mathematica directio (breviter hic perstringo, quod
+            <lb ed="#F" n="23"/>fusius alibi explicavi) sed habet hanc vim directivam Terra in toto suo 
+            glo<lb ed="#F" n="24" break="no"/>bo, &amp; in singulis suis partibus. Est tamen diffusa hęc vis per terrae globum,
+            <lb ed="#F" n="25"/>&amp; in ipsa terra quasi coagmentata per ordinem ad polos, &amp; totus telluris
+            <lb ed="#F" n="26"/>globus dirigit suam hanc magneticam virtutem ad polos: &amp; licet ex illis
+            <lb ed="#F" n="27"/>quasi, ut ita dicam, ex foraminibus virtutis radij propagentur quaquà 
+            ver<lb ed="#F" n="28" break="no"/>sum, à toto tamen globo ad illa puncta transmittuntur vires; sicut etiam hoc
+            <lb ed="#F" n="29"/>videmus contingere in nostro communi magnete: quamvis enim in polis
+            <lb ed="#F" n="30"/>magneticis virtus exaltetur, &amp; inde quasi ex regio ostio se se profundat, totum
+            <lb ed="#F" n="31"/>tamen magnetis corpus, &amp; magneticam virtutem possidet, &amp; illam ad 
+            desti<lb ed="#F" n="32" break="no"/>nata puncta dirigit. Cum ergo totus telluris globus, quantus quantus est,
+            <lb ed="#F" n="33"/>hanc vim directivam habeat; si ex una parte versorij iaceant ampliora 
+            tel<lb ed="#F" n="34" break="no"/>luris spatia, quam ex alia, ex qua maria ingentia terras consepeliant, illa 
+            ter<lb ed="#F" n="35" break="no"/>ra, quae maior est ex illa parte, quam ex alia, quia, &amp; ipsa suam vim habet 
+            acti<lb ed="#F" n="36" break="no"/>vam, trahit ad se aliquantulum versorium, &amp; magnetem. Et hinc fit, tanquam
+            <lb ed="#F" n="37"/>ex propria causa, ut ad illam partem magis declinet versorium, quam ad
+            <lb ed="#F" n="38"/>aliam, quia ex illa maior est causa attractiva, quam ex opposita, nimirum
+            <lb ed="#F" n="39"/>maior detectae terrae pars, &amp; physicè maior. Quamvis enim alias dixerim,
+            <lb ed="#F" n="40"/>&amp; verum sit corpora magnetica agere per ordinem ad polos, ita ut omnes
+            <lb ed="#F" n="41"/>partes corporis dirigant suam vim ad puncta polaria, ut inde 
+            proseminen<lb ed="#F" n="42" break="no"/>tur radij directionis, ex quo alicui difficile videatur, quomodo ab eodem
+            <!--237.xml-->
+            <pb ed="#F" n="218"/>
+               <lb ed="#F" n="1"/>terrae polo, ex eo quod maior pars terrae sit ex una parte, radius possit exire,
+            <lb ed="#F" n="2"/>qui dirigat ad aliquod punctum, quam ad polum; imo deviare cogat à 
+            po<lb ed="#F" n="3" break="no"/>lo; respondeo, cum maior terrae pars est ex una parte, quam ex alia, quod ad
+            <lb ed="#F" n="4"/>virtutem magneticam polum mutari; cum poli sint extremitates axis virtu
+            <lb ed="#F" n="5"/>tis, &amp; axis sit linea, quę ęqualiter interiacet inter corpus virtute magnetica
+            <lb ed="#F" n="6"/>ęqualiter affectum, seu inter aequalem virtutem magneticam, verum hoc
+            <lb ed="#F" n="7"/>fusius infra.
+        </p>
+            <p xml:id="p9i7y5-e23073-d1e340">
+               <lb ed="#F" n="8"/>Quotiescunque igitur in aliqua sumus regione constituti, in qua ex una
+            <lb ed="#F" n="9"/>parte meridiani sint continentia Terrę spatia longè maiora, quam ex alia
+            <lb ed="#F" n="10"/>est maior ratio, cur deflectat ad illam plagam versorium, quàm ad aliam:
+            <lb ed="#F" n="11"/>&amp; re vera sic contingit; coque magis deflectit, quo continentia spatia ex 
+            il<lb ed="#F" n="12" break="no"/>la parte fuerint latius excurrentia. Hinc constat cur in nostra hac Italię 
+            re<lb ed="#F" n="13" break="no"/>gione versorium cuspide, quo in septentrionem collimat; deflectat ad 
+            Orien<lb ed="#F" n="14" break="no"/>tem: ratio enim est, quia ex parte Orientis longissimi sunt tractus Terrarum
+            <lb ed="#F" n="15"/>totius scilicet Asiae, &amp; Europę partis non exiguę; ex parte vero Occidentis 
+            ia<lb ed="#F" n="16" break="no"/>cet solum pars altera Europę, quę ad Asiam comparata, brevissimo clauditur
+            <lb ed="#F" n="17"/>confinio. Et quia hęc tota Terra, quę ad Orientem iacet in hemisphęrio est
+            <lb ed="#F" n="18"/>septentrionali: ideo trahit ad se partem versorij septentrionalem: at vero in
+            <lb ed="#F" n="19"/>Anglia; quia in eadem Orientis parte non solum Asiam, &amp; quam nos 
+            habe<lb ed="#F" n="20" break="no"/>mus ad Orientem, totam habet Terrę portionem, sed pręterea integram 
+            Eu<lb ed="#F" n="21" break="no"/>ropam; ad Occidentem vero nihil terrę habet, quod nobis non contingit,
+            <lb ed="#F" n="22"/>sed excurrunt maria immenso tractu, ideo versorium magis etiam ibi 
+            defle<lb ed="#F" n="23" break="no"/>ctit à vero meridiano ad Orientem, quam apud nos, convenienti ratione
+            <lb ed="#F" n="24"/>quam experimentum confirmat. In universum igitur ea potest firmissima
+            <lb ed="#F" n="25"/>starvi conclusio: quoties ex aliqua parte meridiani longè maiora 
+            continen<lb ed="#F" n="26" break="no"/>tium spatia fuerint, quam ex alia; spacia illa ad se trahent versorij partem,
+            <lb ed="#F" n="27"/>si fuerint in hemisphęrio septentrionalis septentrionalem; si in meridionali
+            <lb ed="#F" n="28"/>meridionalem: &amp; contra, quoties videbis versorium declinare ad aliquam
+            <lb ed="#F" n="29"/>partem id provenire pronunciabis, tanquam ex proxima causa, quod ad 
+            il<lb ed="#F" n="30" break="no"/>lam partem excurrant maiora telluris spatia, quam ad aliam.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

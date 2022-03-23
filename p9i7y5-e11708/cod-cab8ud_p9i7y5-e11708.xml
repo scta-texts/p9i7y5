@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="110"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e11708"> <!-- l2c3 -->
+            <head xml:id="p9i7y5-e11708-Hd1e107">Caput 3</head>
+            <p xml:id="p9i7y5-e11708-d1e109">
+               <lb ed="#F" n="3"/>Cap. III.
+        </p>
+            <p xml:id="p9i7y5-e11708-d1e114">
+               <lb ed="#F" n="4"/>Praecedenti inclusimus capite reliquorum opiniones de 
+            magne<lb ed="#F" n="5" break="no"/>tica attractione, qui mihi magis per communia hac in re 
+            phi<lb ed="#F" n="6" break="no"/>losophari visi sunt, nunc duorum est opinio expendenda, qui
+            <lb ed="#F" n="7"/>magis proprijs insistunt principijs, alter est Petrus 
+            Peregri<lb ed="#F" n="8" break="no"/>nus, de quo superiori lib. incidit mentio, qui apud nonnullos in magnetica
+            <lb ed="#F" n="9"/>philosophia Magistri nomen est assecutus. Is propius rem attingere visus
+            <lb ed="#F" n="10"/>est, dum certis experimentis haud dubiam sibi fidem conciliat: supponens
+            <lb ed="#F" n="11"/>enim, quod re ipsa est, nec alij commemorasse videntur in magnete duas
+            <lb ed="#F" n="12"/>esse ficies; alteram, quae in septentrionem vergit, &amp; septentrionalem nunc
+            <lb ed="#F" n="13"/>appellabo, alteram, quae in meridiem, &amp; meridionalem dicam, ferrumque has
+            <lb ed="#F" n="14"/>easdem facies sibi posse comparare, ex magnetico consortio, ac familiari
+            <lb ed="#F" n="15"/>contactu. Ut rationem reddat, cur facies meridionalis septentrionalem 
+            at<lb ed="#F" n="16" break="no"/>trahat, &amp; septentrionalis meridionalem: ècontrario cur meridionalis 
+            me<lb ed="#F" n="17" break="no"/>ridionalem, septentrionalis septentrionalem refugiat, vel hostili, vel invido
+            <lb ed="#F" n="18"/>animo, ut figulus figulum, sive illae facies in magnete à natura sint, sive in
+            <lb ed="#F" n="19"/>ferrum à magnete hospitij iure transmissae, id ex eo contingere dicit, quod
+            <lb ed="#F" n="20"/>agens in rebus naturalibus, non solum effectum sibi similem elaborare 
+            in<lb ed="#F" n="21" break="no"/>tendit, verum etiam id, quod actioni subest, sibi coniungere, &amp; quasi secum
+            <lb ed="#F" n="22"/>in unum corpus coagmentare exoptat, ut secum unum quid, si fieri possit,
+            <lb ed="#F" n="23"/>conflet, quo, &amp; robustius agat, &amp; firmius, si opus sit, inimicos impetus 
+            susti<lb ed="#F" n="24" break="no"/>neat; quem praecipuè finem sibi constituunt agentia naturalia; subditque 
+            ma<lb ed="#F" n="25" break="no"/>gnetem robustum magis, ac vehementem agentis vicem gerere, quod sibi
+            <lb ed="#F" n="26"/>minorem imbecilliorem'que adnectere exoptat, illud'que hac ratione 
+            per<lb ed="#F" n="27" break="no"/>suadet.
+        </p>
+            <p xml:id="p9i7y5-e11708-d1e169">
+               <lb ed="#F" n="42" type="fixed=109"/>
+               <figure xml:id="p9i7y5-e11708-Fd1e174">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869852/846,2410,1212,897/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A C D G B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375521-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="28" type="fixed=109"/>Sit magnes lapis A. B. in
+            <lb ed="#F" n="29"/>quo A. sit pars 
+            septentrio<lb ed="#F" n="30" break="no"/>nalis B. meridionalis: 
+            divi<lb ed="#F" n="31" break="no"/>latur'que utcunque in C. D.
+            <lb ed="#F" n="32"/>ponatur'que, ut alias 
+            exige<lb ed="#F" n="33" break="no"/>bamus, in sua veluti 
+            cym<lb ed="#F" n="34" break="no"/>bula super aquam pars A.
+            <lb ed="#F" n="35"/>C. in hac parte pariter pars
+            <lb ed="#F" n="36"/>A. ad septentrionem verget
+            <lb ed="#F" n="37"/>constanter, ut antea; nec 
+            e<lb ed="#F" n="38" break="no"/>nim lapidis naturae vim 
+            in<lb ed="#F" n="39" break="no"/>fert divisio. opposita igitur
+            <lb ed="#F" n="40"/>facies F. erit pariter 
+            meri<lb ed="#F" n="41" break="no"/>dionalis. Suae item cymbu¬
+            <!--128.xml-->
+
+         <!--129.xml-->
+         <pb ed="#F" n="110"/>
+               <lb ed="#F" n="1"/>lae nauclerus constituatur 
+            alte<lb ed="#F" n="2" break="no"/>ra pars lapidis B. D. dirigetur
+            <lb ed="#F" n="3"/>B. in meridiem natura, ut ante,
+            <lb ed="#F" n="4"/>magistra G. vero altera facies
+            <lb ed="#F" n="5"/>ex divisione procreata in 
+            sep<lb ed="#F" n="6" break="no"/>tentrionem collimabit. Si 
+            er<lb ed="#F" n="7" break="no"/>go uterque ex his lapidibus in
+            <lb ed="#F" n="8"/>uno eodemque vase maiore aqua
+            <lb ed="#F" n="9"/>pleno, veluti in eodem mari 
+            per<lb ed="#F" n="10" break="no"/>mittatur navigare, tunc cum
+            <lb ed="#F" n="11"/>pars F. in lapide A. F. sit meridionalis, &amp; G. in lapide G. B. sit 
+            septentriona<lb ed="#F" n="12" break="no"/>lis, apparebit G. convertere se ad F. nunquam vero ad A. ita ut amet se 
+            ite<lb ed="#F" n="13" break="no"/>rum coniungere eadem ratione, qua erat antea, unumque totale agens 
+            con<lb ed="#F" n="14" break="no"/>flare, ut prius faciebat, &amp; iterum ad unum lapidem A. B. cuius tota linea ab
+            <lb ed="#F" n="15"/>A. ad B. currat septentrionalis, &amp; tota à B. ad A. meridionalis: vel certè A.
+            <lb ed="#F" n="16"/>pars lapidis A. F. septentrionalis, &amp; B. meridionalis in lapide G. B. 
+            coniun<lb ed="#F" n="17" break="no"/>gentur, sic enim etiam fieret unus lapis, &amp; unum agens totum ex G. B. A. F.
+            <lb ed="#F" n="18"/>atque à G. ad F. tota esset facies septentrionalis, &amp; ab F. ad G. tota 
+            meridio<lb ed="#F" n="19" break="no"/>nalis, altera opposita esset septentrionalis.
+         <lb ed="#F" n="43" type="fixed=110"/>
+               <figure xml:id="p9i7y5-e11708-Fd1e272">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869853/1335,433,1088,603/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A C D B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375522-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e11708-d1e291">
+               <lb ed="#F" n="44" type="fixed=110"/>
+               <figure xml:id="p9i7y5-e11708-Fd1e296">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869853/1280,1731,1163,935/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A C G D B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375522-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <!--Two figures after each other ... type-fixed needed?-->
+               <lb ed="#F" n="20" type="fixed=110"/>Quod si aliter natantes
+            <lb ed="#F" n="21"/>illi lapides iungerentur, vel
+            <lb ed="#F" n="22"/>in munuos confluerent 
+            ne<lb ed="#F" n="23" break="no"/>xus, haec unitas agentis, &amp;
+            <lb ed="#F" n="24"/>integra virium conspiratio
+            <lb ed="#F" n="25"/>non staret: nam si lapis A.
+            <lb ed="#F" n="26"/>F. attraheret lapidem G. B.
+            <lb ed="#F" n="27"/>ita ut B. se appelleret ad 
+            pla<lb ed="#F" n="28" break="no"/>num F. non coalesceret unum
+            <lb ed="#F" n="29"/>agens, quod totam sibi 
+            con<lb ed="#F" n="30" break="no"/>sequentem haberet virtutem
+            <lb ed="#F" n="31"/>primum enim in toto uno
+            <lb ed="#F" n="32"/>agente magnetico facies 
+            al<lb ed="#F" n="33" break="no"/>tera septentrionem spectare
+            <lb ed="#F" n="34"/>debet, altera illi è regione opposita, &amp; ultima meridiem: cui rei fidem facium
+            <lb ed="#F" n="35"/>omnes experientiae. atqui, cum in toto corpore A. F. B. G. si tanquam unum
+            <lb ed="#F" n="36"/>quid sumeretur facies A. septentrionalis esset, facies vero G. illi, e regione
+            <lb ed="#F" n="37"/>respondens, non meridionalis, sed pariter ipsa quoque septentrionalis esset,
+            <lb ed="#F" n="38"/>id comprobante experimento supta facto, non esset unum magneticum; 
+            si<lb ed="#F" n="39" break="no"/>militer in uno toto agente magnetico tota qualitas à G. ad A. debet, ut sic
+            <lb ed="#F" n="40"/>dixerim, septentrionizare, idest agere ita, ut se dirigat in septentrionem, &amp;
+            <lb ed="#F" n="41"/>tota ab A. ad G. debet meridionizare, idest disponere se ad meridiem, si est
+            <lb ed="#F" n="42"/>unicum agens: at vero in tota mole A. F. B. G. pars A. F. septentrionizat B. G.
+            <!--129.xml-->
+
+         <!--129.xml-->
+
+         <!--130.xml-->
+         <pb ed="#F" n="111"/>
+               <lb ed="#F" n="1"/>meridionizat. non ergo potest totum corpus A. F. B. G. ad unum aliquem
+            <lb ed="#F" n="2"/>effectum producendum conspirare; cum una pars conetur dirigere se in
+            <lb ed="#F" n="3"/>septentrionem, altera in meridiem. Idem dic, si facies A. &amp; G. convenitent.
+            <lb ed="#F" n="4"/>Cum igitur natura ad illud, quod est perfectissimum, conetur; &amp; vis, quam
+            <lb ed="#F" n="5"/>in effectum inducere tentat, &amp; potentia quam illi communicare vult sit
+            <lb ed="#F" n="6"/>quam perfectissima, id assequetur ea invicem ratione coniungendo partes,
+            <lb ed="#F" n="7"/>ut pars meridionalis septentrionalem attrahat, meridionalem 
+            septentrio<lb ed="#F" n="8" break="no"/>nalis. Atque haec est ratio ex Peregiini placito, cur facies oppositae in 
+            mu<lb ed="#F" n="9" break="no"/>tuos ruant amplexus, eiusdem vero nominis, &amp; virtutis se repellant 
+            quan<lb ed="#F" n="10" break="no"/>tum ex eius membranis erui potuit.
+        </p>
+            <p xml:id="p9i7y5-e11708-d1e396">
+               <lb ed="#F" n="11"/>Haec opinio quamvis probabili nitatur fundamento, certoque 
+            experimen<lb ed="#F" n="12" break="no"/>to, &amp; ei, qui rem non accuratissimè rimetur, ingeniosa videatur, &amp; ex 
+            visceri<lb ed="#F" n="13" break="no"/>bus rei eruta ex proprijs principijs, non per communia, non suis tamen 
+            ca<lb ed="#F" n="14" break="no"/>ret difficultatibus: nec experientiae desunt, quae falsitatis eam redarguunt.
+            <lb ed="#F" n="15"/>&amp; licet propius ad rem ipsam accedat, longa tamen adhuc illi restat via, ut
+            <lb ed="#F" n="16"/>totam assequatur veritatem. Atque in universum quod assumit, agens non
+            <lb ed="#F" n="17"/>solum contendere, ut suam in passo similitudinem producat, sed etiam ut 
+            si<lb ed="#F" n="18" break="no"/>bi coniungat; id de coniunctione per similitudinem intelligendum puto,
+            <lb ed="#F" n="19"/>non per corporum contactum. Ut cum ex igne subiectum incalescit, quo
+            <lb ed="#F" n="20"/>calor in tali subiecto augescit magis, etiam igni magis unitur, non quantitate,
+            <lb ed="#F" n="21"/>ac subiecto, sed qualitate, &amp; forma; non quod ignis sua mole sibi faciat 
+            su<lb ed="#F" n="22" break="no"/>biectum adhaerescere, sed formae similitudine. Quod si subiectum ex 
+            actio<lb ed="#F" n="23" break="no"/>ne ignis non solum incalescat, sed ignescat; magis igni unitur, non 
+            com<lb ed="#F" n="24" break="no"/>munione quantitatis, sed formae. Et in universum, non ex eo, quod res 
+            si<lb ed="#F" n="25" break="no"/>miles sint, vel adinvicem agant, aut patiantur, est huiusmodi compulsus, seu
+            <lb ed="#F" n="26"/>artractio, ut constat experientia. non igitur attractionis causam actionem
+            <lb ed="#F" n="27"/>dixeris, praecisè, ut dicitur, reduplicativè; cum haec sine illa reperiatur. Neque
+            <lb ed="#F" n="28"/>vero in hoc eodem subiecto magnetico, tanquam attractionis causam 
+            quis<lb ed="#F" n="29" break="no"/>quam similitudinem proferre potest. An non maior est similitudo inter
+            <lb ed="#F" n="30"/>duas facies septentrionales, quae tamen amplexus reformidant, &amp; 
+            consor<lb ed="#F" n="31" break="no"/>tium devitant, ut sensit etiam Peregrinus, &amp; res indicat? quam inter 
+            septen<lb ed="#F" n="32" break="no"/>trionalem unius, &amp; meridionalem alterius, quae se coniungunt? Illud autem
+            <lb ed="#F" n="33"/>in quo vim facit, ideo se sic coniungere partes, ut conflare possint unum 
+            a<lb ed="#F" n="34" break="no"/>gens magis robustum, sic mihi videtur posse impugnari.
+        </p>
+            <p xml:id="p9i7y5-e11708-d1e451">
+               <lb ed="#F" n="35"/>Primum si in hoc magnete altera pars est tota in eo, ut sibi adiungat 
+            al<lb ed="#F" n="36" break="no"/>teram partem ad constituendum unum agens robustius; laboret sane, ut 
+            si<lb ed="#F" n="37" break="no"/>bi oppositam conciliet faciem, septentrionalis meridionalem trahat, quo
+            <lb ed="#F" n="38"/>hoc assequitur: at cur similes se facies expellunt? cur meridionalis 
+            meridio<lb ed="#F" n="39" break="no"/>nalem repellit? non sane adducat, quia sic non constitueret unum agens: at
+            <lb ed="#F" n="40"/>cur fugat? dicer aliquis pro Peregrino, non fugat meridionalis 
+            meridiona<lb ed="#F" n="41" break="no"/>lem, sed attrahit septentrionalem; verum quia septentrionalis adduci non
+            <lb ed="#F" n="42"/>potest, quin meridionalis terga vertat, hinc suspicioni locus est factus.
+            <!--131.xml-->
+            <pb ed="#F" n="112"/>
+               <lb ed="#F" n="1"/>quod meridionalem abigat. argumento sit, quod non recta linea repellit,
+            <lb ed="#F" n="2"/>aut retroagit, sed circulariter convertit.
+         <lb ed="#F" n="11" type="fixed=112"/>
+               <figure xml:id="p9i7y5-e11708-Fd1e482">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869855/509,603,1893,1062/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">D A C B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375525-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e11708-d1e500">
+         Si enim lapidi natanti A. B. cuius
+            <!--131.xml-->
+         <lb ed="#F" n="3" type="fixed=112"/>A. sit pars septentrionalis B. meridionalis, admoveas lapidem C. D. cuius
+            <lb ed="#F" n="4"/>C. sit meridionalis D. septentrionalis, facies lapidis natantis B. non recta à
+            <lb ed="#F" n="5"/>C. recedet, sed in gyrum agetur lapis, ut faciem A. ipsi C. obvertat. ergo C.
+            <lb ed="#F" n="6"/>non fugat B suo ingenio, sed adducit A. ad quod sequitur B. locum cedere:
+            <lb ed="#F" n="7"/>alioquin recta recederet, si tales gererent inimicitias. Ingeniosum sane 
+            pa<lb ed="#F" n="8" break="no"/>trocinium. quid, si recta recedere demonstro, non ne litem obtineo? At 
+            osten<lb ed="#F" n="9" break="no"/>do C. non repellere B. ut adducat A. sed quia verè non aequos gerit animos,
+            <lb ed="#F" n="10"/>sed veras alit discordias.
+         <!--131.xml-->
+         <lb ed="#F" n="12" type="fixed=112"/>
+               <figure xml:id="p9i7y5-e11708-Fd1e527">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869855/517,2258,1885,1158/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">B A C D</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375525-r7</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e11708-d1e545">
+         <!--132.xml-->
+               <pb ed="#F" n="113"/>
+               <lb ed="#F" n="1"/>Sume lapidem A. B. &amp; in vasculo ita dispone, ut pars illa lapidis in qua
+            <lb ed="#F" n="2"/>est unus polus, &amp; notatur A. in vase sedeat in fundo, emineat vero B. alter
+            <lb ed="#F" n="3"/>scilicet polus omnino in superiori parte, tunc admoueas C. partem item 
+            me<lb ed="#F" n="4" break="no"/>ridionalem lapidis C. D. ipsi B. quae sit pariter facies meridionalis; videbis
+            <lb ed="#F" n="5"/>lapidem A. B. recta recedere, &amp; fugari ab ipso C. ergo C. per se fugat B. 
+            re<lb ed="#F" n="6" break="no"/>cta, &amp; non in gyrum agit, quasi velit solum attrahere A. non autem 
+            averse<lb ed="#F" n="7" break="no"/>tur ipsum B. sed potius dicendum est in priori casu ea demum ratione, quod
+            <lb ed="#F" n="8"/>velit C. ad se advocare A. fieri, ut B. non recta, sed circulari cursu declinet
+            <lb ed="#F" n="9"/>faciem inimicam C. alioquin per se ex innato hostili animo recta se 
+            subdu<lb ed="#F" n="10" break="no"/>ceret, ut constat, quando per se retrahitur, &amp; altera pars opposita non 
+            advo<lb ed="#F" n="11" break="no"/>catur. Quaerendus est igitur aliquis alius finis, propter quem, natura 
+            inspi<lb ed="#F" n="12" break="no"/>rante, C advocet sibi A. ex quo etiam reddi possit ratio cur B. fugiat à C.
+            <lb ed="#F" n="13"/>quem finem inferius exponere tentabo, &amp; quem non exprimit Peregrini
+            <lb ed="#F" n="14"/>dictum.
+        </p>
+            <p xml:id="p9i7y5-e11708-d1e582">
+               <lb ed="#F" n="43" type="fixed=113"/>
+               <figure xml:id="p9i7y5-e11708-Fd1e587">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869856/1095,1809,1008,880/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">D A C B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375527-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="15" type="fixed=113"/>Alterum experimentum, quo ostenditur Peregrinum adhuc in hac 
+            phi<lb ed="#F" n="16" break="no"/>losophia peregrinari, &amp; unum magnetem alterum, non advocare, nec 
+            ma<lb ed="#F" n="17" break="no"/>gnetica corpora concurrere praecisè, ut ex illis pluribus unum quid tertium
+            <lb ed="#F" n="18"/>componatur, quod totum unicam habeat qualitatem, unica ratione 
+            excur<lb ed="#F" n="19" break="no"/>rentem, tale esto. Sumatur A. B. cuius A. sit pars septentrionalis B. 
+            meri<lb ed="#F" n="20" break="no"/>dionalis; longitudo igitur, seu virtutis versus erit A. B. secundum hanc 
+            igi<lb ed="#F" n="21" break="no"/>tur lapidis longitudinem abscinde
+            <lb ed="#F" n="22"/>frustum C. D. oblongum; sicut 
+            au<lb ed="#F" n="23" break="no"/>tem in toto lapide A. B. excurrebat
+            <lb ed="#F" n="24"/>A. versus pars septentrionalis, &amp; B.
+            <lb ed="#F" n="25"/>versus meridionalis, ita, &amp; in 
+            singu<lb ed="#F" n="26" break="no"/>lis eius partibus eadem lex 
+            servabi<lb ed="#F" n="27" break="no"/>tur, ut pars illa abscissi lapidis, quae
+            <lb ed="#F" n="28"/>ad A. vergebat, in septentrionem 
+            di<lb ed="#F" n="29" break="no"/>rigat cursum; quae vero ad B. sit 
+            me<lb ed="#F" n="30" break="no"/>ridionalis. Quod &amp; ratio ipsa 
+            per<lb ed="#F" n="31" break="no"/>suadet ex eo, quod, sicut totum, ita,
+            <lb ed="#F" n="32"/>&amp; singulae partes unicum obtinent
+            <lb ed="#F" n="33"/>virtutis cursum, ut experimento 
+            con<lb ed="#F" n="34" break="no"/>probatur; particulae enim C. D. si 
+            il<lb ed="#F" n="35" break="no"/>la media suspendatur, apparebit C. ad easdem se convertere partes, ad quas
+            <lb ed="#F" n="36"/>respiciebat A. &amp; D eundem cum B. portum capere. In frustulo igitur C.
+            <lb ed="#F" n="37"/>D. C. eandem cum A. possidet faciem, &amp; D. cum B. Iam vero si ea solum 
+            ra<lb ed="#F" n="38" break="no"/>tione lapis A. B. attraheret frustum C. D. ut una cum illo unum integraret
+            <lb ed="#F" n="39"/>corpus magneticum, cuius tota virtus una ratione excurreret, &amp; in toto 
+            es<lb ed="#F" n="40" break="no"/>set qualitas uniformiter posita; certè non alia ratione, nec alijs legibus pars
+            <lb ed="#F" n="41"/>A. B. attrahere deberet partem C. D. nec alia via sibi coniungere, quam ea,
+            <lb ed="#F" n="42"/>qua prius à natura lapidi A. B. coniuncta fuerat. quo enim pacto magis unum
+            <!--132.xml-->
+
+         <!--133.xml-->
+         <pb ed="#F" n="114"/>
+               <lb ed="#F" n="1"/>fieret ex illis partibus, &amp; qua ratione melius conflaretur una qualitas, quam
+            <lb ed="#F" n="2"/>si coniungerentur, ut prius erant; cum prorsus ambae erant unum quid 
+            in<lb ed="#F" n="3" break="no"/>divisum? Si ergo supta planum lapidis A. B. à quo est avulsa pars C. D. ipsa
+            <lb ed="#F" n="4"/>pars C. D. suspenderetur, deberet ita sibi coniungere illam, ut C. 
+            attrahere<lb ed="#F" n="5" break="no"/>tur ad A: D. ad B. sic enim fieret unum
+            <lb ed="#F" n="6"/>corpus magneticum, cuius tota mo
+            <lb ed="#F" n="7"/>les ab A. ad B. meridionalis esset, &amp; à
+            <lb ed="#F" n="8"/>B. ad A. septentrionalis; propter quod
+            <lb ed="#F" n="9"/>solum magnetica se attrahere 
+            Pere<lb ed="#F" n="10" break="no"/>grinus contendebat. atqui contrarium
+            <lb ed="#F" n="11"/>prorsus accidit: si enim frustulum C.
+            <lb ed="#F" n="12"/>D. suspendas filo medum, &amp; ad plagam
+            <lb ed="#F" n="13"/>lapidis A. B. unde excisum est 
+            admo<lb ed="#F" n="14" break="no"/>veatur: frusti pars C. non ad A. 
+            ver<lb ed="#F" n="15" break="no"/>get, unde avulsa fuerat, sed 
+            constantis<lb ed="#F" n="16" break="no"/>simè ad B. inclinabit, &amp; pars D. ad
+            <lb ed="#F" n="17"/>A. prorsus contraria ratione, atque erat
+            <lb ed="#F" n="18"/>prius, quando illa pars erat unita cum
+            <lb ed="#F" n="19"/>toto. Pars igitur septentrionalis frusti ad meridionalem lapidis, &amp; meridionalis
+            <lb ed="#F" n="20"/>ad septentrionalem fertur; atque ita constanter, &amp; firmiter ad hanc 
+            positio<lb ed="#F" n="21" break="no"/>nem confluet, ut nulla unquam ratione possit adduci, ut C. ad A. vergat, eique
+            <lb ed="#F" n="22"/>adiungatur. non ergo intendit lapis C. D cum A. B. solum, &amp; primario
+            <lb ed="#F" n="23"/>unum quid facere, cuius tota moles unam partem versus sit septentrionalis,
+            <lb ed="#F" n="24"/>tota alteram versus sit meridionalis; quod Peregrinus corficere laborabat:
+            <lb ed="#F" n="25"/>contrarium enim accidere aliquando suadet hoc experimentum. Nam pars
+            <lb ed="#F" n="26"/>C. in D. C. est septentrionalis B. vero in A. B. est meridionalis, &amp; è 
+            contra<lb ed="#F" n="27" break="no"/>rio, atque ita constanter C. vergit ad B: D. ad A, ut etiamsi particula lapidis
+            <lb ed="#F" n="28"/>D. C. vi collocetur in sua priori sede in lapide A. B. nisi exactissime, &amp; 
+            pror<lb ed="#F" n="29" break="no"/>sus omnino priorem sedem occupet, ut nihil in medio sit, plagam'que, quam
+            <lb ed="#F" n="30"/>reliquerat in lapide A. B. prorsus repleat, non amplius adhaereat illi ea for
+            <lb ed="#F" n="31"/>ma, ut ubi primum relinquitur sibi, aut suo pondere decidat, aut sese 
+            con<lb ed="#F" n="32" break="no"/>vertat; &amp; tamen prius erat collocata pars illa in toto, &amp; natura 
+            consentien<lb ed="#F" n="33" break="no"/>te, atque inspirante sic manebat. Si vero C. adhaereat ad partes B. &amp; D. ad
+            <lb ed="#F" n="34"/>A. tenaci vinculo simul ligantur, ut verso etiam lapide, nisi nimio pondere
+            <lb ed="#F" n="35"/>fatiscat, adhaereat, ut poterit probari experientia.
+         <lb ed="#F" n="43" type="fixed=114"/>
+               <figure xml:id="p9i7y5-e11708-Fd1e750">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869857/1401,699,1032,918/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">D A C B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375528-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e11708-d1e769">
+               <lb ed="#F" n="36" type="fixed=114"/>Alia est ergo quaerenda causa, cur à magnete magneticum attrahatur,
+            <lb ed="#F" n="37"/>quam amor constituendi unum robustissimum agens, cuius totius virtus
+            <lb ed="#F" n="38"/>excurrat uno modo, saltem haec non erit ratio universalis. Alias ommitto
+            <lb ed="#F" n="39"/>impugnationes Peregrini, quae possent deduci ex obliqua conformatione
+            <lb ed="#F" n="40"/>obeli; siquis ponat parvum obelum supra rotundum magnetem: non enim
+            <lb ed="#F" n="41"/>in omnibus partibus ita conformatur obelus ille, ut ex magnete, &amp; ex 
+            obe<lb ed="#F" n="42" break="no"/>lo illo tanquam ex uno conflato magnetico fiat unum corpus, cuius tota
+            <!--133.xml-->
+
+         <!--134.xml-->
+         <pb ed="#F" n="115"/>
+               <lb ed="#F" n="1"/>virtus excurrat ab uno extremo septentrionalis, ab altero meridionalis: 
+            sae<lb ed="#F" n="2" break="no"/>pissime enim virtus, quae est in obelo excurrit contraria ratione, atque 
+            ex<lb ed="#F" n="3" break="no"/>currat virtus, quae est in magnete, ut constat praecipuè, quando obelus 
+            po<lb ed="#F" n="4" break="no"/>nitur in puncto aequinoctij magnetis, &amp; constat, si applicetur magnes ad
+            <lb ed="#F" n="5"/>versorium magneticè excitatum, cuius punctum australe, &amp; septentrionale
+            <lb ed="#F" n="6"/>noveris, ut feci lib. 1. cap. 5. tunc enim virtus versorij excurrit contraria 
+            ra<lb ed="#F" n="7" break="no"/>tione, atque excurrat virtus, quae est in magnete. ergo neque sic ferrum 
+            con<lb ed="#F" n="8" break="no"/>fluit ad magnetem, ut fiat unum magneticum, cuius tota virtus una ratione
+            <lb ed="#F" n="9"/>excurrat. ergo illa non est causa huius concursus magneticorum. Adde non
+            <lb ed="#F" n="10"/>explicare hanc Peregrini sententiam, cur sic confluant magnetica; cur haec,
+            <lb ed="#F" n="11"/>&amp; non alia similia corpora velint uniri: nec enim sic similia per calorem
+            <lb ed="#F" n="12"/>confluunt, nec sic alia, quod tamen ego infra tentabo explicare.
+        </p>
+            <p xml:id="p9i7y5-e11708-d1e819">
+               <lb ed="#F" n="13"/>Proponitur Gilberti opinio, de causa attractionis magneticae.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

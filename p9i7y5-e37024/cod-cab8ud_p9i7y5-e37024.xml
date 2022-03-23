@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 21</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 21</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="347"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e37024"> <!-- l4c21 -->
+            <head xml:id="p9i7y5-e37024-Hd1e107">Caput 21</head>
+            <p xml:id="p9i7y5-e37024-d1e109">
+               <lb ed="#F" n="18"/>Nec magnes trahit propriè ferrum, nec ferrum ad se magnetem provocat, sed ambo pari
+            <lb ed="#F" n="19"/>conatu ad invicem confluunt. Cap. XXI.
+        </p>
+            <p xml:id="p9i7y5-e37024-d1e116">
+               <lb ed="#F" n="20"/>Res alibi, &amp; dicta, &amp; probata est, hic solum brevissimè 
+            revo<lb ed="#F" n="21" break="no"/>cata re causa indicatur. Dico propriè nec magnetem ferrum
+            <lb ed="#F" n="22"/>trahere, nec propriè ferrum magnetem ad se advocare, sed 
+            u<lb ed="#F" n="23" break="no"/>trunque illorum quasi data acceptaque fide ruere in amicos
+            <lb ed="#F" n="24"/>amplexus Patet hoc primo, non solum quia ferrum pendet
+            <lb ed="#F" n="25"/>ex magnete, si magnetem apprehendas, cui ferrum adhęreat; sed eodem mo
+            <lb ed="#F" n="26"/>do magnetem ex ferro dependere dico, si apprehenso ferro deorsum magnetem
+            <lb ed="#F" n="27"/>convertas: si enim ferrum sit iatis magnum pro ratione magnetis, &amp; idoneum,
+            <lb ed="#F" n="28"/>ut magnetem possit sustinere, &amp; magnes parvus, pariter ex ferro pendebit
+            <lb ed="#F" n="29"/>magnes; quod ipse sum saepissimè expertus; sed magnes debet esse robustus.
+            <lb ed="#F" n="30"/>Deinde in magno vase aqua pleno si ponas in duabus cymbulis, in altera
+            <lb ed="#F" n="31"/>magnetem, in altera ferrum, &amp; ambo convenienti ratione sint sibi invicem
+            <lb ed="#F" n="32"/>intra sphaeram activitatis, videbis non solum ferrum in sua cymbula adnavi
+            <lb ed="#F" n="33"/>gare ad magnetem, sed ijsdem naturae remis agi etiam magnetem ad ferrum
+            <lb ed="#F" n="34"/>atque ita omnino ambo collatis viribus simul movebuntur, ut sibi in medio
+            <lb ed="#F" n="35"/>occurrant itinere. ergo non solum magnes ad ferrum, neque ferrum solum
+            <lb ed="#F" n="36"/>ad magnetem, sed evidenter ambo ad invicem ruunt.
+        </p>
+            <p xml:id="p9i7y5-e37024-d1e155">
+               <lb ed="#F" n="37"/>Ratio vero huius est, quia, cum utunque illorum corpus sit magneticum,
+            <lb ed="#F" n="38"/>&amp; in se qualitatem habeat magneticam, sive ex natura, sive ex 
+            communica<lb ed="#F" n="39" break="no"/>tione, melius invicem foventur, &amp; sese iuvant quam si per se sint. Cum 
+            igi<lb ed="#F" n="40" break="no"/>tur utilitas communis sit utriusque, &amp; ambo ex illo complexu foveantur, &amp;
+            <lb ed="#F" n="41"/>vires sibi concilient, quod patet; quia non solum ferrum magneticam in se
+            <!--366.xml-->
+            <pb ed="#F" n="347"/>
+               <lb ed="#F" n="1"/>derivat virtutem, sed etiam magnes ex complexu ferri robustiorem acquirit
+            <lb ed="#F" n="2"/>agendi vim, ut postea dicam: &amp; eius vires incrementa sumunt non exigua;
+            <lb ed="#F" n="3"/>cum, inquam, utilitas communis sit, non est mirum quod ambo pari 
+            passu<lb ed="#F" n="4" break="no"/>vim agendi sibi augeat, &amp; sese moveat utrunque, ut magneticè iuvetur, 
+            Ad<lb ed="#F" n="5" break="no"/>de, si nolis magnetem à ferro aliquid accipere posse, vel ex hoc ostendi, aeque
+            <lb ed="#F" n="6"/>à natura alterum inclinari ad dandum, atque alterum ad recipiendum; quasi
+            <lb ed="#F" n="7"/>non minus alteri bonum sit alteri prodesse, quam sibi perfectionem aliquam
+            <lb ed="#F" n="8"/>conciliare, cum aequali naturae impulsu feratur magnes ad fertum, ut suae illi
+            <lb ed="#F" n="9"/>ostentet divitias naturae, &amp; suam illi communicet qualitatem, &amp; ferrum mo
+            <lb ed="#F" n="10"/>veatur ad magnetem, ut illam recipiat.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

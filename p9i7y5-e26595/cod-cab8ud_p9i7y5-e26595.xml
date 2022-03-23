@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 21</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 21</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="249"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e26595"> <!-- l3c21 -->
+            <head xml:id="p9i7y5-e26595-Hd1e107">Caput 21</head>
+            <p xml:id="p9i7y5-e26595-d1e109">
+               <lb ed="#F" n="4"/>Ferrum acquirit verticitatem non solum magnetem tangendo, sed etiam solum propius
+            <lb ed="#F" n="5"/>accedendo: nec solum pars ferri, quae tangit, sed etiam opposita
+            <lb ed="#F" n="6"/>per se virtutem concipit. Cap. XXI.
+        </p>
+            <p xml:id="p9i7y5-e26595-d1e118">
+               <lb ed="#F" n="7"/>Sume acum, quae nunquam magnetem tetigerit, &amp; filo 
+            suspendi<lb ed="#F" n="8" break="no"/>acum, ut accedat quidem ad magnatem, re tamen non tangat;
+            <lb ed="#F" n="9"/>to; tum admoveas magneti, sed ita procul suspensam detineas
+            <lb ed="#F" n="10"/>turum, ut acus ille non solum virtutem à magnete concipiat, si ita ad 
+            ma<lb ed="#F" n="11" break="no"/>gnetem accedat, ut tangat illum, sed etiem si non contingat, dummodo 
+            pro<lb ed="#F" n="12" break="no"/>pius accedat; immo virtutem etiam à magnete in se derivaret, si inter acum,
+            <lb ed="#F" n="13"/>&amp; magnetem interpositum esset aliud corpus, ut lignum, lapis, &amp; quodlibet
+            <lb ed="#F" n="14"/>aliud. patet hoc primum experientia. si enim, ut dixi, ita procul acus suspen
+            <lb ed="#F" n="15"/>datur, ut ad magnetis contactum aspiret quidem pervenire, tamen 
+            nequa<lb ed="#F" n="16" break="no"/>quam possit, vel quia procul detineatur acus, vel quia inter acum, &amp; lapiden
+            <lb ed="#F" n="17"/>interponatur corpus aliquod durum, &amp; impervium; si postea amoveas 
+            ma<lb ed="#F" n="18" break="no"/>gnetem, suspensa acus ostendet omnes effectus magneticos clarissimè, ac si
+            <lb ed="#F" n="19"/>magnetem tetigisset, quos prius non ostendebat: nam &amp; librata convertet
+            <lb ed="#F" n="20"/>se ad polos determinatos; cuspide, exempli gratia, semper in Septentrionem
+            <lb ed="#F" n="21"/>directa ex legibus magneticis, &amp; ferri ramenta optimè suspendet, ut, quacun
+            <lb ed="#F" n="22"/>que ratione tentes, magneticam semper virtutem clarissimè deprehendas;
+            <lb ed="#F" n="23"/>quae tamen non apparebat, antequam sic ad magnetem accederet. ergo 
+            ma<lb ed="#F" n="24" break="no"/>gnes non solum verticitatem, &amp; suam virtutem ferro immittit per 
+            conta<lb ed="#F" n="25" break="no"/>ctum, verum etiam dummodo propius ad ferrum accedat per solam 
+            prae<lb ed="#F" n="26" break="no"/>sentiam.
+        </p>
+            <p xml:id="p9i7y5-e26595-d1e164">
+               <lb ed="#F" n="27"/>Constat deinde hoc idem ex ratione: magnes enim non solum in se 
+            ha<lb ed="#F" n="28" break="no"/>bet magneticam virtutem, atque adeo in se etiam facultatem eadem 
+            produ<lb ed="#F" n="29" break="no"/>cendi in sibi cognata corpora, sed etiam illam ipsam virtutem circunquaque
+            <lb ed="#F" n="30"/>effundit in orbem, &amp; sibi sphaeram format activitatis, ita ut si sit globus 
+            ma<lb ed="#F" n="31" break="no"/>gnetis A. B. C. D. effundet suam virtutem in gyrum E. F. ita ut actu sit in toto
+            <lb ed="#F" n="32"/>illo medio, &amp; in tota illa sphaera virtus à magnete A. B. diffusa, &amp; sit actu
+            <lb ed="#F" n="33"/>qualitas magnetica realiter in illo subiecto circumfuso, quodcunque sit, tali
+            <lb ed="#F" n="34"/>ratione, &amp; positione, non qua est in ipso globo magnetico A. B. quasi vero ex
+            <lb ed="#F" n="35"/>ipso globo, &amp; ex circumiecta sphaera E. F. integretur quodammodo unus 
+            con<lb ed="#F" n="36" break="no"/>tinuatus magneticus globus, in quo totali globo virtus sit aeque disposita,
+            <lb ed="#F" n="37"/>ut est in parvo globo A. B. C. D. sed sunt quidem poli virtutis etiam in 
+            me<lb ed="#F" n="38" break="no"/>dio in E. F. &amp; puncta aequinoctialia M. N. &amp; quidem virtus polaris excurrit
+            <lb ed="#F" n="39"/>continenti quasi tractu per E. A. B. F. verum partes intermediae inter C. A.
+            <lb ed="#F" n="40"/>non
+            <!--268.xml-->
+            <pb ed="#F" n="249"/>
+               <lb ed="#F" n="1"/>non dirigunt virtutem eadem ratione, qua dirigitur virtus in medio A. E.
+            <lb ed="#F" n="2"/>L. M. &amp; deinceps
+            <lb ed="#F" n="3"/>in alio quadrante
+            <lb ed="#F" n="4"/>C. M. B. F. nam C.
+            <lb ed="#F" n="5"/>A. dirigit virtutem
+            <lb ed="#F" n="6"/>ad A. ita ut conspi
+            <lb ed="#F" n="7"/>rent ad 
+            respicien<lb ed="#F" n="8" break="no"/>dum ad eandem
+            <lb ed="#F" n="9"/>partem, ad quam
+            <lb ed="#F" n="10"/>dirigitur A. at vero
+            <lb ed="#F" n="11"/>in partibus 
+            inter<lb ed="#F" n="12" break="no"/>medijs inter E. &amp;
+            <lb ed="#F" n="13"/>M. virtus non diri
+            <lb ed="#F" n="14"/>gitur E. versus, ita
+            <lb ed="#F" n="15"/>ut conspitent ad 
+            re<lb ed="#F" n="16" break="no"/>spiciendum ad 
+            ean<lb ed="#F" n="17" break="no"/>dem partem, ad
+            <lb ed="#F" n="18"/>quam respicit E. sed
+            <lb ed="#F" n="19"/>potius dirigitur
+            <lb ed="#F" n="20"/>opposita ratione,
+            <lb ed="#F" n="21"/>quasi proficisceretur ex E. ab E. enim M. versus dirigitur, ita ut pars, quae est
+            <lb ed="#F" n="22"/>M. verlus respiciat ad eandem partem, vel certè ad eam dirigatur ad quam
+            <lb ed="#F" n="23"/>dirigitur E. quod patet, si in illo spatio intermedio colloces versorium: sic
+            <lb ed="#F" n="24"/>enim disponetur, ut pars versorij P. quae remoto magnete ad eandem partem
+            <lb ed="#F" n="25"/>dirigeretur, ad quam dirigitur A. vel E &amp; O. ad partes B. in isto orbe virtutis
+            <lb ed="#F" n="26"/>P. converteretur ad M. &amp; O. ad E. non igitur eadem ratione disponitur virtus
+            <lb ed="#F" n="27"/>in ista sphaera activitatis, sicut disponitur intus in ipso globo magnetis A. B.
+            <lb ed="#F" n="28"/>quidquid sibi velit Gilbertus, si contra hoc dixisset lib. 5. cap. 11.
+         <lb ed="#F" n="43" type="fixed=249"/>
+               <figure xml:id="p9i7y5-e26595-Fd1e264">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869992/720,481,1213,1199/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A C B D G I H E M F N O P</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375736-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e26595-d1e283">
+               <lb ed="#F" n="29" type="fixed=249"/>Est quidem in tota sphaera activitatis, quae definitur A. C. B. D. E. M. F. N.
+            <lb ed="#F" n="30"/>ordinatim eodem prorsus modo disposita virtus, ita ut aequaliter ad 
+            propor<lb ed="#F" n="31" break="no"/>tionem sui circuli dirigatur versorium in G. I. sicut &amp; in E. M. habita scilicet
+            <lb ed="#F" n="32"/>ratione magnitudinis circuli: ita ut angulos faciat aequales cum circulo ver
+            <lb ed="#F" n="33"/>sorium, seu cum tangente circulum in parvo, &amp; in magno circulo, cum hoc
+            <lb ed="#F" n="34"/>solo discrimine, quod in maiori circulo, &amp; magis remoto à magnete minus
+            <lb ed="#F" n="35"/>efficax est virtus, quam sit in minori: procedit enim uniformiter 
+            difformi<lb ed="#F" n="36" break="no"/>ter, sicut et aliae omnes activitatis sphaerae. Puto autem hanc virtutem per
+            <lb ed="#F" n="37"/>medium diffusam omnino esse actu in ipso medio, quodcunque tandem sit
+            <lb ed="#F" n="38"/>illud corpus, quod magneti circumiacet. Falso enim me iudice 
+            pronun<lb ed="#F" n="39" break="no"/>tiat Gilbertus illo cap. 11. lib. 5. Neque tamen formas magneticas, &amp; orbes in aere,
+            <lb ed="#F" n="40"/>aut aqua, aut quovis medio non magnetico existere volumus, quasi aut aqua susciperet 
+            il<lb ed="#F" n="41" break="no"/>las, aut illis informaretur: tantummodo effunduntur formae, &amp; realiter subsistunt, cum
+            <lb ed="#F" n="42"/>fuerint ibi magnetica, nec per omne medium procedit, &amp; ut in corpore continuo existit
+            <!--268.xml-->
+
+         <!--269.xml-->
+         <pb ed="#F" n="250"/>
+               <lb ed="#F" n="1"/>magnetica vis. Haec ille. Vult ergo Gilbertus hanc qualitatem à magnete
+            <lb ed="#F" n="2"/>diffusam non esse actu per medium sparsam, sed ibi produci à magnete 
+            so<lb ed="#F" n="3" break="no"/>lum, quando intra talem sphaeram ponitur aliquod magneticum corpus pu
+            <lb ed="#F" n="4"/>ta, ferrum. Hanc rem in universo confutavi ad lib. de Anima, cum sermo erat
+            <lb ed="#F" n="5"/>de illis qualitatibus, quas vocant species intentionales; &amp; de hac ipsa re alias
+            <lb ed="#F" n="6"/>etiam sermo fuit. Et sanè quis magnetem admonet nunc in E. procul ab 
+            ip<lb ed="#F" n="7" break="no"/>so magnete adesse ferrum, &amp; antea non adfuisse, ut ibi nunc producat 
+            quali<lb ed="#F" n="8" break="no"/>tatem, quam antea inibi non producebat: non inlelligendi vim, nec 
+            sen<lb ed="#F" n="9" break="no"/>sum habet magnes: nec praemisit, ut arbitror, nuntios ferrum, qui de suo
+            <lb ed="#F" n="10"/>adventu certiorem facerent magnetem. Deinde, quando magnes, in E. 
+            exi<lb ed="#F" n="11" break="no"/>stente ferro, suas vires ostentat, ibi illud excitando, praemittit ne suos quasi
+            <lb ed="#F" n="12"/>praecursores equos virtutem scilicet vicariam suae liberalitatis? quod si 
+            es<lb ed="#F" n="13" break="no"/>se, certè in illo itinere, dum à B. ad E. virtutem transmittit, erit, tunc virtus
+            <lb ed="#F" n="14"/>in medio nullo existente ibi magnetico corpore: quod si dicas nihil 
+            trans<lb ed="#F" n="15" break="no"/>mitti ab A. ad E, ad quid ingerit mihi Gilbertus voces illas effluvij 
+            magne<lb ed="#F" n="16" break="no"/>tici, &amp; similes, quas saepe repetit? &amp; quomodo A. agit in E. non agendo per
+            <lb ed="#F" n="17"/>medium? datur ergo actio in distans, cui non solum philosophicae, sed etiam
+            <lb ed="#F" n="18"/>Theologicae rationes repugnant. sed hoc alias fusius, hic solum rem innuo.
+            <lb ed="#F" n="19"/>Dico ergo à magnete per totum medium, quodcunque tandem illud sit,
+            <lb ed="#F" n="20"/>virtutem diffundi, qua vicaria agit in corpora magnetica circumiecta, &amp;
+            <lb ed="#F" n="21"/>haec virtus in medio est actu, quatenus illud est purum medium, depende 
+            n<lb ed="#F" n="22" break="no"/>ter tamen à corpore magnetico, sicut lumen est in tota sphaera activitatis lu
+            <lb ed="#F" n="23"/>minosi, dependenter tamen à corpore ipso luminoso, ita ut subiectivè sit in
+            <lb ed="#F" n="24"/>medio, à quo sustentatur, pendeat tamen actu, &amp; ut sit, &amp; ut conservetur in
+            <lb ed="#F" n="25"/>genere causae efficientis, ab illo principio magnetico, à quo fluit. quod totum
+            <lb ed="#F" n="26"/>alibi probatum est.
+        </p>
+            <p xml:id="p9i7y5-e26595-d1e379">
+               <lb ed="#F" n="27"/>Atque ex hoc redditur propria ratio, cur non solum illa pars ferri, quae
+            <lb ed="#F" n="28"/>ad magnetem vergit, vel magnetem tangit, verticitatem, &amp; magneticam
+            <lb ed="#F" n="29"/>virtutem acquirat, sed etiam pars opposita ferri, quae à magnete distat, ipsa
+            <lb ed="#F" n="30"/>etiam virtutem eandem sibi conciliet, si ferrum accedat altero fine ad 
+            ma<lb ed="#F" n="31" break="no"/>gnetem directum perpendiculariter ad eius centrum.
+        </p>
+            <p xml:id="p9i7y5-e26595-d1e392">
+               <lb ed="#F" n="32"/>Quod verum esse constat experientia: si enim non sit ferrum adeo oblon
+            <lb ed="#F" n="33"/>gum, ut pars aversa, &amp; remota à magnete excedat illius sphaeram activitatis,
+            <lb ed="#F" n="34"/>illo altero etiam fine verticitatem concipiet, &amp; ferri ramenta illi 
+            adhaeres<lb ed="#F" n="35" break="no"/>cent, etiamsi magnetem non tetigerit; Et certè cuiuscunque sit longitudinis
+            <lb ed="#F" n="36"/>ferrum, semper tota illa pars, quae est intra sphaeram activitatis magnetici,
+            <lb ed="#F" n="37"/>excitabitur; quia qualitas illa per medium diffusa est agens necessarium, &amp;
+            <lb ed="#F" n="38"/>ferrum est subiectum proportionatum, &amp; conveniens intervenit applicatio.
+            <lb ed="#F" n="39"/>ex necessitate igitur sequetur actio. Verum quidem est, quod, sicut sphaera
+            <lb ed="#F" n="40"/>procedit uniformiter difformiter, &amp; minus est efficax qualitas in medio, quo
+            <lb ed="#F" n="41"/>magis receditur à magnete, ita etiam vis in ferro producta decrescit, ut in 
+            il<lb ed="#F" n="42" break="no"/>la parte, quae magnetem tangit, vehementior sit. &amp; paulatim decrescat, dum
+            <!--270.xml-->
+            <pb ed="#F" n="251"/>
+               <lb ed="#F" n="1"/>receditur à magnete, donec tandem, si ferrum sit longissimum desinat in
+            <lb ed="#F" n="2"/>non virtutum.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

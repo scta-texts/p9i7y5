@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 30</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 30</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="372"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e39673"> <!-- l4c30 -->
+            <head xml:id="p9i7y5-e39673-Hd1e107">Caput 30</head>
+            <p xml:id="p9i7y5-e39673-d1e109">
+               <lb ed="#F" n="35"/>Magnes in polis trahit solum ferrum per extrema, &amp; erigit; in lateribus trahit per medium
+            <lb ed="#F" n="36"/>ut sibi adiaceat. Cap. XXX.
+        </p>
+            <p xml:id="p9i7y5-e39673-d1e116">
+               <lb ed="#F" n="37"/>Sit magnes A. B. si applices illum ut trahat obelum D. ita ut sponte 
+            per<lb ed="#F" n="38" break="no"/>mittas ferrum confluere ad magnetem non vage, &amp; inconstanter, 
+            ea<lb ed="#F" n="39" break="no"/>que positione, quam sors obiecerit, ferrum sibi copulabit; sed semper
+            <lb ed="#F" n="40"/>determinata ratione, ut est naturae operandi modus, quae neque electionem,
+            <!--391.xml-->
+            <pb ed="#F" n="372"/>
+               <lb ed="#F" n="1"/>neque libertatem habet; sed ut dirigitur ab intellectu non errante, ita 
+            sem<lb ed="#F" n="2" break="no"/>per ex pluribus eligit, quod melius est. Cum igitur magnes ex naturae 
+            im<lb ed="#F" n="3" break="no"/>perio ferrum sibi disponat, ad determinatum semper confluet terminum; &amp;
+            <lb ed="#F" n="4"/>quoties polum obieceris ferro, toties decurrit ferrum altero solum extremo,
+            <lb ed="#F" n="5"/>non alia ratione, nec mediam magneti effert sui partem, immo, si medium
+            <lb ed="#F" n="6"/>ferrum tangas, defluit, et excurrit usque ad extremum fere, ut in extremo fer
+            <lb ed="#F" n="7"/>ti contactu haeceat. Si vero ferrum obijcias, non polo magnetis, sed parti
+            <lb ed="#F" n="8"/>aequinoctiali, non extremum ferri accurret ad magnetem, sed tota sua mole
+            <lb ed="#F" n="9"/>illi copulabitur, &amp; medium ferro obvertet, neque ibi erigetur, sed adia cebit.
+            <lb ed="#F" n="10"/>Res obvia est, &amp; facili experimento demonstrabitur. Ratio autem est, quae
+            <lb ed="#F" n="11"/>desumitur ex directione magnetis, &amp; ubi quis causam perceperit, cur supra
+            <lb ed="#F" n="12"/>globum magnetis ferreus obclus diversa ratione conformetur ita, ut in 
+            po<lb ed="#F" n="13" break="no"/>lo erigatur, in aequinoctio iaceat, in intermedijs regionibus obliquetur, quam
+            <lb ed="#F" n="14"/>rem fuse alibi explicavi, facile etiam intelliget causam, cur à magnete in pun
+            <lb ed="#F" n="15"/>cto polari apprehendatur semper ferrum per extremum, in aequinoctio 
+            ap<lb ed="#F" n="16" break="no"/>prehendatur in medio. Semper enim ita disponitur ferrum, ut 
+            perfectissi<lb ed="#F" n="17" break="no"/>me, quantum fieri potest, virtutem acquirat magneticam. Constat autem
+            <lb ed="#F" n="18"/>ex supra explicatis, dum illa ratione disponitur faelicius excitari. illa ergo
+            <lb ed="#F" n="19"/>solum ratione conformabitur; quia sic virtus permedium à magnete 
+            diffu<lb ed="#F" n="20" break="no"/>sa dirigitur, &amp; disponitur in medio, cui se ferrum accomodat.
+         <lb ed="#F" n="24" type="fixed=372"/>
+               <figure xml:id="p9i7y5-e39673-Fd1e177">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870115/504,393,1774,740/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">B A D D</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375926-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e39673-d1e195">
+               <lb ed="#F" n="21" type="fixed=372"/>Quod si vi adigas ferrum, ut sui media parte secundum longitudinem po
+            <lb ed="#F" n="22"/>lum tangat magnetis, in illo contactus puncto alteram concipiet faciem, in
+            <lb ed="#F" n="23"/>utroque extremo oppositam, ut allibi dictum est.
+        </p>
+            <p xml:id="p9i7y5-e39673-d1e205">
+            <!--391.xml-->
+
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

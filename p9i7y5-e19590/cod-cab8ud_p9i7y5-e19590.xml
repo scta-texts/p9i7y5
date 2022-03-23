@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 19</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 19</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="184"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e19590"> <!-- l2c19 -->
+            <head xml:id="p9i7y5-e19590-Hd1e107">Caput 19</head>
+            <p xml:id="p9i7y5-e19590-d1e109">
+               <lb ed="#F" n="7"/>De causa electricarum attractionum. Cap. XIX.
+        </p>
+            <p xml:id="p9i7y5-e19590-d1e114">
+               <lb ed="#F" n="8"/>Ut alias omittam sententias, quae minus experimentis 
+            consen<lb ed="#F" n="9" break="no"/>taneae sunt, satis mihi erit examinare Gilberti placitum, qui
+            <lb ed="#F" n="10"/>videtur hanc rem omnium accuratissimè pertractasse: Vul
+            <lb ed="#F" n="11"/>igitur ille loco citato omnia corpora, quae ex humore, sive
+            <lb ed="#F" n="12"/>aqueo, sive pingui maximum incrementum acceperunt, aut
+            <lb ed="#F" n="13"/>ex illius firmiori concretione formam in se derivarunt, aut ab illis 
+            longio<lb ed="#F" n="14" break="no"/>ribus saeculis concreverunt, si illis durities satis firma fuerit, si fricata, 
+            post<lb ed="#F" n="15" break="no"/>quam polita fuerint, nitida permanserint, ad illa corpora omnia in aere 
+            posi<lb ed="#F" n="16" break="no"/>ta, si non grave pondus obstiterit, inclinare. Vult ergo, ad attractionem
+            <lb ed="#F" n="17"/>hanc efficiendam requiri primo, ut corpus, quod electricè trahere debet, ex
+            <lb ed="#F" n="18"/>humore concreverit, ex quo corpore spiritum vult exire seu effluvium: 
+            efflu<lb ed="#F" n="19" break="no"/>via verò non sunt flatus, sed humores summe attenuati aere ambiente 
+            mul<lb ed="#F" n="20" break="no"/>tò subtiliores; sicut aer ab ipso dicitur commune effluvium telluris, quo 
+            si<lb ed="#F" n="21" break="no"/>bi adiungit, &amp; trahit omnia corpora. Et quia omnia corpora uniuntur, &amp;
+            <lb ed="#F" n="22"/>quasi ferruminantur humore, ideo effluvia illa tenuviora concipiunt, &amp; am
+            <lb ed="#F" n="23"/>plectuntur corpora, quibus uniuntur, &amp; electris tanquam extensis brachijs,
+            <lb ed="#F" n="24"/>&amp; ad fontem, propinquitate invalescentibus effluvijs, deducuntur.
+        </p>
+            <p xml:id="p9i7y5-e19590-d1e153">
+               <lb ed="#F" n="25"/>Haec est Gilberti sententia eiusdemmet verbis, quantum ego intelligere
+            <lb ed="#F" n="26"/>potui, paucis comprehensa. Vult ergo ex corpore humido duriori 
+            concre<lb ed="#F" n="27" break="no"/>tione firmato exire quoddam effluvium, quod humidum quidem est, quia
+            <lb ed="#F" n="28"/>non exit, nisi ex corpore humido; sed tenue, &amp; subtile; quod effluvium, ubi
+            <lb ed="#F" n="29"/>ad corpus appulerit trahit illud, &amp; coniungit cum corpore a quò effluvium
+            <lb ed="#F" n="30"/>manat. Sed quam facile est aliena reijcere, &amp; illa severo ungue notare? 
+            Car<lb ed="#F" n="31" break="no"/>pit hic auctor alios, qui ante se scripserunt de hac re, quod tantum agant ver
+            <lb ed="#F" n="32"/>bis, rebusue ipsis maiorem caliginem inducant; unde nullum talis 
+            philoso<lb ed="#F" n="33" break="no"/>phia fructum faciat. At non negaverim sanè experimenta etiam in hac 
+            ele<lb ed="#F" n="34" break="no"/>ctrica attractione attulisse praeclara Gilbertum; diligentiam, &amp; laborem eru
+            <lb ed="#F" n="35"/>ditum in hac etiam ostendisse. Verum, quod spectat ad causam 
+            attractio<lb ed="#F" n="36" break="no"/>nis, &amp; ad modum, quo fit ista attractio, paulo plus, quam verba, sunt, quae ab
+            <lb ed="#F" n="37"/>ipso afferuntur; dum propriam exponit sententiam. Intelligo qua ratione
+            <lb ed="#F" n="38"/>alios impugnet, sed qua ratione velit ipse hanc attractionem fieri, non satis
+            <lb ed="#F" n="39"/>percipio. Quid est, effluvia illa amplecti corpora, quibus uniuntur 
+            electri<lb ed="#F" n="40" break="no"/>cis tanquam extensis brachijs, &amp; ad fontem propinquitate invalescentibus
+            <!--203.xml-->
+            <pb ed="#F" n="184"/>
+               <lb ed="#F" n="1"/>effluvijs deduci? Verba sunt haec ad eloquentiae ornatum composita, non
+            <lb ed="#F" n="2"/>ad causam, ut ego intelligo, &amp; modum attrahendi explicandum.
+        </p>
+            <p xml:id="p9i7y5-e19590-d1e200">
+               <lb ed="#F" n="3"/>Prius igitur quam meam expono sententiam, quid in hac Gilberti non
+            <lb ed="#F" n="4"/>placeat, ostendo. Et, ut omittam, quod dicit, omnia corpora, quae electricè
+            <lb ed="#F" n="5"/>trahunt, ex humore concrevisse, quod non mihi valde liquido constat, tum
+            <lb ed="#F" n="6"/>quia aliqua trahunt, quae non videntur ita ex humore concrescere, ut vitrum,
+            <lb ed="#F" n="7"/>adamas, &amp; aliae gemmae, quę non magis mihi videntur ex humore concresce
+            <lb ed="#F" n="8"/>re, quam aliae gemmae, quę non trahunt. si enim, quę igne liquescunt, 
+            humo<lb ed="#F" n="9" break="no"/>re concrevere, quid magis humidum nitro, &amp; tamen etiam purificatum, quo
+            <lb ed="#F" n="10"/>duritiem, &amp; nitorem inducit, ut alumen, &amp; sulphur nihil trahit; metalla
+            <lb ed="#F" n="11"/>concrescunt humido hoc modo, &amp; non trahunt; multae gummę exsudant
+            <lb ed="#F" n="12"/>humido, &amp; non trahunt, cum aliae trahant. Ex quo constat illam non esse
+            <lb ed="#F" n="13"/>causam adęquatam, &amp; per se primo attractionis electricae; cum multa 
+            con<lb ed="#F" n="14" break="no"/>crescant ęqualiter humido, quae non trahunt, duritiem cum habeant 
+            suffi<lb ed="#F" n="15" break="no"/>cientem; multa trahant, quae humido concrescere non videntur, ita, apertè;
+            <lb ed="#F" n="16"/>licet de hoc possit esse disputatio, hoc prętermisso.
+        </p>
+            <p xml:id="p9i7y5-e19590-d1e233">
+               <lb ed="#F" n="17"/>Primo, quod ait corpora omnia ferruminari humore, potest dupliciter
+            <lb ed="#F" n="18"/>intelligi, vel quod in quolibet corpore consistentia, seu adhęrescentia 
+            par<lb ed="#F" n="19" break="no"/>tium ad invicem ex humore oriatur, ac proinde corpora habeant partes 
+            si<lb ed="#F" n="20" break="no"/>bi invicem, quasi agglutinatas, &amp; coniunctas mediante humore; &amp; quo
+            <lb ed="#F" n="21"/>magis humor fuerit concoctus, &amp; compactus, eò habeant etiam partes inter
+            <lb ed="#F" n="22"/>se firmiorem nexum, &amp; difficilius disiungantur, ac separentur ab invicem: si
+            <lb ed="#F" n="23"/>hoc modo intelligatur corpora ferruminari humido, verum est. cum quo
+            <lb ed="#F" n="24"/>etiam Peripatetica consentit doctrina: Aristoteles enim 2. de gen. tex. 49.
+            <lb ed="#F" n="25"/>quaerens utrum in omni mixto sint cuncta quattuor simplicia vocata 
+            elemen<lb ed="#F" n="26" break="no"/>ta, probat partem affirmativam, adesse scilicet omnia, &amp; ad probandum, quod
+            <lb ed="#F" n="27"/>in omnibus insit aqua, adhibet tale argumentum. In omni mixto inest 
+            ter<lb ed="#F" n="28" break="no"/>ra, ut constat, sed terra sine humido non potest consistere; quia hoc est quod
+            <lb ed="#F" n="29"/>continet, si auferatur ex ipsa humidum decidet utique terra igitur, &amp; aqua
+            <lb ed="#F" n="30"/>propter has causas insunt in compositis. quibus verbis constat Aristotelem
+            <lb ed="#F" n="31"/>velle humidum esse illud, quo partes ferruminantur, &amp; continentur unitae
+            <lb ed="#F" n="32"/>ne dissolvantur. Si enim auferres omnino humidum à composito, 
+            dissol<lb ed="#F" n="33" break="no"/>veretur illud compositum, &amp; redigeretur ad minutissimum pulverem impal
+            <lb ed="#F" n="34"/>pabilem, ut fit per calcinationem. In hoc igitur sensu verum est corpora
+            <lb ed="#F" n="35"/>uniri humido, &amp; si hoc sibi vellet Gilbertus, non repugnarem, nec 
+            repugna<lb ed="#F" n="36" break="no"/>ret ullus Peripateticus.
+        </p>
+            <p xml:id="p9i7y5-e19590-d1e279">
+               <lb ed="#F" n="37"/>At vero si putat, &amp; est alter sensus illius dicti, corpora humida per hoc,
+            <lb ed="#F" n="38"/>quod humida sunt, habere vim attrahendi ad se alia corpora, &amp; illa sibi 
+            con<lb ed="#F" n="39" break="no"/>iungendi; ita ut ex vi humiditatis pręcisè propinquiora fiant corpora 
+            hu<lb ed="#F" n="40" break="no"/>mida existentia, &amp; ad se invicem confluant, non illud ego admitto, &amp; 
+            debe<lb ed="#F" n="41" break="no"/>ret efficaciori argumento probare, si vellet in suam alios trahere sententiam.
+            <lb ed="#F" n="42"/>Nam verum quidem est, si duo corpora, quae externa in superficie humida
+            <!--204.xml-->
+            <pb ed="#F" n="185"/>
+               <lb ed="#F" n="1"/>sint humiditate aquea, se mutuo tangant, difficilius ab invicem separari, &amp;
+            <lb ed="#F" n="2"/>disiungi, quantum sensu possumus iudicare, quàm separentur duo corpora,
+            <lb ed="#F" n="3"/>quae non sint humida, aut sic madida, &amp; se tangant; sed ratio aliunde 
+            peten<lb ed="#F" n="4" break="no"/>da est, quàm ex humiditate, quae trahat corpora ad invicem. Causa enim 
+            il<lb ed="#F" n="5" break="no"/>lius difficilioris separationis est, quia, cum illa duo corpora illo humore 
+            a<lb ed="#F" n="6" break="no"/>queo quasi glutine uniantur; quae aqua, ex illo humidorum contactu, facta
+            <lb ed="#F" n="7"/>est una continua, sicuti coniunguntur medio aere, qui intercipitur inter duo
+            <lb ed="#F" n="8"/>quaelibet corpora, dum inter illa est unicus aer continuus ad nexus 
+            utrius<lb ed="#F" n="9" break="no"/>que corporis extremitatum, si debeant duo illa corpora separari; debent
+            <lb ed="#F" n="10"/>consequenter partes illius aquae, quae intercipiebatur inter duo corpora 
+            ma<lb ed="#F" n="11" break="no"/>dida ab invicem divelli; dum una pars uni, alteta alteri corpori adhaeret.
+            <lb ed="#F" n="12"/>Et quia aqua maiorem habet corpulentiam, &amp; consistentiam, quàm aer, 
+            ma<lb ed="#F" n="13" break="no"/>gis etiam resistit divisioni, nec patitur suas partes divelli. &amp; hinc fit, ut duo
+            <lb ed="#F" n="14"/>corpora sic humida, seu madida difficilius separentur ab invicem, quàm si
+            <lb ed="#F" n="15"/>non sint humida: quia tenaciori quasi glutine coniunguntur; non quia 
+            hu<lb ed="#F" n="16" break="no"/>mido se mutuo trahant. ex quo etiam habes, falsum esse, ut supra monebam,
+            <lb ed="#F" n="17"/>aquam solum retardare, non motum simpliciter impedire: respectu 
+            cuius<lb ed="#F" n="18" break="no"/>cunque potentiae.
+        </p>
+            <p xml:id="p9i7y5-e19590-d1e338">
+               <lb ed="#F" n="19"/>Quod si haec est vera ratio, cur humida firmius adhaereant invicem, erit
+            <lb ed="#F" n="20"/>haec contra ipsum Gilbertum; qui putat electrica firmiter coniungere sibi
+            <lb ed="#F" n="21"/>corpora effluvio illo, humido quidem, sed tenuissimo, &amp; longè tenuiori, quam
+            <lb ed="#F" n="22"/>sit aer; firmius enim res coniunguntur effluvio crassiori; sicut firmius 
+            ag<lb ed="#F" n="23" break="no"/>glutinantur aqua, quam aere, &amp; glutinę quam aqua, sic firmius adhaererent
+            <lb ed="#F" n="24"/>aere quam illo effluvio.
+        </p>
+            <p xml:id="p9i7y5-e19590-d1e354">
+               <lb ed="#F" n="43" type="fixed=185"/>
+               <figure xml:id="p9i7y5-e19590-Fd1e359">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869928/831,2415,1115,514/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">C F H E</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375637-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="25" type="fixed=185"/>Videtur autem <name xml:id="p9i7y5-e19590-Nd1e378">Gilbertus</name> velle humida ad se confluere in sensu 
+            omni<lb ed="#F" n="26" break="no"/>no, quem reprobavi, ut ex humiditate, qua madeat, non solum firmius se fer
+            <lb ed="#F" n="27"/>ruminandi, sed etiam ad se invicem confluendi vim habeant; ut etiam, dum
+            <lb ed="#F" n="28"/>non nihil distant, in mutuos ruant amplexus. Probat hoc ipse tripliciter.
+            <lb ed="#F" n="29"/>Primo, quia si bacillum,
+            <lb ed="#F" n="30"/>quod immittitur 
+            paula<lb ed="#F" n="31" break="no"/>tum in aquas C. ad E. F. 
+            ba<lb ed="#F" n="32" break="no"/>cillum, quod propter 
+            cor<lb ed="#F" n="33" break="no"/>ticem H. natat in aqua, &amp;
+            <lb ed="#F" n="34"/>finem habet F. udum 
+            su<lb ed="#F" n="35" break="no"/>per superficiem aquarum,
+            <lb ed="#F" n="36"/>accedat, attrahit bacillum,
+            <lb ed="#F" n="37"/>E. F. si bacillum. C. udum
+            <lb ed="#F" n="38"/>fuerit paululum supra 
+            a<lb ed="#F" n="39" break="no"/>quae superficiem. Secundo probat, quia gutta adiuncta guttae attrahitur, &amp;
+            <lb ed="#F" n="40"/>unitur, quod idem accidit in bullis illis, quae in aqua fiunt: videmus enim
+            <lb ed="#F" n="41"/>unam ad aliam appellere, &amp; eò velocius, quo proximiores sunt. Tertio 
+            pro<lb ed="#F" n="42" break="no"/>bat, quia eminentia in superficie aquarum, si propè fuerit, concurrunt, &amp; u¬
+            <!--204.xml-->
+
+         <!--205.xml-->
+         <pb ed="#F" n="186"/>
+               <lb ed="#F" n="1"/>niuntur: attollitur enim aquae superficies circa uda, sicca vero ad humida
+            <lb ed="#F" n="2"/>non appellunt, nec humidum ad siccum; sed videtur aufugere. Non enim,
+            <lb ed="#F" n="3"/>si totum supra aquam siccum fuerit, assurgit superficies aquae proxima, sed
+            <lb ed="#F" n="4"/>fugit, circa siccum unda; ita nec ad limbum vasis siccum appellit 
+            humi<lb ed="#F" n="5" break="no"/>dum, sed humidum petit 
+            lim<lb ed="#F" n="6" break="no"/>bum. Sit A.B. superficies aquae.
+            <lb ed="#F" n="7"/>C. D. duo bacilla, quae 
+            humen<lb ed="#F" n="8" break="no"/>tia extent super aquam; 
+            manife<lb ed="#F" n="9" break="no"/>stum, quod superficies aquae 
+            at<lb ed="#F" n="10" break="no"/>tollitur in C. &amp; D. simul cum ba
+            <lb ed="#F" n="11"/>cillis. quare C. bacillum aquae
+            <lb ed="#F" n="12"/>eminentis ratione, quae 
+            aequali<lb ed="#F" n="13" break="no"/>tatem, &amp; unionem desiderat, cum
+            <lb ed="#F" n="14"/>aqua movetur ad D. in E. vero
+            <lb ed="#F" n="15"/>udo bacillo aqua etiam assurgit, sed sicco bacillo F. deprimitur unda, atque
+            <lb ed="#F" n="16"/>cum in propinquitate, deprimere etiam in E. assurgentem undam 
+            conten<lb ed="#F" n="17" break="no"/>dit. unde eminentior. E. declinat ab F. non enim se deprimi patitur. Haec
+            <lb ed="#F" n="18"/>ille: ex quibus argumentis concludit, quod omnis attractio electrica fit
+            <lb ed="#F" n="19"/>mediante humido; ita propter humorem omnia mutuo conveniunt; 
+            fluvi<lb ed="#F" n="20" break="no"/>da quidem, &amp; aquea, in superficie aquarum, concreta vero, soluta si fuerint,
+            <lb ed="#F" n="21"/>in aere.
+         <lb ed="#F" n="43" type="fixed=186"/>
+               <figure xml:id="p9i7y5-e19590-Fd1e473">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869929/1384,788,1006,537/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A D C F E B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375639-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e19590-d1e490">
+               <lb ed="#F" n="22" type="fixed=186"/>Verum hae rationes non solum non mihi efficaces videntur ad 
+            conficien<lb ed="#F" n="23" break="no"/>dum humida, si in proximo fuerint, se prolectare, &amp; ad unionem 
+            contende<lb ed="#F" n="24" break="no"/>re, sed etiam valde in aequivoco laborare videbitur auctor: concursus enim
+            <lb ed="#F" n="25"/>illi sunt motus elementares gravium, &amp; levium, non vero ullum 
+            attractio<lb ed="#F" n="26" break="no"/>nis genus: nisi fortè contenderet aliquis locata attrahi à loco sibi 
+            connatu<lb ed="#F" n="27" break="no"/>rali; ac proinde, cum gravia moventur deorsum, sic moveri, quia 
+            trahun<lb ed="#F" n="28" break="no"/>tur à proprio loco; ex quo etiam fiat, ut motus naturalis sit in fine velocior;
+            <lb ed="#F" n="29"/>quia tunc magis trahantur à loco, scilicet proximiore, quam traherentur
+            <lb ed="#F" n="30"/>initio motus, cum magis ab illo distabant. Verum &amp; hoc puto falsum;
+            <lb ed="#F" n="31"/>quia res in quiete etiam gravior esset deorsum, quam sursum, quia res magis
+            <lb ed="#F" n="32"/>traheretur etiam in quiete à loco proximiore; sed hoc videtur falsum. Quod
+            <lb ed="#F" n="33"/>si non bilance potest comprobari, quia etiam pondus, quod in altera parte
+            <lb ed="#F" n="34"/>lancis ponitur, magis grave esset deorsum, quam sursum, probabitur tali
+            <lb ed="#F" n="35"/>pacto.
+        </p>
+            <p xml:id="p9i7y5-e19590-d1e524">
+               <lb ed="#F" n="36"/>Fiat ferrum ex aciario subtile, &amp; ita temperatum, ut, si in extremitate eius
+            <lb ed="#F" n="37"/>appendatur pondus, incurvetur quidem, sed postea redeat ad proprium 
+            si<lb ed="#F" n="38" break="no"/>tum ablato pondere. Si ad huiusmodi ferrum pondus apponas, &amp; exactè 
+            ob<lb ed="#F" n="39" break="no"/>serves, quantum incurvetur, videbis tantundem incurvari à pondere. A. 
+            si<lb ed="#F" n="40" break="no"/>ve pondus appendas in summitate montis, seu in ima valle. Quod libenter
+            <lb ed="#F" n="41"/>posui, e vellem notari; quia, ut verum fatear, diu fui in hac cogitatione, plus
+            <lb ed="#F" n="42"/>ne gravitaret res in summitate montis, an in ima valle, nec occurrebat, qua
+            <!--205.xml-->
+
+         <!--206.xml-->
+         <pb ed="#F" n="187"/>
+               <lb ed="#F" n="1"/>ratione id possem experiri, propter rationem positam; quia etiam notum 
+            il<lb ed="#F" n="2" break="no"/>lud pondus, quod adhibetur in altera parte lancis eandem subiret fortunam:
+            <lb ed="#F" n="3"/>plus enim gravitaret in valle, quam in summitate montis, vel è contrario.
+            <lb ed="#F" n="4"/>Aliam etiam suggessit rationem amicus, quam non omittam. ponatur in
+            <lb ed="#F" n="5"/>altera exactissimę bilancis parte virga ferrea iacens, vel globus ferreus, in
+            <lb ed="#F" n="6"/>altera vero parte eiusdem exactissimi ponderis virga oblonga primum iacens,
+            <lb ed="#F" n="7"/>deinde erecta perpendiculariter: cum enim manet erecta virga, quia partes
+            <lb ed="#F" n="8"/>habet remotiores à terra deberet minus gravitare, quam dum iacet: verum,
+            <lb ed="#F" n="9"/>quia haec longè minor est differentia, minus etiam fortasse sentiretur, si 
+            ades<lb ed="#F" n="10" break="no"/>set, quam in primo experimento; ubi longè maximum potest intercedere 
+            di<lb ed="#F" n="11" break="no"/>scrimen: Cum igitur tantundem gravitet quocunque in loco res gravis;
+            <lb ed="#F" n="12"/>non vehementius trahitur à loco proximiore, &amp; motus in fine velocior est
+            <lb ed="#F" n="13"/>alia de causa longè diversa, sed alius esset locus id probandi. Nunc 
+            osten<lb ed="#F" n="14" break="no"/>do illos motus à Gilberto enumeratos esse motus elementares gravium, quę
+            <lb ed="#F" n="15"/>tendunt ad centrum, non electricas humidorum attractiones; imo ad 
+            ho<lb ed="#F" n="16" break="no"/>minem contra Gilbertum prius dico: sicut bacillum siccum non attrahit
+            <lb ed="#F" n="17"/>humidum, vel contra, nec fluit ad siccam ripam humidum; igitur solum
+            <lb ed="#F" n="18"/>humida se mutuo trahunt. ergo etiam electrica, quae trahuntur ex 
+            humi<lb ed="#F" n="19" break="no"/>ditate, non trahent nisi humida, sicca fugabunt. sed trahunt omnia sicca,
+            <lb ed="#F" n="20"/>imo fortasse libentius, haec ergo non trahunt ex humiditate.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

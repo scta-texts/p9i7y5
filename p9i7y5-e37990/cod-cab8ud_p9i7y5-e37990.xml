@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 25</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 25</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="356"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e37990"> <!-- l4c25 -->
+            <head xml:id="p9i7y5-e37990-Hd1e107">Caput 25</head>
+            <p xml:id="p9i7y5-e37990-d1e109">
+            <!--375.xml-->
+               <pb ed="#F" n="356"/>
+               <lb ed="#F" n="1"/>Exterminatur etiam virtus a ferro longis temporum iniurijs; &amp; si ad longum tempus
+            <lb ed="#F" n="2"/>detineatur in contrario situ, atque postulet eius directio.
+            <lb ed="#F" n="3"/>Cap. XXV.
+        </p>
+            <p xml:id="p9i7y5-e37990-d1e122">
+               <lb ed="#F" n="4"/>tem magnetem, quantum nec decem homines attollerent, qui in
+            <lb ed="#F" n="5"/>sua, ut ita dixerim, iuventute enses è vagina educebat, maxima ferramenta
+            <lb ed="#F" n="6"/>procul etiam advocabat (sic mihi narratum fuit, nisi hoc etiam unum sit ex
+            <lb ed="#F" n="7"/>his, quae falso rumore circumferuntur) nunc senio confectum vires 
+            emor<lb ed="#F" n="8" break="no"/>tuas exhibere &amp; vix clauum adducere. Quod si haec in magnete fiunt, ut 
+            ni<lb ed="#F" n="9" break="no"/>mium quotidie certo experimur, etiam ferrum hanc eandem aetatis fortunam
+            <lb ed="#F" n="10"/>sentire non est mirum, ut longis dometur lustris. Ideo videmus versoria, &amp;
+            <lb ed="#F" n="11"/>nauticas pyxides, subinde de novo debere excitari, ut certas habeant, &amp; expe
+            <lb ed="#F" n="12"/>ditas magneticas directiones, &amp; gladij magnetice excitati, qui acus, qui 
+            cla<lb ed="#F" n="13" break="no"/>vos, qui gladios suspendebant, quamvis tunc sive fricentur, sive terantur nul
+            <lb ed="#F" n="14"/>lum magneticae virtutis detrimentum ostendant; tamen non longissimam
+            <lb ed="#F" n="15"/>fert illa virtus aetatem, sed paulatim temporum labitur decursu. Quod si non
+            <lb ed="#F" n="16"/>custodiantur magnetica, sed temporum iniurijs exponantur, maiora sentiunt
+            <lb ed="#F" n="17"/>aetatis detrimenta, praecipuè verò nocent frigora, glacies, imbres, sed ante
+            <lb ed="#F" n="18"/>omnia aquis praefocantur diuturnis; nihilque magis magneti obest; quam
+            <lb ed="#F" n="19"/>esse diu sub aquis, vel in loco humentis marcescit enim magneticus vigor;
+            <lb ed="#F" n="20"/>&amp; tota illa substantia labefactatur. Hoc experientia primum docuit, deinde
+            <lb ed="#F" n="21"/>ex experientia deducta ratio.
+            <lb ed="#F" n="22"/>
+               <lb ed="#F" n="23"/>
+               <lb ed="#F" n="24"/>Huius igitur ratio illa est, quia virtus haec magnetica ex illis est 
+            qualitati<lb ed="#F" n="25" break="no"/>bus, quas philosophi secundas appellant, quamvis illam totius terrestris glo
+            <lb ed="#F" n="26"/>bi propriam dicamus; &amp; consequenter à primarum pendet temperamento,
+            <lb ed="#F" n="27"/>Imo, ne rem certam incertis subijciam opinionibus, quidquid esset de isto
+            <lb ed="#F" n="28"/>certum est, nec ullus in dubium revocabit, hanc magneticam qualitatem à
+            <lb ed="#F" n="29"/>subiecti corporis forma dependere, vt destructa substantia accidentia 
+            pere<lb ed="#F" n="30" break="no"/>int. Quia ergo temporum iniuriae, retum vicissitudines, &amp; Caeli 
+            inaequalita<lb ed="#F" n="31" break="no"/>tes quaelibet corpora sublunaria alterant, &amp; ad interitum impellunt, hanc
+            <lb ed="#F" n="32"/>etiam experiri sortem magneticum corpus necesse est. Sicut autem aliquae
+            <lb ed="#F" n="33"/>qualitates magis alijs adversantur certis corporibus, ita magneticis maximè
+            <lb ed="#F" n="34"/>obsunt humiditates aqueę, &amp; aperti cęli exceptae perpetuo inęqualitates, 
+            Sol<lb ed="#F" n="35" break="no"/>vitur enim hac ratione temperamentum illud terreum, sine quo stare non
+            <lb ed="#F" n="36"/>potest magnetica forma, &amp; terrena siccitas.
+            <lb ed="#F" n="37"/>
+               <lb ed="#F" n="38"/>Nocet etiam plurimum magneticis corporibus, si violenta retentione
+            <lb ed="#F" n="39"/>detineantur in contrario situ; atque illorum postulet magnetica natura. Si
+            <lb ed="#F" n="40"/>enim pars illa, quae ex sua natura deberet in Septentrionem dirigi, ad longum
+            <lb ed="#F" n="41"/>tempus conservetur directa ad Austrum, destructur vis magnetica, quod,
+            <lb ed="#F" n="42"/>quominus observatur ab alijs, eo magis esset consideratione dignum, &amp;
+            <lb ed="#F" n="43"/>
+               <lb ed="#F" n="44"/>
+               <!--376.xml-->
+               <pb ed="#F" n="357"/>
+               <lb ed="#F" n="1"/>exactius custodiendum. Si igitur versorium, vel aliud ferramentum diu 
+            per<lb ed="#F" n="2" break="no"/>severet in illo contrario situ, pristinam verticitatem paulatim amittet, &amp; 
+            con<lb ed="#F" n="3" break="no"/>trariam induet. Huius autem rei ratio illa est, quia, ut dictum est alibi saepe,
+            <lb ed="#F" n="4"/>totus telluris globus, ut magneticus est, ita magneticam habet actionem, &amp;
+            <lb ed="#F" n="5"/>alterationem corporis congenei. si ergo intra sphaeram illius activitatis, (quae
+            <lb ed="#F" n="6"/>tamen ubique extenditur) ponatur vel versorium, vel aliud ferrum, in illud
+            <lb ed="#F" n="7"/>aget iuxta suas leges, &amp; ut illud roborabit, si sit sibi convenienter dispositum,
+            <lb ed="#F" n="8"/>ita laedet, &amp; praeexistentem qualitatem depellet, vel certè labefactabit, si 
+            tel<lb ed="#F" n="9" break="no"/>lus contrariam habeat actionem, &amp; durante pugna tandem victoriam com
+            <lb ed="#F" n="10"/>pletam assequetur terra, dum paulatim primam illam virtutem imminuit.
+            <lb ed="#F" n="11"/>Laeditur ergo versorium in contraria positione locatum ab actione telluris
+            <lb ed="#F" n="12"/>contraria, quod erat propositum; quod patet, quia hanc solum ob causam
+            <lb ed="#F" n="13"/>convertit se, si possit, ne sic laedatur.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

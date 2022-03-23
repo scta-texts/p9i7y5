@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 14</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 14</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="316"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e33837"> <!-- l4c14 -->
+            <head xml:id="p9i7y5-e33837-Hd1e107">Caput 14</head>
+            <p xml:id="p9i7y5-e33837-d1e109">
+               <lb ed="#F" n="26"/>Si polus magnetis, puta, australis in pulverem ferreum immittatur, fit ille polus veluti
+            <lb ed="#F" n="27"/>barbatus, cui si admoveatur alterius magnetis pariter pars australis, repelluntur
+            <lb ed="#F" n="28"/>veluti contrario vento, &amp; iuhorrescunt pili, odmoota Septentrionali 
+            ad<lb ed="#F" n="29" break="no"/>vocantur, &amp; comuntur. Cap. XIV.
+        </p>
+            <p xml:id="p9i7y5-e33837-d1e120">
+               <lb ed="#F" n="30"/>Sit magnes A. B. cuius polus A. si immittatur in ferreum pulverem, 
+            adhae<lb ed="#F" n="31" break="no"/>rescet illi pulvis, &amp; veluti pilis inhorrescet, &amp; dum pulveris grana inter
+            <lb ed="#F" n="32"/>se recta iunguntur, formabit veluti obelos ferreos, iam si sumas alterum 
+            ma<lb ed="#F" n="33" break="no"/>gnetem C. D. cuius polus C. pariter sit ille, qui in Septentrionem dirigitur, 
+            si<lb ed="#F" n="34" break="no"/>cuti dirigitur A. &amp; obvertas polum C. contra barbam illam ferream, videbis
+            <lb ed="#F" n="35"/>illam difijci ac dissipari perinde, ac si contrario quodam vento repelleretur. sic
+            <lb ed="#F" n="36"/>ad ipsum magnetem A. B. reflectuntur pili. Quod si partem magnetis D. quam dirigitur
+            <lb ed="#F" n="37"/>in Austrum obvertas ferreo illi capillitio, videbis statim quasi benè compta 
+            bar<lb ed="#F" n="38" break="no"/>bam demitti, &amp; dirigi extrema ad D. partem magnetis, quam illi fit obvia, ut illi, qua
+            <lb ed="#F" n="39"/>possunt, ratione pili coniungantur. Duo igitur hic dnr, Primum est si immittatur
+            <!--335.xml-->
+            <pb ed="#F" n="316"/>
+               <lb ed="#F" n="1"/>polus magnetis in pulverem ferreum, adhaerescere pulverem illi ita, ut ve¬
+            <!--335.xml-->
+            <pb ed="#F" n="316"/>
+               <lb ed="#F" n="2"/>luti pilos seu obelos formet, Deinde à simili facie, quasi à contrario vento,
+            <lb ed="#F" n="3"/>depelli, à contraria vero facie adduci: quod non tam verum esse ostendendum
+            <lb ed="#F" n="4"/>est, quam ratio facilis, &amp; expedita depromenda.
+         <lb ed="#F" n="32" type="fixed=316"/>
+               <figure xml:id="p9i7y5-e33837-Fd1e164">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870059/649,608,1520,540/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">D C A B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375840-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e33837-d1e182">
+               <lb ed="#F" n="5" type="fixed=316"/>Quod spectat ad primum, res adeo vera est, ut hac ipsa ratione possis com
+            <lb ed="#F" n="6"/>mode polos magnetis invenire, ut alibi dictum est: si enim in ferreo pulvere
+            <lb ed="#F" n="7"/>sepelias totum aliquem magnetem; deinde extrahas, videbis non aequali 
+            ra<lb ed="#F" n="8" break="no"/>tione in singulis partibus pulverem illi adhęrescere: in aliquibus enim 
+            parti<lb ed="#F" n="9" break="no"/>bus eriguntur veluti hastati milites ferro rigentes, imo ferrei; in alijs adiacet
+            <lb ed="#F" n="10"/>pulvis supra lapidem stratus; in medio autem illarum partium magnetis,
+            <lb ed="#F" n="11"/>ubi ramenta eriguntur, ibi polus est. Cur autem non omnes magnetis 
+            par<lb ed="#F" n="12" break="no"/>tes aequaliter consperso pulvere contegantur, ratio ex directionibus 
+            magne<lb ed="#F" n="13" break="no"/>ticis sumenda est: sicut enim, si versorium circa lapidem circumducas, non
+            <lb ed="#F" n="14"/>in quocunque magnetis puncto eodem modo conformatur, sed aliquibus
+            <lb ed="#F" n="15"/>in locis erigitur perpendiculariter ad centrum lapidis, in alijs adiacet, in 
+            qui<lb ed="#F" n="16" break="no"/>busdam medio modo se habet, ita &amp; conformatur conspersus pulvis. Quia
+            <lb ed="#F" n="17"/>tamen fortasse al quis peculiarem quaeret rationem, cui sic polus 
+            inhorre<lb ed="#F" n="18" break="no"/>scat pilis, &amp; pulvis efformetur in ferreos obelos, &amp; non potius lapidi adiaceat
+            <lb ed="#F" n="19"/>perinde, ac si esset ferrea lamina in ferreum vas efformata. Sic enim 
+            conve<lb ed="#F" n="20" break="no"/>nientius fieri debere contenderet aliquis, qui sibi cum Democrito oculos 
+            e<lb ed="#F" n="21" break="no"/>rueret, ut rerum causas sibi liberius fingeret, non certius indagaret, Cur enim,
+            <lb ed="#F" n="22"/>dicet aliquis, illae partes, quae ad extremitates sunt pilorum, non relinquunt
+            <lb ed="#F" n="23"/>illam extremitatem? &amp; cum pili ab invicem discedant, non accurrunt ad
+            <lb ed="#F" n="24"/>illud spatium medium, quod relinquitur inter pilum, &amp; pilum? sic enim 
+            pro<lb ed="#F" n="25" break="no"/>pius ad magnetem accederent ramenta omnia. Certè omnes pulveris 
+            par<lb ed="#F" n="26" break="no"/>tes magneti, quantum possunt, adhaerere contendunt, sed hoc melius 
+            prae<lb ed="#F" n="27" break="no"/>stabunt, si ad modum laminę magnetem vestiant, quam si in pilos efformen
+            <lb ed="#F" n="28"/>tur. ergo sic debent conformari, &amp; tamen si iterum novum inijcias 
+            pulve<lb ed="#F" n="29" break="no"/>rem, non implet illas cavitates, sed adhęrescit pilorum extremitatibus, &amp;
+            <lb ed="#F" n="30"/>fiunt pili longiores.
+        </p>
+            <p xml:id="p9i7y5-e33837-d1e242">
+               <lb ed="#F" n="31"/>Ratio igitur cur sic efformetur pulvis, illa est, quia postquam iam prima
+            <!--335.xml-->
+
+         <!--336.xml-->
+         <pb ed="#F" n="317"/>
+               <lb ed="#F" n="1"/>pulveris conspersio totam magnetis superficiem polarem contexuit, 
+            no<lb ed="#F" n="2" break="no"/>vus qui supervenit, pulvis debet prioribus partibus adhaerere, &amp; consequen
+            <lb ed="#F" n="3"/>ter verticitatem concipere continuato ductu, cum illis primis partibus &amp; sic
+            <lb ed="#F" n="4"/>tertius, ut ita dicam, pulvis debet secundo adhaerere, &amp; tertio quartus. ex quo
+            <lb ed="#F" n="5"/>sit, ut si sumatur totus ille continuatus pulvis ab extremo remoto à lapide
+            <lb ed="#F" n="6"/>procedendo magnetem versus integret, veluti unum corpus magneticum,
+            <lb ed="#F" n="7"/>quod in illa extremitate, quae à magnete remotior est, unam habeat faciem,
+            <lb ed="#F" n="8"/>in alia, quae magneti contigua est, oppositam. ergo in extremitatibus 
+            om<lb ed="#F" n="9" break="no"/>nibus, seu in toto pulvere remotiore à magnete sunt omnes facies similes,
+            <lb ed="#F" n="10"/>sicuti in contactu magnetis sunt pariter facies similes iuxta modum 
+            agen<lb ed="#F" n="11" break="no"/>di magneticum; quia autem facies similes, ut supra dictum est, quantum pos
+            <lb ed="#F" n="12"/>sunt, ab invicem discedunt, ideo illae extremitates pulveris, quia sunt 
+            cor<lb ed="#F" n="13" break="no"/>puscula separata ab invicem, &amp; prioribus adhaerent, ex quibus verticitatem
+            <lb ed="#F" n="14"/>concipiunt, discedunt à sibi vicinis, quae pariter à contactu illorum, quae 
+            la<lb ed="#F" n="15" break="no"/>pidi propiora sunt, similem habent verticitatem, &amp; per hoc formantur illi
+            <lb ed="#F" n="16"/>quasi pili, quia in partibus lateralibus non est ratio adhaerendi proximis
+            <lb ed="#F" n="17"/>imo est ratio discedendi, est autem ratio adhaerendi propioribus lapidi, quia
+            <lb ed="#F" n="18"/>ab illis verticitatem concipiunt: &amp; quamvis aliquando ita hoc ferreum 
+            ca<lb ed="#F" n="19" break="no"/>pillitium circa polos magnetis concinnetur, ut omnino non totus magnes
+            <lb ed="#F" n="20"/>densissime contegatur, sed relinquantur minutissimae particulae lapidis 
+            de<lb ed="#F" n="21" break="no"/>tectae inter pilos, hoc ex eo provenit, quia, ut dicam alibi, si ferrum ex 
+            ma<lb ed="#F" n="22" break="no"/>gnete pendeat, &amp; novum adicias ferri frustum, ac haerebit secundum 
+            prio<lb ed="#F" n="23" break="no"/>ti, potius quam ipsi magneti. cum ergo secundus advenit ferreus pulvis, si
+            <lb ed="#F" n="24"/>offendat priores pulveris partes iam ferro adhaerentes, facilius illis 
+            coniun<lb ed="#F" n="25" break="no"/>getur, quam ad magnetem rapiatur: cuius rei causa alibi ponitur hinc 
+            ta<lb ed="#F" n="26" break="no"/>men non nova quaerenda est ratio, cur efformentur pili ferrei ex asperso
+            <lb ed="#F" n="27"/>pulvere.
+        </p>
+            <p xml:id="p9i7y5-e33837-d1e312">
+               <lb ed="#F" n="28"/>Ex hoc iam ferè secundi ratio constabit clarissima. Dum enim parti 
+            au<lb ed="#F" n="29" break="no"/>strali unius magnetis pattem pariter australem alterius obijcio, utraque
+            <lb ed="#F" n="30"/>consequenter habebit eundem operandi modum, &amp; ita pariter una contra
+            <lb ed="#F" n="31"/>alteram qualitatem in contrario situ producet. qualitas igitur per medium
+            <lb ed="#F" n="32"/>diffusa à secundo magnente occurret illis pilis in contrario situ, atque sit 
+            qua<lb ed="#F" n="33" break="no"/>litas, quae producitur à magnete, cui adhaerent: cum enim ex illo magnete
+            <lb ed="#F" n="34"/>A. in parte remotiore à se protendat partem Australem, in propinquiore sibi
+            <lb ed="#F" n="35"/>partem habeat Septentrionalem, secundus verò magnes in parte sibi propin
+            <lb ed="#F" n="36"/>quiore partem producat Septentrionalem, in remotiore Australem, pater ab
+            <lb ed="#F" n="37"/>stis produci invicem qualitatem in conntrario situ, ergo dum pili sentiunt
+            <lb ed="#F" n="38"/>illam qualitatem sic contraria ratione contra se effusam, refugiunt ab illa;
+            <lb ed="#F" n="39"/>ut non patiantur illam alterationem sibi contrariam, &amp; retrahunt se, 
+            quan<lb ed="#F" n="40" break="no"/>tum possunt. ideo videntur quasi contrario vento dissipari, quia verè 
+            con<lb ed="#F" n="41" break="no"/>traria qualitate, seu potius contrario modo producta impetuntur, deflectunt
+            <lb ed="#F" n="42"/>autem, &amp; adhaerennt magneti A. B. quia sic conformantur etiam qualitati à
+            <!--337.xml-->
+            <pb ed="#F" n="318"/>
+               <lb ed="#F" n="1"/>secundo magnete productae quantum possunt; nam radij quidem qui ex A,
+            <lb ed="#F" n="2"/>directe proficiscuntur progrediuntur modo dicto; at vero illi, qui ex eodem
+            <lb ed="#F" n="3"/>A. refringuntur ad latera in parte proximiore ipsi A. quae etiam proximior
+            <lb ed="#F" n="4"/>est ipsi C. partem habent Septentrionalem; in remotiore autem ab ipso A.
+            <lb ed="#F" n="5"/>quae pariter removetur à C. faciem habent Australem; ac proinde satis 
+            con<lb ed="#F" n="6" break="no"/>venienti ratione accommodantur ad qualitatem diffusam à magnete D. C.
+            <lb ed="#F" n="7"/>dum se accommodant pili ad stos radios adiacentes ipsi A. B. Et haec est
+            <lb ed="#F" n="8"/>propria ratio à priori, cur sic reflectant se pili ex adventu secundi magnetis
+            <lb ed="#F" n="9"/>illa positione.
+        </p>
+            <p xml:id="p9i7y5-e33837-d1e371">
+               <lb ed="#F" n="10"/>Quodsi convertatur magnes D. &amp; C. &amp; facies Septentrionalis D. illi 
+            au<lb ed="#F" n="11" break="no"/>strali obvertatur, iam comuntur pili, &amp; amice accurrunt: quia tunc 
+            quali<lb ed="#F" n="12" break="no"/>tas per medium diffusa ab illo secundo magnete prorsus in eodem situ 
+            pro<lb ed="#F" n="13" break="no"/>pagatur, atque sit illa, quam iam habent pili: Quod vel ex eo patet, quia ex
+            <lb ed="#F" n="14"/>priori magnete una cum illis pilis, &amp; ex isto posteriore, si simul sumantur,
+            <lb ed="#F" n="15"/>fit unum quasi corpus magneticum totum, cuius una facies extrema est 
+            Se<lb ed="#F" n="16" break="no"/>ptentrionalis, opposita Australis. quia igitur ab illo secundo pili iuvantur
+            <lb ed="#F" n="17"/>alteratione perfectiva, ideo accurrunt, &amp; quantum possunt ad radium 
+            dire<lb ed="#F" n="18" break="no"/>ctum se conformant, ut certius acquirant qualitatem. Sicut enim plures 
+            ver<lb ed="#F" n="19" break="no"/>soriorum cuspides, quamvis habeant similes facies, tamen simul 
+            coniungun<lb ed="#F" n="20" break="no"/>tur ad tangendum eundem polum ex supra dictis; ita &amp; illae pilorum 
+            extre<lb ed="#F" n="21" break="no"/>mitates, quamvis habeant similes facies, &amp; consequenter ab invicem 
+            disce<lb ed="#F" n="22" break="no"/>dant, si secundum se spectentur, tamen, si obijciatur illis magnes 
+            convenien<lb ed="#F" n="23" break="no"/>ter ita, ut, ossint ab obiecto polo omnes iuvari, simul uniuntur, &amp; ad illum
+            <lb ed="#F" n="24"/>polum inclinant: cessat enim ratio discedendi ab invicem, quia efficacius
+            <lb ed="#F" n="25"/>iuvantur à magnete, quam laedantur ab invicem.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

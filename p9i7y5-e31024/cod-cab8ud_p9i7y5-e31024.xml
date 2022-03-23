@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="290"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e31024"> <!-- l4c4 -->
+            <head xml:id="p9i7y5-e31024-Hd1e107">Caput 4</head>
+            <p xml:id="p9i7y5-e31024-d1e109">
+               <lb ed="#F" n="17" type="fixed=289"/>Si versorium supra magnetem suspendas, vel supponas, illius extrema constanter 
+            accur<lb ed="#F" n="18" break="no"/>rent ad illam magnetis partem, quam semel tetigere. Cap. IV.
+        </p>
+            <p xml:id="p9i7y5-e31024-d1e116">
+               <lb ed="#F" n="19"/>Hoc subtexo, quod rei miraculum auget; si versorium supra 
+            la<lb ed="#F" n="20" break="no"/>pidem suspendas, vel supponas, pars versorij, quae semel 
+            teti<lb ed="#F" n="21" break="no"/>git A. magnatis perpetuo suo ingenio ad A. convertitur, &amp; pars,
+            <lb ed="#F" n="22"/>quae tetigit B. perpetuo ad B se dirigit. Qui ergo fieri potuit,
+            <lb ed="#F" n="23"/>ut ex unico contactu versorium tantam contraxerit cum A.
+            <lb ed="#F" n="24"/>amicitiam, ut perpetuo velit ad illam partem se convertere, nec unquam ad
+            <lb ed="#F" n="25"/>oppositam, &amp; pars D. magnetis, quae non solum tetigit A, sed simul cum ipso na
+            <lb ed="#F" n="26"/>ta est, &amp; educata, tanteque temporis decursu coniunctissimè habitavit, non
+            <lb ed="#F" n="27"/>potuerit tantam contrahere amicitiam, ut semel saltem velint se revisere?
+            <lb ed="#F" n="28"/>immo se maximè iversentur, &amp; refugiant, ac se mutuo depellant? si enim 
+            su<lb ed="#F" n="29" break="no"/>spensa parte C. D. admoveas ad partem D. faciem A. videbis D toto conatu
+            <lb ed="#F" n="30"/>resilere, &amp; aversari illam partem A. tota conspirante natura; sic B. fugabit C.
+            <lb ed="#F" n="31"/>si admoveatur.
+        </p>
+            <p xml:id="p9i7y5-e31024-d1e147">
+               <lb ed="#F" n="32"/>Huius utriusque, quamvis oppositi videantur effectus, una eademque est
+            <lb ed="#F" n="33"/>ratio ex prima propositione desumpta, &amp; magna ex parte ex dictis in 
+            supe<lb ed="#F" n="34" break="no"/>rioribus libris dependet. Quia ergo magnes per se ipsum verticitatem 
+            ha<lb ed="#F" n="35" break="no"/>bet, &amp; non ex alterius concipit contactu, eandem habet &amp; ante, &amp; post 
+            sepa<lb ed="#F" n="36" break="no"/>rationem quaelibet magnetis pars, quae ab altera dividatur, ideo quia, dum
+            <lb ed="#F" n="37"/>integer erat lapis totus, quantus quantus erat, si singulę eius partes singillatim
+            <lb ed="#F" n="38"/>sumptae ab A. ad B. eandem habebant verticitatem, &amp; omnes, ac 
+            singu<lb ed="#F" n="39" break="no"/>lae dirigebantur ad eundem polum puta ad Austrum, &amp; singulae partes 
+            acce<lb ed="#F" n="40" break="no"/>ptae contraria ratione à B. ad A. vim habebant dirigendi se ad Septen¬
+            <!--308.xml-->
+
+         <!--309.xml-->
+         <pb ed="#F" n="290"/>
+               <lb ed="#F" n="1"/>trionem, eodem naturae cursu; facta etiam divisione eandem retinent 
+            dire<lb ed="#F" n="2" break="no"/>ctionem. Si enim procul altera ab altera singulae partes aequilibrentur, vel
+            <lb ed="#F" n="3"/>aquis imponantur, &amp; A. &amp; D. convertant se ad eundem polum telluris ad
+            <lb ed="#F" n="4"/>Septentrionem, similiter C. &amp; B. eadem via dirigentur ad Austrum. ergo
+            <lb ed="#F" n="5"/>eadem est facies facta etiam divisione in A &amp; in D sicuti re ipsa eadem erat
+            <lb ed="#F" n="6"/>ante divisionem facta sola designatione. Si ergo verum est, quod facies simi
+            <lb ed="#F" n="7"/>les se fugiant, &amp; invicem repellant, si forte casu conveniant, ex eo, quod ex A.
+            <lb ed="#F" n="8"/>exeat qualitas per medium diffusa, quae prope A. seu accedendo ad A. habet
+            <lb ed="#F" n="9"/>eandem directionem, hoc est respicit ad eandem partem, ad quam respicit
+            <lb ed="#F" n="10"/>facies opposita B. non debet mirum videri, si facies A. &amp; D. quae sunt facies
+            <lb ed="#F" n="11"/>similes (ut patet tum à posteriori ex eo, quod si suspendantur, dirigantur ad
+            <lb ed="#F" n="12"/>eundem telluris polum, tum à priori ex eo, quod integro lapide totus ipse
+            <lb ed="#F" n="13"/>lapis, &amp; singolae eius partes procedendo ad unum extremum habet eandem
+            <lb ed="#F" n="14"/>directionis faciem) si inquam, sunt facies similes A. &amp; D. quid mirum, si se
+            <lb ed="#F" n="15"/>invicem fugiunt, &amp; fugant? immo, qui rationem primae propositionis 
+            per<lb ed="#F" n="16" break="no"/>ceperit, intelliget etiam, cur hoc contingat, neque novam requiret huius rei
+            <lb ed="#F" n="17"/>rationem, sed satis habebit, quod ostendantur A, &amp; D. habere facies similes;
+            <lb ed="#F" n="18"/>quia enim qualitas diffusa ex A, ad quamcunque partem sumatur, radius proie
+            <lb ed="#F" n="19"/>ctus procedendo A. versus dirigit se non ad illam partem, ad quam 
+            dirigi<lb ed="#F" n="20" break="no"/>tur A, sed ad oppositam: ideo illi coniungitur opposita facies.
+        </p>
+            <p xml:id="p9i7y5-e31024-d1e220">
+               <lb ed="#F" n="21"/>At vero in versorio diversa est ratio, imo in sua diversitate eadem 
+            omni<lb ed="#F" n="22" break="no"/>no, si penitus introspicias: nam, dum versorium tangit partem magnetis A.
+            <lb ed="#F" n="23"/>quacunque ratione tangat, hoc est, altero suo extremo ad quamcunque 
+            de<lb ed="#F" n="24" break="no"/>inde partem dirigatur, semper illa pars, quae tangit A, acquiret vim se 
+            con<lb ed="#F" n="25" break="no"/>vertendi ad contrarium polum, &amp; non se dirigendi ad polum illum, ad quem
+            <lb ed="#F" n="26"/>dirigitur ipsum A. sed ad polum ad quem dirigitur B. &amp; hoc propter 
+            ratio<lb ed="#F" n="27" break="no"/>nem, quae tum hic indicata est, tum alibi exposita. quod patet, si utrunque,
+            <lb ed="#F" n="28"/>tam lapis, quam versorium suspendatur: ad illum enim polum, ad quem se
+            <lb ed="#F" n="29"/>convertit B. suspenso lapide, ad eundem dirigit se pars versorij, quae tetigit
+            <lb ed="#F" n="30"/>A. igitur versorium, dum tangit A, acquirit in parte tangente faciem opposi
+            <lb ed="#F" n="31"/>tam ipsi A, dum ergo supra lapidem suspenditur versorium, vel illi super 
+            po<lb ed="#F" n="32" break="no"/>nitur, bene pars, quae tetigit A. iterum confluit ad ipsum, &amp; pars, quae tetigit
+            <lb ed="#F" n="33"/>B. iterum fluit ad B quia sic facies oppositae ad invicem coniunguntur, &amp; 
+            si<lb ed="#F" n="34" break="no"/>miles se fugiunt; &amp; pars, quae tetigit A. ideo ad A. confluit, ut illam verticita
+            <lb ed="#F" n="35"/>tem, quam concepit ex contactu ipsius, firmius roboret, &amp; altius stabiliat.
+            <lb ed="#F" n="36"/>Propter eandem igitur rationem, &amp; partes illae magnetis sese fugiunt, quae
+            <lb ed="#F" n="37"/>prius erant coniunctae in eodem integro lapide, &amp; opposita solum ratione
+            <lb ed="#F" n="38"/>confluunt, ac prius essent, &amp; tamen partes versorij eodem modo 
+            disponun<lb ed="#F" n="39" break="no"/>tur ad magnetem, quo prius fuerant per contactum coniunctae: quia 
+            scili<lb ed="#F" n="40" break="no"/>cet semper facies similes se fugiunt, &amp; oppositae connectuntur. verum, quia
+            <lb ed="#F" n="41"/>pars illa magnetis non acquisivit ex coniunctione cum altera parte illam 
+            ver<lb ed="#F" n="42" break="no"/>ticitatem, quam habet, at vero versorium ex illo contactu verticitatem ac¬
+            <!--310.xml-->
+            <pb ed="#F" n="291"/>
+               <lb ed="#F" n="1"/>quisivit, ideo magnes non habet contrariam verticitatem, aut faciem, atque
+            <lb ed="#F" n="2"/>habeat pars, cum qua erat prius coniuncta, sed habet similem illi, ac 
+            proin<lb ed="#F" n="3" break="no"/>de ab illa refugit; versorium autem habet contrariam verticitatem, atque 
+            ha<lb ed="#F" n="4" break="no"/>beat pars, quae à se fuit tacta; ideo ad eandem confluit.
+        </p>
+            <p xml:id="p9i7y5-e31024-d1e283">
+               <lb ed="#F" n="5"/>Sed dices, non ne prius erant coniunctae illae partes A. &amp; D? si erant 
+            coniun<lb ed="#F" n="6" break="no"/>ctae, &amp; quidem à natura, ergo aptae simul cohęrebant, neque una alteram 
+            de<lb ed="#F" n="7" break="no"/>struebat, aut illi repugnabat, imò aptissimè coniungebantur. si ergo per 
+            di<lb ed="#F" n="8" break="no"/>visionem nihil de natura est immutatum, convenire etiam nunc deberent
+            <lb ed="#F" n="9"/>eadem consentiente, immo &amp; conspitante natura; vel certè quomodo 
+            natu<lb ed="#F" n="10" break="no"/>raliter antea illae duae partes simul committebantur, nunc repugnant? 
+            Re<lb ed="#F" n="11" break="no"/>spondeo ante fuisse unum lapidem, nunc esse duos: valde autem diversum
+            <lb ed="#F" n="12"/>est esse designatas partes solum in eodem continuo, &amp; esse divisas, in re no
+            <lb ed="#F" n="13"/>stra; nunc enim, cum divisae sunt, partes singulae habent suam actionem sibi
+            <lb ed="#F" n="14"/>propriam; independenter ab alia parte; dum vero sunt coniunctae partes, non
+            <lb ed="#F" n="15"/>est nisi una simplex actio à toto, &amp; partes, quae nullae sunt actu, non 
+            distin<lb ed="#F" n="16" break="no"/>guunt sibi actiones. quod si in alijs philosophiae partibus hoc non 
+            videa<lb ed="#F" n="17" break="no"/>tur ullam inferre diversitatem, &amp; eodem modo agere duo partialia agentia,
+            <lb ed="#F" n="18"/>quae simul commissa actione conspirent ad agendum; quamvis sint divisa:
+            <lb ed="#F" n="19"/>perinde enim est, ac si esset unicum agens continuum, certè in magnetica
+            <lb ed="#F" n="20"/>philosophia diversitatem infert, ut constat experientia; imo potius ex hoc
+            <lb ed="#F" n="21"/>liceret fortasse argumentum transferre etiam ad alia, ut probetur aliquod
+            <lb ed="#F" n="22"/>discrimen, quamvis illud sensus non prodat. Rem tamen clarius explicabo
+            <lb ed="#F" n="23"/>ex proprijs principijs, ne alicui in mentem veniat me novam hic cudere 
+            vel<lb ed="#F" n="24" break="no"/>le philosophiam.
+        </p>
+            <p xml:id="p9i7y5-e31024-d1e329">
+               <lb ed="#F" n="25"/>Consulto igitur posui, non absolutè partes non adhaerescere, &amp; in eodem
+            <lb ed="#F" n="26"/>situ coniungi, in quo erant prius; sed dixi partes suspensas non confluere ad
+            <lb ed="#F" n="27"/>eundem situm: modus enim ille loquendi mihi rem explicat, &amp; discrimen
+            <lb ed="#F" n="28"/>indico, si non omnes illud adnotassent: dum enim partes sunt divisae, &amp; 
+            se<lb ed="#F" n="29" break="no"/>paratim positae, singulae habent suam sphaeram activitatis sibi propriam, &amp;
+            <lb ed="#F" n="30"/>effundunt singulae per medium qualitatem ex legibus magneticis supra 
+            ex<lb ed="#F" n="31" break="no"/>plicatis; hoc est, ut virtus accedendo ad A. sit disposita, ut respiciat ad eandem
+            <lb ed="#F" n="32"/>partem, ad quam dirigitur B. ac proinde eodem pacto sit disposita, atque vir
+            <lb ed="#F" n="33"/>tus D. C. quae scilicet excurrit à D, ad C. quod simili ratione de virtute ex B.
+            <lb ed="#F" n="34"/>diffusa pronuncies. Dum ergo suspensae partes, hoc est liberam habentes
+            <lb ed="#F" n="35"/>directionem, accedunt ad A. B. statim accommodant se ad qualitatem illam,
+            <lb ed="#F" n="36"/>quae est in medio, ut sic convenienter se habeant ad illam, &amp; hac ratione,
+            <lb ed="#F" n="37"/>(quam non explicavit Gilbertus, licet aliquid subindicare videatur) 
+            quam<lb ed="#F" n="38" break="no"/>diu intercipitur medium; hoc est aer, aut aliud corpus inter illas partes, in
+            <lb ed="#F" n="39"/>illa manent contraria positione natura consentiente: quia sic se se invicem
+            <lb ed="#F" n="40"/>accommodant ad qualitatem per medium diffusam, cui famulantur. Quod
+            <lb ed="#F" n="41"/>si contingeret, ut, dum invicem subeunt sphaeras activitatis, non liberam ha
+            <lb ed="#F" n="42"/>berent directionem, &amp; ita componerentur partes, ut inter illas nullum sen¬
+            <!--311.xml-->
+            <pb ed="#F" n="292"/>
+               <lb ed="#F" n="1"/>sibile medium interciperetur, tunc optimae acquiescerent in pristino situ, &amp;
+            <lb ed="#F" n="2"/>cohaererent firmiter etiam divisae partes eadem ratione, qua prius erant 
+            con<lb ed="#F" n="3" break="no"/>tinuae &amp; fieret iterum unum integrum magneticum corpus; et in illo casu
+            <lb ed="#F" n="4"/>firmiter partes adhęrescerent; non quia intercepto magnetico pulvisculo,
+            <lb ed="#F" n="5"/>quasi ex illo gluten efficiatur, ut volebat ille, sed quia penitus nihil sensibile
+            <lb ed="#F" n="6"/>mediat; cum prius, quando intercipiebatur aliquid aeris, se invicem propul
+            <lb ed="#F" n="7"/>sarent. Ratio autem huius est, quia prius se accommodabant partes ad 
+            qua<lb ed="#F" n="8" break="no"/>litatem, quę erat in medio, quae qualitas diverso modo effusa est, ac sit in ipso
+            <lb ed="#F" n="9"/>lapide quod ad positionem, proportionaliter tamen ad illam, ut supra explicatum
+            <lb ed="#F" n="10"/>est, nunc vero cum nullum est medium, nulla etiam est qualitas, cui se 
+            de<lb ed="#F" n="11" break="no"/>beant partes accommodare, &amp; ideo partes similiter simul nectuntur ad 
+            inte<lb ed="#F" n="12" break="no"/>grandum unum totum, agens; quo casu simul duo illa agentia iungunt 
+            a<lb ed="#F" n="13" break="no"/>ctiones.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

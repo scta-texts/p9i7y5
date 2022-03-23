@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 25</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 25</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="257"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e27564"> <!-- l3c25 -->
+            <head xml:id="p9i7y5-e27564-Hd1e107">Caput 25</head>
+            <p xml:id="p9i7y5-e27564-d1e109">
+               <lb ed="#F" n="21"/>Quaelibet facies magnetis ferrum magneticè excitat; sed quam virtutem dedit una, 
+            alte<lb ed="#F" n="22" break="no"/>ra aufert, ut sua ratione immittat qualitatem. Cap. XXV.
+        </p>
+            <p xml:id="p9i7y5-e27564-d1e116">
+               <lb ed="#F" n="23"/>Una ex fabulis, quas invexere parum exercitati in 
+            experimen<lb ed="#F" n="24" break="no"/>tis capiendis, &amp; diligentes transcriptores solemnem 
+            effece<lb ed="#F" n="25" break="no"/>runt, est, magnetem ex una parte virtutem magneticam 
+            com<lb ed="#F" n="26" break="no"/>municare, ex altera surripere; quasi vero quantum una 
+            libera<lb ed="#F" n="27" break="no"/>lis est, tantum altera pars sit avara, immo invida. Duo igitur
+            <lb ed="#F" n="28"/>hic pronuntio; primum est, quamlibet faciem magnetis magneticè ferrum
+            <lb ed="#F" n="29"/>excitare; alterum est, quod locum fabulae dedit, virtutem, quam una facies
+            <lb ed="#F" n="30"/>ferrum tangendo magnes illi communicavit, eandem surripere alteram 
+            e<lb ed="#F" n="31" break="no"/>iusdem partem, si ferrò applicetur.
+        </p>
+            <p xml:id="p9i7y5-e27564-d1e138">
+               <lb ed="#F" n="32"/>Quod spectat ad primum erit ferè hac eadem de re disputandum, cum de
+            <lb ed="#F" n="33"/>atractione sermo erit: contendunt enim etiam aliqui magnetem ex altera
+            <lb ed="#F" n="34"/>solum parte ferrum trahere, ex altera opposita repellere, &amp; fugare; ut autem
+            <lb ed="#F" n="35"/>videas verum esse, quod hic dico, utranque, scilicet, partem magnetis 
+            magne<lb ed="#F" n="36" break="no"/>ticè excitare: sume duas acus nunquam magneticè excitatas, &amp; unam 
+            illa<lb ed="#F" n="37" break="no"/>rum applica ad unam partem magnetis tantum, alteram verò consimili 
+            ra<lb ed="#F" n="38" break="no"/>tione applica solum ad aliam faciem oppositam, quam fortasse dicunt isti
+            <lb ed="#F" n="39"/>non habere virtutem excitandi magneticè, &amp; diligenter observa, ne ullo 
+            mo<lb ed="#F" n="40" break="no"/>do acus aliam, quam suam tangat partem, tum utramque seorsim suspendi¬
+            <!--276.xml-->
+            <pb ed="#F" n="257"/>
+               <lb ed="#F" n="1"/>to, vel capillo, vel filo serico non contorto: videbis, quoties ab illo 
+            dimove<lb ed="#F" n="2" break="no"/>bis, statim utrunque ad notum meridianum convertetur, nec in altera illarum
+            <lb ed="#F" n="3"/>maior vis magnetica, quam in altera deprehendetur. ergo utraque facies vim
+            <lb ed="#F" n="4"/>habuit suam excitandi acum magneticè.
+        </p>
+            <p xml:id="p9i7y5-e27564-d1e174">
+               <lb ed="#F" n="5"/>Et ut sentias hanc directionem acus non esse à directione telluris, de qua
+            <lb ed="#F" n="6"/>postea dicam, si procul suspendas pari filo acum, quae nunquam magnetem
+            <lb ed="#F" n="7"/>tetigerit: videbis non eodem modo, neque pari velocitate illam confluere
+            <lb ed="#F" n="8"/>ad meridianum magneticum, atque confluant duae priores: deinde videbis
+            <lb ed="#F" n="9"/>illas acus, quae magnetem tetigere, certa semper ratione dirigi iuxta leges
+            <lb ed="#F" n="10"/>impositas per contactum magnetis. si enim utraque acus apice magnetem
+            <lb ed="#F" n="11"/>tetigerit, una apicem in austrum altera apicem similiter semper in 
+            Septen<lb ed="#F" n="12" break="no"/>trionem convertet, pro ratione partis magnetis à se tactae. ergo illam 
+            verti<lb ed="#F" n="13" break="no"/>citatem utraque acquisivit ex contactu magnetis, cum sit iuxta leges 
+            magne<lb ed="#F" n="14" break="no"/>ticas illa directio. Cuius rei ratio illa est, quod, cum ex supradictis 
+            circunqua<lb ed="#F" n="15" break="no"/>que in orbem effundatur magneticus vigor, non vero ex altero tantum 
+            po<lb ed="#F" n="16" break="no"/>lorum, &amp; consimili ratione proportionaliter sit magneticus ex omni parte;
+            <lb ed="#F" n="17"/>hinc meritò fit, ut ex quacunque tandem parte ferrum applicaveris, virtutem
+            <lb ed="#F" n="18"/>surripiat in orbem effusam. Constat igitur magnetem ex utraque parte 
+            fer<lb ed="#F" n="19" break="no"/>rum excitare.
+        </p>
+            <p xml:id="p9i7y5-e27564-d1e209">
+               <lb ed="#F" n="43" type="fixed=257"/>
+               <figure xml:id="p9i7y5-e27564-Fd1e214">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870000/783,1738,1138,500/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A B C D</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375748-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="20" type="fixed=257"/>Verum enimvero alterum, quod hic propono demonstrandum, 
+            occasio<lb ed="#F" n="21" break="no"/>nem tollet erroris. 
+            Di<lb ed="#F" n="22" break="no"/>co igitur, si sit acus C.
+            <lb ed="#F" n="23"/>D sit vero magnes A. B.
+            <lb ed="#F" n="24"/>si C. applicetur ad B.
+            <lb ed="#F" n="25"/>excitatur tota acus 
+            ma<lb ed="#F" n="26" break="no"/>gneticè; ita ut iam nunc
+            <lb ed="#F" n="27"/>D. convertatur ad 
+            Sep<lb ed="#F" n="28" break="no"/>tentrionem, C. ad 
+            Au<lb ed="#F" n="29" break="no"/>strum. si vero etiam C.
+            <lb ed="#F" n="30"/>velis applicare ad A. quasi ea intentione, ut excites vehementius, &amp; etiam 
+            il<lb ed="#F" n="31" break="no"/>lam verticitatem concipiat, quam fortasse putaret aliquis non contraxisse
+            <lb ed="#F" n="32"/>ex primo contactu, tunc exterminabitur tota illa verticitas, quam acus 
+            con<lb ed="#F" n="33" break="no"/>traxerat, dum C. tetigerat B, &amp; nova omnino inducetur: quod idem fiet si
+            <lb ed="#F" n="34"/>D. velis applicare ad B. quasi ex hoc putares futurum, ut totam virtutem 
+            ma<lb ed="#F" n="35" break="no"/>gnetis sic duplici contactu conciperet, cuius solam medietatem habere 
+            po<lb ed="#F" n="36" break="no"/>tuerit ex B. pars enim B. magnetis totam illam verticitatem auferet à D. quam
+            <lb ed="#F" n="37"/>illi communicaverat A. Et hoc ut dixi fortasse dedit locum fabulae. quod
+            <lb ed="#F" n="38"/>nimirum una pars magnetis virtutem communicet, altera auferat: re enim
+            <lb ed="#F" n="39"/>vera, quam virtutem ipsi C. per suum contactum communicat pars A. eandem
+            <lb ed="#F" n="40"/>totam aufert pars B. si eodem modo illi applicetur. Verum nec pręcisè, nec
+            <lb ed="#F" n="41"/>per se aufert, sed depellit introducendo suam, quae, quia priori contraria est,
+            <lb ed="#F" n="42"/>quod ad directionem, seu contrariam, obtinet positionem, cum illa stare non
+            <!--276.xml-->
+
+         <!--277.xml-->
+         <pb ed="#F" n="258"/>
+               <lb ed="#F" n="1"/>potest. Quod autem hic fabulam non narrem; sed res sit, ut dico, sic 
+            osten<lb ed="#F" n="2" break="no"/>lo. Post primum contactum acum suspendito, procul à magnete: C. 
+            verte<lb ed="#F" n="3" break="no"/>tur ad Austrum, D. ad Septentrionem: iterum post secundum contactum
+            <lb ed="#F" n="4"/>postquam C. tetigerit B. pariter suspendito, non amplius C. convertetur ad
+            <lb ed="#F" n="5"/>Austrum. ergo prior verticitas per secundum contactum est exterminata;
+            <lb ed="#F" n="6"/>nec enim amplius ullum vestigium se prodit antiquae directionis; sed iam
+            <lb ed="#F" n="7"/>constanter semper C. vertetur in Septentrionem. ergo secundus contactus
+            <lb ed="#F" n="8"/>non praecisè verticitatem abstulit; quia iam ad nullam converteretur partem,
+            <lb ed="#F" n="9"/>sed novam immisit, quacum prior stare non poterat.
+        </p>
+            <p xml:id="p9i7y5-e27564-d1e308">
+               <lb ed="#F" n="10"/>Neque huius rei causa obscura est ex modo operandi magnetis: cum .n.
+            <lb ed="#F" n="11"/>ex A. virtus disseminetur per medium, quae progrediendo A. versus 
+            dire<lb ed="#F" n="12" break="no"/>ctionem habet ad Austrum, &amp; ab A. recedendo à magnete dirigitur in 
+            Sep<lb ed="#F" n="13" break="no"/>tentrionem; ideo consimilis verticitas immittitur in ferrum ex illa parte, ita
+            <lb ed="#F" n="14"/>ut pars, quae est A. versus dirigatur in Austrum, opposita in Septentrionem
+            <lb ed="#F" n="15"/>at verò, quia item ex B. virtus propagatur, quae procedendo B. versus 
+            dirigi<lb ed="#F" n="16" break="no"/>tur in Septentrionem, &amp; recedendo à B. in Austrum convertitur, si iterum ap
+            <lb ed="#F" n="17"/>plicetur C. ad B. quia virtus illa per medium diffusa est agens necessarium, &amp;
+            <lb ed="#F" n="18"/>acus est subiectum capax illius qualitatis, quam potest medium per suam 
+            a<lb ed="#F" n="19" break="no"/>ctionem producere, non poterit non produci nova verticitas in ferrum 
+            con<lb ed="#F" n="20" break="no"/>formiter ad virtutem, quae est in medio: &amp; quia haec posterior priori è 
+            regio<lb ed="#F" n="21" break="no"/>ne contraria est, ideo, dum haec immittitur, illa exterminatur. Quia igitur
+            <lb ed="#F" n="22"/>oppositae facies magnetis opposito consimiliter modo agunt, &amp; verticitatem
+            <lb ed="#F" n="23"/>producunt omnino opposita ratione; ideo, si eadem pars C. utrique parti
+            <lb ed="#F" n="24"/>magnetis successivè applicetur, utraque suam immittere volet virtutem.
+            <lb ed="#F" n="25"/>&amp; quia ambae ex eo, quod contrariam habeant positionem, simul esse non
+            <lb ed="#F" n="26"/>possunt, ideo ultima exterminat priorem, dum suam inducit. ergo nulla pars
+            <lb ed="#F" n="27"/>magnetis absolutè virtutem aufert magneticam: nec potest à ferro per 
+            con<lb ed="#F" n="28" break="no"/>tactum magnetis virtus magnetica auferri, quin nova producatur: quia
+            <lb ed="#F" n="29"/>neque in universum simpliciter puto in tota natura dari actionem solum
+            <lb ed="#F" n="30"/>destructivam. quomodo vero una pars magnetis possit qualitatem 
+            produ<lb ed="#F" n="31" break="no"/>cere, quae priorem ab alia parte productam exterminet, cum habeat actionem
+            <lb ed="#F" n="32"/>eiusdem intensionis cum prima, quod sanè mirum est, dicetur mox.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 30</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 30</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="270"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e28909"> <!-- l3c30 -->
+            <head xml:id="p9i7y5-e28909-Hd1e107">Caput 30</head>
+            <p xml:id="p9i7y5-e28909-d1e109">
+               <lb ed="#F" n="9"/>Ferreus pulvis, si contineatur unitus, verticitatem concipit certam ex contactu magnetis;
+            <lb ed="#F" n="10"/>sed si misceatur iterum, amittit, seu amittere videtur. Cap. XXX.
+        </p>
+            <p xml:id="p9i7y5-e28909-d1e116">
+               <lb ed="#F" n="11"/>Propositio ista nullam apud me difficultatem habet, neque
+            <lb ed="#F" n="12"/>expositione indigebat, ne dum probatione: ne tamen alicui
+            <lb ed="#F" n="13"/>erroris causam praebeat Gilbertus lib. 2. cap. 23. hanc ponere
+            <lb ed="#F" n="14"/>volui. Sic ille habet loco citato. Scobs ferrea, vel in pulverem
+            <lb ed="#F" n="15"/>redacta fistulis imposita chartaceis super lapidem meridionaliter 
+            loca<lb ed="#F" n="16" break="no"/>ta vel propius tantum admota, in unum coalescit corpus &amp; subito tam multae partes 
+            con<lb ed="#F" n="17" break="no"/>crescunt, &amp; combinantur ferrumque aliud affectat coniuratorum corpusculoruɯ turba, ac si
+            <lb ed="#F" n="18"/>unum tantum, &amp; integrum ferri bacillum esset; dirigiturque supra lapidem in 
+            Septen<lb ed="#F" n="19" break="no"/>trionem, &amp; meridiem sed cum longius à lapide removentur tanquam soluta rursus 
+            sepa<lb ed="#F" n="20" break="no"/>rantur, &amp; diffluunt singula corpuscula. Haec ille: quae non benè intellecta pos
+            <lb ed="#F" n="21"/>sent errandi occasionem praebere.
+        </p>
+            <p xml:id="p9i7y5-e28909-d1e142">
+               <lb ed="#F" n="22"/>Dico igitur, si sumatur ferreus pulvis, atque ita supra chartam 
+            expanda<lb ed="#F" n="23" break="no"/>tur, ut referat quasi ferream lamellam, vel in fistulam chartaceam ponatur,
+            <lb ed="#F" n="24"/>icque magneti applicetur, huiusmodi pulverem concipere virtutem 
+            magne<lb ed="#F" n="25" break="no"/>ticam perinde, ac si ex illis pulveribus unum coalesceret corpus ferreum: nec
+            <lb ed="#F" n="26"/>solum hoc habere praesente magnete, sed etiam illo remoto hanc eandem
+            <lb ed="#F" n="27"/>virtutem retinere. quod si pulvis ervatur ex fistula, &amp; misceantur, ac confun
+            <lb ed="#F" n="28"/>dantur partes; ita, ut non remaneant ad invicem eodem modo dispositae, ut
+            <lb ed="#F" n="29"/>erant prius, si sic confusae iterum in fistulam immittantur, nullum habent
+            <lb ed="#F" n="30"/>amplius effectum magneticum, nec certam directionem. Probatur primo
+            <lb ed="#F" n="31"/>experientia: si enim, ut dixi ex ramentis ferreis, vel ferreo pulvere (ita 
+            lo<lb ed="#F" n="32" break="no"/>quor, ut includam etiam arenam illam nigram, quae passim effoditur: habet
+            <lb ed="#F" n="33"/>enim illa arena eandem operationem, quam ferri limatura (si inquam ex hu
+            <lb ed="#F" n="34"/>iusmodi pulvere fistulam chartaceam impleas, tum magneti applices, 
+            exci<lb ed="#F" n="35" break="no"/>tesque perinde, ac si esset ferreus clavus, ac postea suspendas filo serico non
+            <lb ed="#F" n="36"/>contorto, constabit clarissimè, etiam remoto magnete, habere in se 
+            directio<lb ed="#F" n="37" break="no"/>nem magneticam: convertit enim se ad polos prorsus ea lege, qua 
+            conver<lb ed="#F" n="38" break="no"/>tuntur magnetice excitata ferramenta. Hoc idem dicendum est de 
+            pulve<lb ed="#F" n="39" break="no"/>re sparso supra chartam, ut laminam ferream referat. Illud quidem verum
+            <lb ed="#F" n="40"/>est infirmiores longè futuros magneticos effectus, quam si esset obelus fer¬
+            <!--289.xml-->
+            <pb ed="#F" n="270"/>
+               <lb ed="#F" n="1"/>reus, ita, ut vix sensibiliter ferrum sibi copulet: non tamen erit ita obscura,
+            <lb ed="#F" n="2"/>haec verticitas, quin manifestè se prodat. Quod si extrahatur ex fistula 
+            pul<lb ed="#F" n="3" break="no"/>vis, &amp; misceatur, ita, ut partes confundantur, etiam si iterum immittatur in
+            <lb ed="#F" n="4"/>fistulam, nullam amplius habet certam directionem, nullum magneticum
+            <lb ed="#F" n="5"/>effectum. Experimentum promptum est, &amp; facilè paratur.
+        </p>
+            <p xml:id="p9i7y5-e28909-d1e202">
+               <lb ed="#F" n="6"/>Ratio horum non erit impedita: dum enim pulvis ille in fistulam simul
+            <lb ed="#F" n="7"/>includitur, induit rationem unius ferrei corporis: &amp; quanto magis fuerit
+            <lb ed="#F" n="8"/>constipatus pulvis, quia tanto magis contactus partium continuationem 
+            re<lb ed="#F" n="9" break="no"/>fert, eo certius excitatur, atque si esset unicum corpus. Et sicuti, si unus 
+            cla<lb ed="#F" n="10" break="no"/>vus in fistulam illam includeretur, ita excitaretur magnetice, ut remoto ma
+            <lb ed="#F" n="11"/>gnete verticitatem eandem simul conceptam retineret: neque huius alia quę¬
+            <lb ed="#F" n="12"/>reretur causa, quam cur potius ferrum quam aliud virtutem magneticam
+            <lb ed="#F" n="13"/>conceptam retineat, ita huius non erit alia quaerenda ratio: integrat enim 
+            il<lb ed="#F" n="14" break="no"/>le pulvis sic dispositus, &amp; constipatus unicum corpus. At vero, ubi miscetur
+            <lb ed="#F" n="15"/>iterum pulvis, quia illa pars, quae erat ordinatim posita cum alia, quae 
+            conse<lb ed="#F" n="16" break="no"/>quentem habebat verticitatem, illi iam adversatur ex confusione, &amp; ad 
+            con<lb ed="#F" n="17" break="no"/>trariam tendit partem; &amp; ita iam una pars ad unum vergit polum, &amp; altera
+            <lb ed="#F" n="18"/>illi coniuncta ad alium inclinat, vel alia est ratione disposita. hinc fit, ut nul
+            <lb ed="#F" n="19"/>la praevalere possit, nec totum corpus ulla certa lege dirigatur, nisi fortè 
+            for<lb ed="#F" n="20" break="no"/>tuna contingat, ut non bene fiat commixtio partium, &amp; plures illarum, etiam
+            <lb ed="#F" n="21"/>post mixtionem, sic maneant dispositae, ut collatis viribus simul tendant ad
+            <lb ed="#F" n="22"/>eandem partem, &amp; polum; &amp; hae plures sint, quam, quae tendunt ad 
+            opposi<lb ed="#F" n="23" break="no"/>tum; tunc enim, quae praevalent partes, totum corpus dirigent. Cur autem
+            <lb ed="#F" n="24"/>non ita vehemens sese prodat virtus in pulvere sicut in clavo, illud causę est,
+            <lb ed="#F" n="25"/>quia verè non est unum corpus magneticum, sed sunt plura, quoties autem 
+            plu<lb ed="#F" n="26" break="no"/>ra corpora magnetica simul ad eandem magnetis partem applicantur, 
+            si<lb ed="#F" n="27" break="no"/>mul quidem tunc uniuntur, &amp; conspirant ad tangendum illum polum; at
+            <lb ed="#F" n="28"/>ubi remotus fuerit magnes, pugnant ad invicem partes, quae simul tetigere,
+            <lb ed="#F" n="29"/>ac se repellunt invicem a termino, ad quem per motum diriguntur, ut iam
+            <lb ed="#F" n="30"/>nunc dicam. quare hoc etiam hìc, continget, praesertim si non benè in 
+            fi<lb ed="#F" n="31" break="no"/>stula constpetur pulvis: in eo enim casu particulae, quae remanebunt non
+            <lb ed="#F" n="32"/>nihil distantes ab alijs sibi proximis, praesertim si sint secundum fistulae 
+            lati<lb ed="#F" n="33" break="no"/>tudinem, omnino directionem impedient, non secus, ac si duo essent, vel plu
+            <lb ed="#F" n="34"/>ra versoria, quae simul eidem magaetis polo applicarentur: alterum enim
+            <lb ed="#F" n="35"/>istorum alterum impedit à sua directione. &amp; quia hoc in huiusmodi 
+            pulve<lb ed="#F" n="36" break="no"/>re saepe contingit; ideo non ita certa in illo est directio, sicut esset in obelo
+            <lb ed="#F" n="37"/>ferreo.
+        </p>
+            <p xml:id="p9i7y5-e28909-d1e274">
+               <lb ed="#F" n="38"/>Si igitur contra hoc, quod hactenus dixi contenderet Gilbertus loco 
+            ci<lb ed="#F" n="39" break="no"/>tato huiusmodi pulverem non retinere vim magneticam remoto magnete,
+            <lb ed="#F" n="40"/>nec certam directionem, omnino falleretur: non solum enim contra illum
+            <lb ed="#F" n="41"/>pugnaret ratio proposita, sed, certiori etiam victoria, experimentum 
+            omni<lb ed="#F" n="42" break="no"/>bus obvium. si vero hoc solum sibi vult, quod libentius credo de tam exa¬
+            <!--290.xml-->
+            <pb ed="#F" n="271"/>
+               <lb ed="#F" n="1"/>cto viro, &amp; verba etiam ipsa hunc admittere possunt sensum, scilicet 
+            praesen<lb ed="#F" n="2" break="no"/>te magnete pulueris partes ferruminari, &amp; ad se inuicem adhaerescere, ac si
+            <lb ed="#F" n="3"/>essent adglutinatae, &amp; constituerent veluti ferreos pilos. vbi vero 
+            abradun<lb ed="#F" n="4" break="no"/>tur huiusmodi pili à magnete, non illam partium coniunctionem 
+            retine<lb ed="#F" n="5" break="no"/>re, nec componere amplius pilos illos, hoc magna ex parte verum est: nam
+            <lb ed="#F" n="6"/>re ipsa non tantam retinent coniunctionem, vt prius faciebant; retinentta
+            <lb ed="#F" n="7"/>men aliquam: si enim aduertas exactè, videbis illam ferri limaturam, quae
+            <lb ed="#F" n="8"/>emel fuit excitata magneticè, retinere quandam partium cohaerentiam 
+            per<lb ed="#F" n="9" break="no"/>inde fere, ac si esset humida; nec ita facilè partes dissolui, vt minutum 
+            pulue<lb ed="#F" n="10" break="no"/>rem referant. retinet ergo magneticam qualitatem, &amp; adhaerescentiam 
+            ali<lb ed="#F" n="11" break="no"/>quam.
+        </p>
+            <p xml:id="p9i7y5-e28909-d1e315">
+               <lb ed="#F" n="12"/>Quod vero non ita inhorrescat charta, &amp; erigantur quasi astati ferrei mi
+            <lb ed="#F" n="13"/>lites, si conspersa sit ferreo puluere, ablato magnete, sicuti inhorrescebat 
+            ea<lb ed="#F" n="14" break="no"/>dem charta supposito magnete; hoc nouum non exhibet prodigium: nam
+            <lb ed="#F" n="15"/>si ferrum in vniuersum plus roboris habet magnetici, vt ferruminet cum 
+            a<lb ed="#F" n="16" break="no"/>lio ferro, praesente magnete, quam illo ablato, vt possit ex se suspendere 
+            fer<lb ed="#F" n="17" break="no"/>rum, quod non suspenderet non praesente illo, non est mirum, quod etiam
+            <lb ed="#F" n="18"/>hęc ferri ramenta pręsente magnete plus habeant virium magneticarum,
+            <lb ed="#F" n="19"/>ita vt possint inuicem coniungi, &amp; in pilos se formare, absente vero 
+            magne<lb ed="#F" n="20" break="no"/>te, quia vires concidunt, sicuti concidunt in quolibet alio ferro, non amplius
+            <lb ed="#F" n="21"/>sic adhęrescere: retinet tamen ferreus puluis etiam ablato magnete vim ma
+            <lb ed="#F" n="22"/>gneticam, quod erat conficiendum.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

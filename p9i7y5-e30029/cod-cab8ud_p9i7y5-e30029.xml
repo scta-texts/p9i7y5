@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 35</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 35</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="281"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e30029"> <!-- l3c35 -->
+            <head xml:id="p9i7y5-e30029-Hd1e107">Caput 35</head>
+            <p xml:id="p9i7y5-e30029-d1e109">
+               <lb ed="#F" n="3"/>Ferrum, si incanduerit, refrigeratum in linea meridiana, aut erectum verticitatem 
+            acqui<lb ed="#F" n="4" break="no"/>rit satis insignem. Cap. XXXV.
+        </p>
+            <p xml:id="p9i7y5-e30029-d1e116">
+               <lb ed="#F" n="5"/>In ferro etiam nostro magnete non excito verticitatem à terra
+            <lb ed="#F" n="6"/>produci iam dictum est, &amp; dirigi ad meridianum constat expe
+            <lb ed="#F" n="7"/>rientia. Illud mirum hic sanè propono, quod Gilbertus etiam
+            <lb ed="#F" n="8"/>adnotavit, si ferrum incanduerit, &amp; ex ignitione refrigeretur
+            <lb ed="#F" n="9"/>in linea meridiana, verticitatem acquirere insignem. quod
+            <lb ed="#F" n="10"/>si ignescat iterum, &amp; contraria ratione refrigeretur, ita, ut
+            <lb ed="#F" n="11"/>pars illa, quae in Septentrionem convertebatur in ignitione, &amp; 
+            refrige<lb ed="#F" n="12" break="no"/>ratione contineatur ad Austrum, immutatur verticitas; neque illa facies,
+            <lb ed="#F" n="13"/>quae prius ad Septentrionem dirigebatur, postea ad eandem partem fertur,
+            <lb ed="#F" n="14"/>sed ad contrariam. Hanc rem totam admitto, &amp; verissimam esse pronuntio.
+            <lb ed="#F" n="15"/>quod si faber vultu in Septentriones, tergo in meridiem compositus ita, ut
+            <lb ed="#F" n="16"/>ferrum ignitum verberatum motum habeat extensionis in Septentrionem,
+            <lb ed="#F" n="17"/>&amp; duo, tria, vel plura sic conficiat ferramenta, omnia sic extensa in 
+            Septen<lb ed="#F" n="18" break="no"/>trionem convertuntur, &amp; verticitatem acquirunt ferramenta, dum 
+            exten<lb ed="#F" n="19" break="no"/>duntur, cudunturque, &amp; si ferri conflati bacillum incandescat secundum
+            <lb ed="#F" n="20"/>meridiani circuli ductum, &amp; exemptum ab igne refrigeretur, &amp; in pristinam
+            <lb ed="#F" n="21"/>temperiem redeat, in eadem, qua prius positura manens, verticitatem 
+            acqui<lb ed="#F" n="22" break="no"/>ret; &amp; finis, qui sic respexit boream in aqua cum cortice ante ignitionem, si
+            <lb ed="#F" n="23"/>in ignitione, &amp; refrigeratione positus fuerit meridiem versus, nunc 
+            conver<lb ed="#F" n="24" break="no"/>tetur ad meridiem; hoc totum admitto. Experientia enim, quam unam 
+            se<lb ed="#F" n="25" break="no"/>quor suffragatur. Verum causam inquiro: si enim totus telluris globus
+            <lb ed="#F" n="26"/>hanc ferro verticitatem immittit, &amp; immutat, cur, si acus super aquas 
+            posi<lb ed="#F" n="27" break="no"/>tus fenestellam semel in Septentrionem dirigit, non statim certam concipit
+            <lb ed="#F" n="28"/>verticitatem, ut eandem semper partem ad Septentrionem convertat; vel si
+            <lb ed="#F" n="29"/>apicem semel quis dirigat in Septectrionem, cur non statim terra novum
+            <lb ed="#F" n="30"/>inspirat vigorem; immo, si semel supra tabulam ferrum, quis 
+            meridiona<lb ed="#F" n="31" break="no"/>liter collocet, cur terra non statim immittit verticitatem, quam è vestigio
+            <lb ed="#F" n="32"/>immittet, si ex ignitione in illa positione refrigeretur. quaero igitur, quid
+            <lb ed="#F" n="33"/>conferat ista ignitio, &amp; refrigeratio ad verticitatem concipiendam, quam
+            <lb ed="#F" n="34"/>causam non exposuit Gilbertus.
+        </p>
+            <p xml:id="p9i7y5-e30029-d1e184">
+               <lb ed="#F" n="35"/>Ad hoc habendum suppono hic, quod alibi dicitur, ignitionem à 
+            fer<lb ed="#F" n="36" break="no"/>ro conceptam verticitatem exterminare, imo nulla ferre alia ratione 
+            cer<lb ed="#F" n="37" break="no"/>tius, &amp; expeditius à ferro conceptum magneticum vigorem depelli. Sume
+            <lb ed="#F" n="38"/>ferrum quodcunque validissimo magnete excitatum, quantumlibet fac 
+            igne<lb ed="#F" n="39" break="no"/>scat, igne statim omnem conceptum vigorem amittit; nec ulla alia ratione
+            <!--300.xml-->
+            <pb ed="#F" n="281"/>
+               <lb ed="#F" n="1"/>ita exterminabis omnem magneticam verticitatem, non ablutione, non 
+            fri<lb ed="#F" n="2" break="no"/>catione, non denique limatione. Suppono secundo non posse, quod supra
+            <lb ed="#F" n="3"/>probatum est, magneticum corpus verticitatem in ferrum immittere, &amp; 
+            il<lb ed="#F" n="4" break="no"/>lud excitare, nisi prius expellat contrariam, si qua est, qualitatem, quae 
+            scili<lb ed="#F" n="5" break="no"/>cet contraria ratione, aut ab illo ipso, aut ab alio fuerit producta; &amp; quo agens
+            <lb ed="#F" n="6"/>magneticum imbecilliorem habet ad agendum vim, eò magis in 
+            expellen<lb ed="#F" n="7" break="no"/>da antiqua virtute laborabit, si tamen vires illi sufficient ad hoc praestandum.
+            <lb ed="#F" n="8"/>quod si nulla esset expellenda magnetica qualitas, nullo negotio suam indu
+            <lb ed="#F" n="9"/>ceret qualitatem.
+        </p>
+            <p xml:id="p9i7y5-e30029-d1e222">
+               <lb ed="#F" n="10"/>His suppositis, terra habet quidem vim ad excitandum ferrum 
+            magneti<lb ed="#F" n="11" break="no"/>cè, sed infirmam valde, &amp; tenuem, &amp; non nisi magno conatu suum effectum
+            <lb ed="#F" n="12"/>sensibus subijcere potest. Hinc fit, ut si aliquando in ferro offendat iam 
+            pro<lb ed="#F" n="13" break="no"/>ductum aliquid magneticum contraria ratione, atque sit eius praesens actio,
+            <lb ed="#F" n="14"/>nihil possit efficere, nisi longa mora, &amp; magno temporis conatu; &amp; ideo non
+            <lb ed="#F" n="15"/>statim, ac ferrum in meridianam lineam collocatur, in illud confestim 
+            ver<lb ed="#F" n="16" break="no"/>ticitas producitur permanenti, &amp; constanti effectu: &amp; si quis ferrum 
+            conver<lb ed="#F" n="17" break="no"/>tat contraria ratione, non ideo è vestigio verticitas exterminatur, &amp; nova ef
+            <lb ed="#F" n="18"/>ficaciter inducitur. Quia enim terrae actio tenuis est, &amp; contraria qualitas sa
+            <lb ed="#F" n="19"/>tis bene radicata, ac proinde obluctatur, ideo brevi illo tempore nihil 
+            effici<lb ed="#F" n="20" break="no"/>tur. Verum, si quis ignitione omnem exterminet priorem verticitatem, &amp;
+            <lb ed="#F" n="21"/>tunc nudatum omni contrario subijciat ferrum convenienti ratione, 
+            actio<lb ed="#F" n="22" break="no"/>ni telluris in meridianum collocando, non est mitum à terra statim posse 
+            pro<lb ed="#F" n="23" break="no"/>duci similem verticitatem; quia fertum denudatum omni contraria qualita
+            <lb ed="#F" n="24"/>te offendit, nec tempus insumere debet in ulla pugna. Cum igitur in illo 
+            ca<lb ed="#F" n="25" break="no"/>su subiectum sit capax, &amp; nullum sit contrarium expellendum, confestim 
+            pro<lb ed="#F" n="26" break="no"/>ducet tellus quidquid posset ferre longo annorum decursu; quoties enim
+            <lb ed="#F" n="27"/>non est contrarij repugnantia in subiecto, productio fit momento temporis.
+            <lb ed="#F" n="28"/>Non igitur puto illam ignitionem praecisè conferre per se ad verticitatem
+            <lb ed="#F" n="29"/>producendam, quidquid dicat Gilbertus, nec puto necessatium, ut ferrum,
+            <lb ed="#F" n="30"/>dum ignescit, stet in meridiano: ignitio potius adversatur verticitati, &amp; dum
+            <lb ed="#F" n="31"/>ferrum candet, ut non trahitur à magnete, ita nec concipit vigorem 
+            magne<lb ed="#F" n="32" break="no"/>ticum. ergo frustra ponitur, quod ignitio fiat stante ferro, in meridiano, sed
+            <lb ed="#F" n="33"/>confert sola ignitio ad disponendum subiectum, ut nulla interveniente 
+            pu<lb ed="#F" n="34" break="no"/>gna possit tellus suas vires exerere, quaecunque illae sint, &amp; ad producendam
+            <lb ed="#F" n="35"/>qualitatem, quantas quantas habet statim applicare: exterminatur enim per
+            <lb ed="#F" n="36"/>illam ignitionem omnis prior verticitas, &amp; subiectum nudum omni 
+            contra<lb ed="#F" n="37" break="no"/>rietate obijcitur telluri, ac proinde non est mirum terram sic posse ferrum
+            <lb ed="#F" n="38"/>excitare. &amp; quoties per novam igitionem quocunque in situ factam prior
+            <lb ed="#F" n="39"/>omnis verticitas exterminatur, statim toties habere tellurem integras vires
+            <lb ed="#F" n="40"/>ad novam sibi convenienti ratione, prout ferrum obijcitur, qualitatem 
+            pro<lb ed="#F" n="41" break="no"/>ducendam. Constat ergo ferrum refrigeratum in linea meridiana 
+            verticita<lb ed="#F" n="42" break="no"/>tem acquirere, cuius ratio quaerebatur.
+        </p>
+            <p xml:id="p9i7y5-e30029-d1e296">
+            <!--301.xml-->
+               <pb ed="#F" n="282"/>
+               <lb ed="#F" n="1"/>Illud vero etiam addidi in propositione non solum ferrum verticitatem
+            <lb ed="#F" n="2"/>concipere, si refrigeretur in linea meridiana, verum etiam si refrigeretur ere
+            <lb ed="#F" n="3"/>ctum perpendiculariter, vel certè quasi ad perpendiculum; quia sic etiam 
+            con<lb ed="#F" n="4" break="no"/>venienti ratione, praesertim apud nos in ista poli elevatione, telluri 
+            applica<lb ed="#F" n="5" break="no"/>ur. Constat hoc in globo magnetico, cui ferrum convenientissimè applica
+            <lb ed="#F" n="6"/>tur, ut virtutem concipiat magneticam, praesertim in parte satis polari; si 
+            su<lb ed="#F" n="7" break="no"/>pra illud ad eius centrum erigatur. Cum igitur ea ratione tellus verticitatem
+            <lb ed="#F" n="8"/>immittat, qua globus magneticus, convenienter etiam ad terram 
+            disponi<lb ed="#F" n="9" break="no"/>tur in nostra hac latitudine, si ad eius centrum erigatur ferrum.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

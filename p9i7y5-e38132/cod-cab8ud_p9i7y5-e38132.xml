@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 26</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 26</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="358"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e38132"> <!-- l4c26 -->
+            <head xml:id="p9i7y5-e38132-Hd1e107">Caput 26</head>
+            <p xml:id="p9i7y5-e38132-d1e109">
+               <lb ed="#F" n="14"/>Magnes bene conservatur in ferreo pulvere, &amp; in purpureo panno; sed praecipuè 
+            conser<lb ed="#F" n="15" break="no"/>vatur, si detineatur in convenienti collocatione in ordine ad universum.
+            <lb ed="#F" n="16"/>Cap. XXVI.
+        </p>
+            <p xml:id="p9i7y5-e38132-d1e118">
+               <lb ed="#F" n="17"/>Dixi magnetem ipsum, nedum ferrum magneticè excitum 
+            sen<lb ed="#F" n="18" break="no"/>tire temporum, &amp; aetatis iniurias, ubi ex sua vena veluti ex ma
+            <lb ed="#F" n="19"/>terna alvo fuerit extractus. Verum, ut caetera longiorem 
+            fe<lb ed="#F" n="20" break="no"/>runt aetatem, si cautè custodiantur, ita &amp; magnes, si diligenti
+            <lb ed="#F" n="21"/>cura foveatur, saeculorum eludit impetus, &amp; perpetuo virentem
+            <lb ed="#F" n="22"/>possidet iuventam. Tria autem hic pono, quae ad magnetem 
+            conservan<lb ed="#F" n="23" break="no"/>dum conducunt, quantum mea longa, &amp; aliorum observatione potui 
+            in<lb ed="#F" n="24" break="no"/>venire.
+        </p>
+            <p xml:id="p9i7y5-e38132-d1e138">
+               <lb ed="#F" n="25"/>Primo igitur conservatur magnes ferreis consepultum pulveribus: 
+            lapi<lb ed="#F" n="26" break="no"/>dum scilicet Phaenix non potuit, nisi ex suis ferè cineribus, &amp; suo pulvere 
+            ve<lb ed="#F" n="27" break="no"/>getam vitam haurire. Res patet experientia. ratio autem non est, quia, ut 
+            con<lb ed="#F" n="28" break="no"/>tendunt aliqui, pascatur illo pulvere magnes: non vivit, non ergo nutritur.
+            <lb ed="#F" n="29"/>Neque puto corporeo effluvio foveri, quasi vero ex ferro spiritus exhalent,
+            <lb ed="#F" n="30"/>&amp; corpuscula evaporent, quibus perpetuò haustis magnes saginetur, vel
+            <lb ed="#F" n="31"/>certè ex illorum occursu augeatur. Non exhalant spiritus magnetici, ut alij
+            <lb ed="#F" n="32"/>dixerunt, à ferro, in quod fuerint à natura quasi proseminati, ac propterea
+            <lb ed="#F" n="33"/>melius pulvere ferreo dicunt foveri lapidem, quia ex comminuto ferro 
+            me<lb ed="#F" n="34" break="no"/>lius corpuscula egrediuntur, &amp; spiritus sese effundunt, dum illa 
+            comminu<lb ed="#F" n="35" break="no"/>tione quasi patentem aditum aperimus. Non probant mihi hoc. Quare nec
+            <lb ed="#F" n="36"/>approbo, nec foveri dixerim magnetem à ferro propter hoc: si tamen tibi non
+            <lb ed="#F" n="37"/>videtur insigne commentum, integrum tibi sit opinari, ut lubet. non 
+            habe<lb ed="#F" n="38" break="no"/>bis me totis viribus reluctantem. Non nego sanè, immò ultro admitto, quod
+            <lb ed="#F" n="39"/>experientia demonstrat, metallum posse metallicos spiritus exhalare, 
+            substan<lb ed="#F" n="40" break="no"/>tiali, scilicet effluvio.
+        </p>
+            <p xml:id="p9i7y5-e38132-d1e176">
+            <!--377.xml-->
+               <pb ed="#F" n="358"/>
+               <lb ed="#F" n="1"/>Multa Chimici adducunt ex suis operationibus, &amp; suo in furnulis accenso igne
+            <lb ed="#F" n="2"/>ad hanc veritatem cognoscendam facem praeferunt, multaque ostendunt,
+            <lb ed="#F" n="3"/>quae hanc metallicam exhalationem; &amp;, ut loquuntur, spirituum effusionem
+            <lb ed="#F" n="4"/>in plumbo, in auro, in argento, ut contendunt, evincant. Non ego cum istis
+            <lb ed="#F" n="5"/>libenter rem sumo in metallica anatome exercitatissimis; licet sciam illos
+            <lb ed="#F" n="6"/>nonnunquam longissimè à vero aberrare. Nec timeo, si tandiu metallum 
+            me<lb ed="#F" n="7" break="no"/>tallicos spiritus exhalet, ne tandem exhauriatur. Odorata corpuscula, &amp; 
+            li<lb ed="#F" n="8" break="no"/>gna, ut cyptessina perpetuo expirant spiritus, quibus odorem effundunt, non
+            <lb ed="#F" n="9"/>tamen unquam exhauriuntur, &amp; post secula in nullo ferè imminuta 
+            appa<lb ed="#F" n="10" break="no"/>rent. Quid ergo timetur in metallo, corpore scilicet duriore? Quid ni ergo
+            <lb ed="#F" n="11"/>etiam ferrum ferreos spiritus exhalet? Adde quod rubigo, quam ferrum 
+            in<lb ed="#F" n="12" break="no"/>duit, istam spirituum exhalationem ostentare mihi sane videtur, quicquid
+            <lb ed="#F" n="13"/>alij sentiant. Dum enim subtiliores, &amp; tenuiores spiritus ad externam 
+            su<lb ed="#F" n="14" break="no"/>perficiem delapsi elabuntur, terrenae faces ferro adhaerent, quae rubiginem
+            <lb ed="#F" n="15"/>illam efficiunt, quam dixeris efflorescentiam quandam spirituum ferreorum
+            <lb ed="#F" n="16"/>qui partem crassiorem relinquunt. alioqui dicant mihi philosophi, veram,
+            <lb ed="#F" n="17"/>&amp; physicam causam afferendo, cur ferrum rubiginem contrahat, cur ferrum
+            <lb ed="#F" n="18"/>magis impurum, minus ad duram temperiem redactum rubigine vestiatur?
+            <lb ed="#F" n="19"/>cur magis si humido consistat loco, quam in sicco? cur magis, si clausum 
+            cu<lb ed="#F" n="20" break="no"/>stodiatur, quam si in aperto, caeteris paribus? Nam ego id ex eo provenire 
+            di<lb ed="#F" n="21" break="no"/>cam, quia ferrum perfectè purgatum spiritus emittit purgatiores, ac 
+            proin<lb ed="#F" n="22" break="no"/>de, qui partes non habeant adeo crassas, quae fęces relinquant 
+            adhaerescen<lb ed="#F" n="23" break="no"/>tes ferro: quia ferramenta, è dura temperie poros habent, praesertim in extre
+            <lb ed="#F" n="24"/>ma superficie, magis clausos, ac proinde non possunt egredi spiritus, nisi 
+            te<lb ed="#F" n="25" break="no"/>nuiores, neque secum ad externa deferre crassiores illas fęces, quibus rubigo
+            <lb ed="#F" n="26"/>gignitur; ideo non sic rubiginem temperata contrahunt. Similiter in loco
+            <lb ed="#F" n="27"/>humenti statim in egressu à ferro ferrei spiritus retunduntur ab ambiente
+            <lb ed="#F" n="28"/>humido sibi contrario; ac proinde, dum haerent concrescunt etiam ibi 
+            cras<lb ed="#F" n="29" break="no"/>siores partes, quas asportassent alioquin, dum incitato motu egrediebantur.
+            <lb ed="#F" n="30"/>Et hinc rubigo exoritur. Atque haec eadem est ratio, cur magis etiam gigna
+            <lb ed="#F" n="31"/>tur in clauso ferro in vagina; &amp; involuto, quam in exposito. Impediuntur .n.
+            <lb ed="#F" n="32"/>ne libere avolent spiritus. Similiter ex dictis patet, cur, si ferrum probe 
+            laevi<lb ed="#F" n="33" break="no"/>gatum, &amp; pressum fuerit lapide, vel durissimo aciario, ut specularem 
+            aemu<lb ed="#F" n="34" break="no"/>letur naturam, non ita facilè rubiginem contrahat. Illo enim affrictu, &amp; vehe
+            <lb ed="#F" n="35"/>menti pressione externae partes magis solidatae fuere; proinde spiritus non
+            <lb ed="#F" n="36"/>nisi tenuissimi possunt exires: pori enim in extrema superficie illa pressione
+            <lb ed="#F" n="37"/>fuere occlusi. Secum igitur non deferent spiritus faeces, unde rubigo 
+            contra<lb ed="#F" n="38" break="no"/>hatur. Verum haec obiter dicta sint, quae tamen deserviunt etiam infra 
+            dicen<lb ed="#F" n="39" break="no"/>dis, ut ostendam, verè ferrum spititus ferreos exhalare, sicuti etiam 
+            magne<lb ed="#F" n="40" break="no"/>tici à magnete exhalantur. Quod eodem modo comprobatur, quia, &amp; 
+            ip<lb ed="#F" n="41" break="no"/>se magnes rubiginem contrahit, ut ferrum, &amp; illa eadem, quae ferrum ad 
+            ru<lb ed="#F" n="42" break="no"/>biginem impellunt, etiam magnetem ad easdem ruinas trahunt. Non tamen
+            <!--378.xml-->
+            <pb ed="#F" n="359"/>
+               <lb ed="#F" n="1"/>ut verum pronuntio, magnetem ideo conservari in ferreo pulvere, quia illis
+            <lb ed="#F" n="2"/>spiritibus foveatur, non quidem ad nutritionem, cum mihi certum sit non
+            <lb ed="#F" n="3"/>nutriri, sed ad retinendos suos magneticos spiritus, qui ex occursu ferreorum
+            <lb ed="#F" n="4"/>quasi obsidentur, &amp; repelluntur, &amp; quasi obducto vallo egredi prohibentur.
+            <lb ed="#F" n="5"/>Hoc, ut dixi, non ut verum pronuntio, immo, si meam exquiris sententiam,
+            <lb ed="#F" n="6"/>non subscribo. Nolo tamen hac de re digladiari; cum praesertim sentiam fu
+            <lb ed="#F" n="7"/>turum, ut mea haec tota de causa rubiginis speculatio aliquibus non 
+            omni<lb ed="#F" n="8" break="no"/>no arrideat. mihi sanè valde experimentis consentanea videtur: nec in 
+            re<lb ed="#F" n="9" break="no"/>bus physicis mathematicam quaerere debes evidentiam, ne te philosophus
+            <lb ed="#F" n="10"/>quasi indisciplinati condemnent ingenij, quod si ex vapidis spiritibus, qui
+            <lb ed="#F" n="11"/>per aerem feruntur, &amp; ferro adherent, illudque in extrema superficie 
+            corrum<lb ed="#F" n="12" break="no"/>punt, rubiginem oriri, credideris, melius fortasse etiam per hoc explicabis,
+            <lb ed="#F" n="13"/>cur ferreus pulvis magnetem conservet, exciperet enim in se pulvis ille 
+            va<lb ed="#F" n="14" break="no"/>pidos spiritus, nec sineret ad magnetem penetrare, atque ita quasi clypeum
+            <lb ed="#F" n="15"/>opponeret. verum magis ex proprijs principijs causam repetendo.
+        </p>
+            <p xml:id="p9i7y5-e38132-d1e311">
+               <lb ed="#F" n="16"/>Dico rationem, cur magnes conservetur in ferreo pulvere, illam esse; quia
+            <lb ed="#F" n="17"/>ferrum est subiectum aptum ad habendam in se permanenter magneticam
+            <lb ed="#F" n="18"/>qualitatem, quae qualitas, in quocunque subiecto permanenter reperiatur,
+            <lb ed="#F" n="19"/>vim habet alterativam, &amp; facultatem producendi sibi similem, &amp; sibi 
+            con<lb ed="#F" n="20" break="no"/>venienti ratione positam, si subiectum offendat idoneum. Dum igitur circa
+            <lb ed="#F" n="21"/>magnetem ponitur fertum, quia etiam magnes est subiectum 
+            proportio<lb ed="#F" n="22" break="no"/>natum, ideo non producit quidem ferrum in magnerem illam qualitatem
+            <lb ed="#F" n="23"/>permanentem, quam potest producere, quia suppono magnetem iam 
+            habe<lb ed="#F" n="24" break="no"/>re, sed fovet, &amp; conservat, &amp; sicut plures prunae aequales, &amp; aequaliter 
+            incen<lb ed="#F" n="25" break="no"/>sae se invicem fovent, &amp; conservant, &amp; mutua actione iuvantur, ne 
+            extin<lb ed="#F" n="26" break="no"/>guantur, quae singulae separatae extinguerentur; ita magnes, &amp; ferrum 
+            mu<lb ed="#F" n="27" break="no"/>tua actione ie fovent, &amp; tuentur ab omni sibi contraria actione. Et ut 
+            valen<lb ed="#F" n="28" break="no"/>tius duo pugnant simul collatis viribus, quam singuli, &amp; omnis agentium
+            <lb ed="#F" n="29"/>multitudo ostendit, quod haec virium collatio conferat ad hoc, ut agentia
+            <lb ed="#F" n="30"/>se tueantur, ita &amp; in magnete, dum ferro quasi convestitur, sociorum sibi co
+            <lb ed="#F" n="31"/>pias adiungit, &amp; sibi invicem, &amp; animos, &amp; vires addunt, &amp; si fortè externus
+            <lb ed="#F" n="32"/>hostis sese obijciat, ut aliqua humiditas, vel simile quid, quod magneti 
+            ad<lb ed="#F" n="33" break="no"/>versetur, quia ferrum circumiacet, ideo pugnat in prima fronte, &amp; primos
+            <lb ed="#F" n="34"/>sustinet impetus, &amp; ita magnes eximitur ab illo damno. Quod si nudo 
+            cor<lb ed="#F" n="35" break="no"/>pore pugnaret, in se ipse ictus exciperet malignos. Melius autem in pulvere
+            <lb ed="#F" n="36"/>conservatur magnes quam in ferrea lamina, aut ferreo thorace: quia pulvis
+            <lb ed="#F" n="37"/>magneti commodius adhaeret, &amp; se ad illum accommodat: at vero ferri 
+            pu<lb ed="#F" n="38" break="no"/>gnax durities, &amp; obstinata natura repugnat, ac proinde nulla est pars in pul
+            <lb ed="#F" n="39"/>vere, quae non disponatur ad magnetem ut magnetis natura postulat, &amp; ad
+            <lb ed="#F" n="40"/>illum quam maximè accedat, &amp; exactissimè circumvestiat, quod non esset
+            <lb ed="#F" n="41"/>in lamina. Conservatur igitur magnes in scobe ferrea, quia &amp; se collatis 
+            a<lb ed="#F" n="42" break="no"/>ctionibus fovent, ac tuentur, &amp;, si ullum immineret periculum magneti, pri
+            <!--379.xml-->
+            <pb ed="#F" n="360"/>
+               <lb ed="#F" n="1"/>mum illud exciperet ferrum in se, &amp; suo corpore quasi clypeum obijceret
+            <lb ed="#F" n="2"/>pro magnete.
+        </p>
+            <p xml:id="p9i7y5-e38132-d1e381">
+               <lb ed="#F" n="3"/>Secundo dixi foveri magnetem, &amp; conservari in panno purpureo. Rex
+            <lb ed="#F" n="4"/>scilicet lapidum Magnes in purpura maxime suam conservat majestatem.
+            <lb ed="#F" n="5"/>Hoc etiam habemus experientia. Ratio autem est, quia, ut dixi, ferro nihil
+            <lb ed="#F" n="6"/>magis obest quam humido affici aere, ita magneti maximè pernieiosa est 
+            a<lb ed="#F" n="7" break="no"/>quea humiditas; at vero, quia purpureus pannus non solum ratione lanae,
+            <lb ed="#F" n="8"/>sed etiam ratione coloris humiditatem maximè repellit, hinc est, ut 
+            magne<lb ed="#F" n="9" break="no"/>tem maximè conservet, dum hostiles arcet incursiones.
+        </p>
+            <p xml:id="p9i7y5-e38132-d1e399">
+               <lb ed="#F" n="10"/>Tertio denique dixi maximè foveri magnetem, si in convenienti situs &amp;
+            <lb ed="#F" n="11"/>ordine ad universum conservetur, &amp; detineatur. Hanc tem non vidi ab alijs
+            <lb ed="#F" n="12"/>observari; videtur tamen mihi inter omnia summopere conducere ad 
+            con<lb ed="#F" n="13" break="no"/>servationem magnetis. Caetera enim, quae magneticam demoliri conantur
+            <lb ed="#F" n="14"/>naturam, per cuniculos oppugnant, idest indirectè, &amp; per accidens; hic 
+            dire<lb ed="#F" n="15" break="no"/>cta stat acies; caetera, quae adversantur non per se qualitatem magneticam
+            <lb ed="#F" n="16"/>oppugnant; nullam enim cum illa habent oppositionem, sed qualitates 
+            il<lb ed="#F" n="17" break="no"/>las impetunt, quibus destructis consequenter perit magnetica qualitas, &amp;
+            <lb ed="#F" n="18"/>hoc modo externae humiditates magnetem corrumpunt, &amp; temporum iniu
+            <lb ed="#F" n="19"/>riae adversantur; at hic directa est actio in contrarium, &amp; totius terrae actio
+            <lb ed="#F" n="20"/>qualitatem magneticam insequitur, si magnes non sit convenienter disposi
+            <lb ed="#F" n="21"/>tus, cum totus telluris globus magnetice agat. Sicut ergo alia corpora 
+            ma<lb ed="#F" n="22" break="no"/>gnetica, si sint convenienter ad invicem disposita, se mutuo fovent, si 
+            dispo<lb ed="#F" n="23" break="no"/>nantur contrario situ, invicem pugnant, hoc idem detoto telluris globo, &amp;
+            <lb ed="#F" n="24"/>de magnete dicendum est: Si enim magnetica longitudo cum meridiano
+            <lb ed="#F" n="25"/>congruat, ea in Septentrionem directa parte, quae natura iubente Septentrio
+            <lb ed="#F" n="26"/>nem respicere debet, fovebitur à terra, &amp; ab illius actione magnes; si 
+            contra<lb ed="#F" n="27" break="no"/>rium sortiatur situm, &amp; positionem, necesse est, ut ab eadem actione male
+            <lb ed="#F" n="28"/>accipiatur. Confirmatur, quia, si magnes liberum habeat motum, quod 
+            sus<lb ed="#F" n="29" break="no"/>pendatur, vel aquis convenienti cymba imponatur, ita se disponit, ut 
+            deter<lb ed="#F" n="30" break="no"/>minata se ratione collocet: hoc autem non accidit, nisi quia illa positio est
+            <lb ed="#F" n="31"/>naturae conformis, &amp; invat talis situs: nihil enim frustra molitur natura, &amp;
+            <lb ed="#F" n="32"/>principium active se movendi non tribuitur rebus, nisi in bonum, &amp; 
+            commo<lb ed="#F" n="33" break="no"/>dum illius rei, quae movetur. Et haec iudicabitur fortasse optima ratio, cur
+            <lb ed="#F" n="34"/>Cęlum seu astra non habeant in se principium activum sui motus, quia ille
+            <lb ed="#F" n="35"/>motus non est in bonum ipsius Cęli, aut astri, nec internam illi affert 
+            perfe<lb ed="#F" n="36" break="no"/>ctionem. verum hac de re vita superstite dicam Uberius ad lib. de Cęlo, &amp;
+            <lb ed="#F" n="37"/>recentiorum opiniones examinabo. certe in rebus omnibus sublunaribus
+            <lb ed="#F" n="38"/>constanti inductione manifestum fit, nihil se ipsum movere, nisi ut sibi 
+            ali<lb ed="#F" n="39" break="no"/>quid commodi ex suo motu consequatur. Cum igitur in magnete sit princi
+            <lb ed="#F" n="40"/>pium activum illius conversionis ad polos, debet ille motus esse in bonum
+            <lb ed="#F" n="41"/>ipsius magnetis; quia scilicet in illo situ melius conservetur, &amp; foveatur.
+            <lb ed="#F" n="42"/>Quod si ponatur in contrario situ, refugit, si potest magnes, neque in illa posi¬
+            <!--380.xml-->
+            <pb ed="#F" n="361"/>
+               <lb ed="#F" n="1"/>tione conquiescit:ergo naturae aduersatur, eo quod in tali collocatione 
+            ali<lb ed="#F" n="2" break="no"/>quid sentiat incommodi ab actione, scilicet totius telluris contraria 
+            actio<lb ed="#F" n="3" break="no"/>ne agentis: ergo magnopere facit ad conseruationem magnetis illa 
+            con<lb ed="#F" n="4" break="no"/>ueniens dispositio in ordine ad vniuersum, si sit naturae conueniens. Quod
+            <lb ed="#F" n="5"/>si dicas, cur non refugit etiam magnes alia, quae aduersantur, &amp; cur non resi
+            <lb ed="#F" n="6"/>lit ab igne? Respondeo quia alia, quae aduersantur, non directe oppugnant
+            <lb ed="#F" n="7"/>magnetem, nec directe impetunt istam qualitatem duarum facierum, quae
+            <lb ed="#F" n="8"/>sola est principium motus magnetici, sed directe oppugnant alias 
+            qualita<lb ed="#F" n="9" break="no"/>tes, &amp; temperamentum, quo ista qualitas deperditur. Quia igitur damnum
+            <lb ed="#F" n="10"/>non est directe per se primo in ista qualitate, sed solum consequenter, ideo il
+            <lb ed="#F" n="11"/>la non repugnat; at vero hic damnum, quod ex iniqua positione consurgit.
+            <lb ed="#F" n="12"/>impugnat directe qualitatem duarum facierum: quia damnum consurgit
+            <lb ed="#F" n="13"/>ex actione totius telluris directe per suam qualitatem duarum facierum
+            <lb ed="#F" n="14"/>agentis in magnetem, vt suam inducat, &amp; consequenter contraria ratione
+            <lb ed="#F" n="15"/>positam expellat. Quia igitur ipsamet qualitas in se ipsa directè tangitur,
+            <lb ed="#F" n="16"/>quę motiua est, excitatur, &amp; contorquet se, vt magnetem ab ista impressione
+            <lb ed="#F" n="17"/>lubducat. Adde quod non solum contorquendo se magnes fugit ab illo
+            <lb ed="#F" n="18"/>contrario situ, ne destruatur, sed etiam se accomodat ad amicam actionem,
+            <lb ed="#F" n="19"/>vt foueatur, ex quo maior est ratio cur refugiat abista inuersa positione. 
+            Con<lb ed="#F" n="20" break="no"/>seruatur ergo magnes ex conuenienti positione in ordine ad vniuersum,
+            <lb ed="#F" n="21"/>quod erat demonstrandum.
+            <lb ed="#F" n="22"/>Magnes melius trahit ferrum mundum, quam rubiginosum, melius aciarium, quam 
+            fer<lb ed="#F" n="23" break="no"/>rum commune, melius temperatum quam molle, vnde versoria perfecta fiant
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

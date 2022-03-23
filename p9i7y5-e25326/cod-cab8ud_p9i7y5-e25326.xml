@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 17</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 17</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="237"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e25326"> <!-- l3c17 -->
+            <head xml:id="p9i7y5-e25326-Hd1e107">Caput 17</head>
+            <p xml:id="p9i7y5-e25326-d1e109">
+            <!--256.xml-->
+               <pb ed="#F" n="237"/>
+               <lb ed="#F" n="1"/>Potest contingere ut progrediendo eodem recto itinere supra Terram semper in directum,
+            <lb ed="#F" n="2"/>Pyxis de repente convertat se ad oppositam partem. Cap. XVII.
+        </p>
+            <p xml:id="p9i7y5-e25326-d1e120">
+               <lb ed="#F" n="3"/>Hoc etiam quod dico commoveret animum sua novitate, si
+            <lb ed="#F" n="4"/>contingeret, &amp; in magnetica philosophia mirum fortasse 
+            vi<lb ed="#F" n="5" break="no"/>deretur causam ignoranti. ideo, quamvis in promptu ratio sit,
+            <lb ed="#F" n="6"/>tamen quia universa huius lapidis natura, adeo recondita 
+            cen<lb ed="#F" n="7" break="no"/>setur, ut homines etiam à facillimis deterreantur, &amp; tanquam
+            <lb ed="#F" n="8"/>portenta reputent,
+            <lb ed="#F" n="9"/>quae maximè 
+            ob<lb ed="#F" n="10" break="no"/>via sunt, &amp; ut 
+            am<lb ed="#F" n="11" break="no"/>bulanti per 
+            tene<lb ed="#F" n="12" break="no"/>bras, quod 
+            san<lb ed="#F" n="13" break="no"/>ctus ille vir 
+            dice<lb ed="#F" n="14" break="no"/>bat, si funis 
+            vide<lb ed="#F" n="15" break="no"/>tur, serpens reputatur, sic, &amp; in magnetica philosophia. ideo non possum
+            <lb ed="#F" n="16"/>quicquam omittere, etiam ante pedes positum. ergo sit quaedam linea A.
+            <lb ed="#F" n="17"/>B. per quam quis iter faciat, si ab A. usque ad C. &amp; D. progrediatur, semper
+            <lb ed="#F" n="18"/>versorium dirigetur, ita ut cuspis versorij praecedat quasi velit iter 
+            common<lb ed="#F" n="19" break="no"/>strare, donec prope E. devenerit: at vero statim ac ultra E. pręter gressas quis
+            <lb ed="#F" n="20"/>fuerit, etiam si continuet iter recta via, tamen statim versorium convertetur,
+            <lb ed="#F" n="21"/>&amp; non amplius cuspis praecedet, ut prius, sed quasi minaciter ad versabitur
+            <lb ed="#F" n="22"/>iter agenti, &amp; eodem modo conformabitur in F. &amp; deinceps in G. &amp; 
+            omni<lb ed="#F" n="23" break="no"/>no procedenti ad B.
+         <lb ed="#F" n="41" type="fixed=237"/>
+               <figure xml:id="p9i7y5-e25326-Fd1e170">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869980/669,1067,1297,339/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A C E D F G B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375718-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e25326-d1e188">
+               <lb ed="#F" n="42" type="fixed=237"/>
+               <figure xml:id="p9i7y5-e25326-Fd1e193">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869980/950,2103,1049,1100/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A C B G</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375718-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="24" type="fixed=237"/>Experimentum, quo 
+            con<lb ed="#F" n="25" break="no"/>firmetur hoc, erit pariter
+            <lb ed="#F" n="26"/>per globum magneticum,
+            <lb ed="#F" n="27"/>cui versorium applicetur: si
+            <lb ed="#F" n="28"/>enim recto itinere quis sem
+            <lb ed="#F" n="29"/>per progrediatur versorum
+            <lb ed="#F" n="30"/>promovendo per 
+            meridia<lb ed="#F" n="31" break="no"/>num C. A. G. in toto 
+            qua<lb ed="#F" n="32" break="no"/>drante C. A. semper cuspis
+            <lb ed="#F" n="33"/>convertetur ad A. at vero
+            <lb ed="#F" n="34"/>ubi transgressus fueris A. &amp;
+            <lb ed="#F" n="35"/>ad G. accedere incipies 
+            per<lb ed="#F" n="36" break="no"/>get cuspis se convertere ad
+            <lb ed="#F" n="37"/>A. ut prius, nusquam evariam
+            <lb ed="#F" n="38"/>do terminum suae 
+            directio<lb ed="#F" n="39" break="no"/>nis; &amp; ita dum movetur à
+            <lb ed="#F" n="40"/>C. ad A. pręcedit cuspis an¬
+            <!--256.xml-->
+
+         <!--256.xml-->
+
+         <!--257.xml-->
+         <pb ed="#F" n="238"/>
+               <lb ed="#F" n="1"/>te; verum ubi praetergressus fueris A. cuspis statim gyrat; &amp; quamvis iter in
+            <lb ed="#F" n="2"/>directum centinvetur, non sequitur praecessio cuspidis, ut prius, sed 
+            conver<lb ed="#F" n="3" break="no"/>titur, ut amata quasi littora respectet, &amp; dolenter ipsum A, deserat. Iam dicas
+            <lb ed="#F" n="4"/>A. B. C. G. esse totam Terram, &amp; A. B. esse polos terrae, dum dirigitur iter ab
+            <lb ed="#F" n="5"/>aequinoctio ad polum A. versorij, cuspis iter praemonstrat, at vero si à polo
+            <lb ed="#F" n="6"/>pergas contendere ad oppositum aequinoctij punctum, convertitur cuspis
+            <lb ed="#F" n="7"/>retro, &amp; quasi suspirat ad illa loca, quae post tergum relinquuntur.
+        </p>
+            <p xml:id="p9i7y5-e25326-d1e273">
+               <lb ed="#F" n="8"/>Ratio etiam huius conversionis in promptu est, quia re vera non mutat
+            <lb ed="#F" n="9"/>versorium suae directionis terminos, quamvis id contingere videatur, eo quod
+            <lb ed="#F" n="10"/>progrediendo eodem itinere statim versorum convertatur ad opposita, sed
+            <lb ed="#F" n="11"/>pergit ad eundem dirigi polum, quem prius respiciebat; ac proinde quandiu
+            <lb ed="#F" n="12"/>polus est ante nos, cuspis ad anteriora dirigitur; at vero, dum iter continuan
+            <lb ed="#F" n="13"/>do polum praetervehimur, &amp; post tergum incipimus relinquere, 
+            converti<lb ed="#F" n="14" break="no"/>tur etiam cuspis, ut à tergo relictum polum despectet. Non hoc igitur est ma
+            <lb ed="#F" n="15"/>gis de magnete mirum, quam sit illud, quod scilicet eodem continuato in di
+            <lb ed="#F" n="16"/>rectum itinere possumus prius accedere, postea progrediendo ulterius, 
+            rece<lb ed="#F" n="17" break="no"/>dere ab eodem termino; quod tamen quotidie fit.
+        </p>
+            <p xml:id="p9i7y5-e25326-d1e297">
+               <lb ed="#F" n="18"/>Ratio tamen, cur sic cuspis semper polum respiciat, illa est à priori, quia
+            <lb ed="#F" n="19"/>scilicet vult se magneticum illud versorium accommodare ad magneticam
+            <lb ed="#F" n="20"/>duarum facierum qualitatem per medium à polo terrae diffusum: quia enim
+            <lb ed="#F" n="21"/>ita diffunditur in gyrum, ut quasi in centio in polo sit una facies, &amp; 
+            circun<lb ed="#F" n="22" break="no"/>quaque similis quasi proijciatur quaqua versum, illi opposita, quae est in 
+            po<lb ed="#F" n="23" break="no"/>lo; ideo versorium accommodatur etiam quasi in gyrum circa polum. 
+            Sicu<lb ed="#F" n="24" break="no"/>ti ergo, si erigas lapidem altero polorum sursum constituto verticem 
+            ver<lb ed="#F" n="25" break="no"/>sus, &amp; circa polum in gyrum disponas versoria illa omnia, cuspidem 
+            com<lb ed="#F" n="26" break="no"/>mittent ad punctum polare, &amp; cruces polum coronabunt; quin in illo 
+            pun<lb ed="#F" n="27" break="no"/>cto medio similis viget qualitas, &amp; circumquaque radiat opposita virtus
+            <lb ed="#F" n="28"/>hoc idem circa terrae polum accidere animo fingas; nec enim finges, sed,
+            <lb ed="#F" n="29"/>quod est, intelliges.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

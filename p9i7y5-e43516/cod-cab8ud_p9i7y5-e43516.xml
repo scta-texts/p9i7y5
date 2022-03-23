@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 44</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 44</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="408"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e43516"> <!-- l4c44 -->
+            <head xml:id="p9i7y5-e43516-Hd1e107">Caput 44</head>
+            <p xml:id="p9i7y5-e43516-d1e109">
+               <lb ed="#F" n="29"/>Si praeferato per axem magnete inseratur inforamine clavus, ferreus, iuvatur summopere
+            <lb ed="#F" n="30"/>magnes ad magneticas attractiones. Cap. XLIV.
+        </p>
+            <p xml:id="p9i7y5-e43516-d1e116">
+               <lb ed="#F" n="41" type="fixed=407"/>
+               <figure xml:id="p9i7y5-e43516-Fd1e121">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870150/1014,2602,1112,553/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">B A</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375981-r4</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="31" type="fixed=407"/>Hic etiam non 
+            ex<lb ed="#F" n="32" break="no"/>aggeratissimum
+            <lb ed="#F" n="33"/>Invenio incre-
+            <lb ed="#F" n="34"/>mentum, ut 
+            cre<lb ed="#F" n="35" break="no"/>scat in 
+            cenrupli<lb ed="#F" n="36" break="no"/>cata proportione virtus 
+            ma<lb ed="#F" n="37" break="no"/>gnetica ex isto, ut ita dixerim,
+            <lb ed="#F" n="38"/>remedio: maximum tamen 
+            sa<lb ed="#F" n="39" break="no"/>ne incrementum virtutis 
+            inve<lb ed="#F" n="40" break="no"/>nio. Sit ergo magnes A. B. cu¬
+            <!--426.xml-->
+
+         <!--427.xml-->
+         <pb ed="#F" n="408"/>
+               <lb ed="#F" n="1"/>ius axis sit A. B. si fiat foramen arte perrinaci rectum, ita ut auferatur quasi
+            <lb ed="#F" n="2"/>axis ipsius magnetis, &amp; in facto foramine inseratur clavus ferreus, cuius 
+            ex<lb ed="#F" n="3" break="no"/>trema illigentur in A. &amp; B. capitibus clavo affixis: dico ista transfixione 
+            cla<lb ed="#F" n="4" break="no"/>vi valde efficaciter virtutem magneticam roborari, ut iam sustentet 
+            lon<lb ed="#F" n="5" break="no"/>ge maiorem ferri quantitatem, quam prius sustentaret. Rei experimentum
+            <lb ed="#F" n="6"/>feci ipse, &amp; habeo apud me; &amp; quo clavus fuerit ex perfectiori ferro, &amp; 
+            me<lb ed="#F" n="7" break="no"/>lius temperato, quo capita fuerint elegantius perpolita, &amp; magneti 
+            adapta<lb ed="#F" n="8" break="no"/>ta, eo maiores augebit vires. Ex quo experimento constat quam verum sit,
+            <lb ed="#F" n="9"/>quod proxime dicebam, maiorem vim magneti conferre ferrum, si 
+            conve<lb ed="#F" n="10" break="no"/>nienter adiungatur, quam si addatur magnes etiam convenientissimè. Et, ut
+            <lb ed="#F" n="11"/>verum fatear, ostendit primam à me superius allaram rationem omnino dif
+            <lb ed="#F" n="12"/>ficultatem non exhaurire. Erat enim ibi magnes in illo loco, in quo factum
+            <lb ed="#F" n="13"/>est foramen, &amp; foramen illud repletum erat ex magnete ipso, quod nunc 
+            re<lb ed="#F" n="14" break="no"/>pletur ferro, &amp; tamen ille magnes, qui prius ibi inerat, non conferebat 
+            tan<lb ed="#F" n="15" break="no"/>tam vim magneti, quantam confert nunc ferrum, quod in illius locum 
+            suc<lb ed="#F" n="16" break="no"/>cessit, ergo plus confert auxilij ferrum magneti, quam magnes; quia ibi prius
+            <lb ed="#F" n="17"/>erat magnes, ubi nunc est ferrum, &amp; tamen nunc plus potest, quam prius.
+            <lb ed="#F" n="18"/>Adde, quod, ut clavus commode inseratur, opportet ut non impleat illud 
+            fo<lb ed="#F" n="19" break="no"/>ramen ita exacte, ut implebat prius magnes, qui ablatus est, ut fieret 
+            fora<lb ed="#F" n="20" break="no"/>men; ergo maior est magnetis quantitas, quae ablata est, quam ferri, quae 
+            sub<lb ed="#F" n="21" break="no"/>stituitur, &amp; tamen ferrum plus iuvat: Deinde quantitas illa, seu portio 
+            ma<lb ed="#F" n="22" break="no"/>gnetis, quae ablata est, cum esset innata magneti, &amp; pars integralis illius, con
+            <lb ed="#F" n="23"/>sequenter secundum omnes suas partes erat convenientissime posita in toto
+            <lb ed="#F" n="24"/>magnete A. B. &amp; bene magnetice accommodata, &amp; omnino conspirabat
+            <lb ed="#F" n="25"/>ad dirigendam virtutem cum toto magnete, &amp; tamen si loco illius 
+            substi<lb ed="#F" n="26" break="no"/>tuatur ferrum, plus iuvatur. aliam igitur necesse fuit quaerere causam illius
+            <lb ed="#F" n="27"/>incrementi.
+        </p>
+            <p xml:id="p9i7y5-e43516-d1e226">
+               <lb ed="#F" n="28"/>Ratio huius effectus cur inserendo ferrum sic iuvetur magnes; illa est,
+            <lb ed="#F" n="29"/>quia simpliciter ex additione ferri ad magnetem, augetur, ut probavi, eius
+            <lb ed="#F" n="30"/>virtus, &amp; eo magis augetur, quo ferrum, quod adiungitur, excitatur magis
+            <lb ed="#F" n="31"/>uniformiter, &amp; magis aequaliter, &amp; quo potest efficaciorem dirigere 
+            virtu<lb ed="#F" n="32" break="no"/>tem, ut conspiret cum magnete cui supperias affert. Sed quomodocunque
+            <lb ed="#F" n="33"/>magneti adiungatur aliter, non participabit ita aequaliter in omnibus suis
+            <lb ed="#F" n="34"/>partibus virtutem aeque intensam, atque sit in magnete, ex eo, quod sphaera
+            <lb ed="#F" n="35"/>activitatis procedat uniformiter difformiter, &amp; consequenter secundum
+            <lb ed="#F" n="36"/>partes remotiores habebit qualitatem minus intensam: at vero si illo modo
+            <lb ed="#F" n="37"/>quasi penetret magnetem, secundum omnes partes applicatur magneti 
+            ae<lb ed="#F" n="38" break="no"/>qualiter, &amp; consequenter aequalem virturem in se derivat. Deinde 
+            transmit<lb ed="#F" n="39" break="no"/>tit virtutem, si ad latus ponatur auxiliatricem per lineas magis obliquas ad
+            <lb ed="#F" n="40"/>axem, &amp; consequenter minus efficaces: at vero, dum explet foramen 
+            effica<lb ed="#F" n="41" break="no"/>ciori recta linea transmittit vim: iuvat ergo efficacius, quod quaerebatur.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 42</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 42</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="404"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e43018"> <!-- l4c42 -->
+            <head xml:id="p9i7y5-e43018-Hd1e107">Caput 42</head>
+            <p xml:id="p9i7y5-e43018-d1e109">
+               <lb ed="#F" n="12"/>Si ferram oblongum iaceat horizonti parallelum ex diversa collocatione, sive 
+            meridionali<lb ed="#F" n="13" break="no"/>ter, sive in parallelo, trahet diversam versorij extremitatem.
+            <lb ed="#F" n="14"/>Cap. XLII.
+        </p>
+            <p xml:id="p9i7y5-e43018-d1e118">
+               <lb ed="#F" n="15"/>Non piget in re nova rem enucleatius exaggerare, si ferrum 
+            oblon<lb ed="#F" n="16" break="no"/>gum iaceam ad horizontem, vel sua longitudine occupet fere 
+            me<lb ed="#F" n="17" break="no"/>ridianum, vel occupet fere parallelum; dico, fere, quia negotium est
+            <lb ed="#F" n="18"/>physicum, non mathematicum; si iaceat in meridiano, pars illa ferri, quae est
+            <lb ed="#F" n="19"/>Septentrionem versus, semper trahet crucem, sive supra, sive infra versorium
+            <lb ed="#F" n="20"/>collocetur; pars vero, quae vergit ad meridiem, pariter trahet cuspidem ver
+            <lb ed="#F" n="21"/>sorij quacunque ratione illi applicetur: ratio huius iam constat, quia semper
+            <lb ed="#F" n="22"/>extremitas Septentrionalis est, &amp; ita habet ex illo vim trahendi ex lege 
+            ma<lb ed="#F" n="23" break="no"/>gnetica partem versorij Australem: alterum ferri extremum magis removetur à
+            <lb ed="#F" n="24"/>polo Septentrionali, &amp; vim consequenter obtinet trahendi partem 
+            Septen<lb ed="#F" n="25" break="no"/>rionalem, quod ex obelo supra magnetem posito facile constabit.
+        </p>
+            <p xml:id="p9i7y5-e43018-d1e144">
+               <lb ed="#F" n="26"/>Iam vero si ferrum collocetur in parallelo ita, ut cum linea meridiana 
+            fa<lb ed="#F" n="27" break="no"/>ciat angulos rectos, vel nullam, aut exiguam vim habebit commovendi 
+            ver<lb ed="#F" n="28" break="no"/>sorium, vel certe, si sit valde longum, utroque extremo trahet cuspidem 
+            ver<lb ed="#F" n="29" break="no"/>sorij: huius rei ratio constat, quia vel propter sui brevitatem, &amp; 
+            magnitudi<lb ed="#F" n="30" break="no"/>nem terrestris globi non concipiet diversam vim magneticam in sua longi
+            <lb ed="#F" n="31"/>tudine sensibilem, dum sic terrae applicatur, vel certe pars illius media, quae
+            <lb ed="#F" n="32"/>proximior est polo Septentrionali, concipiet vim Australem: utrumque 
+            ve<lb ed="#F" n="33" break="no"/>ro extremum oppositum habebit faciem, eandem sicuti, si ad magnetis partem 
+            pola<lb ed="#F" n="34" break="no"/>rem apponas ferreum obelum, &amp; sui medietate tangat magnetem, &amp; ad 
+            a<lb ed="#F" n="35" break="no"/>xem illius incidet ad angulos rectos, in parte illa media, quae tangit, unam
+            <lb ed="#F" n="36"/>concipit faciem, in utroque extremo alteram, ut dictum est alibi hoc idem
+            <lb ed="#F" n="37"/>eo in ferro ad terram comparato contingit.
+        </p>
+            <p xml:id="p9i7y5-e43018-d1e174">
+               <lb ed="#F" n="38"/>Ex hoc vides magneticum miraculum te sic posse proponere: eadem ferri
+            <lb ed="#F" n="39"/>extremitas ex sola diversa rotatione horizontali, quod modo hanc modo 
+            a<lb ed="#F" n="40" break="no"/>liam respiciat Caeli plagam, diversam trahet versorij extremitatem, atque
+            <lb ed="#F" n="41"/>prius traheret nulla alia facta, nec in ferro, nec in alia mutatione sensibili,
+            <!--423.xml-->
+            <pb ed="#F" n="404"/>
+               <lb ed="#F" n="1"/>nisi diversa positione horizontali, quod sane per quam mirum est, cum 
+            prae<lb ed="#F" n="2" break="no"/>sertim iam huius rei rationem videas à priori, ut dicitur.
+        </p>
+            <p xml:id="p9i7y5-e43018-d1e194">
+               <lb ed="#F" n="3"/>Magnes iuvatur maxime ad suspendendum ferrum ex coniunctione cum ferro, magis
+            <lb ed="#F" n="4"/>etiam quam, ex coniunctione cùm altero magnete.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

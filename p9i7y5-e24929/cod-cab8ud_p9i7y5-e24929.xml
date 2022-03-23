@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 15</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 15</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="234"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e24929"> <!-- l3c15 -->
+            <head xml:id="p9i7y5-e24929-Hd1e107">Caput 15</head>
+            <p xml:id="p9i7y5-e24929-d1e109">
+               <lb ed="#F" n="18"/>Vix supra parietem versorium certum suum invenire potest aliquando meridianum,
+            <lb ed="#F" n="19"/>ac maximo periculo ibi dirigitur. Cap. XV.
+        </p>
+            <p xml:id="p9i7y5-e24929-d1e116">
+               <lb ed="#F" n="20"/>Expertus sum ego saepe numero, dum versorium explorarem
+            <lb ed="#F" n="21"/>supra fenestram, &amp; meridianam quaererem lineam, vix 
+            con<lb ed="#F" n="22" break="no"/>tingere posse, ut duobus in locis ad distantiam aliquando 
+            u<lb ed="#F" n="23" break="no"/>nius spithamę, aut cubiti per magneticam directionem duae
+            <lb ed="#F" n="24"/>lineae meridianae designarentur, quae omnino parallelae 
+            ince<lb ed="#F" n="25" break="no"/>derent, &amp; quamvis versorium esset affabre factum, &amp; optimo excitatum ma
+            <lb ed="#F" n="26"/>gnete, nunquam tamen ferè ita convertebatur, ut possem duas lineas 
+            meri<lb ed="#F" n="27" break="no"/>dianas omnino congruentes ducere. hoc quia mihi saepissimè maximam
+            <lb ed="#F" n="28"/>fecit admirationem, &amp; in maximas iniecit cogitationes, dum adhuc 
+            cau<lb ed="#F" n="29" break="no"/>sam ignorarem, non iniucundum fore putavi si hic adderetur.
+        </p>
+            <p xml:id="p9i7y5-e24929-d1e140">
+               <lb ed="#F" n="30"/>Si ergo per versorium supra parietem quaerat quis exactam magneticam
+            <lb ed="#F" n="31"/>directionem, aut per magnetem lineam meridianam, dico maximum esse
+            <lb ed="#F" n="32"/>periculum erroris, &amp; maximam suspicionem fallaciae; quia frequenter ibi
+            <lb ed="#F" n="33"/>versorium abducitur, seu avocatur à sua naturali directione, quam alioquin
+            <lb ed="#F" n="34"/>suo sibi quaereret ingenio magnetico. Ratio autem huius est, quia lateres
+            <lb ed="#F" n="35"/>vehementer in fornacibus excocti, qui cum colore ferream etiam 
+            contra<lb ed="#F" n="36" break="no"/>xere naturam, sicut etiam apud Nostrates nomen obtinent, &amp; ferrei lateres
+            <lb ed="#F" n="37"/>dicuntur, re vera ad ferri accedunt per talem excoctionem formam. quod
+            <lb ed="#F" n="38"/>ex eo patet, quia sic corpora evadunt magnetica: à magnete enim 
+            excitan<lb ed="#F" n="39" break="no"/>tur, &amp; per contactum acquirunt qualitates, &amp; motiones magneticas, sicuti
+            <lb ed="#F" n="40"/>melior ferri vena. Cum igitur huiusmodi lateres ad longum tempus ali¬
+            <!--253.xml-->
+            <pb ed="#F" n="234"/>
+               <lb ed="#F" n="1"/>quam possident in universo positionem, à qua nusquam demoveantur, à 
+            tel<lb ed="#F" n="2" break="no"/>lure magneticas contrahunt qualitates, sicut &amp; ferrea bacilla, &amp; quaelibet
+            <lb ed="#F" n="3"/>ferramenta, quae vel in linea meridiana, vel ad longum tempus in 
+            conve<lb ed="#F" n="4" break="no"/>nienti poli altitudine erecta maneant perpendiculariter. Sicut ergo non
+            <lb ed="#F" n="5"/>oportet versorio accedere ad cancellorum ferramenta; statim enim 
+            verso<lb ed="#F" n="6" break="no"/>rium ab huiusmodi ferro distrahitur, nec amplius ad meridianum confluit
+            <lb ed="#F" n="7"/>magneticum; sic etiam illi lateres, praesertim si fuerint ad longum tempus
+            <lb ed="#F" n="8"/>in pariete, advocant ad se versorium; &amp; si minus possunt omnino illud à
+            <lb ed="#F" n="9"/>meridiano dimovere, saltem distrahunt, ne omnino ad naturales confluat
+            <lb ed="#F" n="10"/>terminos. Causa igitur, cur versorium in parietibus sic inconstanter 
+            meri<lb ed="#F" n="11" break="no"/>dianum respiciat, sunt lateres nimium excocti, qui in tali pariete saepe 
+            deli<lb ed="#F" n="12" break="no"/>tescunt: ex longa enim commoratione in tali situ virtute telluris 
+            magneti<lb ed="#F" n="13" break="no"/>cam contrahunt naturam; ac proinde cogunt sibi etiam aliqua saltem 
+            ra<lb ed="#F" n="14" break="no"/>tione versorium obtemperare.
+        </p>
+            <p xml:id="p9i7y5-e24929-d1e202">
+               <lb ed="#F" n="15"/>Consulto autem dixi huiusmodi deviationes patentiores esse, ubi supra
+            <lb ed="#F" n="16"/>parietem lineam quaerimus meridianam: neque enim tanta apparet 
+            devia<lb ed="#F" n="17" break="no"/>tio ad parietem versorium applicando, quanta collocando supra. in 
+            uni<lb ed="#F" n="18" break="no"/>versum enim, quaecunque versorium trahunt, praesertim virtute a tellure
+            <lb ed="#F" n="19"/>communicata, maiorem habent efficaciam si supra, aut infra versorium po
+            <lb ed="#F" n="20"/>nantur; quam si apponantur ad latus; &amp; quae nulla ratione versorium 
+            di<lb ed="#F" n="21" break="no"/>moverent, si ad latus ponerentur, dimovebunt vehementer, si supra, aut 
+            in<lb ed="#F" n="22" break="no"/>fra ponantur: cuius rei alibi redditur ratio, quae in tota hac magnetica 
+            phi<lb ed="#F" n="23" break="no"/>losophia maximè digna est, quae sciatur. Hinc sit, ut, si versorium supra 
+            pa<lb ed="#F" n="24" break="no"/>rietem ponatur, puta supra fenestram, tunc, quia ferrei lateres infra 
+            verso<lb ed="#F" n="25" break="no"/>rium sunt, vim habeant illud distrahendi; quod si versorium poneretur ad
+            <lb ed="#F" n="26"/>parietem, non tantam haberent vim magnetici lateres, &amp; ideo non tantum
+            <lb ed="#F" n="27"/>est periculum erroris adhibito versorio propè parietem, quam si supra 
+            con<lb ed="#F" n="28" break="no"/>stituatur.
+        </p>
+            <p xml:id="p9i7y5-e24929-d1e235">
+               <lb ed="#F" n="29"/>Hinc vides, quam incerto effectu solaria horologia, si magnetico dirigan
+            <lb ed="#F" n="30"/>tur cuspide, collocentur supra parietes, aut fenestras, ut horas 
+            common<lb ed="#F" n="31" break="no"/>strent: vix enim unquam in meridiano vero collocantur, ut oporteret: ac
+            <lb ed="#F" n="32"/>proinde nec veram designant horam. ideo, vel manibus procul à pariete su
+            <lb ed="#F" n="33"/>stinenda sunt, &amp; dirigenda, vel certè per arcus signorum, quod ego libentius
+            <lb ed="#F" n="34"/>facio, vel alia ratione, si ulla est, disponenda sunt ad meridianum non 
+            adhi<lb ed="#F" n="35" break="no"/>bito magnetico versorio: sic enim minus fortasse errabis.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

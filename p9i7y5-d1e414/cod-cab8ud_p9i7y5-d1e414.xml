@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="1"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-d1e414"> <!-- l1c1 -->
+            <head xml:id="p9i7y5-d1e414-Hd1e107">Caput 1</head>
+            <p xml:id="p9i7y5-d1e414-d1e109">
+            <!--20.xml-->
+               <pb ed="#F" n="1"/>
+               <lb ed="#F" n="1"/>DE
+            
+            <lb ed="#F" n="2"/>MAGNETICA
+            <lb ed="#F" n="3"/>PHILOSOPHIA
+            <lb ed="#F" n="4"/>LIBER PRIMUS.
+            <lb ed="#F" n="5"/>De primo eius effectu, hoc est de conversione ad Polos.
+        </p>
+            <p xml:id="p9i7y5-d1e414-d1e127">
+               <lb ed="#F" n="6"/>De magnetis nominibus, &amp; praecipuis locis, in quibus magnes invenitur.
+            "7"/&gt;Caput Primum.
+        </p>
+            <p xml:id="p9i7y5-d1e414-d1e132">
+               <lb ed="#F" n="8"/>Semper omnium suffragijs ad sapientes delatum est 
+            mu<lb ed="#F" n="9" break="no"/>nus, ut rebus nomina imponant: quod iam inde ab 
+            ini<lb ed="#F" n="10" break="no"/>tio factum fuit, cum Adamo, cui ut primo omnium 
+            pa<lb ed="#F" n="11" break="no"/>renti, &amp; summo totius orbis moderatori maxima rerum
+            <lb ed="#F" n="12"/>cognitio tradita fuerat, animantia omnia sistere voluit
+            <lb ed="#F" n="13"/>Deus, ut convenientia ipsis, nomina imponeret. Sic 
+            di<lb ed="#F" n="14" break="no"/>vinus ille Plato in Cratylo pronuntiavit; ei, qui nomina
+            <lb ed="#F" n="15"/>rebus faceret, summam inesse debere rerum scientiam, &amp; cognitionem.
+            <lb ed="#F" n="16"/>Cuius rei illa à sapientibus redditur ratio, quia nomen, si proprium sit, &amp;
+            <lb ed="#F" n="17"/>conveniens, convenientique ratione impositum, rem ipsam, &amp; eius naturam
+            <lb ed="#F" n="18"/>debet explicare. est enim nomen quasi paucis syllabis rei comprehensa 
+            de<lb ed="#F" n="19" break="no"/>finitio. Quod si ad definitiones afferendas, quae bonae &amp; convenientes sint,
+            <lb ed="#F" n="20"/>opus est insignis sapientiae; inter unius vocabuli angustias illud ipsum 
+            con<lb ed="#F" n="21" break="no"/>stringere &amp; coarctare, non minorem requirit, si non etiam maiorem 
+            fortas<lb ed="#F" n="22" break="no"/>se solertiam. Hinc Peripateticus ille Philosophus cum suo Principe rei 
+            tra<lb ed="#F" n="23" break="no"/>ctationem ab expositione nominis inchoandam pronuntiavit: putavit enim
+            <lb ed="#F" n="24"/>non posse explicato nomine rem penitus ignorari. Quod si aliquando rei
+            <lb ed="#F" n="25"/>natura penitus esset ignota, vigerentur tamen homines illius nominandae
+            <lb ed="#F" n="26"/>necessitate, illam utique vel ab aliqua effectuum similitudine, vel à loco, in
+            <lb ed="#F" n="27"/>quo fuerit inventa, quasi à patrio solo; vel ab inventore, ut à parente; vel ab
+            <lb ed="#F" n="28"/>alio simili accidente indigitabant.
+            <lb ed="#F" n="29"/>Id factum videmus in magnete, cuius semper natura abdita, proprietates
+            <lb ed="#F" n="30"/>arcanae visae sunt: imo talis semper habita est lapidis istius natura, ut, quod
+            <lb ed="#F" n="31"/>postea dicam, in exemplum obscurissimarum rerum non solum à 
+            philoso<lb ed="#F" n="32" break="no"/>phis, sed etiam à Theologis adducatur, &amp; ubi sapientes volunt curtam 
+            co<lb ed="#F" n="33" break="no"/>gnitionis mensuram excusare ne, an incusare? statim magnetis naturam
+            <!--21.xml-->
+            <pb ed="#F" n="2"/>
+               <lb ed="#F" n="1"/>proferunt abditarum rerum abditissimam. Quia ergo nomen, quod 
+            natu<lb ed="#F" n="2" break="no"/>ram ipsam explicaret, inveniri non potuit, cum natura ipsa sit ignota, ex
+            <lb ed="#F" n="3"/>patria, &amp; quasi ex natali solo illi nomen fecere. Dicitur magnes, ut vult
+            <lb ed="#F" n="4"/>Lucretius à Magnesia, in qua oritur. sic enim ille.
+        </p>
+            <p xml:id="p9i7y5-d1e414-d1e205">
+               <lb ed="#F" n="5"/>Quem magneta vocant patrio de nomine Graij, Magnetum quoniam
+            <lb ed="#F" n="6"/>patrijs in finibus ortus. Licet Plinius Magnetem velit appellatum ab 
+            inven<lb ed="#F" n="7" break="no"/>tore libro 36. cap. 17. Magnes, inquit, appellatus est ab inventore, ut 
+            au<lb ed="#F" n="8" break="no"/>ctor est Nicander, in Ida repertus: invenisse autem fertur clavis 
+            crepida<lb ed="#F" n="9" break="no"/>rum &amp; baculi cuspide haerentibus, cum armenta pasceret. Quod nisi 
+            vi<lb ed="#F" n="10" break="no"/>derem omnium suffragio magnetem dici à regione, aut inventore, non 
+            di<lb ed="#F" n="11" break="no"/>spliceret etymon Portae; qui ex eo putat magnetem appellatum, quod sit
+            <lb ed="#F" n="12"/>magnus inter lapides, ut sit magnes quasi magnus: re enim vera si magnum
+            <lb ed="#F" n="13"/>dicimus Alexandrum, aut alium huiusmodi Imperatorem, quod ferro 
+            bar<lb ed="#F" n="14" break="no"/>baras domuerit regiones, magnus erit magnes, qui ferrum ipsum captivum
+            <lb ed="#F" n="15"/>trahit, sibique subijcit. Dicitur etiam Heracleus, ut volunt nonnulli, quod
+            <lb ed="#F" n="16"/>circa Heracleam urbem fuerit inventus: sive Herculeus lapis, quod inter
+            <lb ed="#F" n="17"/>lapides Herculem referat: ut enim Hercules omnia domuit monstra, &amp; 
+            for<lb ed="#F" n="18" break="no"/>tissimus habitus est; ità &amp; lapis iste ferri domitor, &amp; subactor virium ac 
+            ro<lb ed="#F" n="19" break="no"/>boris principatum obtinet inter omnes. Dicitur etiam sideritis voce 
+            Grae<lb ed="#F" n="20" break="no"/>ca, quasi ferreus seu ferralis; eò quod in ferrum dominetur. Huius quinque
+            <lb ed="#F" n="21"/>sunt genera ex Plinio citato, Aethiopicum, Magneticum è Magnesia, 
+            Ma<lb ed="#F" n="22" break="no"/>cedoniae contermina, ex Echio Boeotiae, ex Troade, ex Magnesia Asiae: 
+            re<lb ed="#F" n="23" break="no"/>tamen veta in alijs etiam plurimis regionibus oritur magnes. Nec 
+            ve<lb ed="#F" n="24" break="no"/>ro voluit naturae opifex tam angustis arctare finibus nobilissimum lapidem,
+            <lb ed="#F" n="25"/>&amp; humanis usibus accommodatissimum. non tamen ego tam amplam illi
+            <lb ed="#F" n="26"/>ditionem tribuo, ut pro patria illi terram universam deputem; nec 
+            Gilber<lb ed="#F" n="27" break="no"/>to subscribo affirmanti in omnibus climatibus, in omni provincia, in 
+            om<lb ed="#F" n="28" break="no"/>ni solo aut inveniri magnetem, aut, si non invenitur, id contingere, quia
+            <lb ed="#F" n="29"/>propter profundiores sedes, &amp; impeditos recessus lateat incognitus; aut
+            <lb ed="#F" n="30"/>propter imbecilles vires à nobis non agnoscatur. Ego in re physica sensum
+            <lb ed="#F" n="31"/>sequor libenter ducem, nec nisi, quos ille veritatis fontes iudicaverit, 
+            effo<lb ed="#F" n="32" break="no"/>dio. In alijs tamen, ut dicebam, plurimis etiam regionibus naturae 
+            benesi<lb ed="#F" n="33" break="no"/>cio praeterquam in nominatis à Plinio invenitur lapis magnes. Est ad 
+            Ita<lb ed="#F" n="34" break="no"/>liae littora llva insula Hetrusci maris magnetis feracissima; ubi magnes non
+            <lb ed="#F" n="35"/>eruitur sicuti glarea sua forma, &amp; magnitudine, sed exciditur ex 
+            magneti<lb ed="#F" n="36" break="no"/>cis rupibus, quae rupes mari imminent omnibus temporum iniurijs 
+            exposi<lb ed="#F" n="37" break="no"/>tae. &amp; hac fortasse de causa non est inde excisus magnes virtutis magneticae
+            <lb ed="#F" n="38"/>valde nobilis, quia ex eminenti rupe exciditur, &amp; ex illa parte saxi, quae 
+            ob<lb ed="#F" n="39" break="no"/>via est iniurijs. quod si quis altius defoderet &amp; fędatam illam externam
+            <lb ed="#F" n="40"/>partem abijceret, potentiores fortasse lapides inveniret. effodiuntur 
+            valen<lb ed="#F" n="41" break="no"/>tiores in quadam insula maris Euxini, &amp; in Epiri montibus. sunt in 
+            Hispa<lb ed="#F" n="42" break="no"/>nia, in Germania, in Gallia, &amp; alibi loca, in quibus invenitur: nobilissi¬
+            <!--22.xml-->
+            <pb ed="#F" n="3"/>
+               <lb ed="#F" n="1"/>mus tamen magnes ex India orientali defertur, &amp; praecipuè ex China seù 
+            Si<lb ed="#F" n="2" break="no"/>nis &amp; Bengala: ex Arabia etiam habentur non contemnendi.
+        </p>
+            <p xml:id="p9i7y5-d1e414-d1e299">
+               <lb ed="#F" n="3"/>Color unus non est omnibus, sed ut venae metallicae etiam passim, ita &amp;
+            <lb ed="#F" n="4"/>magnetes diversis in locis diversè colorantur. sunt alibi magnetes, sed 
+            infir<lb ed="#F" n="5" break="no"/>mi, &amp; huiusmodi albi magnetes inveniuntur in llua insula, habet tamen 
+            al<lb ed="#F" n="6" break="no"/>bus ille magnes venas quasdam nigras insertas, quas nisi habeat, nullo 
+            mo<lb ed="#F" n="7" break="no"/>do versorium allicere videtur. quod si ab albo huiusmodi venae nigrae 
+            se<lb ed="#F" n="8" break="no"/>parentur, seù abradantur, non videtur amplius sensibiliter versorium 
+            com<lb ed="#F" n="9" break="no"/>movere. ex quo conijcere licet magneticas solum esse nigricantes illas 
+            ve<lb ed="#F" n="10" break="no"/>nas. verum quidem est, si humectetur, labia illi adhaerescere, &amp; quasi 
+            ad<lb ed="#F" n="11" break="no"/>glutinari; quod etiam in alijs accidit, &amp; praecipuè in terra, quam vocant, 
+            Si<lb ed="#F" n="12" break="no"/>gillatam. quare si propter hoc, ut suspicor, ad incantaciones pro amoris
+            <lb ed="#F" n="13"/>philtro albus magnes adhibetur, quasi carnem trahat, &amp; nectat, vides quam
+            <lb ed="#F" n="14"/>comentitium sit &amp; ineptum. hoc enim non ex magnetica, sed ex gypsea
+            <lb ed="#F" n="15"/>potius &amp; argillosa natura provenit. sunt rufi, ut qui ex Arabia; sunt nigri,
+            <lb ed="#F" n="16"/>ut qui ex India; aliorum etiam colorum aliquam miscent differentiam; 
+            plu<lb ed="#F" n="17" break="no"/>rimum tamen magnetes. quibus utimur nunc, &amp; qui in nostris regionibus
+            <lb ed="#F" n="18"/>insignes sunt, colore referunt ferrum impolitum. Pondus non in 
+            omni<lb ed="#F" n="19" break="no"/>bus idem, sed tamen ut plurimum qui praestantiores sunt, gravitate 
+            praeva<lb ed="#F" n="20" break="no"/>lent. Non eadem etiam in omnibus durities, non eadem soliditas. 
+            aliquan<lb ed="#F" n="21" break="no"/>do in spongiae modum perforantur, aliquando solidi sunt, &amp; densi. 
+            Pluri<lb ed="#F" n="22" break="no"/>mum sunt durissimi, qui robusti malleatoris contemnant impetus, nec nisi
+            <lb ed="#F" n="23"/>serra aenea cum smiris pulvere, ut durissimi lapides resecantur. Virtutis prę¬
+            <lb ed="#F" n="24"/>stanti a, &amp; nobilitas quasi per sexum distinguuntur, antiquorum loquendi
+            <lb ed="#F" n="25"/>consuetudine. Marem enim dixerunt magnetem &amp; foeminam pro 
+            virtu<lb ed="#F" n="26" break="no"/>tis ratione. Hoc igitur interim dicamus in universum magnetem lapidis
+            <lb ed="#F" n="27"/>referre naturam: hoc sit veluti illius genus. Lutosum enim, aut glebosum
+            <lb ed="#F" n="28"/>non in magnetes numero, nec habeo lutum aut argillam, in qua sit vitrus
+            <lb ed="#F" n="29"/>magnetica, neque huius rei oculatum testem audivi, etiamsi quaefierim.
+            <lb ed="#F" n="30"/>Quamvis autem lateres excocti aliquando magneticum ostendant 
+            vigo<lb ed="#F" n="31" break="no"/>rem, non tamen tunc amplius cum luto aut argilla connumerari debent. 
+            di<lb ed="#F" n="32" break="no"/>xi lapidem referre, quia, etiamsi esset vena metallica, nihilominus lapidis
+            <lb ed="#F" n="33"/>imitatur naturam. De isto ergo lapide, quem iam omnes communi 
+            voca<lb ed="#F" n="34" break="no"/>bulo magnetem appellant, hic disputo, &amp; qualitates proprias inquiro.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

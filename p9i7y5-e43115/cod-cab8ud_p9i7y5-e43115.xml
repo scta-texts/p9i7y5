@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 43</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 43</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="405"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e43115"> <!-- l4c43 -->
+            <head xml:id="p9i7y5-e43115-Hd1e107">Caput 43</head>
+            <p xml:id="p9i7y5-e43115-d1e109">
+               <lb ed="#F" n="5"/>Cap. XLIII.
+        </p>
+            <p xml:id="p9i7y5-e43115-d1e114">
+               <lb ed="#F" n="6"/>Sicut multipliciter iuvatur magnes à praesentia alterius magnetis ad 
+            tra<lb ed="#F" n="7" break="no"/>hendum ferrum; ita pari ratione incrementum affers ipsi magneti, si fer
+            <lb ed="#F" n="8"/>rum illi adiungas. Potest igitur ferrum adiungi magneti, vel ad illum
+            <lb ed="#F" n="9"/>ipsum polum, quo ferrum provocat, vel ad op
+            <lb ed="#F" n="10"/>positum, vel etiam deorsum post ferrum. Ut
+            <lb ed="#F" n="11"/>si sit magnes A. B. qui ferrum C. debeat suspen
+            <lb ed="#F" n="12"/>dere, ex B. sive apponas ferrum D: ad alterum
+            <lb ed="#F" n="13"/>polum A. sive ponas ad B. ita ut mediet inter
+            <lb ed="#F" n="14"/>ferrum C. &amp; magnetem, sive subijcias infra ip
+            <lb ed="#F" n="15"/>sum ferrum C. semper ferrum illud D. vires
+            <lb ed="#F" n="16"/>addit magneti, ut robustius suspendat ferrum
+            <lb ed="#F" n="17"/>C. Patet res facili experimento: si enim verbi
+            <lb ed="#F" n="18"/>gratia ex A. amoveas ferrum D. non 
+            sustine<lb ed="#F" n="19" break="no"/>bit amplius B. ferrum C. similiter si ex B. 
+            amo<lb ed="#F" n="20" break="no"/>veas D. non pendebit amplius ferrum C. 
+            vir<lb ed="#F" n="21" break="no"/>tute magneris suspensum; sicuti, ut supra dixi,
+            <lb ed="#F" n="22"/>magnes neque trahet ferrum in aliqua 
+            ma<lb ed="#F" n="23" break="no"/>gna distantia, neque commovebit versorium
+            <lb ed="#F" n="24"/>nisi interposito inter magnetem &amp; versorium
+            <lb ed="#F" n="25"/>fereo. Similiter vires auget magneticas 
+            fer<lb ed="#F" n="26" break="no"/>rum D. positum infra C. Neque ratio horum
+            <lb ed="#F" n="27"/>difficultatem habet novam, si in universum 
+            ra<lb ed="#F" n="28" break="no"/>tio reddatur, cui ferrum tantas addat 
+            maagne<lb ed="#F" n="29" break="no"/>ti vires cum illas ipsas, quas habet ferrum 
+            vi<lb ed="#F" n="30" break="no"/>res, concipiat à magnete. In hoc sane aliqua
+            <lb ed="#F" n="31"/>maior est difficultas. Verum hoc admisso,
+            <lb ed="#F" n="32"/>non erit postea difficile explicare ex 
+            supradi<lb ed="#F" n="33" break="no"/>ctis de magnete ipso, cur ferrum vires augeat
+            <lb ed="#F" n="34"/>magnetis quacunque ratione ex enumeratis
+            <lb ed="#F" n="35"/>illi adiungatur, sive ponatur supra, sive infra.
+         <lb ed="#F" n="41" type="fixed=404"/>
+               <figure xml:id="p9i7y5-e43115-Fd1e184">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870147/1571,1221,743,1609/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">D A B D C D</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375977-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e43115-d1e202">
+               <lb ed="#F" n="36" type="fixed=404"/>Illud autem non est omittendum longe maximam conferre vim 
+            magne<lb ed="#F" n="37" break="no"/>ti ad suspendum ferrum, si ad utrumque extremum nasus ut ita loquar 
+            fer<lb ed="#F" n="38" break="no"/>reus apponatur ex aciatio, ut hic vides; ita armentur poli quasi ferrea galea:
+            <lb ed="#F" n="39"/>incredibile enim est quantum augeantur vires sic galeato capite: nam 
+            quam<lb ed="#F" n="40" break="no"/>vis non adeo exaggeratum invenerim incrementum, ut crescat in quadru¬
+            <!--423.xml-->
+
+         <!--424.xml-->
+         <pb ed="#F" n="405"/>
+               <lb ed="#F" n="1"/>pla propertione vis sustentandi ferrum, crescit tamen summopere, ita utiam
+            <lb ed="#F" n="2"/>suspendat plus ferri, quam sit ipse magnes, etiam si ille non sit in se 
+            robustis<lb ed="#F" n="3" break="no"/>simus: immo ipsemet magnes sic armatus 
+            pen<lb ed="#F" n="4" break="no"/>debit ex ferro ipso, quod sibi adhaeret 
+            suspen<lb ed="#F" n="5" break="no"/>sus. Ex quo constat adeo robuste cum ferro
+            <lb ed="#F" n="6"/>coniungi, ut vis illa superet gravitatem illius
+            <lb ed="#F" n="7"/>lapidis; immo, &amp; armaturae adiunctae, immo,
+            <lb ed="#F" n="8"/>quod difficultatem auget, omnino constat, ut
+            <lb ed="#F" n="9"/>patebit ex mox dicendis, plus virtutis, addi ma
+            <lb ed="#F" n="10"/>gneti ex adiunctione ferri, quam si magnes ma
+            <lb ed="#F" n="11"/>gneti adiungeretur, &amp; tamen magnes in se 
+            ha<lb ed="#F" n="12" break="no"/>bet sibi innatam magneticam qualitatem, quam
+            <lb ed="#F" n="13"/>alteri adiungat: ferrum autem non habet nisi
+            <lb ed="#F" n="14"/>sibi communicatam virtutem. Unde dum ex
+            <lb ed="#F" n="15"/>ferro lapis sibi vires sufficit, quasi proprio aere
+            <lb ed="#F" n="16"/>militem conducit, &amp; armat: in alio casu socias
+            <lb ed="#F" n="17"/>excipit copias: Hinc diligenter advertendum
+            <lb ed="#F" n="18"/>est, dum vires magnetis proprias, vis explorare, ut omnia omnino ferramen
+            <lb ed="#F" n="19"/>ta submoveas, quibus circumvestiretur fortasse magnes. Si enim laminam
+            <lb ed="#F" n="20"/>aliquam fortasse relinquas, qua veluti loricatus sit magnes, efficatissimus ap
+            <lb ed="#F" n="21"/>parebit qui statis infirmus est, &amp; ignobilis.
+         <lb ed="#F" n="43" type="fixed=405"/>
+               <figure xml:id="p9i7y5-e43115-Fd1e269">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870148/1495,636,449,841/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text"/>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375978-r3</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e43115-d1e287">
+               <lb ed="#F" n="22" type="fixed=405"/>Huius rei ratio est, quantum in praesentia mihi occurrit, non quod ideo
+            <lb ed="#F" n="23"/>ferrum robustius connectatur cum magnete armato, quia ferrum ferro 
+            a<lb ed="#F" n="24" break="no"/>mice magis copuletur, ut quae magis Sympathica sint. Evici superius; 
+            ar<lb ed="#F" n="25" break="no"/>bitror, non ideo ferrum ferri obelum magneti surripere, quia libentius 
+            fer<lb ed="#F" n="26" break="no"/>rum cum ferro, quam cum magnete copuletur Sympathiae nomen effugium
+            <lb ed="#F" n="27"/>est, in quod abdunt se plerique, ubi causam ingnorant rei admirabilis. 
+            At<lb ed="#F" n="28" break="no"/>tractio ferri magnetica est determinatis finibus, si Sympathica esset 
+            attra<lb ed="#F" n="29" break="no"/>ctio orta ex natura ferri, ut sic, aut natura ferri, ideo ferrum magis amaret,
+            <lb ed="#F" n="30"/>quam magnetem, aeque singulis partibus copularetur: atqui hoc non 
+            con<lb ed="#F" n="31" break="no"/>tingit, non igitur ferrum tantas addit vires magneti ad suspendum aliud
+            <lb ed="#F" n="32"/>ferrum, quia addat Sympathicum magis ferro. Verum, si adhuc 
+            luculen<lb ed="#F" n="33" break="no"/>tius hoc idem cognoscere vis, observa quod lapis sic ferro armatus, eadem
+            <lb ed="#F" n="34"/>vi coniungit sibi alterum magnetem inermem, &amp; suspendit, quem non 
+            su<lb ed="#F" n="35" break="no"/>spendisset inermis; ergo illud ferti additamentum auget verè magneticas vi
+            <lb ed="#F" n="36"/>res aequaliter ad suspendendum quodlibet magneticum, non ad solum 
+            fer<lb ed="#F" n="37" break="no"/>rum sibi coniungendum; quia symbolum sit.
+        </p>
+            <p xml:id="p9i7y5-e43115-d1e324">
+               <lb ed="#F" n="38"/>Ratio igitur est, quia ferrum corpus est ita magneticum, ut nullam ex se
+            <lb ed="#F" n="39"/>habeat actu qualitatem magneticam, sit tamen, aptum illam recipere per
+            <lb ed="#F" n="40"/>contactum magnetis. Ex quo fit, ut dum magneti coniungitur, quia ex 
+            il<lb ed="#F" n="41" break="no"/>lo contactu virtutem acquirit, eam excipiat omnino conformiter ad 
+            magne<lb ed="#F" n="42" break="no"/>tem, cui coniungitur quia cum illam ferro inspiret magnes, inspirabit omni¬
+            <!--424.xml-->
+
+         <!--425.xml-->
+         <pb ed="#F" n="406"/>
+               <lb ed="#F" n="1"/>no situ sibi conformi, &amp; convenienti, ac proinde in ferro magneti adiuncto
+            <lb ed="#F" n="2"/>nihil est virtutis magneticae, quod omnino non se accomodet, &amp; quasi 
+            ob<lb ed="#F" n="3" break="no"/>secundet ipsi virtuti magnetis, &amp; consequenter, tota illa virius, quae est in fer
+            <lb ed="#F" n="4"/>ro, &amp; totus ille vigor, quem confert ad auxilium magnetis, totus, &amp; secundum
+            <lb ed="#F" n="5"/>omnes sui partes conformis est, &amp; convenienter positus, ad virtutem, quae
+            <lb ed="#F" n="6"/>est in magnete; ac proinde fit, ut totus omnino conspiret ad auxilium ipsius
+            <lb ed="#F" n="7"/>magnetis: at vero, dum adiungitur magnes magneti, vix potest, physice 
+            lo<lb ed="#F" n="8" break="no"/>quendo, contingere, ut se ita invicem disponant, dum singuli magnetes suam,
+            <lb ed="#F" n="9"/>habent vim ex sua natura, alter independenter ab altero, ut omnino 
+            secun<lb ed="#F" n="10" break="no"/>dum totum impetum, uterque sibi auxilio sit, &amp; praecise vires ad eundem om
+            <lb ed="#F" n="11"/>nino terminum dirigant. Et hinc posset primo contingere, ut magis sibi
+            <lb ed="#F" n="12"/>opem ferrent ferrum, &amp; magnes, quam magnes, &amp; magnes, quia priora duo
+            <lb ed="#F" n="13"/>perfectius vires ad eundem terminum dirigunt, &amp; conspirant adaequate ad
+            <lb ed="#F" n="14"/>cundem terminum, propter rationem positam; quam duo magnetes: 
+            quo<lb ed="#F" n="15" break="no"/>ties autem duo agentia conspirant simul omnino, ut trahant prorsus ad ean
+            <lb ed="#F" n="16"/>dem partem pondus, melius trahunt, quam si unum trahat ad unam partem,
+            <lb ed="#F" n="17"/>alterum ad alteram saltem secundum quid, quod autem ferrum separatum
+            <lb ed="#F" n="18"/>postea à magnete videatus contrariam habere actionem: hoc nihil est, nam
+            <lb ed="#F" n="19"/>dum coniunctum est, eandem omnino habet, ut consideranti alias dicta 
+            pa<lb ed="#F" n="20" break="no"/>tebit.
+        </p>
+            <p xml:id="p9i7y5-e43115-d1e387">
+               <lb ed="#F" n="21"/>Si cui tamen, hęc ratio non ita videatur unive salis est omnia, ut ita dicam,
+            <lb ed="#F" n="22"/>salvet phaenomena, &amp; omnibus satisfaciar effectibus, qui cernuntur in 
+            ma<lb ed="#F" n="23" break="no"/>gnetico auxilio, hanc addo, quam etiam indicavi supra. Et ferrum, &amp; 
+            ma<lb ed="#F" n="24" break="no"/>gnes corpora sunt magnetica, apta habere qualitatem magneticam in se, &amp;
+            <lb ed="#F" n="25"/>in ordine ad qualitatem hanc magneticam videntur se habere, ut excedens,
+            <lb ed="#F" n="26"/>&amp; excessum, nam ex una parte magnes habet istam qualitatem in se, &amp; ex se
+            <lb ed="#F" n="27"/>fluentem; ita ut in ipso sit viva huius scaturigo: at vero corpus non est usque
+            <lb ed="#F" n="28"/>quaque purum, &amp; perfectum, &amp; ab omnibus mundatum recrementis: habet
+            <lb ed="#F" n="29"/>enim admixtas sordes, &amp; extraneas particulas, quae consequenter 
+            magneti<lb ed="#F" n="30" break="no"/>cae non sunt, in sensibiliter tamen permixtas, quae particulae non solum non
+            <lb ed="#F" n="31"/>habent vim emittendi ex se qualitatem magneticam, sed nec illam excipere
+            <lb ed="#F" n="32"/>possunt ab alio proctductam: unde in tota illa massa unius magnetis, quia non
+            <lb ed="#F" n="33"/>est corpus omnino, &amp; usque quaque homogeneum, ut patet, quia si solvatur
+            <lb ed="#F" n="34"/>vi ignis in metallum, separantur faeces, &amp; scoria, quae erat insensibiliter 
+            ad<lb ed="#F" n="35" break="no"/>mixta, &amp; seiunguntur partes puriores ab impuris: quia, inquam, non est
+            <lb ed="#F" n="36"/>corpus omnino homogeneum, in tota illa massa erunt multae partes, quae vir
+            <lb ed="#F" n="37"/>tutem magneticam non habebunt, ac proinde tota illa massa non 
+            operabi<lb ed="#F" n="38" break="no"/>tur magnetice. Quamvis igitur in tota illa massa, &amp; in illis partibus 
+            purio<lb ed="#F" n="39" break="no"/>ribus sit qualitas intensa ut quattuor, si tamen daretur aliud corpus 
+            magne<lb ed="#F" n="40" break="no"/>ticum, quale est ferrum, quod non haberet illas partes impuras, sed 
+            secun<lb ed="#F" n="41" break="no"/>dum totam suam substantiam esset corpus magneticum, &amp; haberet pariter
+            <lb ed="#F" n="42"/>qualitatem magneticam intensam ut quattuor, istud corpus quamvis non
+            <!--426.xml-->
+            <pb ed="#F" n="407"/>
+               <lb ed="#F" n="1"/>esset magnes, idest non haberet illam qualitatem ex se, &amp; à sua natura 
+            fluen<lb ed="#F" n="2" break="no"/>tem, sed haberet illam in se derivatam ab alio, tamen in operationibus 
+            ma<lb ed="#F" n="3" break="no"/>gneticis plus posset, quam magnes: esset enim perinde ac si sumeretur agens
+            <lb ed="#F" n="4"/>eiusdem intensionis, sed magis densum, illud enim formale agens, idest 
+            il<lb ed="#F" n="5" break="no"/>lud quod habet qualitatem activam, maius quodammodo est, seu magis 
+            u<lb ed="#F" n="6" break="no"/>nitum, dum in impuro lapide intermiscentur particulae non magneticae, &amp;
+            <lb ed="#F" n="7"/>ita vires sunt dissipatae, &amp; quasi agens factum est rarius, in ferro autem 
+            den<lb ed="#F" n="8" break="no"/>sius.
+        </p>
+            <p xml:id="p9i7y5-e43115-d1e459">
+               <lb ed="#F" n="9"/>Ferrum igitur, quia per ignis fusionem, &amp; metallicam purgationem sordes
+            <lb ed="#F" n="10"/>deposuit, &amp; ab alienis seiunctum est corporibus, in hoc magnetem superat,
+            <lb ed="#F" n="11"/>quod quamvis non habeat in se ex se fluentem qualitatem magneticam, 
+            ta<lb ed="#F" n="12" break="no"/>men secundum suam totam substantiam, &amp; singulas suas partes, si praesertim
+            <lb ed="#F" n="13"/>sit ferrum perfectum, ut aciare, est corpus magneticum, aptum illam 
+            quali<lb ed="#F" n="14" break="no"/>tatem excipere in se, &amp; per illam deinde secundum omnes, &amp; singulas partes
+            <lb ed="#F" n="15"/>agere. Quare quamvis ferrum, dum excitatur à magnete, seu cum illo 
+            con<lb ed="#F" n="16" break="no"/>iungitur, non acquirat in se qualitatem magis intensam, quam quae sit in ma
+            <lb ed="#F" n="17"/>gnete excitante, ut supra contra Gilbertum dicebam, tamen plus potest in
+            <lb ed="#F" n="18"/>operationibus magneticis, quam magnes ipse ex isto capite, quia non habet
+            <lb ed="#F" n="19"/>ut ita dicam, interruptionem partium magneticarum, per admixtionem 
+            ex<lb ed="#F" n="20" break="no"/>traneorum corporum, sicut habet magnes; sed secundum totam suam 
+            sub<lb ed="#F" n="21" break="no"/>stantiam, &amp; singulas partes est corpus magneticum. Et hinc redditut 
+            pro<lb ed="#F" n="22" break="no"/>pria ratio, cur videatur plus posse ferrum magnetice excitum, quam magnes
+            <lb ed="#F" n="23"/>ipse. Sicuti enim, si sint duo agentia calida ut quatuor, quorum unum 
+            ha<lb ed="#F" n="24" break="no"/>beat intermixtas partes non calidas, alter non, minus calefacit primum, quam
+            <lb ed="#F" n="25"/>secundum: sic in magnete, sunt intermixtae partes non activae, in ferro nullę
+            <lb ed="#F" n="26"/>sunt tales: ergo, etiam si ferrum non habeat intensiorem qualitatem, plus 
+            po<lb ed="#F" n="27" break="no"/>terit magnetice, &amp; iuvabitur plus magnes à ferro sibi adiuncto, quam à 
+            ma<lb ed="#F" n="28" break="no"/>gnete, quod erat propositum.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="101"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e10866"> <!-- l2c2 -->
+            <head xml:id="p9i7y5-e10866-Hd1e107">Caput 2</head>
+            <p xml:id="p9i7y5-e10866-d1e109">
+               <lb ed="#F" n="29"/>Quid alij senserint de magnetica attractione. Caput Secundum.
+        </p>
+            <p xml:id="p9i7y5-e10866-d1e114">
+               <lb ed="#F" n="30"/>Causam superius recitati experimenti investigaturus, optimum
+            <lb ed="#F" n="31"/>factu iudicavi, si aliorum opiniones prius examinem; cur
+            <lb ed="#F" n="32"/>magnes ferrum trahat. ex singulis enim, si quid erit quod ad
+            <lb ed="#F" n="33"/>veritatem conducere videatur, desumam. potero autem hic
+            <lb ed="#F" n="34"/>antiquiores recitare sententias: quia, quamvis magnetem
+            <lb ed="#F" n="35"/>trahere magnetem non ita omnes commemorent, magnetem tamen sibi
+            <lb ed="#F" n="36"/>ferrum adiungere omnibus, qui naturam vel leviter inspexerunt, notum
+            <lb ed="#F" n="37"/>fuit.
+        </p>
+            <p xml:id="p9i7y5-e10866-d1e134">
+               <lb ed="#F" n="38"/>Empedocles Agrigentinus, ut est apud Alexandrum Aphrodiseum, in
+            <lb ed="#F" n="39"/>eam venit sententiam, ut putaret, sicuti ex omnibus alijs corporibus, ita ex
+            <lb ed="#F" n="40"/>magnete minutissima quaedam corpuscula, &amp; atomos effluere, quae ubi ad
+            <!--120.xml-->
+            <pb ed="#F" n="101"/>
+               <lb ed="#F" n="1"/>ferrum sese appullerint, quippe quae minutissima sunt, &amp; maximè ad 
+            perva<lb ed="#F" n="2" break="no"/>dendos minutissimos ferri poros idonea, illis sese ingerunt, ac totam ferri
+            <lb ed="#F" n="3"/>substantiam pervadunt. quo fit, ut ferrum quasi subactis stimulis excitetur,
+            <lb ed="#F" n="4"/>&amp; expergiscatur, ac ne quasi humanitate, officijs'que vinci se patiatur, 
+            pari<lb ed="#F" n="5" break="no"/>ter corpulcula, atomosque ad magnetem releget, quae corpuscula in ferri 
+            tor<lb ed="#F" n="6" break="no"/>penti natura prius otiabantur; dumque haec corpuscula raptim ex ferro exire
+            <lb ed="#F" n="7"/>contendunt, &amp; singula sibi demandari munus deposcunt, una simul ferrum
+            <lb ed="#F" n="8"/>rapiant, quasi primis illis aditum praecludentibus, dum moram non 
+            fe<lb ed="#F" n="9" break="no"/>runt, suo accurtendi impetu ferrum ipsum propellant, &amp; inusitato eventu,
+            <lb ed="#F" n="10"/>dum Regia exire volunt, Regiam ipsam asportent. Non huic absimilis 
+            vi<lb ed="#F" n="11" break="no"/>detur Democriti, Leusippi, &amp; Epicuri commentum de causa, cur magnes
+            <lb ed="#F" n="12"/>ferrum trahat, ut ex Lucretio colligere licet illorum doctrinae, vel si verius
+            <lb ed="#F" n="13"/>dicas, erroris vestigijs insistente, libet illum ipsum audire suomet ore sua
+            <lb ed="#F" n="14"/>figmenta canentem
+        </p>
+            <p xml:id="p9i7y5-e10866-d1e179">
+               <lb ed="#F" n="15"/>Principio fluere ex lapide hoc permulta necesse est
+            <lb ed="#F" n="16"/>Semina, sivè aestus, qui discutit aëra plagis
+            <lb ed="#F" n="17"/>Inter qui lapidem ferrum'que est cunque locatus
+            <lb ed="#F" n="18"/>Hoc ubi inanitur spatium, multus'que vacefit,
+            <lb ed="#F" n="19"/>In medio locus; ex templo primordia ferri
+            <lb ed="#F" n="20"/>In vacuum prolapsa cadunt coniuncta, fit utque
+            <lb ed="#F" n="21"/>Annulus ipse sequatur, eat'que ita corpore toto:
+            <lb ed="#F" n="22"/>Nec res ulla magis primoribus ex elementis
+            <lb ed="#F" n="23"/>Indupedita suis arctè connexa coheret,
+            <lb ed="#F" n="24"/>Quàm validi ferri naturae frigidus humor.
+            <lb ed="#F" n="25"/>Quo minus est mirum, quod paulo diximus ante,
+            <lb ed="#F" n="26"/>Corpora si nequeunt de ferro plura coacta
+            <lb ed="#F" n="27"/>In vacuum ferri, quin annulus ipse sequatur,
+            <lb ed="#F" n="28"/>Quod facit, &amp; sequitur, donec pervenit ad ipsum
+            <lb ed="#F" n="29"/>Iam lapidem caecis'que in eo compagibus haesit:
+        </p>
+            <p xml:id="p9i7y5-e10866-d1e214">
+               <lb ed="#F" n="30"/>Haec opinio à praecedenti non nihil differt in causa scilicet egressionis
+            <lb ed="#F" n="31"/>corpusculorum à ferro: vult enim corpuscula, quae exeunt ex magnete 
+            cau<lb ed="#F" n="32" break="no"/>sam esse vacui in medio inter magnetem, &amp; ferrum; confestimque ferrum, ut
+            <lb ed="#F" n="33"/>bonum naturae amicum, ne tantum ferrat in natura malum, hoc est ne 
+            pa<lb ed="#F" n="34" break="no"/>tiatur dari illud vacuum, quasi eviscerare sese, &amp; corpuscula ex se effundens
+            <lb ed="#F" n="35"/>iubere in vacuum à magnete factum delabi. In eo tamen utraque 
+            conve<lb ed="#F" n="36" break="no"/>nit, quod dum ferri corpuscula, quae vehementer ferro adhaerent 
+            obvisco<lb ed="#F" n="37" break="no"/>sam, &amp; tenacem eius humiditatem, toto impetu exire contendunt, ferrum
+            <lb ed="#F" n="38"/>ad magnetem rapere pronunciat. Verum utraque iam explosa est, suamque
+            <lb ed="#F" n="39"/>secum fert confutationem, ut arbitror, apud peritos rerum aestimatores 
+            sa<lb ed="#F" n="40" break="no"/>tis efficacem, nec ea visa est, quae ex recentioribus aliquem invenerit 
+            patro<lb ed="#F" n="41" break="no"/>num; cum tamen aliae antiquorum opiniones permultae, quae iam à 
+            philoso<lb ed="#F" n="42" break="no"/>phorum libris crasae erant, tales habitae sint, ut in earum instauratione sibi
+            <!--121.xml-->
+            <pb ed="#F" n="102"/>
+               <lb ed="#F" n="1"/>nonnulli laudem, quaefierint; Enimverò quì fieret, ut tanto 
+            corpusculo<lb ed="#F" n="2" break="no"/>rum aestu, &amp; exhalatione non citissimè exinaniretur lapis? quì tam facilè, 
+            tan<lb ed="#F" n="3" break="no"/>ta velocitate corpuscula, esto tenvia, durissimos pervadunt lapides, 
+            durissi<lb ed="#F" n="4" break="no"/>ma metalla? &amp; tamen magnes ultra lapidem ferrum trahit, quomodo 
+            ma<lb ed="#F" n="5" break="no"/>gnes vacuum facit in medio, si medium sit pugnacissimus lapis? saepe enim
+            <lb ed="#F" n="6"/>magnes ad se ferrum trahit, etsi quodlibet durissimum corpus, &amp; 
+            pugnacis<lb ed="#F" n="7" break="no"/>simum interponatur. cur magnes ferrum trahit determinatis illis partibus,
+            <lb ed="#F" n="8"/>&amp; determinata ratione, si solum trahit ex accidenti; quia eius inspiratione
+            <lb ed="#F" n="9"/>exinanitur medium?
+        </p>
+            <p xml:id="p9i7y5-e10866-d1e269">
+               <lb ed="#F" n="10"/>Alterum excogitavit commentum Diogenes Poloniates eodem Alexan
+            <lb ed="#F" n="11"/>dro teste, quod est huiusmodi: cum metalla omnia sint humida natura sua,
+            <lb ed="#F" n="12"/>quod patet; quia igne liquescunt, &amp; funduntur, &amp; singula quemdam 
+            hu<lb ed="#F" n="13" break="no"/>morem perpetuo evaporant, sed praecipuè hoc in ferro contingit: quo fit ut
+            <lb ed="#F" n="14"/>prae omnibus metallis rubiginem contrahat. qui humidus vapor cum ab
+            <lb ed="#F" n="15"/>isto humidissimo lapide, utpotè sibi maximè familiari avidissimè 
+            expeta<lb ed="#F" n="16" break="no"/>tur, ebibit, &amp; exsugit una cum humore ferrum ipsum, eo quod talis humor
+            <lb ed="#F" n="17"/>propter suum lentorem ferro valde tenaciter adhęreat, &amp; hinc fit, ut 
+            ma<lb ed="#F" n="18" break="no"/>gnes ferrum trahat. Enimvero lapis iste multibibus esset, qui ferrum ipsum
+            <lb ed="#F" n="19"/>sorbillaret; sed, ut video, alia postea potione indigeret, quo tam durum 
+            bo<lb ed="#F" n="20" break="no"/>lum deglutiret. ecquem non strangularet tam dura potio? &amp; fortasse 
+            pro<lb ed="#F" n="21" break="no"/>pterea ferramenta subtiliora, &amp; graciliora libentius magnes attrahit, &amp; per
+            <lb ed="#F" n="22"/>extremitatem potius, quam per medium, ut commodius exsorbeat. Sed 
+            lu<lb ed="#F" n="23" break="no"/>dum mitamus: laborat haec oponio eodem, quo superior morbo, &amp; suos
+            <lb ed="#F" n="24"/>insuper addit errores, qua manu ad se adducit lapis ferrum, ut sorbeat? 
+            ad<lb ed="#F" n="25" break="no"/>ducto ne spiritu? at trans lapidem non sorberet: curpotius hanc, quam 
+            se<lb ed="#F" n="26" break="no"/>mel tetigit, partem magnes semper trahit, non aliam? Video nugas ad 
+            effu<lb ed="#F" n="27" break="no"/>gium: sed philosophamur, non nugamur. quod si emittit ferrum humidos
+            <lb ed="#F" n="28"/>spiritus, ut ostendit rubigo, rubiginem etiam contrahit magnes. ergo 
+            alio<lb ed="#F" n="29" break="no"/>rum sitim satiare potest, non ipsa laborat.
+        </p>
+            <p xml:id="p9i7y5-e10866-d1e315">
+               <lb ed="#F" n="30"/>Plato in Timęo in eam videtur venire sententiam, ut velit non propriè
+            <lb ed="#F" n="31"/>magnetem ad se ferrum trahere, sed ferrum ex accidente ad magnetem 
+            ac<lb ed="#F" n="32" break="no"/>currere, ne detui vacuum: sic enim habet, dum de magnete, ac succino 
+            lo<lb ed="#F" n="33" break="no"/>quitur Revera nullius horum attractio fit; sed cum nusquam sit vacuum, &amp;
+            <lb ed="#F" n="34"/>haec se invicem pulsent, atque repulsent, concreta'que, &amp; discreta suum locum
+            <lb ed="#F" n="35"/>singula poscant, diligenti harum rerum investigatori, ex his mutuis 
+            passio<lb ed="#F" n="36" break="no"/>nibus eventus illi mirabiles contingere videbuntur. Quod dictum duplici
+            <lb ed="#F" n="37"/>fortasse ratione interpręteris. vel quod ex utraque ingenti vaporum vi ex
+            <lb ed="#F" n="38"/>his corporibus quasi compositis agminibus bellum interposito in aëre 
+            com<lb ed="#F" n="39" break="no"/>mittant. ex quo conflictu aër male mulctetur, ac proteratur bellatricibus 
+            il<lb ed="#F" n="40" break="no"/>lis phalangibus: quo fiat, ut propterea ille quam citissime se subducere 
+            cer<lb ed="#F" n="41" break="no"/>tet, atque in pristinam libertatem procul à metu vindicare contendat, atque
+            <lb ed="#F" n="42"/>ita ipsamet corpora, ne detur vacuum, pugnae campum ab aëre destitutum
+            <!--122.xml-->
+            <pb ed="#F" n="103"/>
+               <lb ed="#F" n="1"/>replere contendant: ne ex sua privata, quam gerunt, inimicitia boni scilice
+            <lb ed="#F" n="2"/>cives, tantum malum in naturae Republicam derivetur, ut vacuum 
+            consur<lb ed="#F" n="3" break="no"/>gat, &amp; quasi foedus initura ambo accurrunt magnes scilicet, &amp; lapis: vel 
+            cer<lb ed="#F" n="4" break="no"/>tè Platonis dictum interpreteris ea ratione, qua videtur exponere 
+            Plutar<lb ed="#F" n="5" break="no"/>chus lib. de quaestionibus Platonicis, cum de magnete sic loquitur. lapis hic
+            <lb ed="#F" n="6"/>halitus emittit graves, quibus continens aër impulsus, eum, qui ante se, 
+            ex<lb ed="#F" n="7" break="no"/>trudit, is in orbem agitatus, ac ad vacuatum revertens locum, vi una 
+            attra<lb ed="#F" n="8" break="no"/>hit ferrum. Quibus verbis videtur velle ferrum non attrahi propriè à 
+            ma<lb ed="#F" n="9" break="no"/>gnete, sed quia aër ex una parte aestu vaporum pellitur, qui ex lapide 
+            exclu<lb ed="#F" n="10" break="no"/>duntur, ex altera parte anxiè aër, ne detur vacuum, ad pristinum locum 
+            re<lb ed="#F" n="11" break="no"/>dire contendit, dum revertitur actus in orbem, ad ferrum si impellat, illud
+            <lb ed="#F" n="12"/>una secum ad magnetem defert. Verum haec explicandi ratio optimè sanè
+            <lb ed="#F" n="13"/>electricas attractiones explicat fortasse, neque sapientius poterat quidquam
+            <lb ed="#F" n="14"/>de electricis affirmare; at magneticae attractiones longè diversae sunt: ad
+            <lb ed="#F" n="15"/>magnetica enim non accurrunt omnia, cartulae, paleae, &amp; alia huiusmodi 
+            le<lb ed="#F" n="16" break="no"/>viora, ut fluunt ad electrica. Adde licet intercipiatur lignum, aut lapis, vel
+            <lb ed="#F" n="17"/>aliquid tale, non impediti magneticam attractionem, sicut impeditur 
+            ele<lb ed="#F" n="18" break="no"/>ctrica. Mitto diversitatem illam partium, quam servant in attractionibus
+            <lb ed="#F" n="19"/>magnetica, ut semel tactam ferri extremitatem semper trahat, non tactam
+            <lb ed="#F" n="20"/>eadem parte repellat. Sed ut arbitroriam constat hanc sententiam non
+            <lb ed="#F" n="21"/>constare.
+        </p>
+            <p xml:id="p9i7y5-e10866-d1e396">
+               <lb ed="#F" n="22"/>Platonicus succedat Marsilius Ficinus, qui omnia influentijs accepta 
+            re<lb ed="#F" n="23" break="no"/>ferens, &amp; Platonicorum in morem omnia mysterijs involvens, in lib. de 
+            vi<lb ed="#F" n="24" break="no"/>ta caelitus comparanda, dicit magnetem, &amp; ferrum ita se habere, ut horum
+            <lb ed="#F" n="25"/>utrunque ab ursa minore dependeat, ac vegetetur, Caelestique semine 
+            anime<lb ed="#F" n="26" break="no"/>tur, at erga magnetem effusam magis astra suam ostentare liberalitatem,
+            <lb ed="#F" n="27"/>quam erga ferrum, ac propterea ferrum ad magnetem, stipem quasi 
+            corro<lb ed="#F" n="28" break="no"/>gaturum accedere, ut egenus ad divitem. Sic alijs in rebus, ut ipse ait, hoc
+            <lb ed="#F" n="29"/>idem licet contemplari: nam si duo sint homines, quorum uterque à Sole
+            <lb ed="#F" n="30"/>dependeat, Solis'que sint sub dominio, is cui Sol obscurius lucet, admiratur,
+            <lb ed="#F" n="31"/>sequitur, colit eum, cui copiosius luminum princeps sua impertitur dona.
+            <lb ed="#F" n="32"/>Si Martem sequatur uterque, timet inferior superiorem. Si Venerem, amat,
+            <lb ed="#F" n="33"/>si lovem; colit, ac veneratur. Nec igitur in alijs astrorum influentijs ab hac
+            <lb ed="#F" n="34"/>philosophandi ratione discedendum, ut egens ditiorem sequatur: &amp; hinc
+            <lb ed="#F" n="35"/>fortasse factum est, ut gallus cantu leonem exterreat (si fabulae verae essent)
+            <lb ed="#F" n="36"/>quippe, qui Soli, prae illo, sit in delicijs, Sus Marti Elephante carior, unde illi
+            <lb ed="#F" n="37"/>grunnitu timorem incutit; cum lupus in lunari influxu ovem excedat, 
+            il<lb ed="#F" n="38" break="no"/>lam suo terret aspectu (verius conterit dente) sic animalia pleraque his, 
+            qui<lb ed="#F" n="39" break="no"/>bus praestant influentijs, sibi vel conciliant, vel subijciunt alia ab ijsdem 
+            a<lb ed="#F" n="40" break="no"/>stris dependentia. Haec sententia videtur inniti Astrologorum somnijs ne
+            <lb ed="#F" n="41"/>an sententijs? sed ne causa indicta Astrologos damnemus, demus istas 
+            de<lb ed="#F" n="42" break="no"/>pendentias ab astris in rebus, etiamsi ipsas nostro suffragio non comprobe¬
+            <!--123.xml-->
+            <pb ed="#F" n="104"/>
+               <lb ed="#F" n="1"/>mus, qui sit, ut magnes magnetem trahat determinatis partibus? hic enim
+            <lb ed="#F" n="2"/>utrunque extremum dives est à Caelo. Praeterea putat Ficinus magnetem 
+            di<lb ed="#F" n="3" break="no"/>rigi ad ursm minorem, quod falsum omnino demonstravi lib. 
+            praeceden<lb ed="#F" n="4" break="no"/>te. Facierum diversitatem, qua fit attractio, per hoc non explicari evincit
+            <lb ed="#F" n="5"/>litem.
+        </p>
+            <p xml:id="p9i7y5-e10866-d1e459">
+               <lb ed="#F" n="6"/>Alia fuit sententia Alex. Aphrodisei, qui tamen pariter putavit 
+            magne<lb ed="#F" n="7" break="no"/>tem non vi ferrum ad se trahere, sed potius ad se pellicere ea fere ratione,
+            <lb ed="#F" n="8"/>qua nos puerulos trahere dicimur, cum bellaria ostendimus, vel, ut inquit
+            <lb ed="#F" n="9"/>Augustinus, cum ovi virentem ramum monstramus, trahimus illam: est 
+            e<lb ed="#F" n="10" break="no"/>nim, ut iste arbitratur, suus mortuis etiam in rebus appetitus, suus 
+            volupta<lb ed="#F" n="11" break="no"/>tis sensus, in quo avidè conquiescant. unde in animum sibi induxit hic 
+            phi<lb ed="#F" n="12" break="no"/>losophus in lapide magnete aliquid delitescere, quo ferrum perficiatur; cum
+            <lb ed="#F" n="13"/>sibi persuasum habuerit tunc magnetem generari, cum ferri vena lapide
+            <lb ed="#F" n="14"/>scit; ac propterea nescio quid reliquum esse, quod unice à ferro diligatur.
+            <lb ed="#F" n="15"/>Illud interim in hac sententia non placet, quod non satis palam facit, quid
+            <lb ed="#F" n="16"/>illud scit, quod ferrum à magnete corrogare vult, ac tantum verba quaedam
+            <lb ed="#F" n="17"/>sonare videtur; &amp; in eo magis adhuc laboraret, si explicare deberet, quid
+            <lb ed="#F" n="18"/>causae sit, cur, si magnes ferrum ex uno capite semel apprehenderit, nunquam
+            <lb ed="#F" n="19"/>nisi ex illo ipso ferri fine eadem magnetis pars ferrum rapiat, &amp; cur duo ma
+            <lb ed="#F" n="20"/>gnetis lapides in mutuos ruant amplexus.
+        </p>
+            <p xml:id="p9i7y5-e10866-d1e495">
+               <lb ed="#F" n="21"/>
+               <name xml:id="p9i7y5-e10866-Nd1e499">Galeni</name> placitum fuit magnetem ea ratione fertum attrahere, qua 
+            natu<lb ed="#F" n="22" break="no"/>rales facultates ad se alimentum adducunt. Quare sicuti hae id praestant,
+            <lb ed="#F" n="23"/>cibum attrahendo, ut alterent, &amp; sibi simile reddant: sic naturam magneti
+            <lb ed="#F" n="24"/>quasi manus addidisse, ut ad se ferrum trahat, sibi'que conformet. Verum
+            <lb ed="#F" n="25"/>quid est ista virtus? qualis alteratio? quas mihi manus inijcit? quas 
+            verbo<lb ed="#F" n="26" break="no"/>rum phaleras? non sic philosophica ad oratorum ornamenta traducuntur,
+            <lb ed="#F" n="27"/>sed res ipsa plane explicanda est.
+        </p>
+            <p xml:id="p9i7y5-e10866-d1e515">
+               <lb ed="#F" n="28"/>Non plus addit Averoes; qui ideo ferrum ad magnetem tendere ait, quod
+            <lb ed="#F" n="29"/>ab eo immutetur alteretur'que. Transcripsit Albertus Magnus cum aliquid
+            <lb ed="#F" n="30"/>in ferrum produci pronunciavit à magnete.
+        </p>
+            <p xml:id="p9i7y5-e10866-d1e524">
+               <lb ed="#F" n="31"/>Secutus est Divus Thomas: cum enim de causis, quibus aliquid 
+            move<lb ed="#F" n="32" break="no"/>tur, disputaret, alio, inquit, modo potest dici aliquid trahere, quia movet ad
+            <lb ed="#F" n="33"/>se ipsum alterando aliqualiter, ex qua alteratione contingit, quod alterum
+            <lb ed="#F" n="34"/>moveatur secundum locum, &amp; hoc modo magnes dicitur trahere ferrum.
+            <lb ed="#F" n="35"/>Sapientissimè sane, ut solet divinum illud ingenium. Quam sententiam 
+            ta<lb ed="#F" n="36" break="no"/>li excipit pronuntiato Gilbertus: Hanc sententiam vir doctissimus non
+            <lb ed="#F" n="37"/>male admodum conceptam postea breviter male creditis de magnete, &amp;
+            <lb ed="#F" n="38"/>allij diversis viribus confirmare contendit, &amp; sane optimo exemplo gravium,
+            <lb ed="#F" n="39"/>vel levium rem explicat Sanctus Doctor: quae non ideo dicuntur moveri à
+            <lb ed="#F" n="40"/>generante, quia in se non habeant formaliter principium sui motus, unde
+            <lb ed="#F" n="41"/>ab alijs emendicare perpetuo cogantur vim se movendi ad propria loca,
+            <lb ed="#F" n="42"/>sed quia totam illam virtutem ac perfectionem, qua sibi naturalem acqui¬
+            <!--124.xml-->
+            <pb ed="#F" n="105"/>
+               <lb ed="#F" n="1"/>runt locum, ex vi, ut physici loquuntur, suae productionis statim ab initio
+            <lb ed="#F" n="2"/>suae generationis exigunt à generante, &amp; ab illo quidquid usque 
+            perfectio<lb ed="#F" n="3" break="no"/>nis acquirere possunt, &amp; postulant, &amp; reportant. quod in viventibus non
+            <lb ed="#F" n="4"/>contingit, quae à generante non statim totam actu perfectionem in se 
+            deri<lb ed="#F" n="5" break="no"/>vant, sed sibi paulatim suis viribus adipiscuntur, &amp; à generante semina quę¬
+            <lb ed="#F" n="6"/>dam, &amp; igniculos solum reportant, rem ipsam sibi debent: hinc illa à 
+            gene<lb ed="#F" n="7" break="no"/>rante, haec à se moveri dicuntur. Sic quod ferri torpens natura à magnete
+            <lb ed="#F" n="8"/>excitetur, &amp; quasi adactis stimulis, vel suffectis pedibus motum addiscat, ab
+            <lb ed="#F" n="9"/>eo moveri, &amp; trahi rectè dici potest, ex quo intelliges inique Gilbertum
+            <lb ed="#F" n="10"/>ignorantiae in simulare antiquos, reliquosque inter plebeos philosophos 
+            reij<lb ed="#F" n="11" break="no"/>cere, quod hunc ferri motum tractionem appellarint: nec enim irrepsit 
+            ta<lb ed="#F" n="12" break="no"/>lis loquendi modus in magneticam philosophiam ex ignorantia, cum 
+            sen<lb ed="#F" n="13" break="no"/>serint etiam cordati viri talem fieri motum à qualitate in ipso ferro 
+            excita<lb ed="#F" n="14" break="no"/>to, à magnete, procreata, ut ex sancto Thoma didicimus. Ego vero dictum
+            <lb ed="#F" n="15"/>philosophi libens admitto: loquendum ut multi, sentiendum ut pauci. 
+            So<lb ed="#F" n="16" break="no"/>um igitur in hac opinione desiderarem, quod hactenus explicatum non
+            <lb ed="#F" n="17"/>vidi, ut inferius demonstrare tentabo; quidnam sit huiusmodi qualitas, quę
+            <lb ed="#F" n="18"/>in ferro producitur, &amp; qua ratione producatur, ut illorum effectuum, qui
+            <lb ed="#F" n="19"/>in hac philosophia se produnt, ratio reddatur.
+        </p>
+            <p xml:id="p9i7y5-e10866-d1e598">
+               <lb ed="#F" n="20"/>Subdo opinionem Cardani, qui ex suo pulvere, in quo sepulta iacebat,
+            <lb ed="#F" n="21"/>Thaletis, sive etiam Empedoclis opinionem iterum excitans, magnetem
+            <lb ed="#F" n="22"/>animatum dixit, à qua non multum Gilbertum aberrare quis dixerit (
+            mul<lb ed="#F" n="23" break="no"/>tum tamen aberraret à vero qui hanc sequeretur) cum eam à Scaligeri 
+            censu<lb ed="#F" n="24" break="no"/>ra, qua vehemens delirium appellavit, vindicare contendat: vis enim 
+            mo<lb ed="#F" n="25" break="no"/>vendi se animam ostendere videtur, inquit ille. Hanc igitur opinionem sic
+            <lb ed="#F" n="26"/>Cardanus exponit, ut magnes ferrum attrahat, quasi suae vitae pabulum; 
+            ta<lb ed="#F" n="27" break="no"/>lem enim nullis philosophorum insistens vestigijs putavit lapidibus 
+            omni<lb ed="#F" n="28" break="no"/>bus vim inesse, qua nutriantur, &amp; augescant, quam animam appellavit.
+            <lb ed="#F" n="29"/>At quibus ille oculis vitales operationes in lapide usquam deprehendit?
+            <lb ed="#F" n="30"/>ostendat, quaeso, membra, &amp; corpus organicum varijs distinctum partibus
+            <lb ed="#F" n="31"/>ad vitae munia, quae animae necessaria omnium philosophorum calculis est.
+            <lb ed="#F" n="32"/>supellex. Quod si ex Cardano quaeras, cur magnes magnetem attrahat? &amp;
+            <lb ed="#F" n="33"/>nunquid luporum vincat voracitatem, qui lupina carne nutriri 
+            reformi<lb ed="#F" n="34" break="no"/>dant? statim ex ipso habebis in quolibet magnete ferrum lapidi permixtum
+            <lb ed="#F" n="35"/>esse, ac propterea ferrum, quod in magnete delitescit notum scilicet 
+            pabu<lb ed="#F" n="36" break="no"/>lum, abripit magnes, dum magnetem trahere videtur. Enimvero 
+            oscitan<lb ed="#F" n="37" break="no"/>tem invenit ille magnetem, ac prorsus mactandum, qui sibi cibum ex ore,
+            <lb ed="#F" n="38"/>immò vero ex ventre abripi sinat, vel alium voracem, qui sibi ex alterius
+            <lb ed="#F" n="39"/>visceribus cibum quaerat. At istec opinio non pluribus est exercitanda, ne
+            <lb ed="#F" n="40"/>actum à Scaligero agamus. Suo se prodit aspectu, nec eam crediderim à 
+            Gil<lb ed="#F" n="41" break="no"/>berto defendi, sed potius ita de ea pronuntiasse, quia, cum illa vis, à qua 
+            in<lb ed="#F" n="42" break="no"/>citatur, ac dirigitur magneticum, sit tota in toto, &amp; tota in qualibet parte,
+            <!--125.xml-->
+            <pb ed="#F" n="106"/>
+               <lb ed="#F" n="1"/>animam imitari videatur, longe tamen est diversa ratio.
+        </p>
+            <p xml:id="p9i7y5-e10866-d1e657">
+               <lb ed="#F" n="2"/>Adiungo opinionem Fracastorij, quì ferrum ad magnetem confluere 
+            as<lb ed="#F" n="3" break="no"/>serit propter similitudinem, naturęque consensum: non quod sibi ingenitum,
+            <lb ed="#F" n="4"/>&amp; à natura inditum habeant vigorem, quo suo ferantur impetu ad sibi 
+            simi<lb ed="#F" n="5" break="no"/>lia, ea ratione, qua gravia, &amp; levia natura donante, illud habent, ut ad sua
+            <lb ed="#F" n="6"/>tendant loca: nam, si hoc esset, quod valdè notandum arbitror, quae per
+            <lb ed="#F" n="7"/>sympathiam, vel antypathiam moventur, non certam requirerent 
+            distan<lb ed="#F" n="8" break="no"/>tiam, ut tamen faciunt, quantum hactenus videre potui: gravia enim, &amp; 
+            le<lb ed="#F" n="9" break="no"/>via ubique locorum in suas tendunt sedes, quia habent ingenitum vigorem
+            <lb ed="#F" n="10"/>ad illum motum, &amp;, tanta feruntur velocitate in maxima, ut in minima, 
+            di<lb ed="#F" n="11" break="no"/>stantia. similitudinem igitur hanc gravium, &amp; levium, qua ferrum ad 
+            ma<lb ed="#F" n="12" break="no"/>gnetem agitur, sic explicat: existimat ex utroque corpore, magnete, scilicet,
+            <lb ed="#F" n="13"/>&amp; ferro effluere sive corpuscula, &amp; atomos, sivè spiritales quasdam, ut 
+            ap<lb ed="#F" n="14" break="no"/>pellat, qualitates, quae per medium aërem propagantur, ac momento 
+            tem<lb ed="#F" n="15" break="no"/>poris multiplicantur. harum beneficio sit, ut ex magnete, &amp; ferro una cum
+            <lb ed="#F" n="16"/>interposito corpore unum quasi integrum corpus coalescat, ex quo ulterius
+            <lb ed="#F" n="17"/>sequitur, ut, quia in quolibet uno corpore partes totius naturae imperium
+            <lb ed="#F" n="18"/>sequentes se disponunt, prout totum illud corpus exigit, situmque sibi totique
+            <lb ed="#F" n="19"/>corpori congruum si non habeant, quaerunt, ferrum ad magnetem 
+            con<lb ed="#F" n="20" break="no"/>fluat; quia in toto illo corpore ex magnete, ac ferro, &amp; ex medio conflato,
+            <lb ed="#F" n="21"/>ferrum, quod partis locum habet, naturalem sibi quaerit coniunctionem cum
+            <lb ed="#F" n="22"/>magnete, ut sic partes in toto debita, ac convenienti ratione 
+            constituan<lb ed="#F" n="23" break="no"/>tur.
+        </p>
+            <p xml:id="p9i7y5-e10866-d1e707">
+               <lb ed="#F" n="24"/>Hac in re illud ego desiderarem, ut luculentius hanc formam per medium
+            <lb ed="#F" n="25"/>diffusam explicaret, atque è suis tenebris erueret; à quo omnes refugiunt.
+            <lb ed="#F" n="26"/>Deinde illud exponat scilicet, cur in isto toto corpore ex magnete, ac ferro,
+            <lb ed="#F" n="27"/>&amp; ex interiecto corpore conflato (esto coalescat in unicum corpus) ferrum
+            <lb ed="#F" n="28"/>non obtineat naturalem situm, dum in ea est distantia à magnete, quid 
+            cau<lb ed="#F" n="29" break="no"/>sae est, cur tanquam pars extra naturae ordinem posita sibi eadem natura viam
+            <lb ed="#F" n="30"/>monstrante, &amp; quasi manu ducente commodiorem exquirat sedem prope
+            <lb ed="#F" n="31"/>magnetem? nulla enim hic rarefactio, nulla condensatio, nulla membrorum
+            <lb ed="#F" n="32"/>distractio, aut convulsio fingi potest, neque à Fracastorio inducitur. Unde
+            <lb ed="#F" n="33"/>ergo est, ut non sint partes in naturali situ? Video, quae possent in hac re addi.
+            <lb ed="#F" n="34"/>Sed nunquid singula commenta prosequi debemus? ipse certè debebat hoc
+            <lb ed="#F" n="35"/>aliunde novisse, nobis'que exponere. Quod si faceret, non abnuerem 
+            for<lb ed="#F" n="36" break="no"/>tasse ex isto capite, sicuti fateor aërem deorsum attrahi, cum nimia in 
+            infe<lb ed="#F" n="37" break="no"/>riore inducta est raritas, ut partem à toto, quo partes natura sibi debitum
+            <lb ed="#F" n="38"/>obtineant ordinem. Licet, &amp; fortasse commodius, posset etiam dici illum
+            <lb ed="#F" n="39"/>motum fieri eo naturae imperio, quo cuncta corpora moventur ad vitandum
+            <lb ed="#F" n="40"/>vacuum; dum rarefactus aër non vult durare in illa raritate, quae in suae 
+            na<lb ed="#F" n="41" break="no"/>turae commodum non cedit, sed se restituit ad pristinam naturam sibi 
+            con<lb ed="#F" n="42" break="no"/>naturalem; at tunc ad locum ab illo per condensationem relictum accurrit
+            <!--126.xml-->
+            <pb ed="#F" n="107"/>
+               <lb ed="#F" n="1"/>vicinus aër, qui motus ad replendum vacuum, si non sit naturalis ex innata
+            <lb ed="#F" n="2"/>gravitate, aut levitate, est verè motus tractionis, quo trahit à condensante se
+            <lb ed="#F" n="3"/>corpore vicinum corpus propter adhaerescentiam, &amp; adglutinationem, quam
+            <lb ed="#F" n="4"/>habent corpora adinvicem ad vitandum vacuum. Quod si etiam per 
+            ac<lb ed="#F" n="5" break="no"/>cursum vicini aëris fiat in illo, vel in proximo aliqua raritas, id fit, quia 
+            ni<lb ed="#F" n="6" break="no"/>mia erat in primo aëre raritas, ut explicatur de vacuo. Sed praeterea quaenam
+            <lb ed="#F" n="7"/>similitudo in magnetem, &amp; ferrum potuit excogitari, qua non maiorem
+            <lb ed="#F" n="8"/>deprehendat quis inter ferrum, &amp; ferrum? Quare igitur vehementius 
+            im<lb ed="#F" n="9" break="no"/>pellente hac similitudine ferramenta in mutuos non ruunt complexus?
+            <lb ed="#F" n="10"/>Quod tamen, vel non apparet, vel curiosissimos exigit inspectores, de quo
+            <lb ed="#F" n="11"/>inferius erit disputandum: Quamvis enim ingeniose sane philosophetur, ibi
+            <lb ed="#F" n="12"/>Fracastorius, dum dicit ex magnete, &amp; ferro profluvium effluere, itaut 
+            ef<lb ed="#F" n="13" break="no"/>fluvium A. pertingat ad B. &amp; B. ad A. &amp; quia effluvia sunt eiusdem speciei
+            <lb ed="#F" n="14"/>cum suis principijs, unde, &amp; species dicuntur, licet sint quasi spirituales unde
+            <lb ed="#F" n="15"/>dicuntur species intentionales, &amp; ita cum sint eiusdem rationis cum suo 
+            prin<lb ed="#F" n="16" break="no"/>cipio fit ex illis quasi intermedijs, &amp; corpore extremo unum corpus in quo,
+            <lb ed="#F" n="17"/>quia extrema sunt densiota, &amp; corpulentiora, &amp; istae duae partes 
+            corpulentio<lb ed="#F" n="18" break="no"/>res in isto toto sunt distantes, &amp; divulse melius in isto toto partes, simul se 
+            ha<lb ed="#F" n="19" break="no"/>bebunt, &amp; convenientius, si densiores illae, &amp; corpulentae sint simul, quam si
+            <lb ed="#F" n="20"/>sint distractę, &amp; ideo moventur, illa extrema; vides haec ingeniose dici satis.
+            <lb ed="#F" n="21"/>verum quaeso, vel ex omni corpore fluunt istae species, vel ex solo magnete, &amp;
+            <lb ed="#F" n="22"/>ferro. Si primum, cur non omnia concurrunt, ut magnetica? Si secundum,
+            <lb ed="#F" n="23"/>cut solum est à magneticis effluvium? deinde si ex ferro fluit hoc effluvium,
+            <lb ed="#F" n="24"/>si ferrum A. &amp; alterum B. utrumque transmittit effluvium, &amp; si unum, cur in hoc
+            <lb ed="#F" n="25"/>toto extrema densiora non confluunt? Si dicat requiri aliquam diversitatem
+            <lb ed="#F" n="26"/>partium, in hoc toto perfecti, &amp; imperfecti, contra est, cur, si duo magnetes
+            <lb ed="#F" n="27"/>emittant ad invicem effluvium, moventur ambo, ac confluunt? &amp; tamen tam
+            <lb ed="#F" n="28"/>effluvium quam extrema sunt ęquę perfecta. ergo falsum est quod requiratur,
+            <lb ed="#F" n="29"/>illa dissimilitudo; hęc enim non est inter duos magnetes, &amp; tamen confluunt, cur
+            <lb ed="#F" n="30"/>ergo non confluunt duo ferramenta? ita'que tria mihi difficultatem faciunt
+            <lb ed="#F" n="31"/>in doctrina Fracastorij. Primo ut explicet quid sit illud effluvium, &amp; qùo
+            <lb ed="#F" n="32"/>prosceminetur. Secundo cur non omnia, sed solum magnetica trahunt se, cum
+            <lb ed="#F" n="33"/>tamen etiam reliqua, nisi omnino gratis fingendo, dicere debeat species illas
+            <lb ed="#F" n="34"/>emittere: Tertio cur ferrum ferrum non trahit, cum magnes magnetem
+            <lb ed="#F" n="35"/>trahat? cur haec duo perfecta confluunt, illa duo imperfecta non 
+            con<lb ed="#F" n="36" break="no"/>fluunt?
+        </p>
+            <p xml:id="p9i7y5-e10866-d1e834">
+               <lb ed="#F" n="37"/>Denique, cum hic auctor contendat non alterari ferrum ex tali mutuo
+            <lb ed="#F" n="38"/>ipsius, ac magnetis occursu, unde est, ut de novo talis sequatur motus? certè
+            <lb ed="#F" n="39"/>spiritalis illa qualitas tantum non habet virium, ut ferrum attollere queat
+            <lb ed="#F" n="40"/>Nec enim spiritalis ista qualitas vere spiritalis est, ut sunt virtutes, &amp; gratię,
+            <lb ed="#F" n="41"/>animae inhaerentes, nec ut facultates substantiarum spiritalium, si ab illis
+            <lb ed="#F" n="42"/>re ipsa distinguantur, sed est qualitas corporea. dicitur autem spiritalis,
+            <!--127.xml-->
+            <pb ed="#F" n="108"/>
+               <lb ed="#F" n="1"/>quia spiritosa est, tenuis, subtilis, &amp; vapida, quae quodammodo videtur 
+            in<lb ed="#F" n="2" break="no"/>duere rationem spiritus; nec aliam volunt eius auctores, quam cum 
+            extre<lb ed="#F" n="3" break="no"/>mis corporibus unicum corpus integrare contendunt. non igitur nego 
+            ab<lb ed="#F" n="4" break="no"/>solute spiritualem facultatem posse ferrum attollere, ut inepte cuidam 
+            ve<lb ed="#F" n="5" break="no"/>nit in mentem suspicari, sed dico istam spiritualem, sive spiritosam, &amp; tenuem
+            <lb ed="#F" n="6"/>qualitatem tantum virium non habere, neque quisquam ausus erit his 
+            spiri<lb ed="#F" n="7" break="no"/>tualibus humeris ferream molem imponere. Quod autem illa 
+            interceden<lb ed="#F" n="8" break="no"/>te fiat unum quid totum ex magnete, ferro, ac medio, non sufficientem 
+            cau<lb ed="#F" n="9" break="no"/>sam novi motus, quantum videre possum, aperire videtur. Sed subtile hoc
+            <lb ed="#F" n="10"/>ingeniosi viri inventum subtilius resecare non laboro, ne inter manus 
+            eva<lb ed="#F" n="11" break="no"/>nescat.
+        </p>
+            <p xml:id="p9i7y5-e10866-d1e878">
+               <lb ed="#F" n="12"/>loannes Baptista Porta litem Marti subiecit, ut victor evadat; cumque
+            <lb ed="#F" n="13"/>se rationibus quaestionem dirimere posse diffideret, ad arma bellaque 
+            deve<lb ed="#F" n="14" break="no"/>nit. putavit hic auctor magnetem mixtum quid esse ex ferro, ac lapide, &amp;
+            <lb ed="#F" n="15"/>vel ferreum lapidem, vel lapidosum ferrum esse, atque hinc fieri, ut inter se
+            <lb ed="#F" n="16"/>duae istae partes perpetuas gerant inimicitias eodem quasi inclusae Theatro,
+            <lb ed="#F" n="17"/>nimirum corpore illo, quod nos magnetem appellamus quae assiduè inter
+            <lb ed="#F" n="18"/>se digladientur. ubi vero ferri partes illae, quae in lapide sunt aliquid ferri in
+            <lb ed="#F" n="19"/>proximo esse senserint, quasi amicum, &amp; socium odorarentur, hinc sibi 
+            au<lb ed="#F" n="20" break="no"/>xiliares copias ex templo evocent, sibi adiungere conentur, ut hosti 
+            insul<lb ed="#F" n="21" break="no"/>tare, vel eius saltem impetum sustinere valeant, etsi aliquando magnes 
+            ma<lb ed="#F" n="22" break="no"/>gnetem attrahit, non attrahit ob lapidem, sed ob ferrum lapidi inclusum.
+            <lb ed="#F" n="23"/>Minus Martialiter sanè agit tunc ferrum. an non sentit se hosti vires 
+            colli<lb ed="#F" n="24" break="no"/>gere, dum eius copias numerosiores reddit, &amp; pro uno sibi suffecto milite,
+            <lb ed="#F" n="25"/>centum circa se stare hostes? Cur non dixit sicuti ferreae partes ferreum 
+            tra<lb ed="#F" n="26" break="no"/>hunt socium, sic magneticas magneticum advocare? Hanc huiusce 
+            sen<lb ed="#F" n="27" break="no"/>tentiae Gilberti habeto censuram, non meam. Nugantis sunt vetulae 
+            deli<lb ed="#F" n="28" break="no"/>ramenta, non magi praestantis inventa. Quas pugnas memorat? quas 
+            civi<lb ed="#F" n="29" break="no"/>les discordias uno in lapide natura illigavit? quandonam classicum 
+            audi<lb ed="#F" n="30" break="no"/>vit? ubi bellicum intonuit? age vero cui ferrum magneticè excitum, ad se
+            <lb ed="#F" n="31"/>alterum ferrum adducit? cur semper illam obseruvat legem ut perpetuo,
+            <lb ed="#F" n="32"/>quam semel tetigit partem, ad se provocet? anne quia ex illa parte semel
+            <lb ed="#F" n="33"/>subsidiariam apervit portam? nec obductum vallum aliunde audet 
+            aperi<lb ed="#F" n="34" break="no"/>re, ne simul hosti aditum faciat? Ad nuces, inquit Satiricus. Reliquum
+            <lb ed="#F" n="35"/>iam est, ut Petri Peregrini, ac demum Gilberti sententiam discutiamus, qui
+            <lb ed="#F" n="36"/>cum melius de magnete philosophati sint, non debent cum reliquis 
+            connu<lb ed="#F" n="37" break="no"/>merati.
+        </p>
+            <p xml:id="p9i7y5-e10866-d1e937">
+            <!--128.xml-->
+               <pb ed="#F" n="109"/>
+               <lb ed="#F" n="1"/>lae 
+            nau<lb ed="#F" n="2" break="no"/>Expenditur opinio Petri Peregrini, de magnetica attractione.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="199"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e21107"> <!-- l3c2 -->
+            <head xml:id="p9i7y5-e21107-Hd1e107">Caput 2</head>
+            <p xml:id="p9i7y5-e21107-d1e109">
+               <pb ed="#F" n="199"/>
+               <lb ed="#F" n="1"/>Unicam tantum habet magnes dimensionem, secundum quam extenditur
+            <lb ed="#F" n="2"/>eius virtus. Cap. II.
+        </p>
+            <p xml:id="p9i7y5-e21107-d1e118">
+               <lb ed="#F" n="3"/>Primum hoc esto fundamentum, cui ferè innitantur reliqua.
+            <lb ed="#F" n="4"/>sume quodlibet
+            <lb ed="#F" n="5"/>magnetis frustum
+            <lb ed="#F" n="6"/>A. B. dico 
+            virtu<lb ed="#F" n="7" break="no"/>tem illius secun
+            <lb ed="#F" n="8"/>dum unam tantum
+            <lb ed="#F" n="9"/>dimensionem excurrere ab A. ad
+            <lb ed="#F" n="10"/>B. &amp; quod ex eo consequitur,
+            <lb ed="#F" n="11"/>unam tantum esse operandi rationem,
+            <lb ed="#F" n="12"/>Probatur hoc, quia, ut postea
+            <lb ed="#F" n="13"/>dicam, si ferrum oblongum 
+            su<lb ed="#F" n="14" break="no"/>pra magnetem suspendatur, ut
+            <lb ed="#F" n="15"/>acus C. D. semper determinata
+            <lb ed="#F" n="16"/>ratione se collocabit, &amp; suam
+            <lb ed="#F" n="17"/>longitudinem componet cum
+            <lb ed="#F" n="18"/>longitudine A. B. nec unqum
+            <lb ed="#F" n="19"/>aut diversam quaeret positionem,
+            <lb ed="#F" n="20"/>aut, si tu diversa colloces 
+            ratio<lb ed="#F" n="21" break="no"/>ne, conquiescet, semper, quoties
+            <lb ed="#F" n="22"/>intra orbem virtutis huius lapidis constituetur acus, toties se, quantum fieri
+            <lb ed="#F" n="23"/>poterit, ad istam longitudinem conformabit.
+         <lb ed="#F" n="42" type="fixed=199"/>
+               <figure xml:id="p9i7y5-e21107-Fd1e168">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869942/925,641,1044,1191/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375658-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e21107-d1e186">
+               <lb ed="#F" n="24" type="fixed=199"/>Deinde haec eadem longitudo solo lapide comprobatur: si enim libretur
+            <lb ed="#F" n="25"/>ex filo lapis, ac cymbula impositus expediatur gravitatis compedibus, &amp;
+            <lb ed="#F" n="26"/>naturae auram libero excipere velorum sinu permittatur, semper, si 
+            conve<lb ed="#F" n="27" break="no"/>nienti ratione collocetur in cymbula, longitudinem A. B. in meridiano ma
+            <lb ed="#F" n="28"/>gnetico collocabit, &amp; hunc perpetuo servabit tenorem; alias verò sui 
+            quas<lb ed="#F" n="29" break="no"/>cunque partes incerta omnino ratione, &amp;, prout se se sors obiecerit, 
+            permit<lb ed="#F" n="30" break="no"/>tet habere locorum differentias. Aliqua ergo peculiaris ratio est in hac 
+            la<lb ed="#F" n="31" break="no"/>pidis dimensione, quae nusquam in incerta aliarum partium fluctuatione
+            <lb ed="#F" n="32"/>variatur, si enim aliquid peculiare non haberet hęc dimensio, cur semper
+            <lb ed="#F" n="33"/>destinata ratione hanc dirigeret natura; nihil de alijs solicita? hanc ego 
+            di<lb ed="#F" n="34" break="no"/>co unicam magneticae virtutis dimensionem, &amp; naturalem eius 
+            longitu<lb ed="#F" n="35" break="no"/>dinem.
+        </p>
+            <p xml:id="p9i7y5-e21107-d1e216">
+               <lb ed="#F" n="36"/>Huius magneticae longitudinis ea sit ratio, quod, cum illa sit huius 
+            lapi<lb ed="#F" n="37" break="no"/>dis natura, ut cum tota tellure familiari cognatione iungatur, &amp; praecipuo
+            <lb ed="#F" n="38"/>quodam nexù cum illa copuletur; quod ex eo constat; quod etiam tellus ipsa
+            <lb ed="#F" n="39"/>suam in ferrum magneticam immittere potest qualitatem, ut suo loco dictum
+            <lb ed="#F" n="40"/>est, et iam inculcabitur, &amp; magneti consimillimas habeat operationes, hinc
+            <lb ed="#F" n="41"/>fit, ut natura ipsa dirigente velit peculiari semper ratione ad tellurem ma¬
+            <!--218.xml-->
+
+         <!--219.xml-->
+         <pb ed="#F" n="200"/>
+               <lb ed="#F" n="1"/>gnes conformare se, ut ab illa semper eodem modo afficiatur, &amp; notas trahat
+            <lb ed="#F" n="2"/>virium familiaritates. Quia autem dispositio ista est in ordine ad telluris
+            <lb ed="#F" n="3"/>polos, hanc etiam lapidis longitudinem polos terminare dicimus. sicut 
+            er<lb ed="#F" n="4" break="no"/>go arbores, &amp; virgulta; quia ex telluris, &amp; Cęli foecundo coniugio 
+            procre<lb ed="#F" n="5" break="no"/>antur, &amp; ex istis vivificos ttahunt succos, ideo semper determinata ratione,
+            <lb ed="#F" n="6"/>&amp; determinatam partem in Terris figunt, &amp; oppositam Coelo obvertunt,
+            <lb ed="#F" n="7"/>ut commodè se se possint tueri, &amp; naturae munera custodire, nec unquam
+            <lb ed="#F" n="8"/>innata vi dirigente arbor ad cęlum radices dirigeret, aut verticis flagella
+            <lb ed="#F" n="9"/>terrae committeret, neque ad alias, aut alias partes destinaret, sed semper 
+            to<lb ed="#F" n="10" break="no"/>ta arbor, &amp; truncus ipse sic disponitur, ut destinata parte Coelum respiciat,
+            <lb ed="#F" n="11"/>&amp; hanc naturalem lignorum longitudinem dicimus. sic etiam ex eo, quod
+            <lb ed="#F" n="12"/>magnes se semper determinata ratione telluri conformat, ut convenienti
+            <lb ed="#F" n="13"/>ratione telluris propria alteratione perficiatur, &amp; foveatur, sicut lignum 
+            il<lb ed="#F" n="14" break="no"/>lo modo dispositum à tellure nutritur, &amp; fovetur. ideo hanc propriam, &amp;
+            <lb ed="#F" n="15"/>solam lapidis longitudinem appellamus, &amp; hac solum ratione eius 
+            excur<lb ed="#F" n="16" break="no"/>rere virtutem pronunciamus.
+        </p>
+            <p xml:id="p9i7y5-e21107-d1e273">
+               <lb ed="#F" n="17"/>Cur autem se potius Magnes ad meridianum disponat, &amp; cur potius 
+            po<lb ed="#F" n="18" break="no"/>los spectet quam aliam in universo plagam, illud affero pro ratione; quod à
+            <lb ed="#F" n="19"/>toto telluris globo magnes disponitur, &amp; tota conspirante mole dirigitur,
+            <lb ed="#F" n="20"/>non ab insigni aliqua eius parte, sed totus terrestris globus coagmentatus
+            <lb ed="#F" n="21"/>est per ordinem ad polos, ut alibi probatum est, tum ex ratione, tum ex 
+            ex<lb ed="#F" n="22" break="no"/>perientia. Si igitur tota promovente tellure dirigitur, vel potius magnes 
+            ip<lb ed="#F" n="23" break="no"/>se ad totam se molem studet accommodare, ut eius actionem excipiat sibi
+            <lb ed="#F" n="24"/>convenienti ratione, non debet se alio modo, quam polari, seu meridionali
+            <lb ed="#F" n="25"/>disponere: si enim exciperet actionem alicuius paralleli, qui peculiari aliqua
+            <lb ed="#F" n="26"/>ratione afficiatur ab aliqua stella, quae circa illud peculiari ratione 
+            configu<lb ed="#F" n="27" break="no"/>rata rotetur, ad illum se converteret parallelum; at vero quia totius globi
+            <lb ed="#F" n="28"/>vim sequitur, ideo se ad meridianum conformat, &amp; ad polos tanquam ad
+            <lb ed="#F" n="29"/>universi communes, &amp; solos terminos. Et haec est (ut profundè 
+            contemplan<lb ed="#F" n="30" break="no"/>ti rem apparebit) ratio à priori magneticae directionis: quia nimirum ex una
+            <lb ed="#F" n="31"/>parte totus terrestris globus qualitatem habet, qua disponitur secundum po
+            <lb ed="#F" n="32"/>sitionem polarem, ut praehabitam dispositionem ab influentijs astrorum, &amp;
+            <lb ed="#F" n="33"/>rotatione coelorum circa se possit conservare, &amp; hęc qualitas terrae per 
+            ordi<lb ed="#F" n="34" break="no"/>nem ad conservandam terram in tali sitù non debet excurrere, seu esse 
+            situa<lb ed="#F" n="35" break="no"/>tiva, nisi secundum longitudinem meridianam. ideo, cum magnes maximam
+            <lb ed="#F" n="36"/>in hoc habeat cum terreno globo affinitatem, non nisi unicam polarem 
+            de<lb ed="#F" n="37" break="no"/>bet longitudinem obtinere.
+        </p>
+            <p xml:id="p9i7y5-e21107-d1e321">
+               <lb ed="#F" n="38"/>Verum ex collatione magnetis cum ligno, &amp; eius directione virtutis cum
+            <lb ed="#F" n="39"/>stipitum venis, quaedam suboritur dubitatio, an, sicuti ex ligno, ita venae, &amp;
+            <lb ed="#F" n="40"/>pori determinata quadam ratione secundum longitudinem protenduntur,
+            <lb ed="#F" n="41"/>secundem quam &amp; ligna finduntur, ut nihilominus sint etiam frequentes
+            <lb ed="#F" n="42"/>modi, qui istum pororum cursum interrumpant, &amp; cogentes illos à suo cur¬
+            <!--220.xml-->
+            <pb ed="#F" n="201"/>
+               <lb ed="#F" n="1"/>su deflectere in transversum agant, imo &amp; aliquando retrorsum pellant;
+            <lb ed="#F" n="2"/>oritur, inquam, dubitatio, an hoc etiam in magnete contingat, ut suos ipse
+            <lb ed="#F" n="3"/>quoque veluti nodos habeat, qui naturalem illum virtutis cursum, quo 
+            se<lb ed="#F" n="4" break="no"/>cundum unam dimensionem protendi diximus, interrumpant, &amp; ad alias
+            <lb ed="#F" n="5"/>atque alias partes deflectere cogant, neque semper in uno lapide recta via to
+            <lb ed="#F" n="6"/>ta verticitas ab extremo ad extremum protendatur, sicut nec semper in 
+            li<lb ed="#F" n="7" break="no"/>gno pori recta excurrunt, sed aliquando occurrentibus nodis 
+            interci<lb ed="#F" n="8" break="no"/>piuntur.
+        </p>
+            <p xml:id="p9i7y5-e21107-d1e356">
+               <lb ed="#F" n="9"/>Fuere nonnulli, qui in eam venere sententiam, ut putarint esse etiam suos
+            <lb ed="#F" n="10"/>in magnete nodos aliquando, ut in aliquo magnetis frusto virtus non recta
+            <lb ed="#F" n="11"/>via extendatur, sed in certis, &amp; flexuosis itineribus propagetur; immo vir
+            <lb ed="#F" n="12"/>sane eruditus retulit mihi, se huiusmodi magneticum monstrum 
+            aliquan<lb ed="#F" n="13" break="no"/>do spectasse, &amp; vidisse lapidem, in quo huiusmodi nodi deprehendebantur
+            <lb ed="#F" n="14"/>appositione versorij, quod non semper eodem modo, &amp; eadem via 
+            diri<lb ed="#F" n="15" break="no"/>geretur.
+        </p>
+            <p xml:id="p9i7y5-e21107-d1e374">
+               <lb ed="#F" n="16"/>At vero meo malo, vel potius meo bono longè maximo in magnetica 
+            phi<lb ed="#F" n="17" break="no"/>losophia exercitatum illum esse debere cognovi non mediocriter, qui 
+            hu<lb ed="#F" n="18" break="no"/>iusmodi lapidis experimenta sumere velit; praesertim si nova aliqua 
+            obser<lb ed="#F" n="19" break="no"/>vatione novum aliquod velit pronunciatum stabilire. Nihil est facilius
+            <lb ed="#F" n="20"/>quam aliquo accidente decipi, &amp; ad aliquid non advertere quod contigat
+            <lb ed="#F" n="21"/>tunc aliquo casu connecti cum re, quo fiat, ut putetur ex ipsa lapidis natura
+            <lb ed="#F" n="22"/>profluere, quod omnino illi per accidens copulatur. Quam multa saepè
+            <lb ed="#F" n="23"/>huiusmodi legi apud doctos, &amp; cordatos viros? quam multa mihi fuerunt
+            <lb ed="#F" n="24"/>saepè narrata, dum sciunt multi me huic studio operam dare? quam longè
+            <lb ed="#F" n="25"/>plura in vulgus quotidie sparguntur vanissima? quibus tamen fabulis sem
+            <lb ed="#F" n="26"/>per locum dedit aliquod male sumptum experimentum. vix enim quidquam
+            <lb ed="#F" n="27"/>gratis omnino fingit vel plebeius philosophus. ideo nihil admittere 
+            decre<lb ed="#F" n="28" break="no"/>vi, quod aut ipse non sim expertus, aut ex experimentis à me factis proximè
+            <lb ed="#F" n="29"/>non deducatur. sicut enim experimentum unica ferè est philosophi 
+            discen<lb ed="#F" n="30" break="no"/>di ianua, ita non omnium est istam aperire.
+        </p>
+            <p xml:id="p9i7y5-e21107-d1e409">
+               <lb ed="#F" n="31"/>Pace igitur aliorum dictum sit, non admitto dari magnetem, in quo 
+            vir<lb ed="#F" n="32" break="no"/>tus omnino recta non procedat, sed quasi lassata diverticula quaerat: neque
+            <lb ed="#F" n="33"/>enim sicut in ligno coguntur pori declinare à recto cursu, ut ad ramos in
+            <lb ed="#F" n="34"/>transversum actos vitalem transmittant succum, ita in magnete nodi sunt 
+            fin<lb ed="#F" n="35" break="no"/>gendi, cum magnes corpus sit homogeneum, quod totum à tota tellure 
+            di<lb ed="#F" n="36" break="no"/>sponitur, nec vitam possidet, aut ad alias sui partes vigorem transmittit, sed
+            <lb ed="#F" n="37"/>totum à toto telluris globo dependet. Nec quisquam mihi tales in 
+            magne<lb ed="#F" n="38" break="no"/>te nodos persuadebit, nisi illos per me mihi meis experimentis a me scilicet
+            <lb ed="#F" n="39"/>factis invenire permittat, nec sibi iniuriae vertat, si oculatas cum Comico
+            <lb ed="#F" n="40"/>me habere manus profiteor, quae credunt, quod vident; cum praesertim tota
+            <lb ed="#F" n="41"/>magnetis natura quam hactenus experimentis potui deprehendere istis 
+            re<lb ed="#F" n="42" break="no"/>pugnet nodis.
+            <!--221.xml-->
+            <pb ed="#F" n="202"/>
+               <lb ed="#F" n="1"/>Ne tamen omnino negem, quod ipsi profitentur se vidisse, &amp; nihil, 
+            inur<lb ed="#F" n="2" break="no"/>banè nimis, videar illis velle concedere; si in frustro magnetis dicant se 
+            su<lb ed="#F" n="3" break="no"/>perposito versorio in certam varijs in locis invenisse directionem, admitto
+            <lb ed="#F" n="4"/>quod dicunt, imo etiam ipse id sum expertus, &amp; alij id etiam censuere. Ut si
+            <lb ed="#F" n="5"/>sit magnes A. B. C. D. si ponas versorium in B. dirigitur ita, ut recta ferè 
+            di<lb ed="#F" n="6" break="no"/>scurrat ab A. ad B. si verò
+            <lb ed="#F" n="7"/>versorium promoveas ad
+            <lb ed="#F" n="8"/>C. non omnino 
+            collima<lb ed="#F" n="9" break="no"/>bit ad D. sed non nihil 
+            de<lb ed="#F" n="10" break="no"/>flectet. Verum hoc non
+            <lb ed="#F" n="11"/>ex eo nascitur, quia 
+            dire<lb ed="#F" n="12" break="no"/>ctio virtutis varietur, aut
+            <lb ed="#F" n="13"/>sint nodi, sed ex alia 
+            ratio<lb ed="#F" n="14" break="no"/>ne, de qua infra erit 
+            ser<lb ed="#F" n="15" break="no"/>mon: quia nimirum lapis
+            <lb ed="#F" n="16"/>ille non est totus homogeneus, neque aequalis perfectionis in singulis 
+            par<lb ed="#F" n="17" break="no"/>tibus; ut videas quam facilè sit in experimentis labi. Unica ergo in toto 
+            la<lb ed="#F" n="18" break="no"/>pide est directionis virtus, quod ab initio propositum fuerat, &amp; cuius ratio
+            <lb ed="#F" n="19"/>inquirebatur.
+         <lb ed="#F" n="41" type="fixed=202"/>
+               <figure xml:id="p9i7y5-e21107-Fd1e485">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869945/1267,834,1052,550/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A C B D</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375663-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

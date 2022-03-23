@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 11</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 11</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="38"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-de4421"> <!-- l1c11 -->
+            <head xml:id="p9i7y5-de4421-Hd1e107">Caput 11</head>
+            <p xml:id="p9i7y5-de4421-d1e109">
+               <lb ed="#F" n="23"/>Quam convenienter hic magneticus motor in universo sit positus.
+            
+            <lb ed="#F" n="24"/>Caput XI.
+        </p>
+            <p xml:id="p9i7y5-de4421-d1e116">
+               <lb ed="#F" n="25"/>Sentio, ut oratoris verbis utar, quam scopuloso difficili'que in 
+            lo<lb ed="#F" n="26" break="no"/>co verser, &amp; quam difficile sit, in hisce praesertim rebus, eas 
+            af<lb ed="#F" n="27" break="no"/>ferre rationes, quae omnibus satisfaciant: sunt enim diversa
+            <lb ed="#F" n="28"/>hominum ingenia, et, ut ait Aristoteles, aliqui volunt omnia
+            <lb ed="#F" n="29"/>mathematicè demonstrari, aliqui dignum ducunt, si testis 
+            ali<lb ed="#F" n="30" break="no"/>quis Poeta producatur. Verum ex eodem etiam didici istorum non 
+            maxi<lb ed="#F" n="31" break="no"/>mam habendam esse rationem; cum sint ipso iudice indisciplinati ingenij,
+            <lb ed="#F" n="32"/>&amp; scientiam quaerantante modum sciendi, hoc est ante modum 
+            proceden<lb ed="#F" n="33" break="no"/>di illius scientiae: illud enim intelligit Aristoteles per modum sciendi, non
+            <lb ed="#F" n="34"/>Logicam, ut aliqui opinantur. si quis igitur quae subduntur, legerit, non ut
+            <lb ed="#F" n="35"/>mathematicas demonstrationes expendat. Placuit autem mihi semper ad
+            <lb ed="#F" n="36"/>huiusmodi rerum causam indagandam illud Divi Augustini sapientissimum
+            <lb ed="#F" n="37"/>dictum; quidquid tibi vera ratione melius occurrit; scias fecisse Deum, 
+            tan<lb ed="#F" n="38" break="no"/>quam bonorum omnium conditorem. Cum igitur constet ex ijs, quae 
+            di<lb ed="#F" n="39" break="no"/>cam, maxime consentaneum esse dari in rerum natura huiusmodi 
+            princi<lb ed="#F" n="40" break="no"/>pium motivum, licet etiam, ex posita ab Augustino regula, colligere de fa¬
+            <!--57.xml-->
+            <pb ed="#F" n="38"/>
+               <lb ed="#F" n="1"/>cto hanc virtutem in magnete dari: cum praecipuè iam constet à 
+            posterio<lb ed="#F" n="2" break="no"/>ri, &amp; experientia hanc virtutem dari, seu videatur eius effectus.
+        </p>
+            <p xml:id="p9i7y5-de4421-d1e162">
+               <lb ed="#F" n="3"/>Prima autem convenientia, &amp; necessitas huius motoris esto ex terminis,
+            <lb ed="#F" n="4"/>ad quos sublunaria moventur, quae ordinem quendam dicunt ad 
+            univer<lb ed="#F" n="5" break="no"/>sum: in hac igitur universi mole, qua Mundus constat, illas solum partes
+            <lb ed="#F" n="6"/>natura designavit, centrum, circumferrentiam, polos: nec enim alias partes
+            <lb ed="#F" n="7"/>naturam in universo insignes fecisse cognosces. cum igitur istae fixae sint 
+            so<lb ed="#F" n="8" break="no"/>tum, &amp; determinatae partes immutabiles, &amp; ubique gentium eędem illarum
+            <lb ed="#F" n="9"/>terum, quae non spontaneum, ut animalia, sed determinatum, 
+            constantem<lb ed="#F" n="10" break="no"/>que habere debent motum, hae solae terminos optimè praefinire debuerunt:
+            <lb ed="#F" n="11"/>Cum enim motus, ut qui provenit à natura, quae unicum, &amp; determinatum
+            <lb ed="#F" n="12"/>est principium, unicus, &amp; determinatus esse debeat, pro termino illius 
+            assi<lb ed="#F" n="13" break="no"/>gnandae erunt illae partes, quae ubique, &amp; respectu omnium determinatae
+            <lb ed="#F" n="14"/>sunt. Cumque haec sint tres, centrum, superficies concava, &amp; poli, videamus
+            <lb ed="#F" n="15"/>autem aliqua ab intrinseco moveri principio, quorum motus determinatur
+            <lb ed="#F" n="16"/>à centro, ut sunt gravia, alia quibus motus determinatur à superficie 
+            conca<lb ed="#F" n="17" break="no"/>va, ut sunt levia, consentaneum etiam videtur dari debere aliquid, quod ex
+            <lb ed="#F" n="18"/>innata vi ita moveatur, ut eius motus determinetur polis per se, nisi ex 
+            ac<lb ed="#F" n="19" break="no"/>cidenti paululum deviare cogatur, &amp; axe Mundi, quam reliquam partem
+            <lb ed="#F" n="20"/>natura designante determinatam habemus in universo. huiusmodi autem
+            <lb ed="#F" n="21"/>dico esse formam magneticam, quae ita in polos dirigitur, sicut gravia ad
+            <lb ed="#F" n="22"/>centrum fluunt, levia refluunt ad superficiem concavam, ubi quietis locum
+            <lb ed="#F" n="23"/>obtineant.
+        </p>
+            <p xml:id="p9i7y5-de4421-d1e211">
+               <lb ed="#F" n="24"/>Secundo probatur necessitas huius magnetici motoris ex numero 
+            mo<lb ed="#F" n="25" break="no"/>tuum simplicium, qui possunt in natura dari, quam probationem ex 
+            Peri<lb ed="#F" n="26" break="no"/>pateticorum schola desumo; in qua procerto habetur dari ignem 
+            elemen<lb ed="#F" n="27" break="no"/>tarem sua in sphaera; nec plurimos habebo repugnantes; istis nunc 
+            magne<lb ed="#F" n="28" break="no"/>ticum suadeo motorem: quo etiam utitur argumento Aristoteles in libris
+            <lb ed="#F" n="29"/>de Coelo ad corporum simplicium investigationem. Quot enim simplices
+            <lb ed="#F" n="30"/>motus reperies, tot corpora dari necesse dicas, quibus motus ille conveniat,
+            <lb ed="#F" n="31"/>&amp; quę talium locorum distinctione, seù regno distinguantur. cum igitur 
+            de<lb ed="#F" n="32" break="no"/>tur motus perfectè, &amp; simpliciter à centro recedendi, &amp; alius motus huic op
+            <lb ed="#F" n="33"/>positus simpliciter accedendi ad centrum, dantur etiam duo corpora, 
+            qui<lb ed="#F" n="34" break="no"/>bus duo isti motus conveniant (Peripateticorum more loquor) ignis, cui
+            <lb ed="#F" n="35"/>postremus motus adscribitur recedendi simpliciter à centro, &amp; terra, cui
+            <lb ed="#F" n="36"/>convenit alter motus simpliciter accedendi ad centrum. Praeterea, cum
+            <lb ed="#F" n="37"/>possint dari duo alij motus simplices medij inter hos extremos, quorum 
+            al<lb ed="#F" n="38" break="no"/>ter est non perfectè, &amp; simpliciter, sed secundum quid à centio recedere, 
+            al<lb ed="#F" n="39" break="no"/>ter non simpliciter, sed secundum quid ad centrum accedere, alia etiam duo
+            <lb ed="#F" n="40"/>dari corpora conficimus, quae hos sibi vindicant motus, aerem, qui recedit
+            <lb ed="#F" n="41"/>à centro non simpliciter, &amp; aquam, quae ad centrum accedit non 
+            simplici<lb ed="#F" n="42" break="no"/>ter. Cum vero detur quintus motus, qui simpliciter, &amp; perfectè est circa
+            <!--58.xml-->
+            <pb ed="#F" n="39"/>
+               <lb ed="#F" n="1"/>centrum nullo termino, nulla quiete, debuit etiam dari corpus, cui talis
+            <lb ed="#F" n="2"/>motus aptaretur, cuiusmodi Caelum dixerunt Peripatetici.
+        </p>
+            <p xml:id="p9i7y5-de4421-d1e263">
+               <lb ed="#F" n="3"/>Sicut igitur in reliquis motibus datur motus simpliciter, &amp; motus 
+            secun<lb ed="#F" n="4" break="no"/>dum quid; ita motus simpliciter circa centrum debet habere motum 
+            secun<lb ed="#F" n="5" break="no"/>dum quid circa centrum: natura enim nunquam perfectum molitur, quin
+            <lb ed="#F" n="6"/>in imperfecto praeludat, sicuti datur corpus, quod simpliciter circa centrum
+            <lb ed="#F" n="7"/>movetur, ita etiam debet dari quod moveatur secundum quid; idest, non
+            <lb ed="#F" n="8"/>quod absolutè, &amp; simpliciter circa centrum, nullum quietis punctum 
+            quae<lb ed="#F" n="9" break="no"/>rens moveatur, sed imperfectè, ita circulariter volvatur, ut in aliquo puncto
+            <lb ed="#F" n="10"/>conquiescat, &amp; tale corpus magnetem esse affirmo, qui i polos circulari
+            <lb ed="#F" n="11"/>motu suas convertit partes, &amp; in illis conquiescit: haec tamen clarius consta—
+            <lb ed="#F" n="12"/>bunt ex infra dicendis de vi magnetica terrae. interim probatur, quia si facies,
+            <lb ed="#F" n="13"/>quam natura in septentrionem dirigit, austro obvertas, aut australem 
+            bo<lb ed="#F" n="14" break="no"/>reae, videbis faciem illam ab austro in septentrionem circulari motu se 
+            con<lb ed="#F" n="15" break="no"/>vertere, &amp; illam faciem semicirculum complere, dum alia facies suum 
+            ab<lb ed="#F" n="16" break="no"/>solvit semicirculum: qui motus circularis secundum quid dici potest à 
+            na<lb ed="#F" n="17" break="no"/>tura inspiratus, circularis quidem, quia verè in circulum agitur magnes,
+            <lb ed="#F" n="18"/>estò tantum motu recto promoveretur virtus ad polum, si non praepediretur
+            <lb ed="#F" n="19"/>gravitate, secundum quid autem, quia singulae facies unicum tantum 
+            semi<lb ed="#F" n="20" break="no"/>circulum absoluunt, &amp; eo absoluto conquiescunt, nec ulterius tendunt, nec
+            <lb ed="#F" n="21"/>motum perpetuant, quod rei corruptibili non convenit; sed ubi ad 
+            deter<lb ed="#F" n="22" break="no"/>minata pervenerint puncta, conquiescunt. Et hic etiam illud observa, quod,
+            <lb ed="#F" n="23"/>quia non ad unum simpliciter erat terminum huiusmodi motus, sed ad
+            <lb ed="#F" n="24"/>duos, ea ratione, qua fieri potest, ut unicus motus sit ad duos terminos, 
+            fa<lb ed="#F" n="25" break="no"/>ctum etiam esse, ut illud corpus, cui talis motus debebatur, simplex non 
+            es<lb ed="#F" n="26" break="no"/>set, cuiusmodi sunt alia corpora, quibus alij simplices motus, qui ad unicum
+            <lb ed="#F" n="27"/>sunt terminum, debentur; licet futurum videam, ut hoc Gllberto non pla
+            <lb ed="#F" n="28"/>ceat, qui magnetem terram putat, &amp; simplicem substantiam.
+        </p>
+            <p xml:id="p9i7y5-de4421-d1e322">
+               <lb ed="#F" n="29"/>Tertio suadetur necessitas magnetici motoris ex sufficienti 
+            instrumen<lb ed="#F" n="30" break="no"/>torum partitione, quibus natura utitur ad motus efficiendos: sunt enim 
+            pri<lb ed="#F" n="31" break="no"/>mum aliqua instrumenta eiusdem rationis in toto corpore, &amp; unius 
+            simpli<lb ed="#F" n="32" break="no"/>cis formae, quae ita unitatem requirunt, ut universa omnino aequaliter 
+            oc<lb ed="#F" n="33" break="no"/>cupent corpora, cuius sunt instrumentum, &amp; in singulis sui corporis 
+            parti<lb ed="#F" n="34" break="no"/>culis aequaliter dominentur secundum totam suam vim; ac proinde 
+            corpo<lb ed="#F" n="35" break="no"/>ra requirunt, quae vocantur similaria, homogenea, &amp; tota eiusdem rationis,
+            <lb ed="#F" n="36"/>quantum ad hoc spectat. quod nimirum, si sit in corpore diversitas, illa 
+            di<lb ed="#F" n="37" break="no"/>versitas per accidens se habeat ad tale instrumentm motus. Sunt autem
+            <lb ed="#F" n="38"/>haec motus instrumenta illorum corporum, quae ad unicum sunt 
+            determi<lb ed="#F" n="39" break="no"/>nata motum, unicumque terminum respiciunt. talia dicas esse illa 
+            instru<lb ed="#F" n="40" break="no"/>menta motus, quae obtinent elementa, atque adeo mixta, quatenus à prę
+            do<lb ed="#F" n="41" break="no"/>minante moventur, quae unius simplicis formae sunt, ęqualiter in omni sui
+            <lb ed="#F" n="42"/>mobilis parte dispersa. Alia praeterea sunt instrumenta diversa, &amp; diffor¬
+            <!--59.xml-->
+            <pb ed="#F" n="40"/>
+               <lb ed="#F" n="1"/>mia, &amp; suis quodammodo in partibus dissimilia, quę diversas obtinent 
+            par<lb ed="#F" n="2" break="no"/>tes illius corporis, cuius sunt instrumenta motus, easque requirunt longe
+            <lb ed="#F" n="3"/>inter se dissimiles, neque ęqualiter. in qualibet exigua parte reperiuntur 
+            se<lb ed="#F" n="4" break="no"/>cundum totam suam virtutem, ac proinde haec instrumenta diversa dici
+            <lb ed="#F" n="5"/>possunt, &amp; multiformia, ut sunt pariter corpora, quibus deserviunt, quae non
+            <lb ed="#F" n="6"/>ad unicum solum terminum natura impellente moventur, sed ad plures, 
+            at<lb ed="#F" n="7" break="no"/>que huiusmodi est organica facultas motiva animalium, qua ad omnes 
+            lo<lb ed="#F" n="8" break="no"/>corum differentias sese agunt.
+        </p>
+            <p xml:id="p9i7y5-de4421-d1e377">
+               <lb ed="#F" n="9"/>Cum igitur dentur hae duae instrumentorum differentiae in natura quasi
+            <lb ed="#F" n="10"/>extremę, quarum altera illis deservit corporibus, quorum motus est ad 
+            uni<lb ed="#F" n="11" break="no"/>cum terminum, altera illis, quorum motus omnes respicit terminos, &amp; 
+            pri<lb ed="#F" n="12" break="no"/>ma instrumenta unica sint, &amp; uniformia, aequaliter in toto, altera 
+            multipli<lb ed="#F" n="13" break="no"/>cia, &amp; multiformia, non tota in singulis partibus, necesse etiam fuit dari 
+            ter<lb ed="#F" n="14" break="no"/>tium instrumentorum genus, quod illi deserviret corpori, cuius motus duos
+            <lb ed="#F" n="15"/>respicit terminos, ut omnes motuum possibiles differentiae propria habeant
+            <lb ed="#F" n="16"/>instrumenta; quod instrumentorum genus medium sit, ac proinde partici.
+            <lb ed="#F" n="17"/>pet de utroque extremo, sitque, &amp; unicum, &amp; multiforme; unicum, quia 
+            aequa<lb ed="#F" n="18" break="no"/>liter sit in toto corpore, &amp; in singulis eius partibus secundum totam suam
+            <lb ed="#F" n="19"/>virtutem; multiforme, quia aliquam habeat distinctionem virtutis, &amp; 
+            posi<lb ed="#F" n="20" break="no"/>tionis, qua multiplici virtute mobile ad plures dirigatur terminos, &amp; tale
+            <lb ed="#F" n="21"/>contendo esse magnetici motus instrumentum: quod quia unicum est, non
+            <lb ed="#F" n="22"/>heterogeneas exigit corporis partes, sed in singulis totum, &amp; secundum 
+            uni<lb ed="#F" n="23" break="no"/>versam suam virtutem reperitur. Cum verò etiam multiplex sit, facies 
+            con<lb ed="#F" n="24" break="no"/>stituit diversas, mobile'que ad plures dirigit terminos.
+        </p>
+            <p xml:id="p9i7y5-de4421-d1e414">
+               <lb ed="#F" n="25"/>Quarto denique adstruitur eadem magnetica motiva virtus ex varijs 
+            qua<lb ed="#F" n="26" break="no"/>litatum generibus, quae in natura ad absolutam, &amp; cumulatam rerum 
+            per<lb ed="#F" n="27" break="no"/>fectionem requituntur. Eas enim qualitatum formas in universo 
+            contem<lb ed="#F" n="28" break="no"/>plamur, ut aliae sint motrices, sed agendi, &amp; alia alterandi per se vim non 
+            ha<lb ed="#F" n="29" break="no"/>beant certam, &amp; conspicuam; cuius modi sunt instrumenta motus 
+            elemen<lb ed="#F" n="30" break="no"/>torum, gravitas, &amp; levitas; si tamen nullo contradicente has physicas esse
+            <lb ed="#F" n="31"/>qualitates tuto possumus constituere; aliae immutent corpora, alterent'que,
+            <lb ed="#F" n="32"/>sed non moveant per se localiter nec incitent corpus locali motu, 
+            cuiusmo<lb ed="#F" n="33" break="no"/>di sunt primae quatuor qualitates, &amp; secundatum plurimae; aliae sunt, quae
+            <lb ed="#F" n="34"/>nec vim movendi localiter corpora obtinent, nec etiam ullam agendi, aut
+            <lb ed="#F" n="35"/>alterandi vim possident, ut diaphaneitas, opacitas, densitas, raritas, &amp; alia
+            <lb ed="#F" n="36"/>huiusmodi.
+        </p>
+            <p xml:id="p9i7y5-de4421-d1e443">
+               <lb ed="#F" n="37"/>Cum igitur dentur tres dictae qualitatum differentiae, ut aliae sint motrices
+            <lb ed="#F" n="38"/>tantum, alię tantum alteratrices, aliae, nec motrices, nec alteratrices; cur non
+            <lb ed="#F" n="39"/>detur etiam quarta qualitatum differentia, earum, quae motrices simul sint,
+            <lb ed="#F" n="40"/>&amp; alteratrices per se? hanc certè desiderari ad universi perfectionem 
+            dice<lb ed="#F" n="41" break="no"/>remus, nisi magnetica qualitas sese offerret, qua, &amp; moventur corpora 
+            ma<lb ed="#F" n="42" break="no"/>gnetica, tanquam à proprio motus instrumento, dum diriguntur ad polos,
+            <!--60.xml-->
+            <pb ed="#F" n="41"/>
+               <lb ed="#F" n="1"/>&amp; ad meridianum conformantur, sed &amp; circuniecta corpora, si capacia sint,
+            <lb ed="#F" n="2"/>ac proportionata, alterantur alteratione perfectiva, ita ut eadem 
+            magneti<lb ed="#F" n="3" break="no"/>ca qualitas in illa sese ingerat.
+        </p>
+            <p xml:id="p9i7y5-de4421-d1e470">
+               <lb ed="#F" n="4"/>Quare universam huius capitis, &amp; praecedentis doctrinam in unum 
+            col<lb ed="#F" n="5" break="no"/>ligendo, dico, magnetem in polos dirigi interno motus principio, nimirum
+            <lb ed="#F" n="6"/>magnetis forma, &amp; natura, quae neque ad omnes locorum differentias sese
+            <lb ed="#F" n="7"/>potest movere, ut anima, neque ad unicum simpliciter terminum dirigitur,
+            <lb ed="#F" n="8"/>ut elementa, sed in medio consistit, &amp; medium quodammodo obtinet 
+            per<lb ed="#F" n="9" break="no"/>fectionis gradum, &amp; hoc motu non recto, nec simpliciter circulari, sed 
+            cir<lb ed="#F" n="10" break="no"/>culari secundum quid; totumque hoc pręstat magnes instrumento, unico 
+            qui<lb ed="#F" n="11" break="no"/>dem, sed non unius omnino formae, ac virtutis, hoc est qualitate simplici
+            <lb ed="#F" n="12"/>quidem, &amp; per totum diffusa, sed cum aliqua facierum, seù situs differentia;
+            <lb ed="#F" n="13"/>quae qualitas, non solum vim obtinet movendi, sed etiam alterandi, sicque
+            <lb ed="#F" n="14"/>compleri motuum differentias, motrices facultates, numerum qualitatum,
+            <lb ed="#F" n="15"/>quibus natura ditatur.
+        </p>
+            <p xml:id="p9i7y5-de4421-d1e499">
+               <lb ed="#F" n="16"/>Sentio has rationes speciosas quidem illas esse, sed minus ad probandum
+            <lb ed="#F" n="17"/>efficaces nonnullis videri, &amp; convenientiam potius magnetici motoris 
+            o<lb ed="#F" n="18" break="no"/>stendere, quam illum dari demonstrare. Verum iacto illo fundamento
+            <lb ed="#F" n="19"/>quem supra ex Augustino posui, ex eo potest etiam inferri, dari. Quod si 
+            il<lb ed="#F" n="20" break="no"/>lud supponatur, istius modi res, non solum mente concipi, sed in oculos 
+            ip<lb ed="#F" n="21" break="no"/>sos incurrere, videbuntur fortasse haerationes magis ad demonstrationes
+            <lb ed="#F" n="22"/>accedere. Videmus enim re ipsa dari magneticum motorem, qui lapidem
+            <lb ed="#F" n="23"/>ipsum in polos dirigat, &amp; hanc eandem virtutem in ferrum derivari, quae
+            <lb ed="#F" n="24"/>vim habeat movendi quasi circulariter ad polos, tanquam ad proprios 
+            ter<lb ed="#F" n="25" break="no"/>minos: hoc re ipsa videmus; ex altera parte harum rationum vim sentimus,
+            <lb ed="#F" n="26"/>quae talem inducunt motorem ad rerum explicandam perfectionem; quo
+            <lb ed="#F" n="27"/>unico motore omnib. ex partibus absolutum cernimus universum. cur 
+            er<lb ed="#F" n="28" break="no"/>go id negemus? ac propter hoc istas placuit afferre rationes.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

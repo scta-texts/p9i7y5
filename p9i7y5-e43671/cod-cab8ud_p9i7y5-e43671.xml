@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 45</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 45</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="409"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e43671"> <!-- l4c45 -->
+            <head xml:id="p9i7y5-e43671-Hd1e107">Caput 45</head>
+            <p xml:id="p9i7y5-e43671-d1e109">
+            <!--428.xml-->
+               <pb ed="#F" n="409"/>
+               <lb ed="#F" n="1"/>Si magnes imbecillior fuerit, &amp; superponatur polo lamina ferrea, vix versorium 
+            conver<lb ed="#F" n="2" break="no"/>tetur ad polum ipsius magnetis, sed convertetur, ad extrema lamellae.
+            <lb ed="#F" n="3"/>Cap. XLV.
+        </p>
+            <p xml:id="p9i7y5-e43671-d1e122">
+               <lb ed="#F" n="4"/>Rem propono, quam notavit Gilbert. lib. 2. cap. 16. si nimirum sit ma
+            <lb ed="#F" n="5"/>gnes A. B. ad cuius polum applicetur lamella ferrea, si magnes 
+            fue<lb ed="#F" n="6" break="no"/>rit valde infirmus, non confluet ad centrum lamellae versorium, ut
+            <!--428.xml-->
+            <pb ed="#F" n="409"/>
+               <lb ed="#F" n="7"/>prius confluebat ad polum magnetis ante interpositionem lamellae, sed 
+            di<lb ed="#F" n="8" break="no"/>vertet ad eius extrema. Rem sum ego expertus tam imbecillo magnete, ut
+            <lb ed="#F" n="9"/>nec ramentum ferri suspenderet, non tamen successit, ita clare, ut optassem,
+            <lb ed="#F" n="10"/>visus nihilominus mihi sum rei vestigia cernere, ac proinde non repugno,
+            <lb ed="#F" n="11"/>admissoque effectu, causam inquiro.
+         <lb ed="#F" n="30" type="fixed=409"/>
+               <figure xml:id="p9i7y5-e43671-Fd1e149">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870152/575,948,1310,641/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375984-r7</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e43671-d1e167">
+               <lb ed="#F" n="12" type="fixed=409"/>
+               <name xml:id="p9i7y5-e43671-Nd1e171">Gilbertus</name> loco citato suam sic exponit sententiam. Fusus enim per 
+            ex<lb ed="#F" n="13" break="no"/>tremitates vigor magnetis imbecillioris, per medium minus permeat: Haec
+            <lb ed="#F" n="14"/>ille. contendit ergo impediri propagationem virtutis ab illa lamellae 
+            inter<lb ed="#F" n="15" break="no"/>positione, ac proinde vult amplius versorium in polum cuspidem non 
+            diri<lb ed="#F" n="16" break="no"/>gere ad magnetem, quia qualitas per medium diffusa non pervenit amplius
+            <lb ed="#F" n="17"/>ad illud, sed sistitur à lamilla. Hoc autem puto ego omninon falsum esse, 
+            ne<lb ed="#F" n="18" break="no"/>que hunc effectum ab ac causa ulla ratione provenire arbitror; tum quia in
+            <lb ed="#F" n="19"/>universum nunquam ferrum sistit actionem magneris; immo, si ferrum 
+            ma<lb ed="#F" n="20" break="no"/>gneti superponatur iuvatur potius ad actionem magnes, nullum autem hic
+            <lb ed="#F" n="21"/>inducitur à lamella impedimentum; tum quia non potest timeri ne virtus 
+            il<lb ed="#F" n="22" break="no"/>la imbecillioris magnetis non possit laminam pervadere. Si enim lamina
+            <lb ed="#F" n="23"/>illa formetur in nasum ferreum, optime pervadet, &amp; versorium dirigetur ad
+            <lb ed="#F" n="24"/>polum: cur ergo non etiam pervadet lamellam complanatam?
+        </p>
+            <p xml:id="p9i7y5-e43671-d1e201">
+               <lb ed="#F" n="25"/>Causam igitur desumo ex proxime dictis, quia ferrum ita magnetem 
+            adiu<lb ed="#F" n="26" break="no"/>vat ad actiones magneticas, seu ita ferrum à magnete verticitatem concipit, ut
+            <lb ed="#F" n="27"/>potius versorium accurrat, &amp; conformet se ad qualitatem magneticam 
+            fer<lb ed="#F" n="28" break="no"/>ri, etiam dum est intra orbem virtutis magnetis, quam ad virtutem ipsius met
+            <lb ed="#F" n="29"/>magnetis, in cuius orbe est, à quo vim concipit ferrum; praesertim si magnes
+            <!--428.xml-->
+
+         <!--429.xml-->
+         <pb ed="#F" n="410"/>
+               <lb ed="#F" n="1"/>fuerit infirmus: Patet hoc, tum ex eo, quod ferrum magneti surripiat 
+            obe<lb ed="#F" n="2" break="no"/>los ferreos, ut supra demonstravi, tum ex eo, quod antea dicebam; quod si
+            <lb ed="#F" n="3"/>ferrum supra versorium ponas, trahit partem Australem versorij, si infra 
+            tra<lb ed="#F" n="4" break="no"/>hit Septentrionalem: si ergo in E.
+            <lb ed="#F" n="5"/>ponatur ferreus clavus, 
+            conci<lb ed="#F" n="6" break="no"/>piet virtutem à tota terra, &amp; à 
+            pun<lb ed="#F" n="7" break="no"/>cto polari A. ut C. dirigatur in 
+            Se<lb ed="#F" n="8" break="no"/>ptentrionem D in Austrum, ac
+            <lb ed="#F" n="9"/>proinde ex lege magnetica C. tra
+            <lb ed="#F" n="10"/>het Australem versorij partem. Si
+            <lb ed="#F" n="11"/>ergo infra versorium collocetur
+            <lb ed="#F" n="12"/>ferrum, ut vides, trahet ad se 
+            cu<lb ed="#F" n="13" break="no"/>spidem versorij, &amp; disponet illud
+            <lb ed="#F" n="14"/>contrario situ, ita ut crux 
+            diriga<lb ed="#F" n="15" break="no"/>tur ad Septentrionem contraria
+            <lb ed="#F" n="16"/>ratione atque virtus à terra 
+            diffu<lb ed="#F" n="17" break="no"/>sa imperet. Vides ergo, quod
+            <lb ed="#F" n="18"/>clavus in F. tantam concipit vim
+            <lb ed="#F" n="19"/>magneticam à terra (neque enim
+            <lb ed="#F" n="20"/>aliunde illam habet) ut quasi à ter
+            <lb ed="#F" n="21"/>ra rebellando faciat sibi potius,
+            <lb ed="#F" n="22"/>quam telluri obtemperare 
+            verso<lb ed="#F" n="23" break="no"/>rium. Dum enim concurrunt 
+            si<lb ed="#F" n="24" break="no"/>mul tellus, &amp; ferreus clavus, &amp;
+            <lb ed="#F" n="25"/>tellus vellet disponere versorium, ut cuspis dirigeretur ad A. clavus vero ibi
+            <lb ed="#F" n="26"/>positus crucem impellit pariter A. versus, &amp; trahit cuspidem; vincit clavus
+            <lb ed="#F" n="27"/>contra actionem telluris, &amp; suo imperio disponit versorium. Similiter 
+            obe<lb ed="#F" n="28" break="no"/>lus in E. traht ad se crucem, quicquid in contrarium niteretur A. plus ergo
+            <lb ed="#F" n="29"/>potest obelus suo extremo C. quam totus telluris globus polo A. quę tamen
+            <lb ed="#F" n="30"/>vis obeli est etiam ipsius telluris, ut explicatum est.
+         <lb ed="#F" n="43" type="fixed=410"/>
+               <figure xml:id="p9i7y5-e43671-Fd1e289">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870153/1272,595,1042,1366/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">D E C C F D A B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375986-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e43671-d1e306">
+               <lb ed="#F" n="31" type="fixed=410"/>Hoc posito certum est lamellam ferream, si in medio tangatur à polo 
+            ma<lb ed="#F" n="32" break="no"/>gnetis nequirere in centro tacto vim se convertendi ad polum oppositum,
+            <lb ed="#F" n="33"/>atque trahendi partem versorij oppositam ei, quam trahit polus, quem 
+            tan<lb ed="#F" n="34" break="no"/>git lamella, ut supra demonstravi contra Gilb. Neque, dum taugit, unam ha
+            <lb ed="#F" n="35"/>bet faciem magneticam, dum removetur, illam mutat; sed semper si polus
+            <lb ed="#F" n="36"/>tangens trahit cuspidem versorij, ad centrum illud tactum ex virtute per 
+            con<lb ed="#F" n="37" break="no"/>tactum acquisita accurrunt cruces, &amp; circum quaque ad extremitates lamel
+            <lb ed="#F" n="38"/>lae ferruntur cuspides: vel contra, si ad polum tangentem feruntur cruces,
+            <lb ed="#F" n="39"/>centrum lamellae tactae provocabit cuspides, periphaeria cruces. Et hoc 
+            e<lb ed="#F" n="40" break="no"/>tiam supra probatum est. Quibus positis iam vides, quod si contra polum
+            <lb ed="#F" n="41"/>ponitur lamella, illa verticitatem acquiret, ex illo contactu, &amp; si magnes sit
+            <lb ed="#F" n="42"/>infirmus exiguę que virtutis, magis se se prodent effectus magnetici in la¬
+            <!--429.xml-->
+
+         <!--430.xml-->
+         <pb ed="#F" n="411"/>
+               <lb ed="#F" n="1"/>mella, etiam dum existit intra sphaeram activitatis illius magnetis, virtus illius
+            <lb ed="#F" n="2"/>magis roborabitur, &amp; prout est in illa lamella, efficacior erit quam in alio
+            <lb ed="#F" n="3"/>medio, &amp; ideo magis versorium obediet qualitati à magnete per lamellam
+            <lb ed="#F" n="4"/>diffusae, quam illi, quae diffunditur à solo magnete. Quia igitur virtus à 
+            ma<lb ed="#F" n="5" break="no"/>gnete diffusa trahit cuspidem ad polum, magnetis, virtus vero lamellae 
+            diri<lb ed="#F" n="6" break="no"/>git pariter cuspidem non ad centrum lamellae, sed ad extremam periphaeriam
+            <lb ed="#F" n="7"/>eiusdem, ideo cuspis non dirigitur ad polum amplius magnetis hoc est ad
+            <lb ed="#F" n="8"/>centrum lamellae, sed ad extremitatem lamellae, quia, ut dixi, iam plus potest
+            <lb ed="#F" n="9"/>lamella, quam magnes.
+        </p>
+            <p xml:id="p9i7y5-e43671-d1e361">
+               <lb ed="#F" n="10"/>Non est igitur causa cur non feratur cuspis adhuc ad polum lapidis, ut
+            <lb ed="#F" n="11"/>prius, quia non diffundat amplius polus per medium suam qualitatem 
+            im<lb ed="#F" n="12" break="no"/>peditus à lamella interpositat diffundit enim eodem modo, ut prius, sed 
+            cau<lb ed="#F" n="13" break="no"/>sa: est, quia lamella etiam ipsa efficacius spargit suam virtutem, quam 
+            ma<lb ed="#F" n="14" break="no"/>gnes ipse. Unde quamvis polus pergat trahere cuspidem, quia etiam lamel
+            <lb ed="#F" n="15"/>la sua extremitate incipit trahere, sed efficacius pariter cuspidem, effectus 
+            se<lb ed="#F" n="16" break="no"/>quitur efficaciorem causam, &amp; cuspis fertur ad lamellam relicto polo. Cur
+            <lb ed="#F" n="17"/>autem hoc solum in infirmo contingat magnete, &amp; impuro, causa iam 
+            indi<lb ed="#F" n="18" break="no"/>cata est, quia ex illa impuritate, partes illae magnetis, quodammodo sunt
+            <lb ed="#F" n="19"/>dissipatae, ex admixtione alieni corporis, ferrum autem in tota sua mole 
+            cor<lb ed="#F" n="20" break="no"/>pus est magneticum, &amp; ideo in pari etiam intensione qualitatis, quia 
+            quodam<lb ed="#F" n="21" break="no"/>modo agens est magis, ut ita dicam, densum, ideo efficacius trahit ad se 
+            fer<lb ed="#F" n="22" break="no"/>rum. Quae etiam causa est, cur terra minus efficaciter, ferro à se excitato,
+            <lb ed="#F" n="23"/>provocet ad se versorium, ut patere potest ex supradictis,
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

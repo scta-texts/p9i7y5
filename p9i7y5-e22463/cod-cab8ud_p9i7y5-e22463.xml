@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 6</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 6</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="211"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e22463"> <!-- l3c6 -->
+            <head xml:id="p9i7y5-e22463-Hd1e107">Caput 6</head>
+            <p xml:id="p9i7y5-e22463-d1e109">
+               <lb ed="#F" n="32"/>Polares facies nunquam per se in magnete mutantur. Cap. VI.
+        </p>
+            <p xml:id="p9i7y5-e22463-d1e114">
+               <lb ed="#F" n="33"/>Sume quodlibet magnetis frustrum A. B. cuiuscunque 
+            figu<lb ed="#F" n="34" break="no"/>rę, aut magnitudinis; in illo duo esse puncta polaria è 
+            regio<lb ed="#F" n="35" break="no"/>ne opposita pronuncio, ita ut si à puncto ad punctum 
+            duca<lb ed="#F" n="36" break="no"/>tur linea A. B. haec semper medium in magnitudine lapidis
+            <lb ed="#F" n="37"/>obtineat: quam lineam axem virtutis alibi nominavi. 
+            Por<lb ed="#F" n="38" break="no"/>ro, sicuti puncta illa polaria nusquam variari contingit, nisi aliquid lapidi
+            <lb ed="#F" n="39"/>detrahatur, aut si fieri possit, aliquid addatur, ita neque axis unquam ullam
+            <lb ed="#F" n="40"/>subibit vicissitudinem, nisi ex sola lapidis diminutione, aut incremento.
+        </p>
+            <p xml:id="p9i7y5-e22463-d1e134">
+            <!--229.xml-->
+
+         <!--230.xml-->
+               <pb ed="#F" n="211"/>
+               <lb ed="#F" n="1"/>Non possum hoc dictum ad Mathematicam redigere formam, tum quia
+            <lb ed="#F" n="2"/>physicum totum hoc est
+            <lb ed="#F" n="3"/>negotium: tum quia 
+            in<lb ed="#F" n="4" break="no"/>formis lapidis, ut 
+            pluri<lb ed="#F" n="5" break="no"/>mum figura, &amp; incerta
+            <lb ed="#F" n="6"/>forma nullas patitur 
+            ma<lb ed="#F" n="7" break="no"/>thematicas rationes in sui
+            <lb ed="#F" n="8"/>dimensione: tamen hoc 
+            pri<lb ed="#F" n="9" break="no"/>mum de more experimen
+            <lb ed="#F" n="10"/>to suadeo, deinde rationem
+            <lb ed="#F" n="11"/>huius rei ex ipsa lapidis
+            <lb ed="#F" n="12"/>natura depromo. sumatur
+            <lb ed="#F" n="13"/>lapis cuiuscunque figurę &amp; in illo aliqua ex rationibus alibi positis poli 
+            in<lb ed="#F" n="14" break="no"/>veniantur, semper constabit, (nisi lapis aliqua ex partè vitiatus sit, &amp; 
+            exter<lb ed="#F" n="15" break="no"/>no malo fędatus) polaria illa puncta ita è regione respondere sibi, ut medium
+            <lb ed="#F" n="16"/>lapidem transcurrat axis. Oculorum sidem testor. Certius tamen hoc in 
+            ro<lb ed="#F" n="17" break="no"/>tundo lapide, aut alia certa figura efformato deprehendes: Semper enim
+            <lb ed="#F" n="18"/>ita polos constitutos invenies, ut, si per illos lapidem seces, medium 
+            reseca<lb ed="#F" n="19" break="no"/>tum invenias, ex quacunque tandem parte divisio ducatur; dummodo recta
+            <lb ed="#F" n="20"/>per duo illa polaria puncta transeat sectio, quod si hoc in sphaerieo lapide,
+            <lb ed="#F" n="21"/>aut alia certa figura conformato verum esse semper constantissimo 
+            experi<lb ed="#F" n="22" break="no"/>mento deprehenditur; nec unquam vila sentitur diversitas, cur non etiam
+            <lb ed="#F" n="23"/>hoc idem evenire dixeris, quaecunque tandem sit lapidis figura? ut semper 
+            po<lb ed="#F" n="24" break="no"/>li, &amp; axis medium sibi lapidem partiatur; cum praesertim nullo neque 
+            irre<lb ed="#F" n="25" break="no"/>gulari lapide sensus, aut experimentum repugnare videatur, quin in 
+            opposi<lb ed="#F" n="26" break="no"/>tum diamedraliter sint poli.
+         <lb ed="#F" n="43" type="fixed=211"/>
+               <figure xml:id="p9i7y5-e22463-Fd1e202">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869954/849,580,1120,558/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375677-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e22463-d1e221">
+               <lb ed="#F" n="27" type="fixed=211"/>Hoc firmato ex ipsa experientia, &amp; quasi à posteriori, iam huius rei ea sit
+            <lb ed="#F" n="28"/>ratio. Magnes peculiarem habet cum toto telluris globo analogiam, ut
+            <lb ed="#F" n="29"/>saepe dictum est, &amp; quemadmodum magnes magneticè in tota sua sphaera
+            <lb ed="#F" n="30"/>activitatis agit, &amp; disponit circumiecta corpora, si sint magnetica iuxta 
+            le<lb ed="#F" n="31" break="no"/>ges alibi positas, sic etiam tota terra eiusdem est analogicae saltem 
+            activita<lb ed="#F" n="32" break="no"/>tis; ac proinde aget circumquaque magneticè, &amp; ijsdem legibus 
+            obtempe<lb ed="#F" n="33" break="no"/>rare iubebit cognata corpora, si circum se posita inveniet. debet ergo 
+            ma<lb ed="#F" n="34" break="no"/>gnes talem, &amp; sic dispositam habere naturam, ut possit huic telluris imperio
+            <lb ed="#F" n="35"/>obtemperare, &amp; sequi dirigentem globum. ergo debet habere unam partem,
+            <lb ed="#F" n="36"/>seu faciem, quae uni polorum obvertatur, alteram quae alterum sequatur. &amp;
+            <lb ed="#F" n="37"/>quia magnes est corpus homogeneum, &amp; similium partium, debet esse ista
+            <lb ed="#F" n="38"/>virtus tota in toto, &amp; tota in qualibet parte. Sicut enim essentia cuiuslibet
+            <lb ed="#F" n="39"/>homogenei tota est in toto corpore, &amp; tota in qualibet parte, similiter, &amp;
+            <lb ed="#F" n="40"/>quae fluunt ab essentia, erunt &amp; in toto, &amp; in qualibet parte aequaliter. cum
+            <lb ed="#F" n="41"/>ergo ista verticitas proprietas sit, quae manat ab essentia magnetis, semper
+            <lb ed="#F" n="42"/>quodlibet magnetis frustum altera sui facie in alterum, opposita in opposi¬
+            <!--230.xml-->
+
+         <!--231.xml-->
+         <pb ed="#F" n="212"/>
+               <lb ed="#F" n="1"/>tum polorum collimabit, vel potius quodlibet frustum secundum unam
+            <lb ed="#F" n="2"/>positionem septentrionizabit, secundum alteram australizabit. hoc autem
+            <lb ed="#F" n="3"/>fieri non posset, nisi medium huius virtutis semper medium lapidis 
+            obtine<lb ed="#F" n="4" break="no"/>ret, &amp; sicuti gravitas qualitas est in homogeneo corpore proveniens ab 
+            es<lb ed="#F" n="5" break="no"/>sentia, &amp; ideo centrum gravitatis medium etiam quantitatis obtinet, ita
+            <lb ed="#F" n="6"/>&amp; axis magneticus in corpore magnetico. Praeterea, si magnes analogicè
+            <lb ed="#F" n="7"/>respondet terrae, &amp; parvam, ut non male inquit ille, terrellam repręsentat;
+            <lb ed="#F" n="8"/>sicuti totus telluris globus ad axem ita coagmentatus: est, ut axis medium
+            <lb ed="#F" n="9"/>omnino physicum telluris globum pervadat; secundum quem axem 
+            diri<lb ed="#F" n="10" break="no"/>gitur, &amp; disponitur terra, ut in tali situ contineatur; ita, &amp; quaelibet terrella
+            <lb ed="#F" n="11"/>debet axem medium transmittere per suam substantiam.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

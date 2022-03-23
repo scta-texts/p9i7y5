@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="208"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e22054"> <!-- l3c5 -->
+            <head xml:id="p9i7y5-e22054-Hd1e107">Caput 5</head>
+            <p xml:id="p9i7y5-e22054-d1e109">
+               <lb ed="#F" n="5"/>forma Crucis. Cap. V.
+        </p>
+            <p xml:id="p9i7y5-e22054-d1e114">
+               <lb ed="#F" n="6"/>Quamvis de ratione, qua debent fieri pyxides, &amp; magneticè 
+            ex<lb ed="#F" n="7" break="no"/>citari dicatur alibi, non possum tamen hic omittere, quin 
+            non<lb ed="#F" n="8" break="no"/>nullorum errorem condemnem, qui pyxidulas, seu 
+            magneti<lb ed="#F" n="9" break="no"/>ca versoria in formam Crucis componunt. Quod, si hoc 
+            re<lb ed="#F" n="10" break="no"/>ligionis causa praestarent, non abnuerem, pietas enim ad omnia
+            <lb ed="#F" n="11"/>utilis est, sed si quaerunt in hoc ex magnetica natura subsidium, ut sic 
+            for<lb ed="#F" n="12" break="no"/>matum versorium expeditius se in polos dirigat si excitetur ex quattuor ma
+            <lb ed="#F" n="13"/>gnetis partibus, hoc est illud, quod hic damno, &amp; contendo perniciosè fieri
+            <lb ed="#F" n="14"/>ad finem quaesitum: longè enim difficilius, sic dirigetur versorium. Rem sic
+            <lb ed="#F" n="15"/>habeto.
+        </p>
+            <p xml:id="p9i7y5-e22054-d1e138">
+               <lb ed="#F" n="29" type="fixed=207"/>
+               <figure xml:id="p9i7y5-e22054-Fd1e143">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869950/276,1634,1637,720/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">F G E H B C A D</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375671-r7</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="16" type="fixed=207"/>Contendunt versorium nonnulli optimè fieri, &amp; expeditissimę directio¬
+            <!--226.xml-->
+         <lb ed="#F" n="17"/>nis, si componatur ex duplici obelo A. B. C. D. qui se in centro intersecent ad
+            <lb ed="#F" n="18"/>angulos rectos, quod versorium sic debet, inquiunt, excitari magnete, E. F.
+            <lb ed="#F" n="19"/>G. H. ut puncto F. tangatur punctum versorij A. &amp; puncto E. punctum B.
+            <lb ed="#F" n="20"/>puncta vero transversa C. D. excitentur punctis G. &amp; H. sic enim, inquiunt,
+            <lb ed="#F" n="21"/>fiet, ut hoc versorium longè expeditius per A. B. meridianum inveniat. 
+            Pu<lb ed="#F" n="22" break="no"/>tant enim sicuti A. B. ex E. F. vim se ad meridianum conformandi recipit,
+            <lb ed="#F" n="23"/>ita C. D. ex G. H. contrahere facultatem convertendi se ad Orientem, &amp; 
+            oc<lb ed="#F" n="24" break="no"/>cidentem, vel certè, si erudite magis loqui velis, &amp; aptè ad philosophiam ma
+            <lb ed="#F" n="25"/>gneticam, ad puncta aequinoctialia dirigatur, qualia fuerunt in lapide etiam
+            <lb ed="#F" n="26"/>illo excitante G. &amp; H. Dico igitur hoc inutiliter fieri, imo cum directionis
+            <lb ed="#F" n="27"/>detrimento. Et primo, hoc tu te tibi suadeas experimento, interim ego 
+            ra<lb ed="#F" n="28" break="no"/>tione ostendo: &amp; primo, Quod inutiliter fiat sic suadeo. Non habet ma¬
+            <!--226.xml-->
+
+         <!--227.xml-->
+         <pb ed="#F" n="208"/>
+               <lb ed="#F" n="1"/>gnes in se aliquas partes, quibus determinatè ad alias mundi plagas se 
+            con<lb ed="#F" n="2" break="no"/>vertat, quam ad polares, nec habet ullam in se partem, quae orientem, aut
+            <lb ed="#F" n="3"/>occidentem spectet, ut in praecedenti propositione probatum est: ergo, cum
+            <lb ed="#F" n="4"/>partes polares magnetis E. F. suo contactu magneticè excitarint A. &amp; B. &amp;
+            <lb ed="#F" n="5"/>illis communicaverint vim se convertendi ad Austrum, &amp; Septentrionem,
+            <lb ed="#F" n="6"/>tange quantum vis C. D. partibus magnetis G. H. non in illos derivabitur
+            <lb ed="#F" n="7"/>ex tali contactu vis se convertendi ad Orientem, &amp; occidentem; quia, sicuti
+            <lb ed="#F" n="8"/>in illis magneticis punctis talis non inest determinatus vigor, neque ferro
+            <lb ed="#F" n="9"/>poterit ex contactu communicari. ergo frustra C. D. pulsant ac solicitant
+            <lb ed="#F" n="10"/>G. H. ut referant vim, quae in illis non inest partibus, &amp; ut possint ad 
+            Orien<lb ed="#F" n="11" break="no"/>tem, &amp; occidentem converti, frustra à magnete expectant huiusmodi 
+            vigo<lb ed="#F" n="12" break="no"/>rem. ergo frustra fiunt versoria in formam Crucis, quae sic excitentur, quod
+            <lb ed="#F" n="13"/>primum propositum fuerat.
+        </p>
+            <p xml:id="p9i7y5-e22054-d1e227">
+               <lb ed="#F" n="14"/>Quod autem non solum inutiliter, sed etiam perniciosè id fiat, ut demon
+            <lb ed="#F" n="15"/>strem quaedam suppono inferius singillatim demonstranda. primum est, in
+            <lb ed="#F" n="16"/>quacunque parte, &amp; quomodocunque ferrum magneti applicetur, semper
+            <lb ed="#F" n="17"/>excitati, &amp; acquirere verticitatem ferrum secundum maiorem sui 
+            longitu<lb ed="#F" n="18" break="no"/>dinem, si illam acquirere ponatur; ita, ut vigor, &amp;, ut ita dicam, polaris 
+            lon<lb ed="#F" n="19" break="no"/>gitudo magnetica excurrat semper in ferro per illam dimensionem, quae
+            <lb ed="#F" n="20"/>longior est in illo. Alterum est, quomodocunque, &amp; quacunque in parte,
+            <lb ed="#F" n="21"/>physicè loquendo, ferrum altero sui capite magneti applicetur, semper 
+            par<lb ed="#F" n="22" break="no"/>tem illam ferri, quae magnetem tangit virtutem acquirere convertendi se
+            <lb ed="#F" n="23"/>ad aliquem polorum Mundi. Tertium est, si duo versoria superponantur,
+            <lb ed="#F" n="24"/>ita ut alterum alteri immineat, si sint versoria aequalia, ita se convertere, ut
+            <lb ed="#F" n="25"/>se mutuo intersecent ad angulos rectos, nec ullum illorum amplius polum
+            <lb ed="#F" n="26"/>telluris respicere, sed utrunque illorum aequaliter à polo aberrare. sit 
+            verso<lb ed="#F" n="27" break="no"/>rium A. B. quod in meridiano magnetico
+            <lb ed="#F" n="28"/>sua directione consisteret, si illi 
+            superpo<lb ed="#F" n="29" break="no"/>nas versorium C. D. aequale, &amp; utrunque
+            <lb ed="#F" n="30"/>illorum supra suum stylum aequaliter se
+            <lb ed="#F" n="31"/>convertere possit, conformabunt se 
+            in<lb ed="#F" n="32" break="no"/>vicem fere ad angulos rectos, sed neque
+            <lb ed="#F" n="33"/>B. neque D. spectabunt amplius E. 
+            pun<lb ed="#F" n="34" break="no"/>ctum polarem, imo recedent ab illo, &amp; ita
+            <lb ed="#F" n="35"/>recedent, ut omnino media se statuant 
+            in<lb ed="#F" n="36" break="no"/>ter utrunque. Haec, ut dixi, suppono, quae
+            <lb ed="#F" n="37"/>tamen nunc tibi possis persuadere, si volveris rem uno, aut altero 
+            experimen<lb ed="#F" n="38" break="no"/>to comprobare; sin minus locum expecta, &amp; demonstrata ostendam.
+         <lb ed="#F" n="43" type="fixed=208"/>
+               <figure xml:id="p9i7y5-e22054-Fd1e286">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869951/1693,2182,671,595/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A C B D E</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375672-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e22054-d1e304">
+               <lb ed="#F" n="39" type="fixed=208"/>Ex hoc iam vides perniciosè tale constitui versorium, nec crucem hic 
+            a<lb ed="#F" n="40" break="no"/>liud, quam fortasse pietatem commendare. nam cum punctis C. D. in 
+            supe<lb ed="#F" n="41" break="no"/>riori tuo versorio partes magnetis medias tangis, vel methaphisicè, seu 
+            ma<lb ed="#F" n="42" break="no"/>thematicè loquendo, tangis magnetem in parte, quae prorsus aequaliter di¬
+            <!--227.xml-->
+
+         <!--228.xml-->
+         <pb ed="#F" n="209"/>
+               <lb ed="#F" n="1"/>stat à punctis polaribus, &amp; tangis lineam C. D. mathematicè ad angulos
+            <lb ed="#F" n="2"/>rectos bifariam dividit axem virtutis magnetis; &amp; in isto casu, qui tamen
+            <lb ed="#F" n="3"/>physicè non continget, nullam produces virtutem magneticam in 
+            verso<lb ed="#F" n="4" break="no"/>rio C. D. ut alibi probabitur; vel tangis physicè in medio, &amp; sic loquendo, 
+            il<lb ed="#F" n="5" break="no"/>lis magnetem tangere non potes, quin acquirant vim se convertendi ad po
+            <lb ed="#F" n="6"/>los: quod factum videbis, si partem illam C. D. ita supra A. B. constituas, ut
+            <lb ed="#F" n="7"/>facilè possit amoveri. Si enim amoveas, &amp; suspendas mediam, etiam si iterum
+            <lb ed="#F" n="8"/>magnetem non tangas, tamen futurum praedico omnino, ut ad polum 
+            ex<lb ed="#F" n="9" break="no"/>trema dirigat, si certa aliqua in parte consistat, hoc est si ex contactu magne
+            <lb ed="#F" n="10"/>tis verticitatem ullam acquisivit, &amp; acquisivisse monstrabit effectus, nec 
+            mi<lb ed="#F" n="11" break="no"/>hi fidem praestes, sed experimento. Si ergo tam punctum D. quam B. 
+            co<lb ed="#F" n="12" break="no"/>nentur ad eundem polum converti, &amp; eadem conentur vi, vel certè non
+            <lb ed="#F" n="13"/>longè dissimili, neutrum illorum assequetur; sed si aequalis sit conatus, cum
+            <lb ed="#F" n="14"/>non sit tunc maior ratio, cur potius D. quam B: quaesitum terminum 
+            dire<lb ed="#F" n="15" break="no"/>ctionis assequatur, medium sibi constituent punctum E quod si imbecillior
+            <lb ed="#F" n="16"/>sit vis, verbi gratia, in D. dirigendi se ad E. quam sit in B. in ordine ad 
+            eun<lb ed="#F" n="17" break="no"/>dem terminum, pro ratione conatus ipsius D. ad E. repelletur ab eodem 
+            ter<lb ed="#F" n="18" break="no"/>mino E. Quantum ergo magnetici vigoris ponitur in transverso obelo C.
+            <lb ed="#F" n="19"/>D. dum ad magnetem applicatur, tantum virium additur hosti, qui 
+            repel<lb ed="#F" n="20" break="no"/>lat versorium A. B. à suo naturali termino; dum etiam ipsum sua virtute,
+            <lb ed="#F" n="21"/>quam acquisivit ex contactu magnetis, quaerit sibi eosdem terminos, quos
+            <lb ed="#F" n="22"/>qaerit A. B. &amp; ita necessario recedet aliquantulum A. B. à suis terminis, ut
+            <lb ed="#F" n="23"/>adiquid concedat conatibus ipsius C. D. Ergo, sic constructum versorium,
+            <lb ed="#F" n="24"/>ullo suo extremo praecisè polum respiciet. non solum igitur inutiliter, sed
+            <lb ed="#F" n="25"/>perniciosè versoria tali pacto per crucem efformantur, quod proposueram
+            <lb ed="#F" n="26"/>demonstrandum.
+        </p>
+            <p xml:id="p9i7y5-e22054-d1e378">
+               <lb ed="#F" n="27"/>Verum quidem est à multis pyxides nauticas non fieri unico recto filo
+            <lb ed="#F" n="28"/>sicuti fiunt versoria horologiorum, verum alia ratione conformari, nec 
+            un<lb ed="#F" n="29" break="no"/>quam ex duplici filo ad angulos rectos decussato componi debent; nisi quis
+            <lb ed="#F" n="30"/>sit omnino rudis in magnetica directione. Et hoc solum hic reprehendo.
+            <lb ed="#F" n="31"/>De illa autem ratione construendę pyxidis dicetur alibi.
+        </p>
+            <p xml:id="p9i7y5-e22054-d1e391">
+               <lb ed="#F" n="32"/>Hic illud postremum addere placuit, quia locus exigere videtur, quod,
+            <lb ed="#F" n="33"/>cum supra magnetem ligno contulerim, &amp; etiam ex hoc ipso exemplo 
+            ali<lb ed="#F" n="34" break="no"/>bi eius arcanam naturam palam fecerim, advertendum tamen esse non om
+            <lb ed="#F" n="35"/>nino cum ligno convenire magnetem. Verum enim est (etiam me ludice)
+            <lb ed="#F" n="36"/>quod est usquequaque simile non esse simile, sed idem: nam lignum, ut 
+            plu<lb ed="#F" n="37" break="no"/>rimum non solum determinatam habet longitudinem, qua determinata sui
+            <lb ed="#F" n="38"/>parte ex naturae impetu ad Cęlum erigitur, &amp; determinatam oppositam par
+            <lb ed="#F" n="39"/>tem ad Terrae centrum dirigit, sicut magnes dirigit se in Septentrionem, &amp;
+            <lb ed="#F" n="40"/>Austrum, (quam magnetis longitudinem voco) sed etiam lignum 
+            destina<lb ed="#F" n="41" break="no"/>tam habet, &amp; insignem partem ad Austrum, &amp; oppositam ad Septentrionem,
+            <lb ed="#F" n="42"/>&amp; consequenter determinata parte Orientem spectat, &amp; opposita 
+            occiden<lb ed="#F" n="43" break="no"/>S 3
+            <!--229.xml-->
+            <pb ed="#F" n="210"/>
+               <lb ed="#F" n="1"/>tem; ita ut praeciso trunco, &amp; asportato, &amp; quacunque ratione converso 
+            pos<lb ed="#F" n="2" break="no"/>sis ex accurata inspectione agnoscere, quae sit illa pars trunci, quae vergebat
+            <lb ed="#F" n="3"/>ad Austrum, &amp; quae ad Septentrionem, &amp; consequenter alias differentias po
+            <lb ed="#F" n="4"/>sitionum orientales, &amp; occidentales: insignes enim ex sua natura habent in
+            <lb ed="#F" n="5"/>ligno facies illae notas; quod in magnete reperiri pernego. si enim ligni
+            <lb ed="#F" n="6"/>truncum dividas, in qua venae seu pori, qui per lignum excurrunt, facilè 
+            con<lb ed="#F" n="7" break="no"/>spici possint, &amp; diligenter laevigato ligno
+            <lb ed="#F" n="8"/>venas respicias, quę circulariter gyrabunt,
+            <lb ed="#F" n="9"/>ut exprimit figura, videbis venas non ęqua
+            <lb ed="#F" n="10"/>lem circumquaque servare distantiam, nec
+            <lb ed="#F" n="11"/>omnino circa ligni medium circinari, aut
+            <lb ed="#F" n="12"/>cortici parallelas incedere, sed ex una 
+            par<lb ed="#F" n="13" break="no"/>te dilatari magis, ex altera parte magis 
+            con<lb ed="#F" n="14" break="no"/>primi: pars autem, in qua circulationes sunt
+            <lb ed="#F" n="15"/>magis compressae, Borealis est: constrinxit.
+            <lb ed="#F" n="16"/>enim illas Boreas, &amp; ita ex illa parte lignum
+            <lb ed="#F" n="17"/>in suo naturali situ Septentrionem respicie
+            <lb ed="#F" n="18"/>bat; dilatavit autem oppositam partem me
+            <lb ed="#F" n="19"/>ridianus solis vigor. In ligno igitur sunt
+            <lb ed="#F" n="20"/>omnes facies, &amp; positionum differentiae; in
+            <lb ed="#F" n="21"/>magnete solum sunt polares.
+         <lb ed="#F" n="41" type="fixed=210"/>
+               <figure xml:id="p9i7y5-e22054-Fd1e472">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869953/1650,826,694,859/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text"/>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375675-region_1630485757064_2526</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e22054-d1e489">
+               <lb ed="#F" n="22" type="fixed=210"/>Ex hoc obiter unum adnotabo in gratiam illorum, qui agricolationi ope
+            <lb ed="#F" n="23"/>ram dant: quod ut fortasse hactenus pauci animadvertere, licet aliqui rem
+            <lb ed="#F" n="24"/>notarint, ita puto maximum habere in illa arte momentum. Id autem est,
+            <lb ed="#F" n="25"/>ut, cum transplantantur arbores, ante quam evellas diligenter notes, 
+            quae<lb ed="#F" n="26" break="no"/>nam facies in arbusculo ad Septentrionem esset conversa, &amp; illam eandem
+            <lb ed="#F" n="27"/>dum Tetrae iterum mandas, in Septentrionem similiter dirigas: sic enim 
+            foe<lb ed="#F" n="28" break="no"/>liciter succedet plantatio; alioquin magnum erit periculum, ne arescat, prę¬
+            <lb ed="#F" n="29"/>sertim si arbor, quam plantas sit grandiuscula. Et hoc si observes, nulla ferè
+            <lb ed="#F" n="30"/>tibi unquam arescet arbor, quam transplantes, sicuti ex hoc neglecto oriri ar
+            <lb ed="#F" n="31"/>bitror, quòd multae passim transplantatae arbores arescant.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

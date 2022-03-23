@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 26</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 26</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="259"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e27820"> <!-- l3c26 -->
+            <head xml:id="p9i7y5-e27820-Hd1e107">Caput 26</head>
+            <p xml:id="p9i7y5-e27820-d1e109">
+               <lb ed="#F" n="33"/>Potest ferri verticitas contactu eiusdem magnetis immutari, quoties libuerit; imo etiam
+            <lb ed="#F" n="34"/>immutabitur magnete debiliori. Cap. XXVI.
+        </p>
+            <p xml:id="p9i7y5-e27820-d1e116">
+               <lb ed="#F" n="35"/>Ex dictis proximè constat veram hanc esse propositionem,
+            <lb ed="#F" n="36"/>quam pono; per novum, scilicet contactum eiusdem magne
+            <lb ed="#F" n="37"/>tis posse fieri, ut pars ferri, quae respiciebat Austrum, iam 
+            so<lb ed="#F" n="38" break="no"/>lum Septentrionem respiciat, &amp; sic, quoties libuerit, licebit
+            <lb ed="#F" n="39"/>eodem magnete statim novo contactu istas facies 
+            commu<lb ed="#F" n="40" break="no"/>tare. Hic verò insuper addo, hoc etiam posse fieri minus efficaci magnete.
+            <!--278.xml-->
+            <pb ed="#F" n="259"/>
+               <lb ed="#F" n="1"/>Verum obijciet aliquis subtilis philosophus. Eiusdem efficacitatis sunt in 
+            ma<lb ed="#F" n="2" break="no"/>gnete extrema A. &amp; B. ergo non poterit B. exterminare, quod produxit A.
+            <lb ed="#F" n="3"/>deberet enim ista nova actio esse efficacior, &amp; qualitas producta magis 
+            in<lb ed="#F" n="4" break="no"/>tensa, quam fuerit illa producta ab A. si deberet illam depellere: omnis enim
+            <lb ed="#F" n="5"/>actio fit ab excessu virtutis activę supra contrarium, quod est in subiecto. 
+            er<lb ed="#F" n="6" break="no"/>go multo magis agens minus efficax, quam fuerit A, non poterit depellere.
+            <lb ed="#F" n="7"/>quod productum fuit ab A, ut contrarium inducat: sieut, qui solum potest
+            <lb ed="#F" n="8"/>producere tres gradus caloris, non poterit expellere sex gradus frigoris 
+            pro<lb ed="#F" n="9" break="no"/>ductos in subiecto.
+        </p>
+            <p xml:id="p9i7y5-e27820-d1e155">
+               <lb ed="#F" n="10"/>Subtilis sanè est speculatio; sed, si non alia occurrat via, solvenda esset illo
+            <lb ed="#F" n="11"/>modo difficultas, quo soluit philosophus illa argumenta Zenonis, quibus
+            <lb ed="#F" n="12"/>videbatur probare non posse dari motum localem: cum enim eius discipuli
+            <lb ed="#F" n="13"/>talia argumenta illi referrent, ut sibi viam ostenderet, qua solverentur, 
+            dici<lb ed="#F" n="14" break="no"/>tur surrexisse, &amp; ambulare cępisse: iam, inquit, ite, &amp; renunciate Zenoni, quam
+            <lb ed="#F" n="15"/>vim habeant eius argumenta ad motum localem tollendum: sic in re 
+            no<lb ed="#F" n="16" break="no"/>stra fiat suprapositum experimentum, tunc apparebit utrum obiectio 
+            con<lb ed="#F" n="17" break="no"/>cludat: constabit enim re ipsa B. habere vim exterminandi à ferro 
+            qualita<lb ed="#F" n="18" break="no"/>tem productam ab A. &amp; novam producendi; perinde ferè ac si nihil 
+            laboran<lb ed="#F" n="19" break="no"/>dum fuisset in contrario expellendo. ergo obiectio illa sophistica est, &amp; 
+            pror<lb ed="#F" n="20" break="no"/>sus falsa, nec habet vim continendi illam qualitatem productam ab A. 
+            con<lb ed="#F" n="21" break="no"/>tra actionem ipsius B. &amp; si unquam alias certè hic illud <name xml:id="p9i7y5-e27820-Nd1e183" ref="#Aristotle">Aristotelis</name> esset usur
+            <lb ed="#F" n="22"/>pandum ex necessitate; non, quia difficultas occurrat, quam solvere non 
+            pos<lb ed="#F" n="23" break="no"/>simus, cognitam veritatem deserere debemus; hoc enim non esset argumen
+            <lb ed="#F" n="24"/>tum solvere, sed gravioribus se difficultatibus implicare.
+        </p>
+            <p xml:id="p9i7y5-e27820-d1e194">
+               <lb ed="#F" n="25"/>Neque vero aliquis solutionem in eo positam esse existimet, quod statim
+            <lb ed="#F" n="26"/>primo cuique occurret, nimirum in ferro, ubi à magnete separatum fuerit,
+            <lb ed="#F" n="27"/>statim virtutem ab illo contactu conceptam paulatim imminui: primo enim
+            <lb ed="#F" n="28"/>hoc falsum est: si enim verum esset, sequeretur versorium etiam bene custo
+            <lb ed="#F" n="29"/>ditum non longo tempore verticitatem amittere: sicuti aqua, quia statim ca
+            <lb ed="#F" n="30"/>lorem conceptum remota ab igne incipit amitttere, paulo post nihil habet
+            <lb ed="#F" n="31"/>caloris, quod tamen in versorio falsum esse deprehenditur; in quo, si bene cu
+            <lb ed="#F" n="32"/>stodiatur, durat virtus magnetica ad multos annos nullo cum decrementi
+            <lb ed="#F" n="33"/>indicio; &amp; hoc convenienti ratione dicitur: quia non solum ferrum 
+            ratio<lb ed="#F" n="34" break="no"/>ne materiae, sed etiam ratione formae est subiectum proportionatum huius
+            <lb ed="#F" n="35"/>qualitatis. deinde etiam si aliquid deperderetur paulatim à ferro de virtute
+            <lb ed="#F" n="36"/>magnetica, ubi incipit discedere à contactu magnetis; quia hoc 
+            decremen<lb ed="#F" n="37" break="no"/>tum manifesta saltem experientia convincit esse exiguum, sequeretur, si im
+            <lb ed="#F" n="38"/>mediatè post contactum unius partis applicetur ad alteram partem eiusdem
+            <lb ed="#F" n="39"/>magnetis, &amp; multo minus, si applicetur ad alterum magnetem, cuius minor
+            <lb ed="#F" n="40"/>sit activitas, non posse verticitatem immutari, hoc tamen falsum esse 
+            expe<lb ed="#F" n="41" break="no"/>rientia constat immediatè enim post contactum unius partis potest per 
+            con<lb ed="#F" n="42" break="no"/>tactum alterius verticitas immutari, &amp; hoc quoties libuerit effici. Ne tamen
+            <!--279.xml-->
+            <pb ed="#F" n="260"/>
+               <lb ed="#F" n="1"/>difficultatem insolutam relinquamus, respondeo ex proprijs magneticis
+            <lb ed="#F" n="2"/>principijs.
+        </p>
+            <p xml:id="p9i7y5-e27820-d1e244">
+               <lb ed="#F" n="3"/>Est quidem qualitas magnetica duarum facierum in ferro permanenter
+            <lb ed="#F" n="4"/>tanquam in subiecto propnrtionato, non solum ratione materiae, sed etiam
+            <lb ed="#F" n="5"/>ratione formae; tamen, ut ita dicam, non fluit activè haec qualitas ab ipsa 
+            for<lb ed="#F" n="6" break="no"/>ma ferri: si enim flueret, haberet illam independenter à contactu magnetis,
+            <lb ed="#F" n="7"/>&amp; quidquid sit de natura, &amp; convenientia, quam habent ferrum excoctum,
+            <lb ed="#F" n="8"/>&amp; magnes, certè ferrum non est actu magnes, ac proinde non fluit ab eius es
+            <lb ed="#F" n="9"/>sentia activè qualitas duarum facierum, nec eius est proprietas, sicuti activè
+            <lb ed="#F" n="10"/>fluit ab essentia magnetis, &amp; eius est proprietas. quare est quidem proprietas
+            <lb ed="#F" n="11"/>ferri, ut sit subiectum proportionatum, in quo ab alio putà a magnete possit
+            <lb ed="#F" n="12"/>produci haec qualitas duarum facierum; tamen ad hoc passivè tantum se ha
+            <lb ed="#F" n="13"/>bet, nullo vero modo activè: neque intus in ferro est aliqua forma, à qua pos
+            <lb ed="#F" n="14"/>sit activè, seu in genere causae efficientis conservari haec qualitas, vel, ut rem
+            <lb ed="#F" n="15"/>certam non subijciamus quaestioni, in qua fortasse multi difficultatem 
+            ha<lb ed="#F" n="16" break="no"/>bebunt, qui putabunt accidentia non posse durare in subiecto incortupta,
+            <lb ed="#F" n="17"/>nisi in genere causae efficientis habeant conservantem se in actu secundo,
+            <lb ed="#F" n="18"/>vel in eodem subiecto, vel in alio sibi proximo, ut, inquam non subijciamus
+            <lb ed="#F" n="19"/>huic quaestioni rem nostram certam, saltem in ferro non est talis vis, ut si ali
+            <lb ed="#F" n="20"/>quid amittat ex ista qualitate, possit illud, quod amisit, sibi re producere, &amp;
+            <lb ed="#F" n="21"/>restituere qualitatem deperditam ad pristinum gradum.
+        </p>
+            <p xml:id="p9i7y5-e27820-d1e288">
+               <lb ed="#F" n="22"/>Verum quidem est, quod, quia activè non fluit a ferro aliqua qualitas, vel
+            <lb ed="#F" n="23"/>aliquod accidens, cui haec iam producta à magnete repugnet, non incipit
+            <lb ed="#F" n="24"/>expelli statim ac cessat actio producentis extrinsecè, sive quae augeat, sive
+            <lb ed="#F" n="25"/>quae conservet productam: sicuti accidit in aqua, quando in ea calor ab 
+            ex<lb ed="#F" n="26" break="no"/>terno agente producitur. Quia enim ab aqua frigus promanat, quod 
+            ca<lb ed="#F" n="27" break="no"/>lori repugnat; ideo, ubi cessaverit actio calefacientis, statim incipit 
+            appare<lb ed="#F" n="28" break="no"/>re eius destructio, quae consurgit ex eo, quod aqua sibi suum reproducere
+            <lb ed="#F" n="29"/>vult frigus, quo cum stare non potest per incompossibilitatem formalem
+            <lb ed="#F" n="30"/>calor.
+        </p>
+            <p xml:id="p9i7y5-e27820-d1e310">
+               <lb ed="#F" n="31"/>Remanet igitur ibi in ferro illa qualitas producta à magnete, quia ex una
+            <lb ed="#F" n="32"/>parte subiectum est proportionatum ex vi suae formae ad illam passivè 
+            ha<lb ed="#F" n="33" break="no"/>bendam, &amp; non solum ex vi materiae, &amp; consequenter ex altera non habet
+            <lb ed="#F" n="34"/>ex se ullam qualitatem illi repugnantem, quae fluat ab sua natura: at vero, si
+            <lb ed="#F" n="35"/>adveniat externum agens, quod velit producere aliam huic oppositam, &amp;
+            <lb ed="#F" n="36"/>consequenter hanc destruere, neque subiectum, idest ferium repugnabit, 
+            si<lb ed="#F" n="37" break="no"/>cuti non repugnavit primae productioni, cum illam magnes induxit; quia
+            <lb ed="#F" n="38"/>quantum est ex vi activa suae naturae, indifferenter ad illam se habet. Quare
+            <lb ed="#F" n="39"/>etiam si illa qualitas producta secundum suam intensionem gradualem ma
+            <lb ed="#F" n="40"/>ior sit, quam illa, quae de novo debet produci; quia forma illa, &amp; natura ferri
+            <lb ed="#F" n="41"/>non habet ullam vim activam in ordine ad conservationem illius 
+            qualita<lb ed="#F" n="42" break="no"/>tis, ideo quantum est ex parte ipsius subiecti, sive illa nova qualitas, quae ten¬
+            <!--280.xml-->
+            <pb ed="#F" n="261"/>
+               <lb ed="#F" n="1"/>tat advenire, sit in aequali gradu, sive in maiori, sive etiam in minori, eodem
+            <lb ed="#F" n="2"/>modo forma ferri, quantum est ex se aequaliter se habebit ad omnes, &amp; 
+            re<lb ed="#F" n="3" break="no"/>linquet, ut ipsa se ipsam qualitas tueatur, &amp; suas vires conservet, quantum 
+            po<lb ed="#F" n="4" break="no"/>test, nec subiectum auxilium ullum subministrabit. remanet ergo tota 
+            resi<lb ed="#F" n="5" break="no"/>stentia, ut ita dicam, activa ex parte ipsius qualitatis iam productae, &amp; 
+            relin<lb ed="#F" n="6" break="no"/>quitur ipsa solis suis viribus, ut pugnet pro se, ac se defendat.
+        </p>
+            <p xml:id="p9i7y5-e27820-d1e356">
+               <lb ed="#F" n="7"/>Ut igitur rem clarius explicemus ponamus magnetem A. B. dum parte A.
+            <lb ed="#F" n="8"/>tangit ferrum in C. habere vim producendi in ferro qualitatem, ut quatuor;
+            <lb ed="#F" n="9"/>iam vero, ut explicemus, id, quod fortasse difficilius iudicabitur, ut ex eo
+            <lb ed="#F" n="10"/>quisque per se, quae faciliora sunt, deducat, sumatur alter magnes, qui non
+            <lb ed="#F" n="11"/>habeat vim producendi qualitatem nisi ut tria, &amp; applicetur pariter ad 
+            ean<lb ed="#F" n="12" break="no"/>dem partem ferri C. sed contraria ratione; videmus quod de facto iste 
+            ma<lb ed="#F" n="13" break="no"/>gnes debilior destruit qualitatem productam in ferrum, etiam à fortiori ma
+            <lb ed="#F" n="14"/>gnete, &amp; novam producit contraria ratione, verticitatem immutando. hoc
+            <lb ed="#F" n="15"/>de facto contingere videmus; quamvis prior esset intensa ut quatuor, &amp; ista,
+            <lb ed="#F" n="16"/>quae de novo producitur, &amp; priorem expellit, sit solum intensa ut tria. rem ha
+            <lb ed="#F" n="17"/>bemus, causam quaerimus; quam dico esse, quia actio ita fit ab excessu 
+            virtu<lb ed="#F" n="18" break="no"/>tis agentis supra vim resistivam passi, ut tamen detur etiam vera reactio 
+            de<lb ed="#F" n="19" break="no"/>bilioris, contra robustum: recipitur enim communiter in philosophia, quod
+            <lb ed="#F" n="20"/>omne agens in agendo repatitur ex parte igitur agentis secundi, volentis
+            <lb ed="#F" n="21"/>immutare illam verticitatem, sunt tres gradus qualitatis, qui possunt 
+            produ<lb ed="#F" n="22" break="no"/>ci ab illo secundo magnete; sed praeterea est etiam ipsa forma substantialis
+            <lb ed="#F" n="23"/>magnetis, quę roborat, &amp; confirmat illos tres gradus qualitatis, &amp; conservat
+            <lb ed="#F" n="24"/>illos semper in eodem vigore, &amp;, si imminuantur, reproducit; ex parte vero
+            <lb ed="#F" n="25"/>ferri sunt quidem quatuor gradus qualitatis resistentes huic actioni, immo
+            <lb ed="#F" n="26"/>etiam in contrarium nitentes, &amp; suam actionem dirigentes contra tres, at
+            <lb ed="#F" n="27"/>nulla est forma substantialis, quae illos quattuor gradus roboret, &amp; 
+            confir<lb ed="#F" n="28" break="no"/>met, &amp; consequenter, quae si quid ex illis amittatur, reproducat.
+        </p>
+            <p xml:id="p9i7y5-e27820-d1e406">
+               <lb ed="#F" n="29"/>Dum igitur committitur pugna inter illos tres gradus, &amp; istos quatuor,
+            <lb ed="#F" n="30"/>etiamsi in principio isti quatuor praevaleant in sua actione; tamen isti tres
+            <lb ed="#F" n="31"/>nihilominus imminuunt per suam reactionem aliquid ex illis quatuor, &amp;
+            <lb ed="#F" n="32"/>ita post aliquam pugnam non sunt amplius integri quatuor; aliquid enim
+            <lb ed="#F" n="33"/>amiserunt. &amp; quia nulla est forma substantialis ibi, quae reficiat partes deper
+            <lb ed="#F" n="34"/>ditas, remanent ita imminuti. at vero ex altera parte, etiam si ex illis tribus
+            <lb ed="#F" n="35"/>fuerit aliquod imminutum, adest ibi forma substantialis, quae continuo 
+            refi<lb ed="#F" n="36" break="no"/>cit illud, quod destructum fuerit, &amp; ita isti tres remanent semper integri: quia
+            <lb ed="#F" n="37"/>forma substantialis semper reficit partes deperditas: at vero illi quatuor 
+            sem<lb ed="#F" n="38" break="no"/>per paulatim imminuntur, &amp; nullus est, qui restauret partes deperditas per
+            <lb ed="#F" n="39"/>reactionem istorum trium; &amp; ita tandem durante pugna illi quatuor 
+            redu<lb ed="#F" n="40" break="no"/>cuntur ad tres, &amp; tandem omnes absumuntur, &amp; producitur nova haec 
+            qua<lb ed="#F" n="41" break="no"/>litas, ut tria, expulsa illa prima; quamvis esset ut quatuor. Tota igitur ratio,
+            <lb ed="#F" n="42"/>cur sic immutari possit verticitas ab agente etiam debiliore, est forma sub¬
+            <!--281.xml-->
+            <pb ed="#F" n="262"/>
+               <lb ed="#F" n="1"/>stantialis, quae est veluti perennis fons, ex quo gutta illa promanat, quae pau
+            <lb ed="#F" n="2"/>latim excavat lapidem, dum perpetuo reficit vires illi debiliori, ut paulatim
+            <lb ed="#F" n="3"/>prius per reactionem vellicando robustum, vires eius imminuat, &amp; tandem
+            <lb ed="#F" n="4"/>principaliter agendo destruat. Et haec videtur mihi ratio clarissima, &amp; ex 
+            vi<lb ed="#F" n="5" break="no"/>sceribus rei petita, quae optimè difficultati satisfaciat, &amp; totam exhauriat dif
+            <lb ed="#F" n="6"/>ficultatem; immo ex hac ad alias fortasse similes difficultates poterit faci,
+            <lb ed="#F" n="7"/>lis doctrina transferri.
+        </p>
+            <p xml:id="p9i7y5-e27820-d1e459">
+               <lb ed="#F" n="8"/>Confirmatur antem hoc ex triplici capite. Primo, quia verticitas in 
+            fer<lb ed="#F" n="9" break="no"/>ro D. C. non immutatur per conversionem ad magnetem contrario situ 
+            sta<lb ed="#F" n="10" break="no"/>tim in ictu oculi, &amp; in instanti, sicuti ferè in instanti acquiritur prima 
+            verti<lb ed="#F" n="11" break="no"/>citas per primum congressum, si nullam antea habuerit. sed requiritur 
+            con<lb ed="#F" n="12" break="no"/>tactus cum illa morula, &amp; magis adhuc, si magnes, qui secunda vicè 
+            appli<lb ed="#F" n="13" break="no"/>catur, fuerit debilior primo, qui primam verticitatem immisit. Et istam 
+            mo<lb ed="#F" n="14" break="no"/>ram requiri constat de facto experientia. philosophamur enim hic, ut in re
+            <lb ed="#F" n="15"/>physica convenit, ex sensatis; non mente, ac cogitatione componimus 
+            no<lb ed="#F" n="16" break="no"/>bis naturas rerum. ergo signum est requiri illam pugnam, &amp; illam 
+            imminu<lb ed="#F" n="17" break="no"/>tione illius virtutis paulatim factam, &amp; procedentem modo supra 
+            explica<lb ed="#F" n="18" break="no"/>to. Secundum caput confirmationis est, quia, si duo versoria 
+            committan<lb ed="#F" n="19" break="no"/>tur etiam contraria ratione, aut ferrum magnetice excitatum, cum ferro ma
+            <lb ed="#F" n="20"/>gnetice excitato pariter componatur, quia tunc utrumque illorum pugnat
+            <lb ed="#F" n="21"/>proprijs accidentium viribus, &amp; agunt quidem, &amp; reagunt invicem, sibique
+            <lb ed="#F" n="22"/>vires imminuunt; quia tamen nulla est forma substantialis, quae alterius 
+            de<lb ed="#F" n="23" break="no"/>perditas vires reficiat, pugnat solum per virtutem, quam habuerunt in 
+            ini<lb ed="#F" n="24" break="no"/>tio. Unde si alterum illorum longè aliud non superet in virtute, non 
+            immutabi<lb ed="#F" n="25" break="no"/>tur alterius verticitas, &amp; si hoc contingat, erit cum immutantis damno. quod
+            <lb ed="#F" n="26"/>enim in illa pugna per reactionis vim amisit, nullus resarcivit, nec nova ver
+            <lb ed="#F" n="27"/>ticitas robustissima erit; ut quae ab agente iam imminuto fuerit producta. Et
+            <lb ed="#F" n="28"/>hoc etiam constat esse verum experientia. Adverte tamen diligenter, 
+            le<lb ed="#F" n="29" break="no"/>ctor, quomodo, &amp; in quo experimentum facias, antequam contradicas:
+            <lb ed="#F" n="30"/>dico enim ferrum vix ferro posse verticitatem immutare, nisi alterum 
+            lon<lb ed="#F" n="31" break="no"/>gè virtute superet, contra quam eveniat in magnete, qui verticitatem ferro
+            <lb ed="#F" n="32"/>immutat, etiam si minorem habeat virtutem, quam ferrum. ergo hoc non
+            <lb ed="#F" n="33"/>provenit, nisi à forma substantiali, &amp;, ut ita dicam, à substantiali agente, quod
+            <lb ed="#F" n="34"/>perpetuo reparat suo militi vires, quae prius fuerant in pugna imminutae.
+            <lb ed="#F" n="35"/>Tertium caput confirmationis est, quod duo magnetes, etiamsi contraria
+            <lb ed="#F" n="36"/>ratione, &amp; situ se tangant, &amp; diu in illo contrario situ maneant compositi ad
+            <lb ed="#F" n="37"/>invicem, non sibi tamen immutant verticitatem; quia utrumque illorum
+            <lb ed="#F" n="38"/>suam habet formam substantialem, quae restaurat perpetuo, si quid damni
+            <lb ed="#F" n="39"/>ab invicem patiantur, qualitates; quae instar litigiosae plebeculae nunquam
+            <lb ed="#F" n="40"/>à tumultibus cessant. Quia igitur non adest illa ratio, ex qua diximus 
+            ori<lb ed="#F" n="41" break="no"/>ri, ut in ferro possit verticitas immutari, sed adest hic est in utroque forma
+            <lb ed="#F" n="42"/>substantialis, quae partes qualitatis deperditas restauret, nunquam magnes
+            <!--282.xml-->
+            <pb ed="#F" n="263"/>
+               <lb ed="#F" n="1"/>magneti verticitatem immutat, nisi fortè in vehementissimo excessu 
+            virtu<lb ed="#F" n="2" break="no"/>tis, cum unum alterum longissimo superat intervallo. Et fortasse tunc 
+            for<lb ed="#F" n="3" break="no"/>ma etiam substantialis non nihil laedetur, &amp; potius magnericum corpus,
+            <lb ed="#F" n="4"/>quam magnes censebitur: &amp; ideo etiam laeditur magnes ab actione terrae,
+            <lb ed="#F" n="5"/>si iniqua ratione ad longum tempus permanserit collocatus, ut partem 
+            ha<lb ed="#F" n="6" break="no"/>beat in Austrum conversam, quam deberet in Septentrionem dirigere, 
+            pro<lb ed="#F" n="7" break="no"/>pter vehementem, &amp; durantem actionem terrae. sed de hoc alibi. Non solum
+            <lb ed="#F" n="8"/>ergo ferro verticitas immutatur quolibet novo contactu magnetis diverso
+            <lb ed="#F" n="9"/>modo facto; sed etiam ratio manifestissima, quantum ego arbitror, constat
+            <lb ed="#F" n="10"/>ex dictis, quod quaerebatur.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

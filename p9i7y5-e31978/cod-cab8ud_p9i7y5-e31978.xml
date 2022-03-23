@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 9</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 9</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="298"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e31978"> <!-- l4c9 -->
+            <head xml:id="p9i7y5-e31978-Hd1e107">Caput 9</head>
+            <p xml:id="p9i7y5-e31978-d1e109">
+            <!--317.xml-->
+               <pb ed="#F" n="298"/>
+               <lb ed="#F" n="1"/>Variè movetur versorium ad motum magnetis iuxta positi pro varia collatione
+            <lb ed="#F" n="2"/>ipsius lapidis, &amp; motu utriusque. Cap. IX.
+        </p>
+            <p xml:id="p9i7y5-e31978-d1e120">
+               <lb ed="#F" n="3"/>Hic propono simul eadem positione plurima, quae novum potius 
+            lu<lb ed="#F" n="4" break="no"/>sum, &amp; voluptatem afferunt, quam novam inferant difficultatem;
+            <lb ed="#F" n="5"/>&amp; hac de causa, quia ab eodem simul omnia pendent principio, 
+            si<lb ed="#F" n="6" break="no"/>mul in unam colligo positionem.
+        </p>
+            <p xml:id="p9i7y5-e31978-d1e131">
+               <lb ed="#F" n="28" type="fixed=298"/>
+               <figure xml:id="p9i7y5-e31978-Fd1e136">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870041/661,1092,1533,834/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A H B C F D I E</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375813-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="7" type="fixed=298"/>Primo igitur, si stante versorio, immo stante immobiliter pyxide in qua
+            <lb ed="#F" n="8"/>est versorium, magnes vertatur in se supra suum centrum; ut si sit versorium
+         <lb ed="#F" n="9"/>A. B. in sua pyxide inclusum, &amp; ponatur iuxta magnes in eodem plano 
+            Ho<lb ed="#F" n="10" break="no"/>rizontali, cuius centrum E. poli sint C. D. si C. dirigatur ad B. stabit versorium
+            <lb ed="#F" n="11"/>directè contra axem C. D. Iam vero existentibus polis ad Horizontem, verte
+            <lb ed="#F" n="12"/>globum magneticum in se ipsum supra suum centrum E. ita ut C. rotando
+            <lb ed="#F" n="13"/>se in eodem etiam semper plano Horizontali feratur ad F. tunc cuspis B. 
+            se<lb ed="#F" n="14" break="no"/>quetur, quantum poterit, suum polum C. &amp; ita versorium etiam ipsum cuspi
+            <lb ed="#F" n="15"/>dem rotabit, dum paulatim divertit polus C. ad F. &amp; quia, dum movetur, stat
+            <lb ed="#F" n="16"/>nihilominus versorium in suo stylo, describet cuspide circulum, sicuti 
+            de<lb ed="#F" n="17" break="no"/>scribit etiam polus C. dum movetur supra centrum E. Sed vides, dum vult
+            <lb ed="#F" n="18"/>cuspis sequi recedentem suum polum C. describere circulum contraria 
+            ra<lb ed="#F" n="19" break="no"/>tione, atque describat polus ipse magnetis: dum enim utrunque tam polus,
+            <lb ed="#F" n="20"/>quam cuspis rotantur, quia stat utrunque in suo centro, &amp; describunt circu
+            <lb ed="#F" n="21"/>lum, non possunt nisi contraria ratione procedere, ut alter detxrorsum, alter
+            <lb ed="#F" n="22"/>sinistrorsum moveatur. Iam vero si procedente motu magnetis punctum D.
+            <lb ed="#F" n="23"/>incipiat appropinquare ad versorium ita, ut propius sit, quam alter polus C.
+            <lb ed="#F" n="24"/>advocabit ad se necessario crucem versorij A. si enim C. trahit cuspidem B.
+            <lb ed="#F" n="25"/>ex supra dictis D. trahet crucem, accurret ergo crux ad sibi amicum polum,
+            <lb ed="#F" n="26"/>ubi propius esse incęperit; &amp; quidem quam brevissima poterit via. Quia 
+            au<lb ed="#F" n="27" break="no"/>tem brevior longè est via procedendo deorsum versum ad H. existente polo
+            <!--317.xml-->
+
+         <!--318.xml-->
+         <pb ed="#F" n="299"/>
+               <lb ed="#F" n="1"/>in I. quam si sursum versum viam arriperet, ideo accurrit illa via ad D. &amp; ita
+            <lb ed="#F" n="2"/>vides cuspidem circulariter moveri supra suum centrum. dum etiam lapis
+            <lb ed="#F" n="3"/>supra suum centrum rotatur, contraria autem ratione, atque moveatur 
+            la<lb ed="#F" n="4" break="no"/>pis, cum unius motus sit in dexteram, alterius in sinistram. Adde quod nec
+            <lb ed="#F" n="5"/>alia ratione potest crux ad suum accedere polum D. quam exposita: quia
+            <lb ed="#F" n="6"/>alioquin oporteret, ut cuspis prior ipsa accederet ad polum D. qui maximè
+            <lb ed="#F" n="7"/>est illi inimicus, &amp; à quo summopere abhorret; si crux suisum versum gyran
+            <lb ed="#F" n="8"/>do deberet suum quaerere terminum. Sicut autem ubi D, ex motu lapidis
+            <lb ed="#F" n="9"/>devenerit prope pyxidem, crux erit directa è regione contra axem 
+            magne<lb ed="#F" n="10" break="no"/>tis, sicuti initio erat cuspis, quae iam semicirculum integrum per suum 
+            mo<lb ed="#F" n="11" break="no"/>tum complevit, &amp; pari passu polus C. ita, ubi polus circulum absolverit, &amp;
+            <lb ed="#F" n="12"/>iterum suum continuando institutum cursum devenerit prope pyxidem, etiam
+            <lb ed="#F" n="13"/>cuspis continuata circinatione circulum absolvet. Dum igitur una 
+            gyra<lb ed="#F" n="14" break="no"/>tione gyrat in se magnes, unam etiam complet circulationem versorium,
+            <lb ed="#F" n="15"/>sed ad contrarias partes moventur; quod erat ostendendum.
+        </p>
+            <p xml:id="p9i7y5-e31978-d1e239">
+               <lb ed="#F" n="43" type="fixed=299"/>
+               <figure xml:id="p9i7y5-e31978-Fd1e244">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870042/811,1875,1143,664/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">D C D C B E A F D C</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375815-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="16" type="fixed=299"/>Secundo, si stante lapide circumferatur pyxis, semper tamen in eodem
+            <lb ed="#F" n="17"/>situ, &amp; positione, dico, dum semel pyxis circulariter circumfertur circa 
+            im<lb ed="#F" n="18" break="no"/>mobiliter stantem lapidem, versorium gyraturum in se supra suum centrum
+            <lb ed="#F" n="19"/>bis, ita, ut duas integras absolvat circulationes in se, &amp; supra suum centrum;
+            <lb ed="#F" n="20"/>dum semel circulariter gyrat pyxis circa lapidem. Sit magnes A. E. B. F. 
+            cu<lb ed="#F" n="21" break="no"/>ius poli sint A. B. &amp; A. dirigatur in Austrum B. in Septentrionem ponatur
+            <lb ed="#F" n="22"/>pyxis prius in A. 
+            dirigen<lb ed="#F" n="23" break="no"/>do eius partes C. D. ad 
+            po<lb ed="#F" n="24" break="no"/>los pariter Mundi D. 
+            scili<lb ed="#F" n="25" break="no"/>cet ad Septentrionem, &amp;
+            <lb ed="#F" n="26"/>C. ad Austrum, stante ibi
+            <lb ed="#F" n="27"/>pyxide ex iam dictis verso
+            <lb ed="#F" n="28"/>rium diriget cuspidem ad
+            <lb ed="#F" n="29"/>A. &amp; consequenter in 
+            py<lb ed="#F" n="30" break="no"/>xide notabit punctum D.
+            <lb ed="#F" n="31"/>lam vero in eodem situ 
+            con<lb ed="#F" n="32" break="no"/>servando pyxidem in 
+            or<lb ed="#F" n="33" break="no"/>dine ad polos universi, paulatim in eodem plano Horizontali circunferas
+            <lb ed="#F" n="34"/>circa lapidem, &amp; primo moveas ad punctum E. ut pariter D. C. pyxidis Mun
+            <lb ed="#F" n="35"/>di polos respiciant eosdem; quia semper cuspis, quantum potest, stat in sua
+            <lb ed="#F" n="36"/>directione A. versus, &amp; illi, quantum potest, appropinquat, conformabit se
+            <lb ed="#F" n="37"/>in illo casu ut vides, &amp; iam designabit in pyxide punctum C. Ecce tibi dum
+            <lb ed="#F" n="38"/>pyxis mota est circa lapidem per quadrantem, quod iam versorium 
+            cuspi<lb ed="#F" n="39" break="no"/>de totum semicirculum inferius C. D. complevit: prius enim erat in D.
+            <lb ed="#F" n="40"/>nunc est in C. Pergas, &amp; promoveas iterum pyxidem per alium quadrantem
+            <lb ed="#F" n="41"/>E. B. retinendo in eodem semper situ illam in ordine ad polos universi, &amp; iam
+            <lb ed="#F" n="42"/>statim crux descendere incipiet ad polum B. sibi amicum, &amp; paulatim, dum
+            <!--318.xml-->
+
+         <!--319.xml-->
+         <pb ed="#F" n="300"/>
+               <lb ed="#F" n="1"/>acceditur ad B. magis etiam dirigetur ad illum, donec prorsus in B. cum axe
+            <lb ed="#F" n="2"/>conformetur. &amp; sic iam cuspis versorij iterum erit in D, sicuti erat, quando
+            <lb ed="#F" n="3"/>pyxis erat ad A. atque adeo in motu semicirculari circa lapidem versorium
+            <lb ed="#F" n="4"/>complevit integram circulationem. aliam igitur etiam integram 
+            comple<lb ed="#F" n="5" break="no"/>bit, si ducatur pyxis circa semicirculum B. F. A. ergo in una gyratione pyxidis
+            <lb ed="#F" n="6"/>circa lapidem immobiliter stantem cum polis ad planum Horizontis confi
+            <lb ed="#F" n="7"/>ciet versorium supra suum stylum duas integras gyrationes: quod erat 
+            osten<lb ed="#F" n="8" break="no"/>dendum. Nec ratio obscura est: oritur enim ex convenienti conformatione,
+            <lb ed="#F" n="9"/>quam ex legibus magneticis versorium affectat ad magnetem.
+        </p>
+            <p xml:id="p9i7y5-e31978-d1e346">
+               <lb ed="#F" n="10"/>Hoc idem contingeret, si stante pyxide in medio circa pyxidem 
+            movere<lb ed="#F" n="11" break="no"/>tur lapis, eodem tamen semper conservato situ in ordine ad universum. Nam
+            <lb ed="#F" n="12"/>pari passu, dum circa versorium unicum gyrum complet lapis, versorium
+            <lb ed="#F" n="13"/>supra suum centrum bis completam circulationem absolveret. Causa autem
+            <lb ed="#F" n="14"/>eadem est ex convenienti conformatione versorij cum lapide. Ex quo 
+            sen<lb ed="#F" n="15" break="no"/>tias minus aptè Gilbertum nescio quid subinnuere de Epicyclari motu: 
+            nul<lb ed="#F" n="16" break="no"/>lum enim hic est deferens, nullus Epicyclus, sed totum oritur ex 
+            conforma<lb ed="#F" n="17" break="no"/>tione magneticorum ad invicem. non iniucunda tamen est haec magnetis,
+            <lb ed="#F" n="18"/>&amp; pyxidis diversa velocitas, ut semper sive circumferatur pyxis stante 
+            lapi<lb ed="#F" n="19" break="no"/>de, sive circumferatur lapis stante pyxide, duplo velocius rotetur versorium,
+            <lb ed="#F" n="20"/>quam lapis, &amp; duas integras conversiones unica circulatione perficiat. quod
+            <lb ed="#F" n="21"/>si ex hoc planetarum circa solem velociorem rotationem insinuate velis, non
+            <lb ed="#F" n="22"/>erit prorsus iniucunda res. verum de hoc ad libros de cęlo.
+        </p>
+            <p xml:id="p9i7y5-e31978-d1e377">
+               <lb ed="#F" n="23"/>Si lapis ita collocetur, ut polos non habeat ad Horizontem iacentes, sed
+            <lb ed="#F" n="24"/>ad verticem erectos alterum sursum, alterum deorsum; tunc, si 
+            Horizonta<lb ed="#F" n="25" break="no"/>liter circa magnetem circumducas versorium stante lapide, vel stante 
+            ver<lb ed="#F" n="26" break="no"/>sorio lapidem in gyrum ducas, non prius totum absolvet circulum versorium,
+            <lb ed="#F" n="27"/>si ipsum moveatur, quam completum absolveris gyrum circa lapidem; &amp; redu
+            <lb ed="#F" n="28"/>xeris pyxidem ad punctum, à quo motum incępisti: manebit enim semper
+            <lb ed="#F" n="29"/>cuspis directa suum versus polum, &amp; dum nunquam ab eius directione 
+            di<lb ed="#F" n="30" break="no"/>scedit, circulum quidem conficit sed, quia stat cuspis quasi ad centrum 
+            affi<lb ed="#F" n="31" break="no"/>xa ad polum magnetis, qui immobiliter stat in medio, non absoluet, ut ita di
+            <lb ed="#F" n="32"/>cam, crux, quae circulum describit completum orbem, donec revertatur ad
+            <lb ed="#F" n="33"/>primum punctum, à quo cuspis primo discessit. ergo moto circulariter hoc
+            <lb ed="#F" n="34"/>modo versorio una circulatione, non complebit nisi unicum circulum.
+        </p>
+            <p xml:id="p9i7y5-e31978-d1e406">
+               <lb ed="#F" n="35"/>Si lapis supra versorium, vel versorium supra lapidem collocetur ita, ut
+            <lb ed="#F" n="36"/>poli lapidis sint ad planum Horizontis; si moveatur lapis supra suum 
+            cen<lb ed="#F" n="37" break="no"/>trum circulariter in se motu Horizontali eodem modo, &amp; ad eandem 
+            par<lb ed="#F" n="38" break="no"/>tem, movebitur etiam versorium, sed non prius unum altero completum 
+            gy<lb ed="#F" n="39" break="no"/>rum absolvet. Et ratio est, quia semper tam cuspis, quam erux versorij suos
+            <lb ed="#F" n="40"/>notos sequitur polos, nec unquam ab illis discedunt. Unde, cum simul 
+            gy<lb ed="#F" n="41" break="no"/>rent cum lapide, ut perpetuo ad eosdem polos colliment, ijsdem terminis suos
+            <lb ed="#F" n="42"/>motus seu circulos absolvent, quibus absolvit &amp; lapis.
+        </p>
+            <p xml:id="p9i7y5-e31978-d1e426">
+            <!--320.xml-->
+               <pb ed="#F" n="301"/>
+               <lb ed="#F" n="1"/>Denique si supra versorij medium erigatur lapis verticaliter ita, ut alterum
+            <lb ed="#F" n="2"/>polorum habeat supra centrum versorij, quomodocunque rotetur lapis in
+            <lb ed="#F" n="3"/>se ipsum supra suum axem, nullum versorium efficit motum, nec unquam
+            <lb ed="#F" n="4"/>recedet à directione, quam habebat: quia enim, ut alibi dictum est, ex quo
+            <lb ed="#F" n="5"/>loco huius rei ratio desumenda est, versorium si collocetur suo centro supra
+            <lb ed="#F" n="6"/>polos telluris, vel magnetis, nullam certam habet directionem: ideo, 
+            qua<lb ed="#F" n="7" break="no"/>cunque tandem ratione lapis rotetur, &amp; gyret supra suum axem, existente 
+            po<lb ed="#F" n="8" break="no"/>lo in centro versorij, semper aeque bene se habebit versorium, &amp; aequaliter se
+            <lb ed="#F" n="9"/>conformabit ad virtutem magneticam per medium diffusam. Cum autem
+            <lb ed="#F" n="10"/>moveat se versorium, &amp; tali, vel tali se ratione conformet ad magnetem, ut
+            <lb ed="#F" n="11"/>accommodet se sibi convenienti ratione ad virtutem per medium diffusam,
+            <lb ed="#F" n="12"/>quae in hoc casu est semper aequalis; &amp; uniformis, quacunque ratione 
+            rote<lb ed="#F" n="13" break="no"/>tur lapis ad omnem partem, non erit ratio, cur versorium mutet situm ad
+            <lb ed="#F" n="14"/>motum lapidis. Hoc idem etiam contingeret, si applicato altero polorum
+            <lb ed="#F" n="15"/>lapidis ad cuspidem versorij rotaretur magnes in se supra suum axem. Nam
+            <lb ed="#F" n="16"/>neque in illo casu moveretur versorium à sua directione; cuius ratio est, quia
+            <lb ed="#F" n="17"/>per talem lapidis gyrationem qualitas per medium diffusa non mutatur, quod
+            <lb ed="#F" n="18"/>d situm, &amp; positionem? cum autem haec non variatur; nec movetur 
+            verso<lb ed="#F" n="19" break="no"/>rium, quod solum movetur ad nouam, ut ita dixerim, illius qualitatis in 
+            me<lb ed="#F" n="20" break="no"/>dio situationem, ut ad illam se accommodet, quam hic nullam supponimus.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

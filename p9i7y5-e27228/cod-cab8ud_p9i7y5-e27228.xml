@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 24</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 24</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="254"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e27228"> <!-- l3c24 -->
+            <head xml:id="p9i7y5-e27228-Hd1e107">Caput 24</head>
+            <p xml:id="p9i7y5-e27228-d1e109">
+               <lb ed="#F" n="27"/>Ferrum, si à polo magnetis tangatur medium, in extremitatibus oppositis eandem 
+            habe<lb ed="#F" n="28" break="no"/>bit faciem. Cap. XXIV.
+        </p>
+            <p xml:id="p9i7y5-e27228-d1e116">
+               <lb ed="#F" n="29"/>Sit magnes A. B. cuius poli sint A. &amp; B. dico, si ad alterum 
+            po<lb ed="#F" n="30" break="no"/>lorum, ut ad B. applices filum ferreum C. D. ita ut ferrum sui
+            <lb ed="#F" n="31"/>medietate tangat ipsum B. polum magnetis, ferrum in illo
+            <lb ed="#F" n="32"/>casu ita excitatum iri, &amp; verticitatem acquisiturum, ut unam,
+            <lb ed="#F" n="33"/>&amp; eandem faciem habeat in extremitatibus D. &amp; C. atque ita
+            <lb ed="#F" n="34"/>tam D quam C. verbi gratia habebit vim convertendi se ad Septentrionem,
+            <lb ed="#F" n="35"/>&amp; nullum illorum extremorum ad Austrum dirigetur. quod alicui fortasse
+            <lb ed="#F" n="36"/>prima fronte repugnare videbitur alterutri ex duobus suprapositis: videbi
+            <lb ed="#F" n="37"/>tur enim sibi ex hoc conficere, aut ferrum non concipere verticitatem in
+            <lb ed="#F" n="38"/>sui longiore dimensione, contra quam supra demonstratum est; aut certè
+            <lb ed="#F" n="39"/>unam faciem sine altera posse ferrum à magnete in se derivare; cum hic 
+            u<lb ed="#F" n="40" break="no"/>nica tantum facies in utroque extremo se prodat, non repugnat tamen, quod
+            <lb ed="#F" n="41"/>hic propono, superius positis.
+        </p>
+            <p xml:id="p9i7y5-e27228-d1e147">
+            <!--273.xml-->
+               <pb ed="#F" n="254"/>
+               <lb ed="#F" n="1"/>Primo autem rem, quam dico, veram esse sic suadeo: nam, si versorium
+            <lb ed="#F" n="2"/>iam convenienti 
+            ra<lb ed="#F" n="3" break="no"/>tione excitatum 
+            acci<lb ed="#F" n="4" break="no"/>pias, &amp; adhibito 
+            obe<lb ed="#F" n="5" break="no"/>lo C. D. apponas 
+            par<lb ed="#F" n="6" break="no"/>tem D. versorio, illa
+            <lb ed="#F" n="7"/>trahet, verbi gratia,
+            <lb ed="#F" n="8"/>partem versorij, quae
+            <lb ed="#F" n="9"/>vergit ad Austrum; si
+            <lb ed="#F" n="10"/>vero eidem versorio
+            <lb ed="#F" n="11"/>admoveas alteram 
+            par<lb ed="#F" n="12" break="no"/>tem obeli: C. trahet 
+            pa<lb ed="#F" n="13" break="no"/>riter eandem partem versorij Australem, cum igitur eodem modo, &amp; ex 
+            ea<lb ed="#F" n="14" break="no"/>dem parte utrumque obeli extremum C. D. versorium ad se provocet, &amp;
+            <lb ed="#F" n="15"/>eandem faciem sibi copulet, utrumque extremorum eandem habere faciem
+            <lb ed="#F" n="16"/>ex magneticis legibus necessario conficitur. Praeterea si statim post illum
+            <lb ed="#F" n="17"/>contactum obeli in B. modo supra explicato, suspendatur ipse obelus 
+            me<lb ed="#F" n="18" break="no"/>dius, non convertet sesuis extremitatibus ad vllam determinatam partem
+            <lb ed="#F" n="19"/>universi, neque magis sistet se in meridiano, quam in quolibet alio situ.
+            <lb ed="#F" n="20"/>ergo non oppositas habet facies in extremitatibus: si enim haberet ita, ut
+            <lb ed="#F" n="21"/>D. esset Septentrionalis, C. Australis, vel contra, converterentur facies ad
+            <lb ed="#F" n="22"/>suos terminos, ut sit, quando obelus convenienti ratione magneti 
+            applica<lb ed="#F" n="23" break="no"/>tur, hoc est altero extremorum tangit partem polarem. at vero, quia ex 
+            ta<lb ed="#F" n="24" break="no"/>li contactu utrunque extremorum aquirit vim se convertendi ad austrum,
+            <lb ed="#F" n="25"/>&amp; utrunque aequali nisu ad eundem terminum conatur; quia non est maior
+            <lb ed="#F" n="26"/>ratio, cur unius sit victoria potius, quam alterius, ideo neutrum dirigitur.
+            <lb ed="#F" n="27"/>Neque vero ex eo, quod ex tali contactu non acquirat obelus talem 
+            verti<lb ed="#F" n="28" break="no"/>citatem, qua se ipsum dirigat ad polos, ut solent omnia ferramenta 
+            magne<lb ed="#F" n="29" break="no"/>tice excitata, dicat quisquam non contraxisse virtutem magneticam: re 
+            nam<lb ed="#F" n="30" break="no"/>que vera qualitates magneticas manifestè ostendit, cum extrema illius 
+            ra<lb ed="#F" n="31" break="no"/>menta ferri, &amp; parvas acus suspendant, &amp; versorium ad se concitate 
+            provo<lb ed="#F" n="32" break="no"/>cent; quod utrunque ante magnetis contactum non faciebant. ergo verè 
+            con<lb ed="#F" n="33" break="no"/>traxit virtutem magneticam obelùs ex illo contactu.
+         <lb ed="#F" n="43" type="fixed=254"/>
+               <figure xml:id="p9i7y5-e27228-Fd1e228">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869997/1171,497,1148,638/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A C B D</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375743-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e27228-d1e247">
+               <lb ed="#F" n="34" type="fixed=254"/>Ratio huius redditur ex modo agendi magnetis iam saepius explicato.
+            <lb ed="#F" n="35"/>Cum enim ex puncto B. radij virtutis circunquaque diffundantur in orbem
+            <lb ed="#F" n="36"/>sicuti ex B. apparent designatae lineae (utor semper hoc modo loquendi, quia
+            <lb ed="#F" n="37"/>est rei accommodatus) circunquaque enim ad omnes partes disperguntur
+            <lb ed="#F" n="38"/>radij virtutis tali ratione, ut quilibet radius, seu linea sumpta in parte remo
+            <lb ed="#F" n="39"/>tiore magnetis habeat faciem B. in propinquiori faciem A. seu totus ille
+            <lb ed="#F" n="40"/>radius quasi continuato tractu, etiam si refractus sit, vel quasi reflexus, 
+            con<lb ed="#F" n="41" break="no"/>tinuat virturem magneticam, prout est in ipso A. B. Ea porrò ratione, qua
+            <lb ed="#F" n="42"/>isti radij sunt in medio eadem imbibuntur, ut ita dicam in corpore ad ma¬
+            <!--273.xml-->
+
+         <!--274.xml-->
+         <pb ed="#F" n="255"/>
+               <lb ed="#F" n="1"/>gnetem accidente. Cum ergo inter alios radios ex B. progredientes sint etiam
+            <lb ed="#F" n="2"/>radij B. G. &amp; B. H. qui
+            <lb ed="#F" n="3"/>procedunt ad oppositas
+            <lb ed="#F" n="4"/>partes, &amp; quarum uterque
+            <lb ed="#F" n="5"/>est eodem modo disposi
+            <lb ed="#F" n="6"/>tus, &amp; B. G. radius à B. ad
+            <lb ed="#F" n="7"/>G. Austrum respicit, ita
+            <lb ed="#F" n="8"/>ut G. sit pars Australis, B.
+            <lb ed="#F" n="9"/>Septentrionalis: 
+            simili<lb ed="#F" n="10" break="no"/>ter radius B. H. est ità 
+            di<lb ed="#F" n="11" break="no"/>spositus, ut pariter à B ad
+            <lb ed="#F" n="12"/>H. ad austrum dirigatur.
+            <lb ed="#F" n="13"/>si igitur sic applicetur
+            <lb ed="#F" n="14"/>obelus suprapositus ad
+            <lb ed="#F" n="15"/>magnetem, ut occupet hos duos radios, &amp; uterque illorum simul quasi in 
+            eo<lb ed="#F" n="16" break="no"/>dem imbibantur, non poterit non habere in utroque extremo candem 
+            fa<lb ed="#F" n="17" break="no"/>ciem; &amp; utrumque extremum ex concepta virtute dirigetur ad Austrum.
+            <lb ed="#F" n="18"/>Sicut ergo, si obelus uno extremo applicetur ad B. &amp; alterum ad quam 
+            ma<lb ed="#F" n="19" break="no"/>vis partem dirigas, illo extremo quo tangit B. acquirit vim se convertendi
+            <lb ed="#F" n="20"/>in Septentrionem, &amp; opposito dirigetur in Austrum. &amp; quotcunque 
+            verso<lb ed="#F" n="21" break="no"/>ria simul, aut successivè applices, semper acquirent virtutem hac ratione. Sie
+            <lb ed="#F" n="22"/>finge animo obelum D. C. supra positum non unicum, sed esse duo versoria,
+            <lb ed="#F" n="23"/>quae simul concurrant cuspidibus ad tangendum B. cruces autem in 
+            opposi<lb ed="#F" n="24" break="no"/>tum convertant, &amp; videbis non esse mirum, quod in utroque extremo sit 
+            ea<lb ed="#F" n="25" break="no"/>lem facies, quam in duplici versorio nulla cum difficultate agnosceres, si .n.
+            <lb ed="#F" n="26"/>statim post contactum dividas obelum bifariam in B. puncto contactus, 
+            vi<lb ed="#F" n="27" break="no"/>debis illos duos obelos, qui ex divisione consurgunt, verticitates in extremis
+            <lb ed="#F" n="28"/>habere oppositas, &amp; statim ostendere manifestas directiones magneticas
+            <lb ed="#F" n="29"/>Constat igitur ex dictis, cur, si obelum medium applices ad polum 
+            magne<lb ed="#F" n="30" break="no"/>tis, in utroque extremo sit eadem facies, &amp; in medio obelo facies 
+            extremita<lb ed="#F" n="31" break="no"/>tibus opposita, nihilque legibus magneticis repugnare.
+         <lb ed="#F" n="43" type="fixed=255"/>
+               <figure xml:id="p9i7y5-e27228-Fd1e345">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869998/783,476,1133,753/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">G B A H</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375745-r3</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e27228-d1e363">
+               <lb ed="#F" n="32" type="fixed=255"/>Advertas autem me consultò duo apposuisse, &amp; quod obelus applicetur
+            <lb ed="#F" n="33"/>ad alterum polorum, &amp; quod statim post contactum fiat experimentum:
+            <lb ed="#F" n="34"/>utrumque enim necessariò requiritur; hoc quidem postremum, quia in 
+            phy<lb ed="#F" n="35" break="no"/>sica re non potest mathematica obeli medietas applicari ad mathematicum
+            <lb ed="#F" n="36"/>polum lapidis, ac proinde vix potest contingere, ut non aliquid plus 
+            virtu<lb ed="#F" n="37" break="no"/>tis magneticae sit ex una parte obeli ex contactu, quam exalia, ideo, si ad 
+            lon<lb ed="#F" n="38" break="no"/>gum tempus post contactum differatur examen virtutis, ut videas, quae 
+            fa<lb ed="#F" n="39" break="no"/>cies sint in extremis, illa pars, quae plus virtutis habuit, in alteram aget, &amp; illi
+            <lb ed="#F" n="40"/>verticitatem immutabit, ut in toto obelo unica virtus excurrat ab extremo
+            <lb ed="#F" n="41"/>ad extremum, altera scilicet parte contra alteram praevalente, vel certè sibi
+            <lb ed="#F" n="42"/>invicem vires ita retundent lungo illo tempore, ut iam vix ullum vestigium
+            <!--274.xml-->
+
+         <!--275.xml-->
+         <pb ed="#F" n="256"/>
+               <lb ed="#F" n="1"/>ostentet illius virtutis, quam acquisivit per magnetis contactum: requiritur
+            <lb ed="#F" n="2"/>igitur primum ut obelus applicetur ad polum: si enim ita applicaretur 
+            obe<lb ed="#F" n="3" break="no"/>lus, ut sui medietate tangeret magnetem, tangeret autem in puncto 
+            aequino<lb ed="#F" n="4" break="no"/>ctiali, vel in alio illi proximo, tunc verticitatem acquireret unica tantum 
+            ra<lb ed="#F" n="5" break="no"/>tione, &amp; via: in illo enim casu, quia immittuntur inferrum radij, qui ex 
+            utro<lb ed="#F" n="6" break="no"/>que polo A. &amp; B. disseminantur: ideo acquiret verticitatem, quae in 
+            extremi<lb ed="#F" n="7" break="no"/>tatibus diversas habeat facies. Quia enim pars altera propior est parti A. &amp;
+            <lb ed="#F" n="8"/>consequenter ab illa in ferrum validiores radij derivantur, quam ex B. &amp; quia
+            <lb ed="#F" n="9"/>radij, qui proficiscuntur ex A. robustiores sunt ad producendam faciem B.
+            <lb ed="#F" n="10"/>semper autem agentia operantur secundum maiorem suam efficaciam; ideo
+            <lb ed="#F" n="11"/>verticitas, quae acquiritur in medietate obeli, quę est ad partem A est conver
+            <lb ed="#F" n="12"/>tendi se ad eandem partem, ad quam se convertit B. In universum enim 
+            sem<lb ed="#F" n="13" break="no"/>per verum est, faciem illam magnetis, quae agit, communicare virtutem se
+            <lb ed="#F" n="14"/>convertendi ad oppositum terminum illi, ad quem ipsa convertitur, simili
+            <lb ed="#F" n="15"/>etiam ratione pars obeli, quae vergit ad B. vim acquiret se convertendi ad
+            <lb ed="#F" n="16"/>eandem partem, ad quam dirigitur A. &amp; ita completam acquiret obelus ver
+            <lb ed="#F" n="17"/>ticitatem, &amp; in oppositis extremitatibus diversas facies habebit, quamvis so
+            <lb ed="#F" n="18"/>la sui medietate magnetem tangat. Debet ergo, ut utrumque extremum 
+            ean<lb ed="#F" n="19" break="no"/>dem habeat faciem, applicari obelus ad punctum polare, &amp; in sui 
+            medie<lb ed="#F" n="20" break="no"/>tate.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

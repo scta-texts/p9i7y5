@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="116"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e12427"> <!-- l2c4 -->
+            <head xml:id="p9i7y5-e12427-Hd1e107">Caput 4</head>
+            <p xml:id="p9i7y5-e12427-d1e109">
+               <lb ed="#F" n="14"/>Caput IIII.
+        </p>
+            <p xml:id="p9i7y5-e12427-d1e114">
+               <lb ed="#F" n="15"/>Maxime omnium ut arbitror ad veritatem accessit Gilbertus,
+            <lb ed="#F" n="16"/>quippequi maximè omnium experimentis nititur: quamvis
+            <lb ed="#F" n="17"/>hic auctor non multum tandem à Peregrini sententia 
+            pere<lb ed="#F" n="18" break="no"/>grinetur, ut patet ex his, quae copiosè dicit, dum libro 3. cap.
+            <lb ed="#F" n="19"/>4 5. 6. directionis causam investigat: hoc enim idem, quod
+            <lb ed="#F" n="20"/>nimirum ad unitatem tendat magneticum, &amp; unum quid facere contendat,
+            <lb ed="#F" n="21"/>tanquam certissimum suae doctrinae fundamentum collocat. Longe tamen
+            <lb ed="#F" n="22"/>melius est solis experimentis veritatem didicisse.
+        </p>
+            <p xml:id="p9i7y5-e12427-d1e134">
+               <lb ed="#F" n="23"/>Supponit igitur primo ex alibi dictis totam terram magnum esse 
+            ma<lb ed="#F" n="24" break="no"/>gnetem, de qua re nos lib. 1. copiosius. Cum igitur magnetica natura sit
+            <lb ed="#F" n="25"/>telluris propria, eiusque omnibus verioribus partibus primaria, &amp; stupenda
+            <lb ed="#F" n="26"/>ratione insita, non peculiari aliquo astro, sitque suus in tellure magneticus 
+            vi<lb ed="#F" n="27" break="no"/>gor, sicut in Sole, &amp; Luna suae formae insunt; sicut frustum Lunae lunaticè ad
+            <lb ed="#F" n="28"/>eius terminos componeret se, si evelleretur (sic auctor loquitur) solareque ad
+            <lb ed="#F" n="29"/>Solem, sic magnes ad tellurem, &amp; ad alterum magnetem secundum naturam
+            <lb ed="#F" n="30"/>sese inclinando, &amp; adijciendo disponitur. Quae haud scio an speciosè 
+            ma<lb ed="#F" n="31" break="no"/>gis, quam verè dicta sint.
+        </p>
+            <p xml:id="p9i7y5-e12427-d1e157">
+               <lb ed="#F" n="32"/>Secundo supponit ex alibi item à se dictis magnetem, &amp; venam ferri non
+            <lb ed="#F" n="33"/>differre nisi quatenus una aliam perfectione antecellit; de quo hic non 
+            di<lb ed="#F" n="34" break="no"/>sputo, quia alius erit hac de re disputandi locus. Dicit igitur, ex eo, quod
+            <lb ed="#F" n="35"/>ferrum, seu ferri vena, dum liquescit illius partes confunduntur, ferrum 
+            con<lb ed="#F" n="36" break="no"/>flatum verticitatem, &amp; facierum distinctionem amittere; ubi tamen primum
+            <lb ed="#F" n="37"/>intra orbem virium magnetis fuerit; dum etiam adhuc procul distat 
+            im<lb ed="#F" n="38" break="no"/>mutatur, inquit, statim, &amp; formam innovatam acquirit, in corpore quidem
+            <lb ed="#F" n="39"/>antea sepultam, &amp; inertem, nunc vividam, &amp; valentem. Ita coitio 
+            magne<lb ed="#F" n="40" break="no"/>tica actus est magnetis, &amp; ferri; non actio unius: verius'que utriusque entele¬
+            <!--135.xml-->
+            <pb ed="#F" n="116"/>
+               <lb ed="#F" n="1"/>chia. noviter igitur formam induit perquam excitatur, &amp; ut illam certius
+            <lb ed="#F" n="2"/>acquirat, in magnetem praeceps ruit ferrum, non gyris, &amp; conversioribus, ut
+            <lb ed="#F" n="3"/>magnes in magnetem. Quomodo autem excitet, &amp; quomodo in ferto 
+            so<lb ed="#F" n="4" break="no"/>pitam illam formam evigilare faciat magnes, alia ratione non explicat, nisi
+            <lb ed="#F" n="5"/>quod ex magnete virtus effluit, non quidem, quae sit aliquod corpusculum,
+            <lb ed="#F" n="6"/>quod ferrum pervadat, sed actu quodam immateriali, &amp; incorporeo 
+            pro<lb ed="#F" n="7" break="no"/>cessu, qui in subiectum ferreum tanquam incontinvatum homogeneum
+            <lb ed="#F" n="8"/>corpus agit, in eoque recipitur, nec patentioribus eget vijs; reprehendit'que
+            <lb ed="#F" n="9"/>Fracastorium, qui ferrum non alterari contendit, ne, si alteretur, corrum 
+            pa<lb ed="#F" n="10" break="no"/>tur forma ferri; quia, inquit, haec alteratio non generatio est, sed formae 
+            con<lb ed="#F" n="11" break="no"/>fusae restitutio, &amp; reformatio, quod scilicet ex illa metallica fusione partes
+            <lb ed="#F" n="12"/>mixtae, &amp; confusae sint, quas iterum magnes nihil luxando ex confusis 
+            sedi<lb ed="#F" n="13" break="no"/>bus revellendo ad pristinam revocat verticitatem, &amp; verò etiam meliorem,
+            <lb ed="#F" n="14"/>quam antea haberet. In hoc, quantum ego colligere potui, tota huius 
+            au<lb ed="#F" n="15" break="no"/>ctoris stat sententia.
+        </p>
+            <p xml:id="p9i7y5-e12427-d1e216">
+               <lb ed="#F" n="16"/>In qua mihi tria occurrunt in praesentia; primo enim non videtur 
+            Gil<lb ed="#F" n="17" break="no"/>bertus satis explicare rationem huius alterationis, qua ratione perficiatur
+            <lb ed="#F" n="18"/>ferrum, ac verticitatem concipiat: nihil affert, cur una magnetis pars semel
+            <lb ed="#F" n="19"/>tactum unum ferri finem obstinatè trahat, quo pacto fiat huiusmodi 
+            attra<lb ed="#F" n="20" break="no"/>ctio, subobscure potius innuit, quam declarat; &amp;, ut in scholae morem 
+            lo<lb ed="#F" n="21" break="no"/>quar, causam ipsam potius, quam modum causandi palam facit; ea ratione,
+            <lb ed="#F" n="22"/>qua quis quęrenti, cur ex excelsa Turri despiciens quis, videat homines 
+            par<lb ed="#F" n="23" break="no"/>vos quasi cubitales, responderet; hoc provenire ex distantia: re vera enim
+            <lb ed="#F" n="24"/>distantia causi est, ut, quae procul sunt, parva videantur, sed hoc responso non
+            <lb ed="#F" n="25"/>palam redditur, quì fieri possit, ut distantia res magnas quasi decurtare, &amp;
+            <lb ed="#F" n="26"/>cogere in parvum possit. Sic etiam alteratur sane fertum, &amp; à magnetis prę¬
+            <lb ed="#F" n="27"/>sentia verticitatem acquirit, &amp; haec ipsa est causa concursus ferri ad 
+            magne<lb ed="#F" n="28" break="no"/>tem. at quì fit hoc? adhuc expecto. Atque in hoc placet ingenij vires 
+            expe<lb ed="#F" n="29" break="no"/>riri, ut si defecerint vires, animus saltem non defuisse videatur. dum enim
+            <lb ed="#F" n="30"/>ego rem intentatam aggredi audeo, aliorum fortasse studia excitabo, 
+            inge<lb ed="#F" n="31" break="no"/>nia provocabo.
+        </p>
+            <p xml:id="p9i7y5-e12427-d1e253">
+               <lb ed="#F" n="32"/>Deinde, quod supponit terram magnum esse magnetem superiori lib. 
+            sa<lb ed="#F" n="33" break="no"/>tis est examinatum. ex quo apparet quantum sit huius auctoris 
+            fundamen<lb ed="#F" n="34" break="no"/>tum, quippe in tota terrestri mole suam stabilivit sententiam; sed si stabilem
+            <lb ed="#F" n="35"/>amabat non debebat terram ad perpetuam adigere vertiginem, &amp; 
+            conver<lb ed="#F" n="36" break="no"/>sionem.
+        </p>
+            <p xml:id="p9i7y5-e12427-d1e266">
+               <lb ed="#F" n="37"/>Deinde, quod dicit de ferro, &amp; magnete ferri scilicet venam esse 
+            magne<lb ed="#F" n="38" break="no"/>tem, &amp; ex fusione, &amp; confusione partium verticitatem amisisse, falsum esse
+            <lb ed="#F" n="39"/>existimo. Interim illud solum quaero, si ferri vena, seu magnes verticitatem
+            <lb ed="#F" n="40"/>amittit ex confusione partium, dum liquescit, cur ferrum ipsum etiam ipso
+            <lb ed="#F" n="41"/>fatente, quamuvis non liquescat, si tamen acriter ignescat, magneticum amit
+            <lb ed="#F" n="42"/>tit vigorem, ubi nulla est partium confusio? Adde quod etiam magnes ipse,
+            <!--136.xml-->
+            <pb ed="#F" n="117"/>
+               <lb ed="#F" n="1"/>seu perfecta ferri vena quod idem est apud ipsum, per longiorem in igne
+            <lb ed="#F" n="2"/>moram insitas vires, &amp; innatas attrahendi, &amp; alias omnes amittit 
+            magneti<lb ed="#F" n="3" break="no"/>cas actiones, &amp; tamen nondum liquescit, nondum partes confunduntur: 
+            er<lb ed="#F" n="4" break="no"/>go ferrum non amisi verticitatem ex eo quod, dum liquesceret, partes 
+            per<lb ed="#F" n="5" break="no"/>mixtae sint, &amp; confusae. Argumentor ex datis ab ipso. Deinde ego in ferri
+            <lb ed="#F" n="6"/>vena, antequam liquescat, non ita facies distinctas, &amp; constantem 
+            verticita<lb ed="#F" n="7" break="no"/>tem potui deprehendere: mea fortasse vena non erat adeo perfecta, &amp; 
+            di<lb ed="#F" n="8" break="no"/>ves, ut ab eo exigitur. Quod vero ad hoc idem confirmandum adducit,
+            <lb ed="#F" n="9"/>ferrum ex vena fusum maiorem acquirere vim magneticam ex magnetis
+            <lb ed="#F" n="10"/>contactu, quam habeat ipse magnes, unde conficit in ferro delitescere actu
+            <lb ed="#F" n="11"/>vim magneticam, perfectiorem etiam, utpotè à recrementis repurgatam;
+            <lb ed="#F" n="12"/>falsum esse alibi demonstrabo. neque hoc potest concludi ex eo, quod fertum
+            <lb ed="#F" n="13"/>magneti ramenta surripit, cum non retineat praedam procul positum à 
+            ma<lb ed="#F" n="14" break="no"/>gnete. Sed de hoc uberius, &amp; clarius suo loco. quod denique ait ferrum 
+            re<lb ed="#F" n="15" break="no"/>cta ruere ad magnetem non gyris, &amp; conversionibus, ut magnes, hoc 
+            fal<lb ed="#F" n="16" break="no"/>sum est, si ferrum sit alias magneticè excitatum: si enim magneti occurrat
+            <lb ed="#F" n="17"/>contraria ratione, atque sit virtus, quam habet, per gyros, &amp; conversiones
+            <lb ed="#F" n="18"/>ad magnetem deferetur, &amp; haec de aliorum opinionibus sint satis: iam
+            <lb ed="#F" n="19"/>meam incipiam fundare sententiam.
+        </p>
+            <p xml:id="p9i7y5-e12427-d1e327">
+               <lb ed="#F" n="20"/>Attractiones magneticas fieri per qualitatem duarum facierum.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 13</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 13</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="44"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-de5065"> <!-- l1c13 -->
+            <head xml:id="p9i7y5-de5065-Hd1e107">Caput 13</head>
+            <p xml:id="p9i7y5-de5065-d1e109">
+               <lb ed="#F" n="34"/>In ferrum etiam hanc virtutem, quae à natura est instituta, ad magneticum motum;
+            <lb ed="#F" n="35"/>&amp; conversionem in polos derivari. Caput XIII.
+        </p>
+            <p xml:id="p9i7y5-de5065-d1e116">
+               <lb ed="#F" n="36"/>Magneticarum motionum instrumentum in magnete ipso 
+            vidi<lb ed="#F" n="37" break="no"/>mus, idem nunc in ferro inquirere tentabimus, durissimamque,
+            <lb ed="#F" n="38"/>&amp; pugnacem eius substantiam pervadentes, mentis obtutum
+            <lb ed="#F" n="39"/>admittere cogemus. Diximus igitur magnetem qualitatem
+            <lb ed="#F" n="40"/>habere duarum facierum, tanquam sibi connatum instrumentum, quo in
+            <!--63.xml-->
+            <pb ed="#F" n="44"/>
+               <lb ed="#F" n="1"/>polos dirigitur; primum vero principium illius motus esse naturam ipsam
+            <lb ed="#F" n="2"/>magnetis; at vero videmus etiam ferrum aliquando eadem ratione dirigi
+            <lb ed="#F" n="3"/>in polos, qua dirigitur magnes. quodnam erit tunc motus principium 
+            in<lb ed="#F" n="4" break="no"/>strumentale? quodnam substantiale? Videmus enim, si sumamus filum
+            <lb ed="#F" n="5"/>ferreum, vel acum, &amp; magneti admoveamus, ut, vel tangat magnetem in
+            <lb ed="#F" n="6"/>aliqua eius parte, vel certè, si non tangat, proximè ad illum accedat, vim 
+            ac<lb ed="#F" n="7" break="no"/>quirere, ut si libretur, vel quomodocunque à gravitatis compedibus, 
+            qui<lb ed="#F" n="8" break="no"/>bus à motu prępeditur, liberetur, acquirere vim sese dirigendi in polos, dum
+            <lb ed="#F" n="9"/>tali ratione, quasi à magnete emancipatur, &amp; procul constituitur. Nunc 
+            igi<lb ed="#F" n="10" break="no"/>tur, quid ex tali contactu ferrum acquisierit, inquirimus.
+        </p>
+            <p xml:id="p9i7y5-de5065-d1e155">
+               <lb ed="#F" n="11"/>Primo certum esse debet ferrum ex tali contactu, vel approximatione
+            <lb ed="#F" n="12"/>non esse substantialiter immutatum. huius rei testes omnes appello, qui in
+            <lb ed="#F" n="13"/>ferro eadem accidentia, easdemque proprietates deprehendunt, hac una 
+            ex<lb ed="#F" n="14" break="no"/>cepta verticitate, qua de novo dives factum est. Cum igitur nulla alia 
+            sen<lb ed="#F" n="15" break="no"/>sibilis alteratio, nulla proprietatum immutatio sit facta, neque etiam 
+            subie<lb ed="#F" n="16" break="no"/>ctum de gradu suo substantiali discessisse credendum est. Quoties enim 
+            sub<lb ed="#F" n="17" break="no"/>stantia immutatur, plurima in subiecto accidentia, imo omnia, (si multis
+            <lb ed="#F" n="18"/>crederemus) immutari contingit; licet deinde à nova forma substantiali
+            <lb ed="#F" n="19"/>multa ex eisdem accidentibus in eadem specie reproducantur. quam 
+            opi<lb ed="#F" n="20" break="no"/>nionem nec dico, nec illi me addico; certè non fit mutatio substantialis
+            <lb ed="#F" n="21"/>absque magna, &amp; vehementi praevia alteratione, quae longum requirit satis
+            <lb ed="#F" n="22"/>temporis tractum, &amp; solum agentis vis, &amp; robur mutationis cursum 
+            incita<lb ed="#F" n="23" break="no"/>re potest, quorum omnium hic nullum vestigium observamus: videmus 
+            e<lb ed="#F" n="24" break="no"/>nim ferrum hanc verticitatem in ictu oculi acquirere, ubi primum inter
+            <lb ed="#F" n="25"/>magneticas vires devenerit: ferri autem pugnacissima substantia 
+            obstina<lb ed="#F" n="26" break="no"/>tissima'que forma, quae immunis vehementissimos patitur ignes, tam cito
+            <lb ed="#F" n="27"/>non potest depelli. Verum nulli, ut arbitror, in mentem venit ferrum ex
+            <lb ed="#F" n="28"/>magnetico contactu ferrum non amplius esse, vel substantialiter 
+            immu<lb ed="#F" n="29" break="no"/>tari.
+        </p>
+            <p xml:id="p9i7y5-de5065-d1e200">
+               <lb ed="#F" n="30"/>Secundo certum esse debet aliquam accidentariam pati mutationem,
+            <lb ed="#F" n="31"/>quaecunque tandem illa sit. Videmus enim ferrum expedite nunc ad 
+            po<lb ed="#F" n="32" break="no"/>los convertere se, cum antea id non fecerit. ex alteratione ergo aliquid de
+            <lb ed="#F" n="33"/>novo nunc habet, quod antea non habebat: ex novo enim effectu novam,
+            <lb ed="#F" n="34"/>nullo contradicente, possumus causam inferre: caeteris enim stantibus, 
+            fer<lb ed="#F" n="35" break="no"/>rum prius pigrum, &amp; insistens, nunc motum videmus incitare, se solo, nullo
+            <lb ed="#F" n="36"/>externo impellente. aliquid ergo illi additum fuisse virium, quod antea non
+            <lb ed="#F" n="37"/>haberet, merito conficimus. Quod si aliquis contenderet ab externo 
+            mo<lb ed="#F" n="38" break="no"/>tore nunc ferrum dirigi, obstant primo omnes illae difficultates, ex quibus
+            <lb ed="#F" n="39"/>supra intulimus magnetem à principio interno moveri. Deinde quì 
+            fa<lb ed="#F" n="40" break="no"/>ctum est, ut nunc expedite ab externo illo dirigi possit, cum antea 
+            obstina<lb ed="#F" n="41" break="no"/>te detrectaret imperium? ut non nisi ad summum lentissimè exequeretur;
+            <lb ed="#F" n="42"/>certè aliquid in eo productum est, quo quasi occlusae aures patuerunt.
+            <!--64.xml-->
+            <pb ed="#F" n="45"/>
+               <lb ed="#F" n="1"/>XIII.
+            <lb ed="#F" n="2"/>Ea denique accedit ratio peculiaris ad
+            <lb ed="#F" n="3"/>huius rei confirmationem, quòd, si 
+            su<lb ed="#F" n="4" break="no"/>mas ferrum A. B. mediumque ita 
+            suspen<lb ed="#F" n="5" break="no"/>das, &amp; libres, ut obvertat partem A. in 
+            sep<lb ed="#F" n="6" break="no"/>tentrionem, &amp; B. ad meridiem, hoc'que
+            <lb ed="#F" n="7"/>constanter, vel quia alias à magnete, vel
+            <lb ed="#F" n="8"/>quia aliunde, si fieri potest, vim traxit 
+            ma<lb ed="#F" n="9" break="no"/>gneticam, continget aliquando, si 
+            obe<lb ed="#F" n="10" break="no"/>lum magneti admoveas, ut invertatur
+            <lb ed="#F" n="11"/>ista virtus, nec amplius A. ad Septentrionem, sed ad Austrum dirigatur, &amp;
+            <lb ed="#F" n="12"/>B. non amplius ad Austrum, sed ad Septentrionem se dirigat: certè non 
+            po<lb ed="#F" n="13" break="no"/>test hoc aliunde contingere, nisi quia ex hoc proximo contactu magnetis
+            <lb ed="#F" n="14"/>aliqua in obelo sit facta interna mutatio; cum nunc ad contrarias se 
+            con<lb ed="#F" n="15" break="no"/>vertat partes, atque antea. Sed non pluribus pugno, quia nullus, ut 
+            arbi<lb ed="#F" n="16" break="no"/>tror, repugnabit.
+         <lb ed="#F" n="44" type="fixed=44"/>
+               <figure xml:id="p9i7y5-de5065-Fd1e272">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869787/1237,372,821,576/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375422-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-de5065-d1e290">
+               <lb ed="#F" n="17" type="fixed=44"/>Verum adhuc subdo hanc mutationem ex eo ortam esse, quod vim 
+            acti<lb ed="#F" n="18" break="no"/>vam receperit ad motum, non autem ex eo tantum, quod dispositionem
+            <lb ed="#F" n="19"/>passivam ad hoc habuerit. nullus illorum repugnabit, qui magneticam 
+            tra<lb ed="#F" n="20" break="no"/>ctarunt philosophiam, nec alius, nisi fortasse sciolus aliquis, qui res 
+            inge<lb ed="#F" n="21" break="no"/>nij, subtilitate ne dixerim, an gracilitate, metiatur, &amp; ferrum de pacifica,
+            <lb ed="#F" n="22"/>quam hactenus obtinuit, possessione, per summam iniuriam, deturbare 
+            co<lb ed="#F" n="23" break="no"/>netur. Verum qui supra à nobis iacta fundamenta perscrutatus fuerit, dum
+            <lb ed="#F" n="24"/>magneticum internum motorem stabilivimus, sentiet in hoc non posse esse
+            <lb ed="#F" n="25"/>difficultatem. Cur autem ferrum potius, &amp; quae ferri redolent naturam,
+            <lb ed="#F" n="26"/>hanc vim ex magnete concipiant, infra pluribus explicabitur; ubi de 
+            at<lb ed="#F" n="27" break="no"/>trahendi vi magnetis disputandum erit, causa'que inquirenda, cur potius
+            <lb ed="#F" n="28"/>ferrum, quam lapides, ligna, aliavè metalla magnes ad se provocet, &amp; 
+            su<lb ed="#F" n="29" break="no"/>spendat: ubi videbimus an ferrum imitetur magnetis naturam, an vero
+            <lb ed="#F" n="30"/>cum Gilberto dicendum sit, unam eamdem'que esse utriusque essentiam.
+        </p>
+            <p xml:id="p9i7y5-de5065-d1e323">
+               <lb ed="#F" n="31"/>Interim illud satis sit ferrum ex sua natura esse proximè dispositum ad
+            <lb ed="#F" n="32"/>hanc qualitatem duarum facierum recipiendam, qua in polos dirigitur, &amp;
+            <lb ed="#F" n="33"/>hoc propter formam, quam habet, cui, etiamsi non conveniar haec qualitas
+            <lb ed="#F" n="34"/>tanquam proprietas, ac propterea nec à ferro dimanare, aut fluere possit, 
+            si<lb ed="#F" n="35" break="no"/>cut reliquae proprietates fluunt à proprijs formis, &amp; haec ipsa à magnete 
+            pro<lb ed="#F" n="36" break="no"/>manat, ferro tamen non repugnet, quia nihil habet in se, quod illi 
+            adverse<lb ed="#F" n="37" break="no"/>tur, immo facilè eam admittit, &amp; talem habet naturam, ut in se commodum.
+            <lb ed="#F" n="38"/>illi praebere possit hospitium, &amp; amice conservare: sit'que subiectum aptum,
+            <lb ed="#F" n="39"/>&amp; idoneum ad hanc qualitatem, cuiusmodi non sunt aliae res, in quibus
+            <lb ed="#F" n="40"/>quamvis produceretur hęc eadem qualitas duarum facierum, non posset 
+            ta<lb ed="#F" n="41" break="no"/>men, nisi praesente magnere, perdurare. Atque huius discriminis inter 
+            fer<lb ed="#F" n="42" break="no"/>rum, &amp; alias res, cur in ferro conservetur, in alijs non item, nulla alia 
+            po<lb ed="#F" n="43" break="no"/>test reddi in praesentia ratio, nisi ex natura ferri petita, &amp; convenientia for¬
+            <!--64.xml-->
+            
+         <!--65.xml-->
+         <pb ed="#F" n="46"/>
+               <lb ed="#F" n="1"/>mae; quae, si non sit eadem cum magnete, saltem sit illi valde affinis, quod
+            <lb ed="#F" n="2"/>non habent aliae rerum formae. Verum de ferro, &amp; de his qualitatibus tàm
+            <lb ed="#F" n="3"/>directivis quàm attractivis iterum dicetur infra.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

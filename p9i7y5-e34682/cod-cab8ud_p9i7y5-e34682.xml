@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 17</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 17</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="323"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e34682"> <!-- l4c17 -->
+            <head xml:id="p9i7y5-e34682-Hd1e107">Caput 17</head>
+            <p xml:id="p9i7y5-e34682-d1e109">
+               <lb ed="#F" n="13"/>Ferro ferrum à magnete surripitur, quod magneti adhaerebat; non tamen propterea plùs
+            <lb ed="#F" n="14"/>est virtutis in ferro, quam in magnete. Cap. XVII.
+        </p>
+            <p xml:id="p9i7y5-e34682-d1e116">
+               <lb ed="#F" n="15"/>Non inter postremos magneticos effectus, qui torquere possint
+            <lb ed="#F" n="16"/>quorundam ingenia, ponerem hunc, quem in ista 
+            propositio<lb ed="#F" n="17" break="no"/>ne explico. Sit magnes A. B. ex quo pendeat obelus ferreus C.
+            <lb ed="#F" n="18"/>dico si ita applices aliud ferrum magnetice excitum E, ut 
+            tan<lb ed="#F" n="19" break="no"/>gat obclum in parte remotioe à magnete, futurum, ut obelus
+            <!--342.xml-->
+            <pb ed="#F" n="323"/>
+               <lb ed="#F" n="20"/>magnetem relinquat, &amp; ferro E adhęreat, &amp; ita ferrum, alterum ferrum à ma
+            <lb ed="#F" n="21"/>gnete surripit, quasi firmiori glutine copularetur ferrum cum ferro, quam
+            <lb ed="#F" n="22"/>cum magnete, dum ita firmiter cum isto ferro colligatur, ut vinculum 
+            ma<lb ed="#F" n="23" break="no"/>gnetis dissolvatur potius, quam ferri communis nexus. Res est facilis atque
+            <lb ed="#F" n="24"/>utinam (si ita loqui fas est) non esset adeo facilis, &amp; experimentum nos non
+            <lb ed="#F" n="25"/>convinceret. Ut enim verum fateat; tantam iniecit cogitationem hoc, quan
+            <lb ed="#F" n="26"/>tum ferè nulla alia res in hac philosophia, ut rationem redderem, quę 
+            satis<lb ed="#F" n="27" break="no"/>faceret.
+         <lb ed="#F" n="32" type="fixed=323"/>
+               <figure xml:id="p9i7y5-e34682-Fd1e153">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870066/345,1754,1525,613/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">E C A B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375850-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e34682-d1e171">
+               <lb ed="#F" n="28" type="fixed=323"/>Gilbertus lib. 2 cap. 4. putavit id ex eo provenire, quod ferrum ex 
+            magne<lb ed="#F" n="29" break="no"/>tis contactu maiorem concipiat vim magneticam, quam si in ipsomet 
+            ma<lb ed="#F" n="30" break="no"/>gnete. Quod si quis obijciat universam philosophiam reclamare. Primo .n.
+            <lb ed="#F" n="31"/>sphera activitatis procedit uniformiter difformiter ergo impossibile est, quod
+            <!--342.xml-->
+
+         <!--343.xml-->
+         <pb ed="#F" n="324"/>
+               <lb ed="#F" n="1"/>in subiecto quantumvis applicato per contactum qualitas producatur 
+            ma<lb ed="#F" n="2" break="no"/>gis intensa, quam sit in ipsomet agente: quia intensio recedendo ab agente,
+            <lb ed="#F" n="3"/>à quo sane receditur, dum ad passum acceditur, quod est extra agens, semper
+            <lb ed="#F" n="4"/>magis ac magis minuitur, non igitur habebit ferrum in tota sua substantia
+            <lb ed="#F" n="5"/>qualitatem ęquè intensam, ne dum intensiorem, quam sit in toto agente. 
+            De<lb ed="#F" n="6" break="no"/>inde agens agit, in quantum est actu, idest secundum formam, quam habet,
+            <lb ed="#F" n="7"/>&amp; per illam, quam habet. ergo non poterit producere intensiorem formam
+            <lb ed="#F" n="8"/>quam habeat in se, quia illam intensionem non habet, nec est in actu illius
+            <lb ed="#F" n="9"/>intensionis ergo neque potest producere: nemo enim dat alteri, quod non
+            <lb ed="#F" n="10"/>habet in se. Et quamvis calidum ut duo possit producere calorem ut unum,
+            <lb ed="#F" n="11"/>verbi gratia, &amp; hunc gradum possit producere in decem distinctis subiectis,
+            <lb ed="#F" n="12"/>non tamen propterea sequitur, etiam si gradus illi intensionis ponantur 
+            om<lb ed="#F" n="13" break="no"/>nes eiusdem rationis, quod possit in uno, &amp; eodem subiecto producere totum
+            <lb ed="#F" n="14"/>illum calorem, quem potest in divisis, &amp; distinctis subiectis: nam, ut 
+            longio<lb ed="#F" n="15" break="no"/>rem, &amp; luculentiorem omittam responsionem ad hoc argumentum, quam
+            <lb ed="#F" n="16"/>posui ad libros de generatione; hic solum breviter dico, non posse agens 
+            pro<lb ed="#F" n="17" break="no"/>ducere in eodem subiecto, nisi qualitatem eiusdem intensionis, 
+            proportio<lb ed="#F" n="18" break="no"/>naliter ad subiectum, quam habet in se: hoc est enim producere tantundem
+            <lb ed="#F" n="19"/>qualitatis, quantum est in se, si subiectum, sive magnum sit sive parvum, 
+            qua<lb ed="#F" n="20" break="no"/>litatem recipiat proportionaliter tantam, quanta est in agente.
+        </p>
+            <p xml:id="p9i7y5-e34682-d1e233">
+               <lb ed="#F" n="21"/>Si haec, &amp; similia Gulberto obijcias, respondebit, ut arbitror, quod innuit
+            <lb ed="#F" n="22"/>loco citato, ferrum, ex eo, quod sit Vena magnetis, quae igne purgata est, &amp;
+            <lb ed="#F" n="23"/>dum ignis vi solvitur ac defluit, ex recrementis separatur, tam ferrum, quam
+            <lb ed="#F" n="24"/>acies (nobilius ferrum) recrementa autem illa ignis vi corrupta, aut fęces
+            <lb ed="#F" n="25"/>quaedam sunt imperfectioris cuiusdem naturae, aut aliquid extraneum 
+            ma<lb ed="#F" n="26" break="no"/>gneti. deputata est igitur per illam concoctionem vena &amp; apta magis 
+            red<lb ed="#F" n="27" break="no"/>dita ad magneticam qualitatem. Haec ille, &amp; alia in hanc sententiam. Ex
+            <lb ed="#F" n="28"/>quibus videtur velle, quod, dum vena ferri liquescit in metallum, ita 
+            perfi<lb ed="#F" n="29" break="no"/>ciatur ex illa sordium separatione, ut reddatur subiectum magis idoneum
+            <lb ed="#F" n="30"/>ad qualitatem magneticam, quam sit ipse magnes, in quo sunt adhuc illę par
+            <lb ed="#F" n="31"/>tes minus repurgatae, &amp; internis malis faedatae. Verum quidquid sit de isto, etiam
+            <lb ed="#F" n="32"/>si admittamus magnetem absolutè venam esse ferri, ac proinde, dum 
+            perco<lb ed="#F" n="33" break="no"/>latur igne, &amp; metallicas exuit impuritates, reijcere pariter, quod magneticis
+            <lb ed="#F" n="34"/>obest operationibus.
+        </p>
+            <p xml:id="p9i7y5-e34682-d1e266">
+               <lb ed="#F" n="35"/>Vel contendit Gilbertus in ferro conflato remanere magneticam 
+            quali<lb ed="#F" n="36" break="no"/>tatem, quae tamen solum certos non habeat magneticos motus ex eo, quod
+            <lb ed="#F" n="37"/>per fusionem partes sint confusae, &amp; permixtae sicut ferè accidit in ferreo pul
+            <lb ed="#F" n="38"/>vere in fistula chartacea excitato, postea confùso: vult tamen nihilominus
+            <lb ed="#F" n="39"/>adhuc illam vim à natura immissam durare, &amp; hoc nec puto verum, nec ad
+            <lb ed="#F" n="40"/>huius effectus causam afferrendam idoneum. Quod non sit verum, patet;
+            <lb ed="#F" n="41"/>quia vena ferri, sive magnes, esto pro eodem sumantur, vim magneticam
+            <lb ed="#F" n="42"/>amittit, non ex confusione partium, dum liquescit, sed ex sola vehementi
+            <!--344.xml-->
+            <pb ed="#F" n="325"/>
+               <lb ed="#F" n="1"/>ignitione. Si enim magnes incandescat, etiam si non fluat in metallum, &amp;
+            <lb ed="#F" n="2"/>consequenter etiam si partes non confundantur, nullum amplius habet 
+            ma<lb ed="#F" n="3" break="no"/>gneticum impetum. ergo non confusio partium, quae hic nulla est illam 
+            au<lb ed="#F" n="4" break="no"/>fert virtutem immo &amp; fertum verticitatem amittit ex sola ignitione, etiam
+            <lb ed="#F" n="5"/>si noni fluat. Deinde non posset ita commodè ferrum excitari, si innatam ali
+            <lb ed="#F" n="6"/>quam haberet actu verticitatem, nec posset illi verticitas per novum 
+            conta<lb ed="#F" n="7" break="no"/>ctum immutari, ut probatum est supra. Quod constat ex eo, quod magneti
+            <lb ed="#F" n="8"/>vix unquam verticitas immutatur. Non satisfacit vero neque hoc dictum
+            <lb ed="#F" n="9"/>quaestioni; quia illa antiqua vis, quae remaneret, nihil operaretur, imo 
+            po<lb ed="#F" n="10" break="no"/>tius impediret, quia una pars dirigeretur, ad unam universi partem, alia ad
+            <lb ed="#F" n="11"/>aliam oppositam: ergo sola illa certa via producta per novum magneticum
+            <lb ed="#F" n="12"/>contactum, quae ex se, ut supra probavi, minor est, quam illa, quae est in 
+            ma<lb ed="#F" n="13" break="no"/>gnete, ac proinde per illam firmius non adhaerebit ferrum ferro, ut 
+            magne<lb ed="#F" n="14" break="no"/>ti surripiatur.
+        </p>
+            <p xml:id="p9i7y5-e34682-d1e321">
+               <lb ed="#F" n="15"/>Vel certè contendit ille auctor, nullam quidem esse actu in ferro 
+            confla<lb ed="#F" n="16" break="no"/>to magneticam qualitatem, sed tamen propter illam metallicam 
+            purgatio<lb ed="#F" n="17" break="no"/>nem factum esse subiectum magis aptum ad magneticam qualitatem; quam
+            <lb ed="#F" n="18"/>sit ipse magnes, in quo sunt adhuc multae impuritates, &amp; admixtae fęces; Et
+            <lb ed="#F" n="19"/>hoc licet admitteretur, essetque ferrum subiectum aptissimum ad excipiendam
+            <lb ed="#F" n="20"/>hanc qualitatem, propter illam à recrementis purgationem, quod non vehe
+            <lb ed="#F" n="21"/>menter displiceret, non satisfaceret tamen: quia, quaecunque tandem sit ista
+            <lb ed="#F" n="22"/>passiva dispositio, maior certè vis à magnete non poterit haberi, quam illi
+            <lb ed="#F" n="23"/>magnes conferre possit; non potest autem magnes conferre, nisi quam 
+            ha<lb ed="#F" n="24" break="no"/>bet, &amp; ita falsum erit omnino, quod subdit, ob eamque causam, &amp; materiae
+            <lb ed="#F" n="25"/>in corpus magis mundum purgationem, magnes dat ferro maiorem 
+            attra<lb ed="#F" n="26" break="no"/>hendi vim, quam in se habeat. nunquam enim capacitas sub ecti, si est merè
+            <lb ed="#F" n="27"/>passiva, quantumvis exaggerata sit, potest efficere, ut agens plus possit produ
+            <lb ed="#F" n="28"/>cere qualitatis, quam in se habeat. Sit purissimus aer aptissimus ad 
+            accipien<lb ed="#F" n="29" break="no"/>dum lumen, candela nunquam producit plus luminis, quam habeat in se, &amp;
+            <lb ed="#F" n="30"/>sic de singulis: dispositio ad patiendum non auget vim activam agentis, sed
+            <lb ed="#F" n="31"/>tantum non minuit: res est certissima. Quamvis autem nova alia afferat ma
+            <lb ed="#F" n="32"/>gnetica philosophia, non video tamen, cur hoc etiam ex illa invehatur, ve
+            <lb ed="#F" n="33"/>res possit efficienter dare, quod non habet.
+        </p>
+            <p xml:id="p9i7y5-e34682-d1e365">
+               <lb ed="#F" n="34"/>Quod si velit aliquis Gliberti quasi partes assumens, addere, ferrum 
+            con<lb ed="#F" n="35" break="no"/>statum, quia magneticum est corpus, habere vim producendi in se qualitatem
+            <lb ed="#F" n="36"/>magneticam duarum facierum, non posse tamen istam productionem 
+            inci<lb ed="#F" n="37" break="no"/>pere, nisi inchoetur actio ab aliquo externo magnete, à quo inijciatur quasi
+            <lb ed="#F" n="38"/>semen huius qualitatis: quod deinde suo sinu foveat ferrum, &amp; quasi 
+            fermen<lb ed="#F" n="39" break="no"/>tando augeat, &amp; producat ad maiorem perfectionem, quam quae sit in ipso
+            <lb ed="#F" n="40"/>magnete, à quo semen derivatum fuit. quare habebit ferrum in se maiorem
+            <lb ed="#F" n="41"/>qualitatem, quam, quae sit in magnete. non quidem productam à magnete
+            <lb ed="#F" n="42"/>per contactum, sed cuius solum sementem magnes dederit; &amp; ipsum deinde
+            <!--345.xml-->
+            <pb ed="#F" n="326"/>
+               <lb ed="#F" n="1"/>ferrum, ex eo, quod sit subiectum magis idoneum, &amp; veluti terra fę
+            cundissi<lb ed="#F" n="2" break="no"/>ma, auxerit, &amp; multiplicaverit, ut deinde ipsi etiam magneti ferrum 
+            surripe<lb ed="#F" n="3" break="no"/>re possit, atque adeo habebit hoc modo fertum vim activam producendi 
+            quali<lb ed="#F" n="4" break="no"/>tatem magneticam, &amp; quidem perfectissimam, debebit tamen excitari à ma
+            <lb ed="#F" n="5"/>gnete, à quo productio incipitur. Respondeo hanc evadendi viam (quam tamen
+            <lb ed="#F" n="6"/>nec quaesivit, nec approbavit Gilbertus) speciem quidem quandam habere
+            <lb ed="#F" n="7"/>prima fronte, praesertim ex illa sementis metaphora; sicut .n. terra auget 
+            cre<lb ed="#F" n="8" break="no"/>ditum sibi semen. &amp; producit, quae tamen nunquam produxisset, nisi semen
+            <lb ed="#F" n="9"/>recepisset; sic &amp; ferrum augere dicitur vim qualitatis, tamen in re nostra non
+            <lb ed="#F" n="10"/>puto esse ad rem, summopere: &amp; qui intelliget qua ratione semen in terra
+            <lb ed="#F" n="11"/>multiplicetur, quod scilicet in illo vis activa sit ad transmutandum 
+            adiun<lb ed="#F" n="12" break="no"/>ctis sibi alijs concausis partes sibi propinquas terrae, &amp; adiacentes 
+            humidi<lb ed="#F" n="13" break="no"/>tates; ac proinde non sit in terra nova vis, quae à virtute seminis excitetur, sed
+            <lb ed="#F" n="14"/>solum expectet terram concausam; si tamen active concurrit ad 
+            producen<lb ed="#F" n="15" break="no"/>dum germen; omnino, si quis alte scrutetur sementis atque segetis 
+            for<lb ed="#F" n="16" break="no"/>mam, de qua re dicam alias Deodante, videbit longè diversam esse hic 
+            dif<lb ed="#F" n="17" break="no"/>ficultatem, ubi quaestio est de alteratione propriè dicta, &amp; incrementò 
+            eius<lb ed="#F" n="18" break="no"/>dem qualitatis, non de nutritione per alimenti transmutationem. Si ergo
+            <lb ed="#F" n="19"/>natura ferri vim habet, posito primo gradu qualitatis, verbi gratia, 
+            produ<lb ed="#F" n="20" break="no"/>cendi in se secundum, &amp; tertium, multo magis poterit producere primum:
+            <lb ed="#F" n="21"/>nec ullum habemus exemplum in ullo agentium genere, quod possit 
+            pro<lb ed="#F" n="22" break="no"/>ducere tertium gradum qualitatis, &amp; non possit etiam producere 
+            secun<lb ed="#F" n="23" break="no"/>dum, &amp; primum, nec debemus gratis novam omnino philosophandi 
+            ra<lb ed="#F" n="24" break="no"/>tionem invenire. Neque puto necessarium pluribus exemplum de semente
+            <lb ed="#F" n="25"/>confutare; cuius longè diversa est ratio, ut consideranti patebit. Deinde
+            <lb ed="#F" n="26"/>non posset ita facilè per novum contactum verticitas immutati in ferro, si
+            <lb ed="#F" n="27"/>ferrum haberet vim activam producendi intensiorem gradum. Tertio est
+            <lb ed="#F" n="28"/>contra universam magneticam philosophiam, quod corpus magneticum
+            <lb ed="#F" n="29"/>habeat in se vim producendi in se ipso qualitatem magneticam, &amp; 
+            produ<lb ed="#F" n="30" break="no"/>cendi illam, ut excurrat quacunque ratione: &amp; si reproducitur à natura, 
+            re<lb ed="#F" n="31" break="no"/>producitur solum illa determinata ratione, hoc autem in ferro non 
+            es<lb ed="#F" n="32" break="no"/>set, si ferrum vim haberet in se activam producendi qualitatem. 
+            Si<lb ed="#F" n="33" break="no"/>cut enim potest per contactum magnetis excitari, ut verticitas excurrat
+            <lb ed="#F" n="34"/>quacunque ratione, si figura confentiat, sic posset etiam sibi ferrum 
+            qua<lb ed="#F" n="35" break="no"/>litatem producere per innatam vim quacunque ratione, quod magneticis
+            <lb ed="#F" n="36"/>repugnat legibus.
+        </p>
+            <p xml:id="p9i7y5-e34682-d1e469">
+               <lb ed="#F" n="37"/>Age verò non solum non potest ab illo maiorem ferrum surripere
+            <lb ed="#F" n="38"/>qualitatem, quam sit in magnete excitante; sed etiam directè ostendo
+            <lb ed="#F" n="39"/>illum effectum, quod scilicet ferrum à magnete ferrum surripiat, non
+            <lb ed="#F" n="40"/>provenire ex eo, quod in se actu permanenter habeat maiorem 
+            magneti<lb ed="#F" n="41" break="no"/>cam qualitatem, quam, quae sit in magnete. Quod autem hoc verum sit,
+            <lb ed="#F" n="42"/>probo dupliciter. Primo si ferrum maiorem permanenter in se haberet
+            <!--346.xml-->
+            <pb ed="#F" n="327"/>
+               <lb ed="#F" n="1"/>qualitatem, &amp; magis intensam, quam sit in magnete, &amp; haec esset ratio, cur
+            <lb ed="#F" n="2"/>illi firmius ferrum adhaeresceret, sequeretur, quod ferrum à magnete 
+            surrep<lb ed="#F" n="3" break="no"/>tum retineret firmiter semper, sicut retinuisset magnes, cui surripuit; &amp; 
+            me<lb ed="#F" n="4" break="no"/>lius, atqui hoc est falsum, &amp; probatur ex ipsomet Gilberto, &amp; quando 
+            Gil<lb ed="#F" n="5" break="no"/>bertus taceret, ex experientia: Si enim pendeat ex magnete anulus ferreus.
+            <lb ed="#F" n="6"/>&amp; alterum anulum ad primum applices, adhaerebit ille, qui pendet ex 
+            ma<lb ed="#F" n="7" break="no"/>gnete huic secundo ita firmiter, ut si secundum retrahas revelles etiam à 
+            ma<lb ed="#F" n="8" break="no"/>gnete primum, verum adhaerebit primus secundo solum, quandiu uterque
+            <lb ed="#F" n="9"/>erit intra sphaeram activitatis efficacem magnetis; at si procul amoveas 
+            ma<lb ed="#F" n="10" break="no"/>gnetem, statim decidet à secundo primus, nec amplius adhaerebunt. ergo quod
+            <lb ed="#F" n="11"/>secundus adhaereat ita firmiter primo, ut illum revellat à magnete, non 
+            pro<lb ed="#F" n="12" break="no"/>venit à qualitate, quae absolutè sit in secundo maior: retineret enim illum 
+            per<lb ed="#F" n="13" break="no"/>petuo firmius. sed remoto magnete non amplius retinet: ergo provenit à vir
+            <lb ed="#F" n="14"/>tute magnetis, quod sic secundo anulo adhaereat primus, non ab ipso anulo,
+            <lb ed="#F" n="15"/>nec à qualitate, quae sit permanenter in anulo, hoc est independenter à 
+            ma<lb ed="#F" n="16" break="no"/>gnete. Et in universum, dum clavos abripit à magnete, aut alia huiusmodi
+            <lb ed="#F" n="17"/>ferramenta ferrum, illa non retinet, nisi dum est intra orbem magnetis. ergo
+            <lb ed="#F" n="18"/>non potest dici, quod si surripit, id proveniat ex eo, quod plus virtutis 
+            abso<lb ed="#F" n="19" break="no"/>lutè sit in ferro, quam in magnete. Cum enim ista ferruminatio dependeat
+            <lb ed="#F" n="20"/>à praesentia magnetis, qua posita ponitur, sublata aufertur, &amp; sit vis etiam 
+            a<lb ed="#F" n="21" break="no"/>ctiva ad huiusmodi effectum in magnete. ergo causa saltem partialis huius
+            <lb ed="#F" n="22"/>subreptionis est in magnete, non absolutè in ferro, frustra ergo quaeritur cau
+            <lb ed="#F" n="23"/>sa huius maioris vigoris in natura ferri. Aut profecto ego magnopere 
+            fal<lb ed="#F" n="24" break="no"/>lor, aut haec ratio est evidens, quod hic effectus proveniat à vi activa 
+            magne<lb ed="#F" n="25" break="no"/>tis, cum non appareat, nisi existente ferro intra sphaeram activitatis 
+            magne<lb ed="#F" n="26" break="no"/>tis; non quia ferrum concipiat permanenter in se maiorem virtutem, quam
+            <lb ed="#F" n="27"/>sit in magnete, cum extra talem sphęram nunquam ostendat hanc maiorem
+            <lb ed="#F" n="28"/>virtutem.
+        </p>
+            <p xml:id="p9i7y5-e34682-d1e550">
+               <lb ed="#F" n="29"/>Praeterea si magneti obelum pendentem detrahit admotum ferrum, quia,
+            <lb ed="#F" n="30"/>dum conflatum est ferrum ex sua vena, à recrementis purgatum est, &amp; factum
+            <lb ed="#F" n="31"/>corpus magis idoneum ad magneticum vigorem, ac proinde potest ex hoc,
+            <lb ed="#F" n="32"/>dum ad magnetem accedit, concipere maiorem vim, quam sit in magnete
+            <lb ed="#F" n="33"/>excitante, per quam surripiat obelum à magnete; qua ratione ille idem 
+            Gil<lb ed="#F" n="34" break="no"/>bertus, qui hanc protulit causam huius effectus, dixit: lib. 2. cap 32. &amp; si non
+            <lb ed="#F" n="35"/>dixisset, res ipsa loquitur, quemadmodum bacillum ferreum detrahit ferrum à 
+            ter<lb ed="#F" n="36" break="no"/>rella, licet viribus infirmior, ita etiam magnes debilis à magnete robusto ferrum abripit;
+            <lb ed="#F" n="37"/>&amp; tamen parvus ille magnes non concipit à maiore robustiorem virtutem,
+            <lb ed="#F" n="38"/>quam sit in magno: nulla est enim hic repurgatio à recrementis, nulla 
+            sor<lb ed="#F" n="39" break="no"/>dium depositio per fusionem. debet ergo cognoscere iste auctor, &amp; fateri hoc,
+            <lb ed="#F" n="40"/>quod est abripi ferrum à magnete non provenire ex eo, quod in abripiente
+            <lb ed="#F" n="41"/>sit maior vis, quam in eo, cui abripitur, si parvus magnes ferrum à maiore
+            <lb ed="#F" n="42"/>abripit, quod similiter postea non retinet, si procul à sphaera activitatis ma¬
+            <!--347.xml-->
+            <pb ed="#F" n="328"/>
+               <lb ed="#F" n="1"/>ioris recedat. Cur igitur dum ferrum similiter aufert à magnete obelum, id
+            <lb ed="#F" n="2"/>provenire contendat ex maiore virtute magnetica? si semel inveniti potest
+            <lb ed="#F" n="3"/>causa, cui fiat ista abreptio, non admissa maiore virtute in abripiente, cur non
+            <lb ed="#F" n="4"/>etiam ad ferrum iliam transferimus, ne tanto labore, &amp; tota repugnante phi
+            <lb ed="#F" n="5"/>losophia, causam maioris virtutis quaeramus in ferro, quam in magnete, à
+            <lb ed="#F" n="6"/>quo ferrum excitatur?
+        </p>
+            <p xml:id="p9i7y5-e34682-d1e601">
+               <lb ed="#F" n="31" type="fixed=328"/>
+               <figure xml:id="p9i7y5-e34682-Fd1e606">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870071/887,2085,1313,794/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A E C D B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375858-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="7" type="fixed=328"/>Res ut vides, Lector, facillima non est. Ex una enim parte evidens 
+            vide<lb ed="#F" n="8" break="no"/>tur non posse esse in ferro intensiorem vigorem magneticum, quam sit in
+            <lb ed="#F" n="9"/>magnete excitante, neque provenire hunc effectum ex intensiore qualitate,
+            <lb ed="#F" n="10"/>&amp; purgatione à recrementis; cum etiam magnes infirmius ferrum abripiat
+            <lb ed="#F" n="11"/>à robustiore; ex alia parte firmior illa adhaesio ferri, quae convellit à magnete
+            <lb ed="#F" n="12"/>ferrum ferruminatio est magnetica: ergo non potest nisi à maiore vigore
+            <lb ed="#F" n="13"/>provenire. Quid igitur dicemus? sub obscure nescio quid subdit Gilbertus
+            <lb ed="#F" n="14"/>cap. illo 32. ferrum C. inquit, cum terrella A. coit, &amp; in eo vigor exaltatur, excitaturque
+            <lb ed="#F" n="15"/>magneticè, &amp; in termino adiuncto, &amp; in altero etiam averso per coitionem à terrella 
+            aver<lb ed="#F" n="16" break="no"/>sus terminus vigorem etiam concipit à magnete B. polus item illius D. validus est propter
+            <lb ed="#F" n="17"/>aspectum convenientem &amp; propinquitatem poli terrellae E. plures igitur causae concurrunt,
+            <lb ed="#F" n="18"/>cur terrellae B. adiunctum ferrum C. firmius cohaereat, quam cum A. terrella, vigor excitus
+            <lb ed="#F" n="19"/>in bacillo, excitus etiam vigor in B. lapide, &amp; insitae vires in B, concurrunt, ferruminatur
+            <lb ed="#F" n="20"/>ergo firmius D. cum C. quam E, cum C. Haec ille fortasse breviter, ne pluribus
+            <lb ed="#F" n="21"/>aperiret aditum patentiorem impugnationibus. Adde quod malam 
+            appo<lb ed="#F" n="22" break="no"/>suit figuram saltem in meo exemplari, in qua non sunt litterae, quae 
+            nominan<lb ed="#F" n="23" break="no"/>tur, quamvis non putem hoc dolo malo factum, sed impressoris incuria, cum
+            <lb ed="#F" n="24"/>illa figura in sequentibus transposita inveniatur. Sit igitur magnes A. cui
+            <lb ed="#F" n="25"/>adhaereat ad polum E. obelus C. sit alter magnes parvus B. polus illius D. con¬
+            <!--347.xml-->
+            <pb ed="#F" n="328"/>
+               <lb ed="#F" n="26"/>venienter ad obelum applicetur; separabitur obelus C. à polo E. &amp; 
+            adiunge<lb ed="#F" n="27" break="no"/>tur ipsi D. Agnosco etiam ipse, ut dicebam, debere esse maiorem virtutem in
+            <lb ed="#F" n="28"/>D. aliqua ratione, si illi firmius obelus adhaeret, sed no video ex quibus nam
+            <lb ed="#F" n="29"/>inferatur illa consequentia, nam verum quidem est excitari obelum C. à 
+            po<lb ed="#F" n="30" break="no"/>lo E. non solum in parte tacta, sed etiam in aversa: excitatur tamen minus,
+            <!--347.xml-->
+
+         <!--348.xml-->
+         <pb ed="#F" n="329"/>
+               <lb ed="#F" n="1"/>quam in parte tacta. similiter excitat D. non solum partem tactam, sed etiam
+            <lb ed="#F" n="2"/>oppositam, sed proportionaliter, nisi aliud probetur, incrementa se habent.
+            <lb ed="#F" n="3"/>Si iuvatur polus D. à magnete A. propter convenientem respectum, &amp; 
+            pro<lb ed="#F" n="4" break="no"/>pinquitatem poli E. iuvetur etiam proportionaliter polus E. propter 
+            conve<lb ed="#F" n="5" break="no"/>nientem aspectum magnetis B. quare tam respectu obeli, quam respectu 
+            po<lb ed="#F" n="6" break="no"/>lorum incrementa videntur aequalia, &amp; remanet adhuc probanda illa 
+            con<lb ed="#F" n="7" break="no"/>sequentia, quod maior sit virtus in D. quam in E. Ut igitur ea claritate, qua
+            <lb ed="#F" n="8"/>possum, dicam in hac re, quod sentio.
+        </p>
+            <p xml:id="p9i7y5-e34682-d1e704">
+               <lb ed="#F" n="9"/>Suppono duo agentia, quae habeant qualitatem ambo in eadem 
+            inten<lb ed="#F" n="10" break="no"/>sione, quae si sint aequalia in magnitudine, densitate, aut simili re, quae iuvet
+            <lb ed="#F" n="11"/>ad actionem, nullum quidem illorum aio posse producere qualitatem in
+            <lb ed="#F" n="12"/>maiori intensione, quam habeat in se; quod hic suppono ex illo principio in
+            <lb ed="#F" n="13"/>trivijs decantato: Nemo dat, quod non habet: nec unquam, ut alibi 
+            proba<lb ed="#F" n="14" break="no"/>vi, agens intensum, ut quatuor, producet effectum intensum ut quinque, sit
+            <lb ed="#F" n="15"/>quantumlibet magnum: magnitudo enim per se non est activa, nec est ratio
+            <lb ed="#F" n="16"/>agendi, &amp; si fingeretur agere, produceret magnitudinem non intensionem:
+            <lb ed="#F" n="17"/>qualitas intensa illa est, quae est formalis ratio agendi, neque effectum 
+            supra<lb ed="#F" n="18" break="no"/>quam perfectionem producet, loquendo formaliter. magnitudo mensura
+            <lb ed="#F" n="19"/>extranea est qualitatibus. Quamvis igitur in hac re pro mea staret parte ista
+            <lb ed="#F" n="20"/>sententia, quod scilicet agens propter suam magnitudinem possit 
+            produce<lb ed="#F" n="21" break="no"/>re qualitatem intensiorem, quam habeat in se, &amp; per illam facilius me 
+            expe<lb ed="#F" n="22" break="no"/>direm ab hac difficultate, tamen quia illam, cuiuscunque sit, puto falsam, &amp;
+            <lb ed="#F" n="23"/>in ingenua, &amp; vera, ut saltem cuperem, philosophia nolo assumere, quam
+            <lb ed="#F" n="24"/>puto falsam, opinionem pro vera causa alicuius effectus: suppono, vel 
+            po<lb ed="#F" n="25" break="no"/>tius admitto agens non posse producere qualitatem, nisi ad summum in 
+            ae<lb ed="#F" n="26" break="no"/>quali intensione, ac sit qualitas quam habet in se.
+        </p>
+            <p xml:id="p9i7y5-e34682-d1e746">
+               <lb ed="#F" n="27"/>Suppono secundo id, quod experientia constat, agens magnum habere
+            <lb ed="#F" n="28"/>maiorem sphaeram activitatis, quam habeat parvum, quod tam notum est,
+            <lb ed="#F" n="29"/>suam quod notissimum: &amp; si quis hoc non sentiret, experiatur, quam 
+            pro<lb ed="#F" n="30" break="no"/>cul à magno igne etiam torreatur, nedum calefiar, &amp; quam propè debeat 
+            ac<lb ed="#F" n="31" break="no"/>cedere ad parvum, ut sufficienter incalescat; &amp; tamen tàm parvus, quàm ma
+            <lb ed="#F" n="32"/>gnus, est ignis, &amp; consequenter habet calorem in eadem intensione; sit enim
+            <lb ed="#F" n="33"/>etiam magnus, &amp; parvus ignis in eadem materia, ut tollantur cavilli. Posito
+            <lb ed="#F" n="34"/>igitur; quod agens maius maiorem habeat sphaeram activitatis, quam parvum
+            <lb ed="#F" n="35"/>eiusdem intensionis, sequitur necessario, quod in aequali distantia agens 
+            ma<lb ed="#F" n="36" break="no"/>ius producet qualitatem intensiorem, quàm in eadem distantia producat
+            <lb ed="#F" n="37"/>agens minus; etiam si utrunque qualitatem habeat aequè intensam in se. Hoc
+            <lb ed="#F" n="38"/>evidenter probo duobus triangulis A. B. C. &amp; A. B. D. cuius bases sint 
+            super<lb ed="#F" n="39" break="no"/>ficies E. &amp; F. eiusdem altitudinis A. B: altitudo ergo, seu linea A. B. 
+            suppona<lb ed="#F" n="40" break="no"/>tur pro intensione agentis, quae quia aequalis in utroque ponitur, ideo 
+            am<lb ed="#F" n="41" break="no"/>bo ponuntur in eadem altitudine: sphaera minoris agentis pertingat usque
+            <lb ed="#F" n="42"/>ad C. quę quia decrescit uniformiter difformiter, donec desinat in non sphę¬
+            <!--349.xml-->
+            <pb ed="#F" n="330"/>
+               <lb ed="#F" n="1"/>ram activitatis in C. ita exprimitur per triangulum A. B. C. cuius latera 
+            sem<lb ed="#F" n="2" break="no"/>per uniformiter constringuntur, donec se tangant in puncto C. &amp; linea, quae
+            <!--349.xml-->
+            <pb ed="#F" n="330"/>
+               <lb ed="#F" n="3"/>ubinde ducitur parallela basi, &amp; semper brevior, &amp; brevior est, prout 
+            rece<lb ed="#F" n="4" break="no"/>ditur à basi, indicet intensionem effectus, qui potest produci ab illo agente
+            <lb ed="#F" n="5"/>in tali distantia. iam vero agens F. quia maiorem habet sphaeram activitatis,
+            <lb ed="#F" n="6"/>exprimatur eius activitas triangulo A. B. D. cuius basis est quidem eadem
+            <lb ed="#F" n="7"/>cum principio A. B. quia utrunque supponitur eiusdem intensionis, unde &amp;
+            <lb ed="#F" n="8"/>in contactu aequalem utrunque producet effectum, &amp; quantumlibet sit 
+            ma<lb ed="#F" n="9" break="no"/>gnum, si tamen supponatur semper eiusdem intensionis cum E. retinebitur
+            <lb ed="#F" n="10"/>semper basis A. B. pro triangulo exprimente sphaeram activitatis; nec unquam
+            <lb ed="#F" n="11"/>poterit producere effectum intensiorem se; quia basis, quae ponitur pro 
+            in<lb ed="#F" n="12" break="no"/>tensione agentis, stat ijsdem inclusa terminis A. B. qua stante nunquam in
+            <lb ed="#F" n="13"/>triangulo ducetur linea parallela basi, quae sit maior illa, sed semper minor,
+            <lb ed="#F" n="14"/>quae ponitur pro intensione effectus, ut facilè posset etiam geometricis 
+            ratio<lb ed="#F" n="15" break="no"/>nibus demonstrari. tamen quia sphaera est productior, protrahitur longius
+            <lb ed="#F" n="16"/>angulus D quo supponitur terminari sphaera. Ex hoc vides, quod, sicuti in
+            <lb ed="#F" n="17"/>distantia M. N. agens F. potest producere qualitatem satis intensam, quam
+            <lb ed="#F" n="18"/>indicat linea M. N. in qua distantia agens E. nihil potest producere; quia est
+            <lb ed="#F" n="19"/>extra sphaeram activitatis illius, ita in distantia G. H. agens E. non producet
+            <lb ed="#F" n="20"/>qualitatem nisi intensam, prout indicat linea I. L. at vero agens F. quod 
+            ma<lb ed="#F" n="21" break="no"/>iorem habet sphaeram activitatis, poterit in eadem distantia multo magis
+            <lb ed="#F" n="22"/>intensam producere, quam indicat G. H. quae longè maior est, quam I. L. 
+            ali<lb ed="#F" n="23" break="no"/>quando duplo, vel triplo, ut si non physicum, sed mathematicum esse 
+            ne<lb ed="#F" n="24" break="no"/>gotium possem facilè geometrice demonstrare; Ex quo obiter adnotabo, quod
+            <lb ed="#F" n="25"/>fortasse ad doctrinam de alteratione in universum non parum conducet,
+            <lb ed="#F" n="26"/>quomodo scilicet duo agentia E. &amp; F. ita se habeant, ut in aliqua distantia
+            <lb ed="#F" n="27"/>F. possit producere qualitatem ut duo, vel etiam ut tria, ubi producit E. solum
+            <lb ed="#F" n="28"/>ut unum, &amp; tamen summa utriusque actio, puta, in contactu est aequalis, ut
+            <lb ed="#F" n="29"/>quinque, nec unquam agens F. producet plus quam ut quinque, &amp; 
+            tantun<lb ed="#F" n="30" break="no"/>dem in proximo producere E. quod totum patet ex triangulis positis.
+         <lb ed="#F" n="32" type="fixed=330"/>
+               <figure xml:id="p9i7y5-e34682-Fd1e859">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870073/568,603,1685,563/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">D M N C I L G H A E B F</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375861-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e34682-d1e877">
+               <lb ed="#F" n="31" type="fixed=330"/>His suppositis revertor ad magnetica, &amp; suppono tam magnetem A. quam
+            <!--349.xml-->
+
+         <!--350.xml-->
+         <pb ed="#F" n="331"/>
+               <lb ed="#F" n="1"/>B. habere in se magneticam qualitatem eiusdem intensionis proportiona¬
+            <!--350.xml-->
+            <pb ed="#F" n="331"/>
+               <lb ed="#F" n="2"/>liter, &amp; similiter si cultrum excitetur à magnete A. &amp; consequenter passum
+            <lb ed="#F" n="3"/>applicetur ad basim postpositi trianguli, pono in illo produci qualitatem
+            <lb ed="#F" n="4"/>eiusdem intensionis cum illa, quae est in magnete, vel certè non multo mino
+            <lb ed="#F" n="5"/>rem, certè nullo modo maiorem. Hoc posito, quia patuus magnes B. minor
+            <lb ed="#F" n="6"/>est in sua mole, quam sit A. minorem etiam habebit sphaeram activitatis,
+            <lb ed="#F" n="7"/>quam habeat A. iam verò si ponantur duo magnetes A. &amp; B. in tanta 
+            distan<lb ed="#F" n="8" break="no"/>tia, quanta est longitudo obeli C. qui medius inter illos ponitur, &amp; ad alterum
+            <lb ed="#F" n="9"/>extremum applicetur magnes A. ad alterum vero magnes B primum, 
+            quan<lb ed="#F" n="10" break="no"/>tum est ex parte magnetis supponendo seorsum singulorum vires aequales,
+            <lb ed="#F" n="11"/>aequaliter ambo adhaerebunt obelo in sua extremitate, quantum est pręcisè
+            <lb ed="#F" n="12"/>ad illam extremitatem.
+         <lb ed="#F" n="31" type="fixed=331"/>
+               <figure xml:id="p9i7y5-e34682-Fd1e921">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870074/537,461,1351,765/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A E C D B L</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375863-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e34682-d1e939">
+         Quia enim utriusque qualitas ponitur aeque intensa,
+         <lb ed="#F" n="13" type="fixed=331"/>puta, ut quatuor, in contactu singuli magnetes producent qualitatem, ut 
+            qua<lb ed="#F" n="14" break="no"/>tuor, &amp; adhaerebunt obelo vi ut quatuor; quia tamen agens A. habet 
+            lon<lb ed="#F" n="15" break="no"/>giorem sphaeram activitatis, quàm sit longitudo obeli, &amp; magnes B. est ad
+            <lb ed="#F" n="16"/>illum convenienter dispositus, roborabit pariter polum, &amp; actionem poli
+            <lb ed="#F" n="17"/>illius D. in illa distantia roboratione, puta, ut duo, iam ergo erunt in polo
+            <lb ed="#F" n="18"/>D. sex gradus conspirantes ad adhaesionem obeli cum polo D. quatuor nimirum
+            <lb ed="#F" n="19"/>gradus ex natura ipsius magnetis B. &amp; duo ex roboratione A, agentis in B. 
+            si<lb ed="#F" n="20" break="no"/>bi convenienter disposito; at vero magnes B. agit quidem A. versus, quia 
+            si<lb ed="#F" n="21" break="no"/>bi etiam ille mutuo est convenienter dispositus, &amp; eius actio incipit etiam
+            <lb ed="#F" n="22"/>ipsa, ut quatuor, quia ponuntur eiusdem intensionis; at vero, quia minorem
+            <lb ed="#F" n="23"/>habet sphęram activitatis in eadem distantia longitudinis scilicet obeli, non
+            <lb ed="#F" n="24"/>causat in polo E. roborationem duorum graduum, quam A, causat in D. sed
+            <lb ed="#F" n="25"/>minorem, puta, unius et ita iam vides differentiam ex parte magnetis ipsius:
+            <lb ed="#F" n="26"/>nam in polo E. est vis retentiva obeli, ut quinque, quatuor ex vi magnetis A.
+            <lb ed="#F" n="27"/>unum ex roboratione magnetis B. at vero in polo D. est vis retentiva obeli,
+            <lb ed="#F" n="28"/>ut sex, quatuor ex virtute magnetis B. duo ex roboratione magnetis A. qui
+            <lb ed="#F" n="29"/>cum sit maior, potest in eadem distantia roborare alterum ut duo, in qua 
+            di<lb ed="#F" n="30" break="no"/>stantia ipse ab altero non roboratur, nisi ut unum. Ergo praecisè ex parte ma
+            <!--350.xml-->
+
+         <!--351.xml-->
+         <pb ed="#F" n="332"/>
+               <lb ed="#F" n="1"/>gnetis etiam est maior ratio, cur obelus adhaereat potius D. quam E. &amp; sur
+            <lb ed="#F" n="2"/>ripiatur ab E. quia ibi uno gradu minor est vis retentiva, ut 
+            demonstra<lb ed="#F" n="3" break="no"/>vi.
+        </p>
+            <p xml:id="p9i7y5-e34682-d1e994">
+               <lb ed="#F" n="31" type="fixed=332"/>
+               <figure xml:id="p9i7y5-e34682-Fd1e999">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870075/849,568,1310,788/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A E C D B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375864-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="4" type="fixed=332"/>Similiter ex parte ipsius obeli est maior adhaerentia ad D. quam ad E. 
+            quam<lb ed="#F" n="5" break="no"/>vis minor sit magnes B. quam A. nam in obelo C. à solo magnete A. produ
+            <lb ed="#F" n="6"/>citur qualitas duarum facierum, quae est formalis ratio adhaerendi 
+            corpori<lb ed="#F" n="7" break="no"/>magnetico, in extremo à se tacto, ut quatuor, &amp; in opposito extremo ut duo,
+            <lb ed="#F" n="8"/>verbi gratia; ita enim paulatim uniformiter difformiter decrescit virtus, 
+            si<lb ed="#F" n="9" break="no"/>cut decrescit sphęra activitatis (hic suppono quaedam infra dicenda; quę 
+            ta<lb ed="#F" n="10" break="no"/>men favent potius huic doctrinę quam illam destruant. quare si quid tibi
+            <lb ed="#F" n="11"/>contrarium, lector, occurrat, sustine modicum, donec totum id aperiam;
+            <lb ed="#F" n="12"/>quod sentio; hic loquor solum ex hactenus demonstratis (Atque ita in 
+            obe<lb ed="#F" n="13" break="no"/>lo ex vi hus solius contactus esset vis adhęrendi corpori magnetico sibi
+            <lb ed="#F" n="14"/>coniuncto, &amp; convenienter disposito in extremo tacto à magnete A, ut 
+            qua<lb ed="#F" n="15" break="no"/>tuor, in altero extremo, ut duo. similiter dum parvus magnes B. tangit suum
+            <lb ed="#F" n="16"/>extremum ex se, &amp; sua sola vi communicat vim adhęrendi corpori 
+            magne<lb ed="#F" n="17" break="no"/>tico in extremo à se tacto pariter, ut quatuor; quia aequalis supponitur eius
+            <lb ed="#F" n="18"/>virtus, &amp; intensio; in altero vero extremo non tacto producit solum vim ut
+            <lb ed="#F" n="19"/>unum; ex quo conficitur, ut, dum obelus tangitur ab utroque magnete, in
+            <lb ed="#F" n="20"/>extremo tacto à polo E. sit virtus adhaetendi ut quinque quatuor enim 
+            pro<lb ed="#F" n="21" break="no"/>ducuntur à magnete A. unum vero à magnete B. in parte opposita ei, quam
+            <lb ed="#F" n="22"/>tangit; at vero in extremo obeli, quo tangit magnetem B. sit vis adhęrendi
+            <lb ed="#F" n="23"/>ut sex: in ipso enim contactu quatuor producuntur à magnete B. cuius vis
+            <lb ed="#F" n="24"/>in contactu ęqualis est magneti A. pręterea duo gradus producuntur à 
+            ma<lb ed="#F" n="25" break="no"/>gnete A. in eodem extremo ex vi contactus in parte opposita: quamvis enim
+            <lb ed="#F" n="26"/>isti gradus non producantur permanenter in obelo, quia nec multiplicata
+            <lb ed="#F" n="27"/>agentia possunt producere qualitatem intensiorem, quam habeant in se 
+            per<lb ed="#F" n="28" break="no"/>manenter; tamen, sicuti, dum adsunt plura luminosa in eodem aere est 
+            lu<lb ed="#F" n="29" break="no"/>men maius, quod ab utroque actu dependet, quamvis non dicatur intensius,
+            <lb ed="#F" n="30"/>quia illuminatio est quędam actio, quę non solum pendet pręcisè ab agen¬
+            <!--351.xml-->
+
+         <!--352.xml-->
+         <pb ed="#F" n="333"/>
+               <lb ed="#F" n="1"/>te, sed certa etiam via, &amp; directione propagatur, unde uniuscuiusque actio
+            <lb ed="#F" n="2"/>servatur distincta, &amp; effectus multiplicatis agentibus, nec intendunt se in
+            <lb ed="#F" n="3"/>medio lumina, licet multiplicentur; habent tamen effectum perinde, ac si
+            <lb ed="#F" n="4"/>esset lumen intensius: quia re vera est plus ibi de entitate luminis; quae 
+            vide<lb ed="#F" n="5" break="no"/>tur ratio intensionis, cum maior in uno subiecto est entitas qualitatis; tamen
+            <lb ed="#F" n="6"/>re vera illae, partes luminis non uniuntur, nec fiunt unum numero, quia acci
+            <lb ed="#F" n="7"/>dentia, quae in esse &amp; conservari pendent ab externo agente, non recipiunt
+            <lb ed="#F" n="8"/>unitatem inumericam à subiecto uno numero; sed ab efficiente, quale est 
+            lu<lb ed="#F" n="9" break="no"/>men, &amp; qualitas magnetica, ut est ab agente: nam etiam agentia 
+            magneti<lb ed="#F" n="10" break="no"/>ca, quia pariter actionem habent, &amp; effectum certa quadam ratione directum,
+            <lb ed="#F" n="11"/>&amp;, ut ita dicam, irradiatum, multiplicatis agentibus multiplicatur etiam
+            <lb ed="#F" n="12"/>virtus in passo, &amp; licet non intendatur, sed multiplicetur, habet tamen 
+            effe<lb ed="#F" n="13" break="no"/>ctum inrensionis. Dum igitur actu obelus subest actioni magneticorum, in
+            <lb ed="#F" n="14"/>illo vigor est magneticus ratione posita multiplicatus, licet non intensus,
+            <lb ed="#F" n="15"/>sad cùm effectu intensionis. Quare cum tam ex parte obeli ad 
+            adhaeren<lb ed="#F" n="16" break="no"/>dum, quam ex parte magnetis ad attrahendum ostensus sit vigor magis 
+            ef<lb ed="#F" n="17" break="no"/>ficax in D. quam E. non est mirum, quod si ambo magnetes obelum tangant,
+            <lb ed="#F" n="18"/>&amp; alterum illorum amoveatur, seu potius retrahatur, quod obelus potius 
+            ad<lb ed="#F" n="19" break="no"/>haereat ad magnetem B. quam ad A quamvis ille minor sit. immò ratio, cur
+            <lb ed="#F" n="20"/>illi adhaereat, hęc ipsa est, quia minor est, ut demonstravi ex proprijs 
+            magne<lb ed="#F" n="21" break="no"/>ticis principijs, &amp; ex propria agendi ratione huius lapidis.
+        </p>
+            <p xml:id="p9i7y5-e34682-d1e1128">
+               <lb ed="#F" n="22"/>Hoc quod dixi de minore magnete ferrum a maiore surtipiente, hoc idem
+            <lb ed="#F" n="23"/>de ferro dicendum est, dum eundem ostendit effectum: ob eandem enim
+            <lb ed="#F" n="24"/>omnino rationem ferrum à magnete aufert obelos ferreos; quia, quamvis in
+            <lb ed="#F" n="25"/>suo contactu ferè tantundem habeat virium, aut paulo minus, quam habeat
+            <lb ed="#F" n="26"/>magnes; longè tamen illo minorem habet sphaeram activitatis: &amp; ideo ex
+            <lb ed="#F" n="27"/>supputatione graduum supraposita conficitur, quod tam in ferro, est maior
+            <lb ed="#F" n="28"/>vigor ad retinendum in extremo, quo tangit obelum, quam in obelo ad 
+            ad<lb ed="#F" n="29" break="no"/>haerendum ferro potius quam magneti. Quod autem hoc sibi non volverit
+            <lb ed="#F" n="30"/>Gilbertus verbis supra citatis, patet, quia non erat, cur diceret ideo ferrum
+            <lb ed="#F" n="31"/>surripere obelum à magnete, quia maiorem concipit vigorem à magnete,
+            <lb ed="#F" n="32"/>eo quod sit repurgatum à faecibus, &amp; recrementis: nam etiam parvus 
+            ma<lb ed="#F" n="33" break="no"/>gnes, qui non est repurgatus, surripit. si ergo causam agnovisset in patuo ma
+            <lb ed="#F" n="34"/>gnete, potuisset illam transferre ad ferrum: illi enim omnino 
+            accommoda<lb ed="#F" n="35" break="no"/>tur, ut dictum est. Surripit ergo ferrum à magnete obelum ferreum, nec 
+            pro<lb ed="#F" n="36" break="no"/>pterea maiorem concipit in se permanenter magneticam qualitatem 
+            pro<lb ed="#F" n="37" break="no"/>pter repurgationem à recrementis. quod erat demonstrandum.
+            <lb ed="#F" n="38"/>Ex hac porro doctrina sequitur, quod vehementius illam corfirmat, cum
+            <lb ed="#F" n="39"/>videamus de facto rem sic se habere; primo magnetem, &amp; ferrum, quo mino
+            <lb ed="#F" n="40"/>ra fuerint, si in sua specie virtutem habeant aequalem, idest in eadem intensio,
+            <lb ed="#F" n="41"/>ne pro ratione subiecti, facilius ferrum surripere à maiore magnete. Quod
+            <lb ed="#F" n="42"/>sane mirum est, &amp; videtui contra rationem dictum; factum tamen est à na¬
+            <!--353.xml-->
+            <pb ed="#F" n="334"/>
+               <lb ed="#F" n="1"/>tura; quo minor est alter magnes, maior oppositus, eo magis diversae erunt
+            <lb ed="#F" n="2"/>sphaerae activitatis, &amp; differentiae maiores in extremitatibus obeli, iuxta 
+            do<lb ed="#F" n="3" break="no"/>ctrinam supra traditam. &amp; ita facilius minor magnes surripiet ferrum à 
+            ma<lb ed="#F" n="4" break="no"/>iore, ut ex dictis facilè constat.
+        </p>
+            <p xml:id="p9i7y5-e34682-d1e1189">
+               <lb ed="#F" n="5"/>Secundo conficitur, quod si obelus fuerit longior, aliquantulo facilius à
+            <lb ed="#F" n="6"/>parvo magnete surripietur, quam si sit brevissimus. cui etiam fortasse ratio
+            <lb ed="#F" n="7"/>non facilem praeberet assensum, nisi experimentum rem ostenderet. Et ratio
+            <lb ed="#F" n="8"/>huius est, quia, quo longior erit obelus, eo sphaera activitatis minoris 
+            ma<lb ed="#F" n="9" break="no"/>gnetis, quae brevis est, minus pertinget ad alterum extremum obeli, quo cum
+            <lb ed="#F" n="10"/>maiore magnete nectitur, atque ita &amp; minus ipsum maiorem magnetem po
+            <lb ed="#F" n="11"/>terit roborare, &amp; in illo extremo minus obelum excitare: si tamen obelus,
+            <lb ed="#F" n="12"/>qui maiori magneti adhaeret, sit adeo longus, ut excedat sphaeram activitatis
+            <lb ed="#F" n="13"/>maioris magnetis, magnes parvus tunc non surripit obelum à maiore. Quae
+            <lb ed="#F" n="14"/>omnia cum experimentis roborentur, quo magis mira videntur, eò clarius
+            <lb ed="#F" n="15"/>ex hoc confirmatur, &amp; stabilitur doctrina posita, quò facillimè ex illa 
+            singu<lb ed="#F" n="16" break="no"/>lorum redditur clarissima ratio.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

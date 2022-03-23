@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 19</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 19</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="242"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e25836"> <!-- l3c19 -->
+            <head xml:id="p9i7y5-e25836-Hd1e107">Caput 19</head>
+            <p xml:id="p9i7y5-e25836-d1e109">
+               <lb ed="#F" n="24"/>Verticitas semper ferro communicatur secundum maiorem ferri longitudinem, 
+            quacun<lb ed="#F" n="25" break="no"/>que ratione ferrum magneti applicetur. Cap. XIX.
+        </p>
+            <p xml:id="p9i7y5-e25836-d1e116">
+               <lb ed="#F" n="26"/>Dixi supra propriam esse in magnete longitudinem, secundum
+            <lb ed="#F" n="27"/>quam extenditur eius virtus; cuius virtutis unum extremum
+            <lb ed="#F" n="28"/>Septentrionem, alterum extremum Austrum respicit. quae ma
+            <lb ed="#F" n="29"/>genetis longitudo, ut à natura immittitur, ita ab eadem 
+            con<lb ed="#F" n="30" break="no"/>servatur. ut vix alia ratione, quam prius expulsa ipsa natura,
+            <lb ed="#F" n="31"/>possit expelli; nec nisi fere mutata natura mutari. quo fit, ut cum 
+            determina<lb ed="#F" n="32" break="no"/>ta sit, &amp; à natura haec longitudo certis terminis definita, non semper per 
+            ma<lb ed="#F" n="33" break="no"/>iorem lapidis physicam, ut ita dicam, seu quantitativam longitudinem 
+            ex<lb ed="#F" n="34" break="no"/>tendatur: haec enim quantitativa longitudo materialis est, &amp; accidentalis, 
+            il<lb ed="#F" n="35" break="no"/>la verò virtutis formalis est, &amp; substantiae. Maior erit in lapide materialis
+            <lb ed="#F" n="36"/>longitudo A. B. quia longiori, &amp; productiori mensura hac via mensuratur,
+            <lb ed="#F" n="37"/>&amp; tamen virtus per A. B. non discurrit aliquando, neque A. &amp; B. sunt 
+            natu<lb ed="#F" n="38" break="no"/>rales termini verticitatis: brevior multo est linea C. D. feret tamen res 
+            ali<lb ed="#F" n="39" break="no"/>quando, ut haec virtutis longtudinem metiatur; quia secundum hanc 
+            qua<lb ed="#F" n="40" break="no"/>litas, &amp; viitus funditur, quod alibi Iigni exemplo explicatum est. Dico igi¬
+            <!--261.xml-->
+            <pb ed="#F" n="242"/>
+               <lb ed="#F" n="1"/>tur hoc, quod in magnete non semper contingit, ut eadem sit longitudo 
+            la<lb ed="#F" n="2" break="no"/>pidis, &amp; virtutis, seu 
+            for<lb ed="#F" n="3" break="no"/>malis, &amp; materialis; in fer
+            <lb ed="#F" n="4"/>ro semper contingere, ut
+            <lb ed="#F" n="5"/>scil cet semper illa linea
+            <lb ed="#F" n="6"/>recta, quae productior in
+            <lb ed="#F" n="7"/>ferro duci potest, 
+            magne<lb ed="#F" n="8" break="no"/>ticam etiam virtutem in
+            <lb ed="#F" n="9"/>ferro productam 
+            dime<lb ed="#F" n="10" break="no"/>tiatur, ut extrema huius
+            <lb ed="#F" n="11"/>lineae sint etiam extrema
+            <lb ed="#F" n="12"/>virtutis productae, seu 
+            po<lb ed="#F" n="13" break="no"/>li verticitatis, quacunque
+            <lb ed="#F" n="14"/>tandem ratione ferrum ad magnetem appulerit.
+         <lb ed="#F" n="43" type="fixed=242"/>
+               <figure xml:id="p9i7y5-e25836-Fd1e188">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869985/1214,527,1102,649/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A C B D</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375725-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <!--261.xml-->
+            </p>
+            <p xml:id="p9i7y5-e25836-d1e208">
+               <lb ed="#F" n="15" type="fixed=242"/>Sit ergo magnes A. B. cui applicetur obelus ferreus, quacunque tandem
+            <lb ed="#F" n="16"/>ratione magnetem tangat, &amp;
+            <lb ed="#F" n="17"/>in quocunque magnetis pun
+            <lb ed="#F" n="18"/>cto fiat contactus, semper vir
+            <lb ed="#F" n="19"/>tutis magneticae, quam ex 
+            con<lb ed="#F" n="20" break="no"/>tactu obelus concipiet, eadem
+            <lb ed="#F" n="21"/>est longitudo, quae est 
+            longi<lb ed="#F" n="22" break="no"/>tudo ipsius obeli. &amp; hoc ita
+            <lb ed="#F" n="23"/>in universum verum est, ut 
+            cu<lb ed="#F" n="24" break="no"/>iuscunque figurae sit ferrum,
+            <lb ed="#F" n="25"/>semper secundum illam lineam
+            <lb ed="#F" n="26"/>rectam, quae maior per ferri
+            <lb ed="#F" n="27"/>medium duci potest, vis 
+            ma<lb ed="#F" n="28" break="no"/>gnetica in illud derivata 
+            ex<lb ed="#F" n="29" break="no"/>currat. Probatur hoc 
+            expe<lb ed="#F" n="30" break="no"/>rientia. si enim omnes illas
+            <lb ed="#F" n="31"/>rationes adhibeas, quibus ali
+            <lb ed="#F" n="32"/>bi dixi posse nos magneticam longitudinem formalem invenire in ferro,
+            <lb ed="#F" n="33"/>quocunque magneticè excitato, quomodocunque tandem fuerit excitarum,
+            <lb ed="#F" n="34"/>&amp; quacunque ratione in quovis puncto. magnetem tetigerit, senties 
+            ma<lb ed="#F" n="35" break="no"/>gneticam longitudinem formalem, cum longitudine molis materiali 
+            con<lb ed="#F" n="36" break="no"/>venire. Verum experientia facilis est, &amp; effectus se prodit expeditè, causa
+            <lb ed="#F" n="37"/>autem non est obvia; imo non nisi nostra philosophandi ratione 
+            explicabi<lb ed="#F" n="38" break="no"/>lis. ex quo etiam mihi magis haec placet philosophia; quia per illam rerum
+            <lb ed="#F" n="39"/>aliquarum rationes facilè constant, quas alias vel occultas putaremus, vel
+            <lb ed="#F" n="40"/>quae certè vix possent explicari.
+         <lb ed="#F" n="44" type="fixed=242"/>
+               <figure xml:id="p9i7y5-e25836-Fd1e269">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869985/1386,1508,930,821/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375725-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e25836-d1e288">
+               <lb ed="#F" n="41" type="fixed=242"/>Dicendum igitur est magnetem ita ex polo, seu potius ex toto lapide per
+            <lb ed="#F" n="42"/>polum virtutem suam circunquaque diffundere, ut ex puncto polari tanquam
+            <!--261.xml-->
+
+
+         <!--262.xml-->
+         <pb ed="#F" n="243"/>
+               <lb ed="#F" n="1"/>ex puncto, ut sic dixerim, radioso radij virtutis effundantur circunquaque
+            <lb ed="#F" n="2"/>in orbem recto itinere, perinde ac si magnes A. B. esset lucerna, cuius 
+            elych<lb ed="#F" n="3" break="no"/>nium splendesceret in
+            <lb ed="#F" n="4"/>B. ex illo enim punctò
+            <lb ed="#F" n="5"/>radij circunquaque 
+            dif<lb ed="#F" n="6" break="no"/>funderentur recti in 
+            or<lb ed="#F" n="7" break="no"/>bem; ita etiam ex lapide
+            <lb ed="#F" n="8"/>illo virtus ex B. in orbem
+            <lb ed="#F" n="9"/>proseminatur; quae tamen
+            <lb ed="#F" n="10"/>omnia proportionaliter
+            <lb ed="#F" n="11"/>ad alibi dicta intelligi
+            <lb ed="#F" n="12"/>debent, &amp; illa adhibita
+            <lb ed="#F" n="13"/>moderatione. Hoc 
+            tan<lb ed="#F" n="14" break="no"/>tum discrimen est, quod
+            <lb ed="#F" n="15"/>si corpus luminosum
+            <lb ed="#F" n="16"/>splendesceret ex B. radij non possent propagari ad C. D. E. F. quia 
+            impelle<lb ed="#F" n="17" break="no"/>rentur ad corpus illud opacum, à quo sisteretur illorum propagatio ad illas
+            <lb ed="#F" n="18"/>partes; at in magnetica propagatione virtutis nihil efficiunt partes 
+            interie<lb ed="#F" n="19" break="no"/>ctae progredienti ex B. Et sicut nullum corpus, quamvis durum sit, &amp; pugnax,
+            <lb ed="#F" n="20"/>potest sistere actionem magnetis; ita nec pars illa lupidis, quae intercipitur
+            <lb ed="#F" n="21"/>inter B, &amp; C. impedit, quo minus ex B. ad illam partem rectus virtutis radius
+            <lb ed="#F" n="22"/>propagetur, non secus ac propagatur ad alia circumquaque puncta. Verum
+            <lb ed="#F" n="23"/>quidem est non sentiri radios, qui proficiscuntur ex B. ultra medium lapidis
+            <lb ed="#F" n="24"/>in se, &amp; directè, sed solum ut moderantes radium alterius medietats ex alibi
+            <lb ed="#F" n="25"/>dictis, quasi ex illa medietate sola effunderentur, quae est ex B. sed hoc 
+            con<lb ed="#F" n="26" break="no"/>tingit, quia similiter ex A. proseminantur radij, qui contraria ratione 
+            pro<lb ed="#F" n="27" break="no"/>cedunt, &amp; consequenter, qui priores retundunt, &amp; repellunt, si suos fines, suam
+            <lb ed="#F" n="28"/>scilicet lapidis medietatem velint excedere.
+         <lb ed="#F" n="43" type="fixed=243"/>
+               <figure xml:id="p9i7y5-e25836-Fd1e364">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869986/760,590,1135,745/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A C D E B F</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375727-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e25836-d1e382">
+               <lb ed="#F" n="29" type="fixed=243"/>Hac virtutis posita propagatione iam ferè constat, cur, quomodocunque
+            <lb ed="#F" n="30"/>ferrum magnetico corpori applicetur, semper verticitatem concipiat secun
+            <lb ed="#F" n="31"/>dum maiorem sui longitudinem. Cum enim ferrum in se verticitatem 
+            con<lb ed="#F" n="32" break="no"/>cipiat ea ratione, qua est in medio, quod ab ipso ferro occupatur (imbibit
+            <lb ed="#F" n="33"/>enim in se quodammodo virtutem illam in medio effusam) semper virtutis
+            <lb ed="#F" n="34"/>radij, qui ex punctis polaribus magnetis effunduntur pervadent ferri 
+            maio<lb ed="#F" n="35" break="no"/>rem longitudinem, ut patebit consideranti ferrum quacunque ratione 
+            ap<lb ed="#F" n="36" break="no"/>plicatum ad partes B. pręsertim si ferrum permittatur liberè se componere
+            <lb ed="#F" n="37"/>ad magnetem: videbis enim semper se conformare radio diffuso ex B. nisi
+            <lb ed="#F" n="38"/>quantum repellitur ab opposito radio diffuso ex A. ratione alibi posita. 
+            ni<lb ed="#F" n="39" break="no"/>hilominus quacunque ratione, etiamsi vi ferrum detineas, videbis semper
+            <lb ed="#F" n="40"/>per ferri maiorem longitudinem materialem excurrere rectum virtutis 
+            ra<lb ed="#F" n="41" break="no"/>dium, à quo excitatur. Ratio igitur cur ferrum semper sua maiori 
+            longitu<lb ed="#F" n="42" break="no"/>dine verticitatem concipiat ex contactu magnetici corporis, oritur ex ratio¬
+            <!--262.xml-->
+
+         <!--263.xml-->
+         <pb ed="#F" n="244"/>
+               <lb ed="#F" n="1"/>ne agendi ipsius magnetis, &amp; ex modo quo virtutem per medium radiosè dif
+            <lb ed="#F" n="2"/>fundit, qui radij semper ferrum per maiorem sui longitudinem pervadunt
+            <lb ed="#F" n="3"/>modo explicato, quod quaerebatur; &amp; ideo sic etiam virtutem imbibunt.
+        </p>
+            <p xml:id="p9i7y5-e25836-d1e428">
+               <lb ed="#F" n="4"/>Animadvertat autem lector me studiosè dixisse ferrum contrahere ex 
+            con<lb ed="#F" n="5" break="no"/>tactu magnetici verticitatem secundum sui maiorem longitudinem, non
+            <lb ed="#F" n="6"/>autem dixisse ferrum semper habere verticitatem effusam per sui maiorem
+            <lb ed="#F" n="7"/>longitudinem, ita ut ijdem sint termini materialis, &amp; formalis 
+            longitudi<lb ed="#F" n="8" break="no"/>nis: si enim applicetur magneti ferrea lamella oblonga quattuor digitos,
+            <lb ed="#F" n="9"/>ut lamella A. B. ita ut altero 
+            extre<lb ed="#F" n="10" break="no"/>mo B. tangat magnetem, 
+            conci<lb ed="#F" n="11" break="no"/>piet verticitatem secundum 
+            lon<lb ed="#F" n="12" break="no"/>gitudinem A. B. modo explicato:
+            <lb ed="#F" n="13"/>at vero, si ex B. particulam 
+            abscin<lb ed="#F" n="14" break="no"/>das C. D. particula illa abscissa non
+            <lb ed="#F" n="15"/>habebit suam verticitatem per C. D. effusam; quamvis haec sit illius maior lon
+            <lb ed="#F" n="16"/>gitudo materialis, nec puncta C. D. erunt termini virtutis; sed virtus, quam
+            <lb ed="#F" n="17"/>habebit particula illa, polos obtinebit E. B. eademque ratione, qua prius 
+            ex<lb ed="#F" n="18" break="no"/>currebat, neque ulla fit ex sola divisione mutatio, ea ratione, quae alibi expli
+            <lb ed="#F" n="19"/>cata est. Ex quo patet non provenire à natura ferri, quod verticitatem 
+            sem<lb ed="#F" n="20" break="no"/>per habeat excurrentem per maiorem sui longitudinem materialem. quasi
+            <lb ed="#F" n="21"/>vero hoc cum illius essentia necessario sit connexum, nec alia ratione possit
+            <lb ed="#F" n="22"/>verticitatem possidere: id enm falsum est: sed quod sic verticitatem habeat,
+            <lb ed="#F" n="23"/>oritur praecisè ex modo agendi magnetici corporis, à quo ferrum verticita
+            <lb ed="#F" n="24"/>tem concipit, quod sic ex polis virtutem effundat, ut semper ferrum 
+            perva<lb ed="#F" n="25" break="no"/>dat per maiorem eius longitudinem.
+         <lb ed="#F" n="44" type="fixed=244"/>
+               <figure xml:id="p9i7y5-e25836-Fd1e481">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869987/1439,963,880,352/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">C B D E A</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375728-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e25836-d1e499">
+               <lb ed="#F" n="26" type="fixed=244"/>Verum quidem est non ita experimentum esse promptum, &amp; fęlici even
+            <lb ed="#F" n="27"/>tu aeque ab omnibus posse sumi, sicut à quolibet deprehenditur in 
+            magne<lb ed="#F" n="28" break="no"/>te: nam magnes, ut alibi dicitur, non ita facilè ex contactu alterius 
+            magne<lb ed="#F" n="29" break="no"/>tis propriam exvit verticitatem, ut aliam induat; imo vix istud assequi 
+            pos<lb ed="#F" n="30" break="no"/>sumus; at in ferro obvium istud est, &amp; promptissimum: semper enim per no
+            <lb ed="#F" n="31"/>vum contactum nova ratione factum immutatur ferri verticitas. Hinc ergo
+            <lb ed="#F" n="32"/>fit, ut, dum illa ferri particula abscinditur, si non fiat exactè tota simul 
+            divi<lb ed="#F" n="33" break="no"/>sio, facilè possit contingere, ut illa ultima particula illius C. D quae postrema
+            <lb ed="#F" n="34"/>separatur à tota lamella, dum quasi sola censetur tangere reliquam lamellam,
+            <lb ed="#F" n="35"/>alijs recedentibus ex illo contactu aliquam amittat verticitatem, cuius 
+            lon<lb ed="#F" n="36" break="no"/>gitudo erat ex B. E. &amp; novam induat immissam à tota lamella, quae ex legibus
+            <lb ed="#F" n="37"/>magneticis, quas hìc recito non amplius excurret per B. E. sed per C. D. per
+            <lb ed="#F" n="38"/>maiorem scilicet illius particulae longitudinem. Lectorem igitur moneo,
+            <lb ed="#F" n="39"/>ut benè cautus sit in experimento capiendo, ne me iniuria falsitatis 
+            redar<lb ed="#F" n="40" break="no"/>guat, si res non succedat, quam hic dico, nimirum non provenire ex natura
+            <lb ed="#F" n="41"/>terri, quod habeat verticitatem excurrentem per sui maiorem longitudinem,
+            <lb ed="#F" n="42"/>sed provenire ex contactu magnetici, &amp; ex ratione qua sola verticitatem po
+            <lb ed="#F" n="43"/>test acquirere.
+        </p>
+            <p xml:id="p9i7y5-e25836-d1e541">
+            <!--263.xml--> 
+
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 18</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 18</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="335"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e35797"> <!-- l4c18 -->
+            <head xml:id="p9i7y5-e35797-Hd1e107">Caput 18</head>
+            <p xml:id="p9i7y5-e35797-d1e109">
+               <lb ed="#F" n="17"/>Potest ferrum suspendi inter duos magnetes; ac proinde poßet esse verum ex doctrina
+            <lb ed="#F" n="18"/>magnetica, quod dicitur de arca Mahometis, nisi aliunde constet esse falsum.
+            <lb ed="#F" n="19"/>Cap. XVIII.
+        </p>
+            <p xml:id="p9i7y5-e35797-d1e118">
+               <lb ed="#F" n="20"/>Fertur (de rei enim veritate nunc non disputo: sunt enim qui 
+            di<lb ed="#F" n="21" break="no"/>cant meram esse fabulam, &amp; se oculatos testes profiteantur.)
+            <lb ed="#F" n="22"/>fertur, inquam, corpus Mahometis pseudoprophetae ad 
+            mira<lb ed="#F" n="23" break="no"/>culum fingendum, positum fuisse à suis sectatoribus in area 
+            fer<lb ed="#F" n="24" break="no"/>rea, deinde extructum cubiculum circunquaque magnete 
+            ve<lb ed="#F" n="25" break="no"/>stitum, in cuius medio pendeat haec arca nullo sustentata vinculo, sed solum
+            <lb ed="#F" n="26"/>magnetico librata vigore. Quia igitur aliqui non solum de veritate huius
+            <lb ed="#F" n="27"/>rei, sed etiam an fieri possit, dubitarunt; ideo hic pronuntio rem potuisse 
+            fie<lb ed="#F" n="28" break="no"/>ri; quidquid sit de facto. &amp; dico posse ferrum medium inter duos magnetes
+            <lb ed="#F" n="29"/>suspendi ita, ut ad nullum accedat, sed dum aequa vi trahitur ab utroque, 
+            de<lb ed="#F" n="30" break="no"/>tineatur in aere libratum. Hoc primum quidem naturis rerum ad eo 
+            con<lb ed="#F" n="31" break="no"/>sentaneum est, ut nullam novam ostentet difficultatem: dum enim duo ad
+            <lb ed="#F" n="32"/>se corpus aliquod trahunt funibus alligatum, si vires trahentium sint 
+            aequa<lb ed="#F" n="33" break="no"/>es, neuter illorum victoriam reportat, sed illis funibus suspensum in aere 
+            de<lb ed="#F" n="34" break="no"/>tinetur corpus quod de funibus sentis, hoc de inagnetica vi cogita arcanis
+            <lb ed="#F" n="35"/>nodis ad se ferrum trahente.
+        </p>
+            <p xml:id="p9i7y5-e35797-d1e155">
+               <lb ed="#F" n="36"/>Deinde hoc ipsum etiam experientia addiscere volui constitui. ergo 
+            mi<lb ed="#F" n="37" break="no"/>hi duos hinc inde magnetes distantes ab invicem spacio quatuor digitorum;
+            <lb ed="#F" n="38"/>tum acum digitis levissimè apprehensam mediam posui, ut motum 
+            tractio<lb ed="#F" n="39" break="no"/>nis sensu perciperem. ubi vero sentiebam ab altero illorum trahi acum, ad alte
+            <lb ed="#F" n="40"/>rum oppositum magnetem accedebam, &amp; obstinato labore tandem evici,
+            <!--354.xml-->
+            <pb ed="#F" n="335"/>
+               <lb ed="#F" n="1"/>ut medium virtutis invenirem, ibique relicta stetit acus in medio aere pendu
+            <lb ed="#F" n="2"/>la, &amp; mansit ibi spatio fere, quò quatuor hexametri versus pronuntiarentur.
+            <lb ed="#F" n="3"/>Dum autem assurgo, ut ad spectaculum evocem alios, ex motu, ut puto 
+            ae<lb ed="#F" n="4" break="no"/>ris accessit acus ad alterum illorum magnetem, illique adhaesit. ergo non so
+            <lb ed="#F" n="5"/>lum metaphysicè, seu mathematicè loquendo, sed etiam physica actione
+            <lb ed="#F" n="6"/>potest constitvi ferrum inter duos magnetes ita libratum, ut ad neutrum 
+            ac<lb ed="#F" n="7" break="no"/>cedat, sed in libero aere dependeat Testor me id fecisse. Potuisset etiam arca
+            <lb ed="#F" n="8"/>ferrea fieri, &amp; i cubiculo magnete lapide parietato ita disponi in medio 
+            ac<lb ed="#F" n="9" break="no"/>re, ut penderet. res tamen, ut arbitror, non durasset
+            <lb ed="#F" n="10"/>in illo statu, nisi fortasse clauso cubiculo, ut nullus
+            <lb ed="#F" n="11"/>in eo motus fieret: ex quolibet enim motu, 
+            con<lb ed="#F" n="12" break="no"/>cursus ad unam partem factus esset; imo plurimis
+            <lb ed="#F" n="13"/>subiacuisset accidentibus status ille. Unde 
+            magne<lb ed="#F" n="14" break="no"/>ticum illud miraculum statim cessasset. quare 
+            abso<lb ed="#F" n="15" break="no"/>lutè in rebus physicis, &amp; positis accidentibus 
+            con<lb ed="#F" n="16" break="no"/>currentibus illud esse non potest.
+        </p>
+            <p xml:id="p9i7y5-e35797-d1e208">
+               <lb ed="#F" n="17"/>Facilius suspendes acum in libero aere imo 
+            nul<lb ed="#F" n="18" break="no"/>lo fere labore, licet multis res futura sit 
+            admiratio<lb ed="#F" n="19" break="no"/>ni. Sume magnetem A. B. sume acum, cui filum
+            <lb ed="#F" n="20"/>insere, &amp; alliga filum ad mensam deorsum tum 
+            ele<lb ed="#F" n="21" break="no"/>va magnetem, &amp; acum sustole ad magnetem ita
+            <lb ed="#F" n="22"/>proximè, ut acus ad magnetem quidem conetur 
+            ac<lb ed="#F" n="23" break="no"/>cedere, non tamen tangat; videbis acum niti ad 
+            ma<lb ed="#F" n="24" break="no"/>gnetem, &amp; quasi pendere inverso, &amp; miro ordine
+            <lb ed="#F" n="25"/>ex filo deorsum alligato, &amp; quasi aviculam 
+            funi<lb ed="#F" n="26" break="no"/>culo detineri, ne avolet. Res nullam novam habet
+            <lb ed="#F" n="27"/>
+               <lb ed="#F" n="28"/>à dictis causam, nullam difficultatem. Conatur 
+            a<lb ed="#F" n="29" break="no"/>cus ad magnetem, &amp; trahunt se mutuo; excitatur 
+            e<lb ed="#F" n="30" break="no"/>tiam, dum non tangit magnetem, in convenienti
+            <lb ed="#F" n="31"/>distantia, pro ratione virtutis. Trahitur ergo etiam
+            <lb ed="#F" n="32"/>acus, licet non tangat; &amp; quia semper quo propius accedit acus ad 
+            magne<lb ed="#F" n="33" break="no"/>tem, eò vehementius trahitur, si detineatur, nihiloninus conatur ad 
+            con<lb ed="#F" n="34" break="no"/>tactum. &amp; hinc est, quod à filo quasi suspendatur, dum detinetur infra. si
+            <lb ed="#F" n="35"/>tamen vis augere miraculum, &amp; maiores in turba excitare admirationes,
+            <lb ed="#F" n="36"/>magnetem includas in capsella, vel alia simili theca, &amp; tunc videberis acum
+            <lb ed="#F" n="37"/>suspendere filo deorsum alligato magico artificio, cum causa delitescat.
+         <lb ed="#F" n="38" type="fixed=335"/>
+               <figure xml:id="p9i7y5-e35797-Fd1e258">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870078/1457,988,509,1432/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text"/>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375869-r4</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

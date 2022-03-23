@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 34</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 34</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="382"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e40709"> <!-- l4c34 -->
+            <head xml:id="p9i7y5-e40709-Hd1e107">Caput 34</head>
+            <p xml:id="p9i7y5-e40709-d1e109">
+            <!--401.xml-->
+               <pb ed="#F" n="382"/>
+               <lb ed="#F" n="1"/>Figura magnetis tantum facit ad suspendendum ferrum, ut aliquando imminuto lapide si
+            <lb ed="#F" n="2"/>non iuvatur vis attractiva, certè non imminuatur. Cap. XXXIV.
+        </p>
+            <p xml:id="p9i7y5-e40709-d1e120">
+               <lb ed="#F" n="3"/>Dictum est alibi, &amp; verè, virtutem magneticam communem
+            <lb ed="#F" n="4"/>aliarum qualitatum corporeatum sortem subire, ut scilicet du
+            <lb ed="#F" n="5"/>plicem habeat latitudinem intensivam; &amp; extensivam, ita ut
+            <lb ed="#F" n="6"/>in eodem subiecto possit maior, &amp; minor quod ad intensionem,
+            <lb ed="#F" n="7"/>&amp; possit etiam esse major, si subiectum sit maius aut minus, etiam
+            <lb ed="#F" n="8"/>si in utroque sit eiusdem intensionis. Et ex hoc dixi, in parvo subiecto non
+            <lb ed="#F" n="9"/>nisi parvam virtutem magneticam reperiri. Sic parvus magnes exiguum
+            <lb ed="#F" n="10"/>tantummodo habebit semper effectum magneticum cuiuscunque sit in illo
+            <lb ed="#F" n="11"/>virtus intensionis, sicut parvus ignis parum calefacit, quamvis calorem 
+            ha<lb ed="#F" n="12" break="no"/>beat aeque intensum, ut magnus. Haec communia sunt magneti, &amp; reliquis
+            <lb ed="#F" n="13"/>agentibus. Illa propria sunt huius philosophiae, iuvari ad actionem 
+            robustio<lb ed="#F" n="14" break="no"/>rem magnetica corpora, si figura consentiat: cęteris enim paribus figura 
+            lon<lb ed="#F" n="15" break="no"/>ge multumque conducit ad actiones magneticas; si sint duo magnetes ex 
+            ea<lb ed="#F" n="16" break="no"/>dem vena ęqualis omnino perfectionis, &amp; eiusdem magnitudinis, quam vel
+            <lb ed="#F" n="17"/>pondere, licebit rimari, vel certe ex demersione in aqua, quae est optima, &amp;
+            <lb ed="#F" n="18"/>exquisita ratio mensurandi corpora irregularia, si sint graviora aquae in 
+            spe<lb ed="#F" n="19" break="no"/>cie, de qua re dicam fortasse alias, si vita erit superstes :est enim res 
+            iucundis<lb ed="#F" n="20" break="no"/>sima, &amp; longe pluribus usibus accommodatissima. Si sint inquam duo 
+            ma<lb ed="#F" n="21" break="no"/>gnetes in caeteris aequales, nihilominus, cum unius cuiusque magnetis unica
+            <lb ed="#F" n="22"/>sit naturalis longitudo, etiam si caetera sint aequalia, plus suspendet magnes,
+            <lb ed="#F" n="23"/>cuius longitudo maior est, &amp; non habet in lateribus turpes, &amp; informes emi
+            <lb ed="#F" n="24"/>mentias, quàm brevior, &amp; informis. Hoc, quod dico, mihi, &amp; alijs saepe 
+            com<lb ed="#F" n="25" break="no"/>probavit experientia. Immo addo posse contingere, ut adeo partes 
+            latera<lb ed="#F" n="26" break="no"/>les informes sint, &amp; ineptae, ut, si detrahantur ab illo magnete, &amp; redigatur
+            <lb ed="#F" n="27"/>per illam ablationem ad figuram magnes ovalem, vel certe sphaerieam, ista
+            <lb ed="#F" n="28"/>detractione aliquando plus ferri suspendat, quam suspenderet prius. Neque
+            <lb ed="#F" n="29"/>hoc ita absolute pronunciarem; nisi essem expertus. Cum enim frustum 
+            ma<lb ed="#F" n="30" break="no"/>gnetis haberem valde informen, resecui à lateribus satis magnas particulas
+            <lb ed="#F" n="31"/>unciales, immo duarum unciatum, &amp; expertus sum plus ferri suspendese
+            <lb ed="#F" n="32"/>post illam particularum ablationem, quam suspenderet, antequam auferten
+            <lb ed="#F" n="33"/>tur. Cum igitur de reconstet, rationem quaeramus.
+        </p>
+            <p xml:id="p9i7y5-e40709-d1e190">
+               <lb ed="#F" n="34"/>Nulla est dubitatio, omnia agentia, sed praecipuè illa, quae determinatam
+            <lb ed="#F" n="35"/>quandam habent agendi rationem quasi indirectum, &amp; ad unam partem, ut
+            <lb ed="#F" n="36"/>lumen, &amp; luminosa corpora, quo magis linea activa fuerit recta, &amp; 
+            vehemen<lb ed="#F" n="37" break="no"/>tiorem, &amp; efficaciorem futuram actionem. Hinc axis in luminosis solet 
+            es<lb ed="#F" n="38" break="no"/>se efficacissimus, &amp; lineae refractae, aut divaricatae debiliores. Quam rem 
+            pos<lb ed="#F" n="39" break="no"/>sem pluribus comprobare, si opus esset, sed in perspectivis, &amp; Physicis 
+            con<lb ed="#F" n="40" break="no"/>templationibus res est certissima. Hoc supposito constat ex alibi demon¬
+            <!--402.xml-->
+            <pb ed="#F" n="383"/>
+               <lb ed="#F" n="1"/>stratis magnetem ita agere suis omnibus partibus, ut omnes transmittant
+            <lb ed="#F" n="2"/>suam virtutem ad polos, quasi poli essent communis ianua, ex qua virtus 
+            to<lb ed="#F" n="3" break="no"/>tius magnetis exit, &amp; propagatur. Et singularum quidem partium virtus
+            <lb ed="#F" n="4"/>sese etiam foris ostentat, ac per inedium diffunditur: Videtur tamen quasi
+            <lb ed="#F" n="5"/>exire ex polo tanquam ex communi termino, certe per ordinem ad polum
+            <lb ed="#F" n="6"/>actionem componere. Iam vero si omnes virtutis radij, qui ex singulis 
+            par<lb ed="#F" n="7" break="no"/>tibus proficiscuntur, intelligantur transmittere suam virtutem ad polum, ut
+            <lb ed="#F" n="8"/>ex polo deinde exeat, &amp; ab illo puncto tanquam à communi termino 
+            qua<lb ed="#F" n="9" break="no"/>qua versum disseminetur, quo partes, quae ad latera sunt, magis recedent ab
+            <lb ed="#F" n="10"/>axe, eo magis obliquae linea virtus ad polum deferetur, &amp; magis refracta erit.
+            <lb ed="#F" n="11"/>quae se undique diffundit, &amp; quo magis erit oblongus magnes, &amp; magis 
+            con<lb ed="#F" n="12" break="no"/>pressus, in lateribus, eo virtus per lineam magis rectam, &amp; defertur ad polum,
+            <lb ed="#F" n="13"/>&amp; propagatur per medium, minori refractione.
+         <lb ed="#F" n="31" type="fixed=383"/>
+               <figure xml:id="p9i7y5-e40709-Fd1e243">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870126/231,1315,1784,735/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A C D B C D A</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375943-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e40709-d1e262">
+         Patet hoc in appositis fi¬
+         <lb ed="#F" n="14" type="fixed=383"/>guris, in quibus, ubi figura rotunda est lineae ex C. &amp; D. ad polos A. B. 
+            ferun<lb ed="#F" n="15" break="no"/>tur ita per rectas lineas, ut maiorem faciant angulum cum axe, quam in lon
+            <lb ed="#F" n="16"/>giori figura, in qua procedunt magis, directe cum axe, &amp; ex polo minus 
+            re<lb ed="#F" n="17" break="no"/>fracte propagantur, quod non ideo dico quasi actionem contendam fieri per
+            <lb ed="#F" n="18"/>lineas, sicuti nec illuminatio per radios fit, quos perspectivi assumunt ad suas
+            <lb ed="#F" n="19"/>demonstrationes, sed totum luminosum totum medium illuminat, sic totus ma
+            <lb ed="#F" n="20"/>gnes totam diffundit circum quaque vim, &amp; aequaliter agit: illum tamen 
+            ha<lb ed="#F" n="21" break="no"/>bet ad polos respectum, ut quasi liceat illos virtutis radios sic describere, qui
+            <lb ed="#F" n="22"/>bus agendi ratio explicetur, non quasi poli sint puncta virtutis. Si ergo duo
+            <lb ed="#F" n="23"/>ista corpora magnetica in reliquis omnibus ponantur paria; solum, quia in
+            <lb ed="#F" n="24"/>longior: axis est productior, ideo longior maiorem habet efficaciam; quod
+            <lb ed="#F" n="25"/>tamen etiam confert ad actionem: sicuti, si licet ex eo similitudinem deducere,
+            <lb ed="#F" n="26"/>videmus accidere in bombarda, quae caeteris paribus, si longior fuerit usque
+            <lb ed="#F" n="27"/>ad determinatam longitudinem, vehementiorem habet ictum, &amp; 
+            productio<lb ed="#F" n="28" break="no"/>ctiorem, quam si sit brevior caeteris paribus, sic, &amp; axis longior caeteris 
+            pari<lb ed="#F" n="29" break="no"/>bus in magnerico corpore saltem usque ad determinatam longitudinem ve
+            <lb ed="#F" n="30"/>hementiorem habet; quod tamen dico de bombarda, sit ad exemplum: scio
+            <!--402.xml-->
+
+         <!--403.xml-->
+         <pb ed="#F" n="384"/>
+               <lb ed="#F" n="1"/>enim aliam se, &amp; diversam illius causam, quam hic non pono. Verum non
+            <lb ed="#F" n="2"/>solum propter axem longiorem lapis longior vehementiorem habet 
+            activi<lb ed="#F" n="3" break="no"/>tatem, sed melius etiam agit, quia partes laterales. C. D &amp; sic de reliquis, tran
+            <lb ed="#F" n="4"/>smittunt suam vim, &amp; quasi conferunt suum symbolum ad polos, ut extra
+            <lb ed="#F" n="5"/>propagetur per lineam magis directam in longiore, quam in sphaerieo: hinc
+            <lb ed="#F" n="6"/>fit, ut, quia singulae partes efficaciorem transmittunt ad polum actionem, ro
+            <lb ed="#F" n="7"/>bustior se prodat ibi effectus. ergo caeteris paribus melius aget magnes 
+            ob<lb ed="#F" n="8" break="no"/>longus rotundo, aut aliqua iniqua configuratione efformato.
+            <lb ed="#F" n="9"/>Cur autem aliquando videatur lapis; qui iniquam habet figuram, 
+            de<lb ed="#F" n="10" break="no"/>tractione partium iuvari ad suspendendum ferrum; quamvis neque ex tali
+            <lb ed="#F" n="11"/>diminutione crescere videatur sphaera activitatis, aut experimento compro
+            <lb ed="#F" n="12"/>betur, in puncto polari, facta illa detractione intensiorem esse virtutem ita ut
+            <lb ed="#F" n="13"/>ferrum ex contactu illius poli intensiorem concipiat praecise verticitatem,
+            <lb ed="#F" n="14"/>sed solum experimentum suadeat maiorem aliquam ferri molem suspendi
+            <lb ed="#F" n="15"/>ex polo, post talem detractionem; dico id posse contingere ex eo, quod ex 
+            u<lb ed="#F" n="16" break="no"/>na parte, ut supra probatum est, ferrum robustius adhaeret, &amp; si lateri adiace
+            <lb ed="#F" n="17"/>ret secundum longitudinem lapidis, &amp; utrunque extremum utrique polo
+            <lb ed="#F" n="18"/>quasi adnectitur, quam si penderet directe ex unico polo altero sui 
+            extre<lb ed="#F" n="19" break="no"/>mo, sed quando lapis est rotundus, vel maior est dimensio lapidis secundum
+            <lb ed="#F" n="20"/>longitudinem, primum ex eo, quod partes laterales ad polos transmittant vir
+            <lb ed="#F" n="21"/>tutem per lineam valde obliquam, parum augent efficacitatem ipsius poli;
+            <lb ed="#F" n="22"/>unde paulo plus potest polus ex influentia illius partis lateralis propter obli
+            <lb ed="#F" n="23"/>quitatem lineae, qua virtus defertur, quam si non influeret: contra vero ex eo
+            <lb ed="#F" n="24"/>quod lapis magnam habeat latitudinem, si ferrum ponatur lateri adiacere,
+            <lb ed="#F" n="25"/>extrema illius magis distabunt à polis, ac proinde minori efficacia 
+            adhaere<lb ed="#F" n="26" break="no"/>bunt magneti: at vero si imminuantur partes illae laterales, &amp; fiat lapis, ut ita
+            <lb ed="#F" n="27"/>dicam, gracilior ex una parte, parum, aut nihil detrahitur sensibiliter de 
+            vir<lb ed="#F" n="28" break="no"/>tute, quae eminebat in polis, ex altera iam si ponatur ferrum adiacere ad 
+            la<lb ed="#F" n="29" break="no"/>tus magnetis, quia extrema illius erunt polis iam proximiora, efficaciorem
+            <lb ed="#F" n="30"/>sentiet actionem, &amp; firmius adhaerebit: ergo detrahendo aliquid à magnete
+            <lb ed="#F" n="31"/>fit, ut melius, ferrum suspendat, quod erat propositum.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

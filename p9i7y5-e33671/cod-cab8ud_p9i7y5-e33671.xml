@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 13</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 13</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="314"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e33671"> <!-- l4c13 -->
+            <head xml:id="p9i7y5-e33671-Hd1e107">Caput 13</head>
+            <p xml:id="p9i7y5-e33671-d1e109">
+            <!--333.xml-->
+               <pb ed="#F" n="314"/>
+               <lb ed="#F" n="1"/>Magnes ex omni parte ferrum trahit; neque ulla est facies magnetis, quae ferrum 
+            abso<lb ed="#F" n="2" break="no"/>lutè repellat. Cap. XIII.
+        </p>
+            <p xml:id="p9i7y5-e33671-d1e120">
+               <lb ed="#F" n="3"/>Hoc non toties inculcabo, quin sit adhuc aliquis, qui pertinacius
+            <lb ed="#F" n="4"/>contendat magnetem ex una parte ferrum allicere, ex altera
+            <lb ed="#F" n="5"/>repellere. Et sane mirum mihi visum est, quod multos 
+            au<lb ed="#F" n="6" break="no"/>diverim cordatos viros, qui sanctè affirmarint se id vidisse, &amp;
+            <lb ed="#F" n="7"/>mihi hoc ultro ostensuros pollicerentur. Pernego igitur 
+            ma<lb ed="#F" n="8" break="no"/>gnetem habere talem naturam, ut ex una parte ferrum trahat, ex altera repellat;
+            <lb ed="#F" n="9"/>imò nego usquam dari huiusmodi magnetem, &amp; absolutè pronuntio ex 
+            om<lb ed="#F" n="10" break="no"/>ni parte ferrum trahere. Experimentum ad hoc probandum sit illud, quod
+            <lb ed="#F" n="11"/>alibi positum est ad ostendendum quamcunque magnetis faciem 
+            verticita<lb ed="#F" n="12" break="no"/>tem ferro communicare; si enim sumas duas acus, quae nunquam magnetem
+            <lb ed="#F" n="13"/>tetigerint, &amp; unam applices ad unam partem magnetis, alteram ad 
+            opposi<lb ed="#F" n="14" break="no"/>tam, videbis aequaliter utranque acum suspendi. Age vero ostende tu mihi
+            <lb ed="#F" n="15"/>illam faciem, quam dicis ferrum repellere, &amp; ego sumam acum, quae 
+            nun<lb ed="#F" n="16" break="no"/>quam magnetem tetigerit, ne forte dicas adhaerescere, quia iam alias conce
+            <lb ed="#F" n="17"/>pit virtutem magneticam, &amp; ostendam tibi illam ipsam acum pendentem
+            <lb ed="#F" n="18"/>ab illa eadem parte magnetis, quam dicebas tu ferrum repellere; sicuti si mi
+            <lb ed="#F" n="19"/>ni ostendas illam faciem magnetis, quam dicis solam ferrum ad se perpetuo
+            <lb ed="#F" n="20"/>trahere, ostendam tibi repellere meam illam acum quam ex mea parte prius
+            <lb ed="#F" n="21"/>suspenderam. non ergo absolutè ulla pars ferrum repellit, sicuti nec ulla 
+            ab<lb ed="#F" n="22" break="no"/>solutè trahit; sed quam ferri extremitatem una traxit, altera repellit: in 
+            attra<lb ed="#F" n="23" break="no"/>ctionibus enim, quod supradictum est, de directionibus proportionaliter est
+            <lb ed="#F" n="24"/>dicendum. Illa enim pars magnetis, quae semel tetigit unum versorij 
+            extte<lb ed="#F" n="25" break="no"/>mum perpetuo ad se eandem extremitatem advocabit; nunquam vero 
+            op<lb ed="#F" n="26" break="no"/>positam. imo illam fugabit, &amp; repellet contra verò altera pars magnetis 
+            il<lb ed="#F" n="27" break="no"/>lam fugatam ad se advocabit. &amp; amicè excipiet. Et haec est constantissima
+            <lb ed="#F" n="28"/>magneticorum lex, ut quam semel partem tetigit magnetis polus A. eandem
+            <lb ed="#F" n="29"/>perpetuo ad se retrahat, neque (si ferrum non sit impeditum, sed liberum
+            <lb ed="#F" n="30"/>habeat motum) unquam decipies, ut unam faciem pro altera trahat. Et 
+            quam<lb ed="#F" n="31" break="no"/>vis furtivè &amp; latenter ad oppositam ferri partem magnetis polum A, 
+            admo<lb ed="#F" n="32" break="no"/>veas converter se statim ferrum celearimo cursu, &amp; notam extremitatem sui
+            <lb ed="#F" n="33"/>offeret ipsi A. fugabitque obiectam. Ad quod fortasse respicientes parum 
+            exer<lb ed="#F" n="34" break="no"/>citati in magneticis legibus; putarunt illam magnetis partem ferrum 
+            fuga<lb ed="#F" n="35" break="no"/>re, quia repellit illam extremitatem, &amp; non viderunt trahere oppositam.
+            <lb ed="#F" n="36"/>Ratio vero, cur semel tactum ferri extremum perpetuo accurrat ad A. illa
+            <lb ed="#F" n="37"/>est, quia cum ferrum accurrat ad magnetem, ut qualitatem, quam concepit,
+            <lb ed="#F" n="38"/>duarum facierum roboret, ac confirmet; debet necessario accedere ad illam
+            <lb ed="#F" n="39"/>eandem partem, quam semel tetigit, ut illa ipsa qualitas, quam concepit 
+            robo<lb ed="#F" n="40" break="no"/>retur: si .n. accederet ad oppositam partem, cum opposita magnetis pars 
+            pro<lb ed="#F" n="41" break="no"/>ducat quidem qualitatem, sed producat in contrario situ, &amp; positione, 
+            qua<lb ed="#F" n="42" break="no"/>litas, quam iam habet, non firmaretur, sed destiueretur ad oppositae, produ¬
+            <!--334.xml-->
+            <pb ed="#F" n="315"/>
+               <lb ed="#F" n="1"/>ferri facies; quia sic illa, quae qualitatem illam contrario situ producit, robo
+            <lb ed="#F" n="2"/>rabit qualitatem iam existentem in ferro, quae ex illa ferri conversione iam
+            <lb ed="#F" n="3"/>contratio situ obijcitur magneti, &amp; dividunt sibi magnetis extrema ferri iam
+            <lb ed="#F" n="4"/>sines, nec imperia miscent, &amp; partem, quam trahit magnetis unum extremum,
+            <lb ed="#F" n="5"/>fugat alterum, oppositam tamen advocat ferri partem.
+        </p>
+            <p xml:id="p9i7y5-e33671-d1e224">
+               <lb ed="#F" n="6"/>Ut autem clarius sentias, nullum esse magnetis extremum, quod absolutè
+            <lb ed="#F" n="7"/>ferrum pellat, sume illam ipsam ferri faciem, quam à magnete fugari vides,
+            <lb ed="#F" n="8"/>&amp; inijciendo violentas manus magnetis illam fugatricem partem illi 
+            ap<lb ed="#F" n="9" break="no"/>plica, fac tangat velit nolit, &amp; illi cum aliqua morula adhaereat; videbis 
+            sta<lb ed="#F" n="10" break="no"/>tim dissolutas inimicitiarum discordias, percussaque firmiter foedera: non 
+            so<lb ed="#F" n="11" break="no"/>lum enim non amplius fugabitur, sed amicè trahetur, &amp; perpetuo illa sola
+            <lb ed="#F" n="12"/>pars advocabitur, &amp; opposita in posterum reijcietur. &amp; hoc, quia illo violenter
+            <lb ed="#F" n="13"/>facto contactu antiqua, quae iam inerat per primum contactum qualitas, ab ipso
+            <lb ed="#F" n="14"/>secundo destructa fuit, &amp; nova contrario situ producta: fuga igitur illa tota
+            <lb ed="#F" n="15"/>proveniebat à qualitate, quae iam in ferro inerat contraria ratione, atque 
+            pro<lb ed="#F" n="16" break="no"/>duci possit ab illa parte, quae fugabat. illa enim qualitate depulsa nullae sunt
+            <lb ed="#F" n="17"/>amplius inimicitiae.
+            <lb ed="#F" n="18"/>Cur vero quael bet magnetis extremitas simpliciter ad se ferrum 
+            provo<lb ed="#F" n="19" break="no"/>cet, ratio est, quia magnes corpus est homogeneum, neque unius 
+            extremita<lb ed="#F" n="20" break="no"/>tis natura differt à natura alterius extremi; &amp; sicuti una est qualitas duarum
+            <lb ed="#F" n="21"/>facierum aequaliter fusa per totum magnetem, quae qualitas, cum aequali vi
+            <lb ed="#F" n="22"/>dirigat ad utrunque polum actionem; aequalis enim est utrinque; exit 
+            pari<lb ed="#F" n="23" break="no"/>ter, ut ita dicam, ab utroque extremo. cum autem per istam qualitatem per medium diffusam
+            <lb ed="#F" n="24"/>fiant omnes magneticę actiones, &amp; ferri provocationes, quae iam attractiones 
+            vo<lb ed="#F" n="25" break="no"/>cantur, hinc est, ut ferrum attrahat ab utroque extremo. quod erat ostendendum.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

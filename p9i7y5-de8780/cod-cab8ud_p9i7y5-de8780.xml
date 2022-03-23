@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 20</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 20</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="79"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-de8780"> <!-- l1c20 -->
+            <head xml:id="p9i7y5-de8780-Hd1e107">Caput 20</head>
+            <p xml:id="p9i7y5-de8780-d1e109">
+               <lb ed="#F" n="16"/>De inclinatione magnetica, qua infra horizontem aequilibrata ferramenta
+            <lb ed="#F" n="17"/>descendunt, ac primum de ratione constituendi instrumentum
+            <lb ed="#F" n="18"/>declinationis. Caput XX.
+        </p>
+            <p xml:id="p9i7y5-de8780-d1e118">
+               <lb ed="#F" n="19"/>Ut magis roboretur nostra de terminis magnetici motus 
+            sen<lb ed="#F" n="20" break="no"/>tentia, hic prius disputare volui de egregio invento 
+            inclina<lb ed="#F" n="21" break="no"/>tionis magneticae: sic enim appellare placuit motum illum,
+            <lb ed="#F" n="22"/>quo ferramenta magneticè excita, si aequilibrata fuerint, 
+            incli<lb ed="#F" n="23" break="no"/>nant se infra horizontem. declinationem vero appellavimus illam, qua
+            <lb ed="#F" n="24"/>versoria à vero meridiano deveniant ad aliquod horizontis punctum: 
+            Vo<lb ed="#F" n="25" break="no"/>lui autem de hac prius disputate, quia, ut supra etiam dicebam, hoc 
+            demon<lb ed="#F" n="26" break="no"/>strat terminos magnetici motus non esse in Caelo, sed in terra. Verum ut
+            <lb ed="#F" n="27"/>certius possimus hanc inclinationem deprehendere, quoddam constituit
+            <lb ed="#F" n="28"/>instrumentum Gilbertus, quod omnino non placet; quia simul cum illo 
+            al<lb ed="#F" n="29" break="no"/>terum horizontale versorium adhibere debemus, ut collocemus illud in
+            <lb ed="#F" n="30"/>meridiano magnetico: quod si berè nota non sit magnetica declinatio, à
+            <lb ed="#F" n="31"/>vero meridiano, errotis periculum erit: in quem video incidisse 
+            nonnul<lb ed="#F" n="32" break="no"/>los, qui ad Indos navigantes, hanc inclinationem observarunt: dum enim
+            <lb ed="#F" n="33"/>convertebant instrumenti faciem ad Orientem, unam ostendebat 
+            inclina<lb ed="#F" n="34" break="no"/>tionem versorium, dum convertebant ad Occidentem; aliam ostendebat; &amp;
+            <lb ed="#F" n="35"/>hoc contingebat, quia fortasse non collocabant instrumentum in vero
+            <lb ed="#F" n="36"/>meridiano magnetico. Ut igitur non sit talis necessitas collocandi 
+            instru<lb ed="#F" n="37" break="no"/>mentum, melius erit ita construere, ut versorium per se possit sibi 
+            meridia<lb ed="#F" n="38" break="no"/>nam lineam invenire.
+        </p>
+            <p xml:id="p9i7y5-de8780-d1e164">
+               <lb ed="#F" n="39"/>Sume duas lamellas tenuissimas ex aurichalco longitudinis quatuor 
+            di<lb ed="#F" n="40" break="no"/>gitorum, latitudinis exiguae, sed tamen consistentes, &amp; tunsionibus bene so¬
+            <!--98.xml-->
+            <pb ed="#F" n="79"/>
+               <lb ed="#F" n="1"/>lidatas: iunge illas in extremitatibus, in medio autem dilatentur, ut in 
+            ap<lb ed="#F" n="2" break="no"/>posito exemplo vides. fac duo parva foramina in ventre A. &amp; B. in 
+            extre<lb ed="#F" n="3" break="no"/>mitatibus autem perforabis utramque lamellam simul, qua iunguntur. fint
+            <lb ed="#F" n="4"/>autem foramina extrema in recta linea videl. cum medijs. fac insuper tibi
+            <lb ed="#F" n="5"/>scutellam ligneam, vel aeneam cum suo pede hemisphaericam, cuius 
+            diame<lb ed="#F" n="6" break="no"/>ter sit sex, aut septem digitorum pro magnitudine versorij includendi; 
+            il<lb ed="#F" n="7" break="no"/>lamque sic praepara, ut in eam commode circulos ducere possis: supra 
+            scutel<lb ed="#F" n="8" break="no"/>lam erige semicirculum aeneum, in cuius medio sit foramen, ex quo 
+            forami<lb ed="#F" n="9" break="no"/>ne appendas lamellas illas in naviculae modum dilatatas tenuissimo 
+            mu<lb ed="#F" n="10" break="no"/>liebri crine; ex imo autem naviculae foramine dimitte pariter crine 
+            appen<lb ed="#F" n="11" break="no"/>diculum, quod ad mediam usque descendat scutellam, ita tamen, ut libere
+            <lb ed="#F" n="12"/>fluctuet; ex quo appendiculo poteris cognoscere quandonam bene, &amp; 
+            per<lb ed="#F" n="13" break="no"/>pendiculariter collocatum sit instrumentum;
+         <lb ed="#F" n="15" type="fixed=79"/>
+               <figure xml:id="p9i7y5-de8780-Fd1e206">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869822/190,355,1880,1956/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">B A</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375474-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-de8780-d1e225">
+        Dum enim appendiculum
+         <lb ed="#F" n="14" type="fixed=79"/>imminebit prorsus supta imum scutellae medium, benè erit collocatum in¬
+            <!--98.xml-->
+           
+         <!--99.xml-->
+         <pb ed="#F" n="80"/>
+               <lb ed="#F" n="1"/>strumentum, poteris autem in scutella designare meridianum, in quo 
+            no<lb ed="#F" n="2" break="no"/>tentur gradus: sint autem duo foramina in ventre naviculae prorsus è 
+            regio<lb ed="#F" n="3" break="no"/>ne horizontis scutellae; mox parabis versorium subtile, sex, aut septem 
+            digi<lb ed="#F" n="4" break="no"/>torum pro instrumenti magnitudine; ita ut possit se in instrumento, seu 
+            scu<lb ed="#F" n="5" break="no"/>tella, dum naviculae inseritur, circumagere; ex quam optimo chalybe; in
+            <lb ed="#F" n="6"/>eius medio exactè crucem ex aere, vel ex ferro optimè ad angulos rectos 
+            con<lb ed="#F" n="7" break="no"/>positam tenuem, politam, &amp; utrinque exactè levigatam longitudinis grani
+            <lb ed="#F" n="8"/>ordeacei, ut possit intra foramina naviculae includi, aptabis, tum 
+            exactissi<lb ed="#F" n="9" break="no"/>mè arte curiosa huiusmodi versorium libra ex cruce, ut non sit magis ex una
+            <lb ed="#F" n="10"/>parte, quam ex alia grave; accuratè autem adverte, ne huiusmodi versorium,
+            <lb ed="#F" n="11"/>dum libratur, magnetem praesentiat; tum libratum excita magneticè 
+            utrum<lb ed="#F" n="12" break="no"/>que ferri finem super utrumque magnetis polum fricando; ut robustius 
+            ex<lb ed="#F" n="13" break="no"/>citet, postea include axiculis versorium in navicula: sic enim duplici motu
+            <lb ed="#F" n="14"/>se poterit disponere: nam, &amp; horizontaliter confluet ad meridianum, &amp; 
+            ver<lb ed="#F" n="15" break="no"/>ticaliter descendet infra horizontem pars illa, quae ad septentrionem vergit
+            <lb ed="#F" n="16"/>pro loci latitudine.
+        </p>
+            <p xml:id="p9i7y5-de8780-d1e271">
+               <lb ed="#F" n="17"/>Posset quidem fieri fortasse instrumentum non adhibito crine muliebri,
+            <lb ed="#F" n="18"/>sed hoc magis expeditum est opus. Verum, quia libratio debet esse 
+            exa<lb ed="#F" n="19" break="no"/>ctissima, ideo diligenter est cavendum, ut fiat perfectissimè. Quod si fortè
+            <lb ed="#F" n="20"/>contingat, ut nondum absoluta libratione magneticum concipiat vigorem,
+            <lb ed="#F" n="21"/>aliquem, sic poteris absolvere incaeptum opus: excita versorium magneticè,
+            <lb ed="#F" n="22"/>&amp; inclusum navicula, observa ad quem gradum infra horizontem 
+            descen<lb ed="#F" n="23" break="no"/>dat; tum immuta verticitatem, tangendo versorio magnetem contraria 
+            ra<lb ed="#F" n="24" break="no"/>tione, atque prius; &amp; si quidem ad eundem gradum descendet opposita pars,
+            <lb ed="#F" n="25"/>absoluta erit libratio; si minus descendet, perge paulatim tandiù aliquid
+            <lb ed="#F" n="26"/>hinc, inde abradendo, donec tandem utraque extremitas aequaliter 
+            descen<lb ed="#F" n="27" break="no"/>dat, quoties immutatur per novum contactum in verforio verticitas: tunc
+            <lb ed="#F" n="28"/>enim perfectissima erit libratio. Exquisitam etiam suam in librando 
+            arti<lb ed="#F" n="29" break="no"/>fex operam probabit, si ita libret, ut antequam excitetur acus, in quolibet
+            <lb ed="#F" n="30"/>situ quiescat, &amp; stet ubique; quod experimento cognovi posse contingere,
+            <lb ed="#F" n="31"/>quidquid sit in universum de illa quaestione Mechanicorum, de libra; de
+            <lb ed="#F" n="32"/>qua alias posset esse locus disputandi. Melius tamen puto adhuc librari 
+            pro<lb ed="#F" n="33" break="no"/>pter rationem alibi dicendam in mutatione magnetici vigoris.
+        </p>
+            <p xml:id="p9i7y5-de8780-d1e310">
+               <lb ed="#F" n="34"/>Denique ut totum absolvas instrumentum, tegas scutella vitrea: videbis,
+            <lb ed="#F" n="35"/>enim ex isto instrumento quantum in una quaque regione descendat 
+            ma<lb ed="#F" n="36" break="no"/>gneticum: neque enim descendit aequaliter cum elevatione poli, sed alia 
+            ra<lb ed="#F" n="37" break="no"/>tione, de qua postea. Addo in fine huius capitis nos non experiri ita facilè
+            <lb ed="#F" n="38"/>in ipso magnete hanc inclinationem: licet enim arbitrer futurum, ut, si 
+            e<lb ed="#F" n="39" break="no"/>xactissimè libretur magnes supra punctum sui aequatoris, hanc inclinationem
+            <lb ed="#F" n="40"/>efficiat, &amp; infra horizontem descendat polus noster, &amp; pari ratione, si 
+            perti<lb ed="#F" n="41" break="no"/>naci arte ex ipso magnete versorium fieret, quale est illud ferreum, &amp; 
+            exa<lb ed="#F" n="42" break="no"/>ctissi me per crucem libraretur; fieret autem huiusmodi versorium vere per
+            <!--100.xml-->
+            <pb ed="#F" n="81"/>
+               <lb ed="#F" n="1"/>lapidis longitudinem, ita ut esset in uno extremo alterum polorum, &amp; in
+            <lb ed="#F" n="2"/>altero alterum. licet arbitrer futurum, ut altera pars descenderet infra 
+            hori<lb ed="#F" n="3" break="no"/>zontem, tamen rem prorsus impossibilem factu existimo, tum propter 
+            lapi<lb ed="#F" n="4" break="no"/>dis pugnantem naturam; tum quia nulla ars eo pertingere potest, ut polos
+            <lb ed="#F" n="5"/>ita exactè in extremitatibus custodiat; tum etiam quia, si ita etiam 
+            librare<lb ed="#F" n="6" break="no"/>mus, &amp; fieret versorium ex magnete perfectissimum, non possemus esse 
+            cer<lb ed="#F" n="7" break="no"/>ti illud descendere ob vim magneticam, &amp; non potius ob inaequalem 
+            libra<lb ed="#F" n="8" break="no"/>tionem. Re enim vera, si ego experimento non didicissem in versorio 
+            par<lb ed="#F" n="9" break="no"/>tem illam, quae modo infra horizontem descendit, manere elevatam ex 
+            so<lb ed="#F" n="10" break="no"/>la verticitatis immutatione, ea ratione, de qua supra dicebam, non tuto 
+            mi<lb ed="#F" n="11" break="no"/>hi persuaderem hanc inclinationem oriri ex vi magnetica, &amp; non potius ex
+            <lb ed="#F" n="12"/>inaequali libratione. sed cum videam unam eamdemque versorij partem 
+            mo<lb ed="#F" n="13" break="no"/>do deprimi infra horizontem, modo elevari sursum, &amp;, ex eo quod pars illa
+            <lb ed="#F" n="14"/>respiciat septentrionem, pręcisè deprimi, cogor hanc depressionem ipsi 
+            ma<lb ed="#F" n="15" break="no"/>gneti adscribere, ex eo quod pars, quae septentrionem respicit, semper 
+            deor<lb ed="#F" n="16" break="no"/>sum deprimatur. Cum autem haec verticitatis immutatio non ita fieri 
+            pos<lb ed="#F" n="17" break="no"/>set in magnete, ideo certo non possemus pronunciare ex sola magnetis 
+            in<lb ed="#F" n="18" break="no"/>spectione, alterum polorum ex vi magnetica infra horizontem 
+            descen<lb ed="#F" n="19" break="no"/>dere.
+        </p>
+            <p xml:id="p9i7y5-de8780-d1e378">
+               <lb ed="#F" n="43" type="fixed=81"/>
+               <figure xml:id="p9i7y5-de8780-Fd1e383">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869824/1044,2301,986,877/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">C A D B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375477-r4</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="20" type="fixed=81"/>Immo illud summopere cuperem scire, an in sua vena magnes alterum 
+            po<lb ed="#F" n="21" break="no"/>lorum habeat infra horizontem, pro locorum ratione, &amp; latitudine. Putat
+            <lb ed="#F" n="22"/>enim <ref xml:id="p9i7y5-de8780-Rd1e407">
+                  <name xml:id="p9i7y5-de8780-Nd1e409">Gilbertus</name> libro tertio, capite secundo</ref>, in nostro hemisphaerio 
+            septen<lb ed="#F" n="23" break="no"/>trionali septentrionalem polum descendere infra horizontem, &amp; ita etiam
+            <lb ed="#F" n="24"/>ex alijs audivi, qui sibi visi sunt hoc idem observasse. nihiloninus posset
+            <lb ed="#F" n="25"/>quis suspicari potius magneticum axem excurrere parallelum axi Mundi;
+            <lb ed="#F" n="26"/>alia enim est ratio lapidis suspensi, aut ferri magnetici, alia ipsius magnetis
+            <lb ed="#F" n="27"/>in suis fodinis. Si frangatur magnes in duas partes secundum 
+            longitudi<lb ed="#F" n="28" break="no"/>nem, verbi gratia lapis A. B. C. D. in
+            <lb ed="#F" n="29"/>duas partes A. B. &amp; C. D. si pars C. D.
+            <lb ed="#F" n="30"/>minor filo suspendatur, facies D. quae
+            <lb ed="#F" n="31"/>prius ante divisionem imminebat 
+            par<lb ed="#F" n="32" break="no"/>ti A. &amp; illi coniuncta erat, non 
+            am<lb ed="#F" n="33" break="no"/>plius post separationem, si suspensa
+            <lb ed="#F" n="34"/>libera relinquatur ad motum, 
+            con<lb ed="#F" n="35" break="no"/>vertetur ad partem A. sed ad partem
+            <lb ed="#F" n="36"/>B. cuius rei alias rationem reddere
+            <lb ed="#F" n="37"/>tentabo. Cum igitur videamus 
+            di<lb ed="#F" n="38" break="no"/>verso modo magnetica se collocare
+            <lb ed="#F" n="39"/>post separationem, si suspendantur,
+            <lb ed="#F" n="40"/>atque fuerint ante à natura producta,
+            <lb ed="#F" n="41"/>cum pars D. sit producta à natura
+            <lb ed="#F" n="42"/>coniuncta parti A. &amp; tamen facta se¬
+            <!--100.xml-->
+
+         <!--101.xml-->
+         <pb ed="#F" n="82"/>
+               <lb ed="#F" n="1"/>paratione illam partem refugiat, &amp; sequatur oppositam, possemus etiam 
+            di<lb ed="#F" n="2" break="no"/>cere magnetica, quamvis suspensa in nostro hemisphaerio suum axem 
+            obli<lb ed="#F" n="3" break="no"/>quent ad horizontem ita, ut pars septentrionalis descendat; tamen in suis 
+            fo<lb ed="#F" n="4" break="no"/>dinis manere constituta axe parallelo axi universi. Verum, ut dixi, de hoc
+            <lb ed="#F" n="5"/>non nisi opinando possemus disputare: cum nullus hactenus, quod sciam,
+            <lb ed="#F" n="6"/>experimento rem se didicisse profiteatur, neque ipse hoc potui observare.
+            <lb ed="#F" n="7"/>Observavit quidem ille magnetem in sua vena eas partes habere ad 
+            septen<lb ed="#F" n="8" break="no"/>trionem conversas, quas, vel suspensus, vel aquis convenienti cymbula
+            <lb ed="#F" n="9"/>commissus pariter in septentrionem dirigit; cumque tamen aliàs dicat 
+            con<lb ed="#F" n="10" break="no"/>trarium se invenisse verum, utrum polum illum inclinatum, ac elevatum
+            <lb ed="#F" n="11"/>invenerit, non narrat, quod sciam.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 18</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 18</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="67"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-de7565"> <!-- l1c18 -->
+            <head xml:id="p9i7y5-de7565-Hd1e107">Caput 18</head>
+            <p xml:id="p9i7y5-de7565-d1e109">
+               <lb ed="#F" n="15"/>Cur in toto terrestri globo sit haec vis magnetica; ut scilicet, formetur in suo situ
+            <lb ed="#F" n="16"/>melius, quam sola gravitate, nec fluctuet ad motum cuiuscunque
+            
+            <lb ed="#F" n="17"/>rei gravis super terram. Caput XVIII.
+        </p>
+            <p xml:id="p9i7y5-de7565-d1e118">
+               <lb ed="#F" n="18"/>Hactenus ostendimus à posteriori experientijs dari in toto 
+            terre<lb ed="#F" n="19" break="no"/>no globo huiusmodi magneticum vigorem; iam, si placeat, 
+            ra<lb ed="#F" n="20" break="no"/>tionem huius rei, de qua disputamus, ut dicitur, à priori 
+            inqui<lb ed="#F" n="21" break="no"/>rere tentemus; cur scilicet terra vim hanc magneticam 
+            possi<lb ed="#F" n="22" break="no"/>deat, &amp; verticitatem in se primum habeat, atque adeo alijs etiam
+            <lb ed="#F" n="23"/>possit communicare. Ea videtur mihi convenientissima, quia terra, cum
+            <lb ed="#F" n="24"/>circumquaque Caelo ambiatur, &amp; circa eam perpetuo moveatur diurna 
+            vo<lb ed="#F" n="25" break="no"/>lutatione astrorum agmen, ab ipso Caelo, &amp; astris circulariter se 
+            circuma<lb ed="#F" n="26" break="no"/>gentibus, undequaque aequaliter, quasi in gyrum, influentias, virtutesque 
+            ac<lb ed="#F" n="27" break="no"/>cipiat necesse est. Quare quod spectat ad naturam universalem ipsius 
+            ter<lb ed="#F" n="28" break="no"/>rae, in qua ab universalibus Caeli influentijs dependet necessario, eam 
+            aequa<lb ed="#F" n="29" break="no"/>liter undequaque affici dicendum erit; atque ex hoc, tanquam ex propria
+            <lb ed="#F" n="30"/>causa, fit, ut circa axem sit veluti coagmentata, &amp; concrustata, excurrant'que
+            <lb ed="#F" n="31"/>venae illae, de quibus supra, à polo ad polum. Cum igitur iam sit sic 
+            disposi<lb ed="#F" n="32" break="no"/>ta terra à Caeli influentijs circa axem, &amp; quasi per ordinem ad axem, &amp; 
+            po<lb ed="#F" n="33" break="no"/>los composita, seu coagmentata; haec eius natura etiam exigere videtur, ut
+            <lb ed="#F" n="34"/>in eodem situ conservetur, si debet se commodè habere; alioquin, si commo
+            <lb ed="#F" n="35"/>veretur, &amp; recederet à situ, in quo nunc est, ita ut recederet à medio, ut una
+            <lb ed="#F" n="36"/>pars propinquior Caelo fieret, illam, dum Caelum rotatur, vehementiori 
+            a<lb ed="#F" n="37" break="no"/>ctione Caelum afficeret, pars verò, quae subdita est, minus afficeretur: quare
+            <lb ed="#F" n="38"/>non ita commodè se haberet; ad quod incommodum evitandum 
+            gravita<lb ed="#F" n="39" break="no"/>tem habet, qua detinetur in medio, ne aliqua vi, aut impetu ad unam Caeli
+            <lb ed="#F" n="40"/>partem magis accedat quam ad aliam. Iam vero similiter si moveretur ita,
+            <!--86.xml-->
+            <pb ed="#F" n="67"/>
+               <lb ed="#F" n="1"/>ut contorqueret se supra centrum, ut pars illa, quę nunc subest polo, ad ę
+            qui<lb ed="#F" n="2" break="no"/>noctium accederet, tunc diverso modo afficeretur. Ut igitur semper 
+            per<lb ed="#F" n="3" break="no"/>severet eodem modo, &amp; non tota alteretur, &amp; perturbetur à dispositione,
+            <lb ed="#F" n="4"/>quam nunc habet, debet habere vim se conservandi in illo situ, quem 
+            ha<lb ed="#F" n="5" break="no"/>ctenus habuit; &amp; hanc dico esse qualitatem magneticam: &amp; sicut data est
+            <lb ed="#F" n="6"/>terrae gravitas ad impediendum motum fluctuationis, ita data est 
+            magneti<lb ed="#F" n="7" break="no"/>ca vis ad impediendum motum illius rotationis.
+        </p>
+            <p xml:id="p9i7y5-de7565-d1e190">
+               <lb ed="#F" n="8"/>Ex quo rationem habes illius, quod gratis videtur dixisse Gilbertus libro
+            <lb ed="#F" n="9"/>tertio, capite primo, si terra à naturali respectu, &amp; vera sua in Mundo 
+            positu<lb ed="#F" n="10" break="no"/>ra declinaret atque eius poli in orientem solem, aut occidentem, aut alia
+            <lb ed="#F" n="11"/>quaevis in aspectabili firmamento puncta versùs, si possibile esset, 
+            distrahere<lb ed="#F" n="12" break="no"/>tur, rursum ad septentrionem, &amp; austrum motu magnetico futurum ut 
+            ea<lb ed="#F" n="13" break="no"/>dem reverteretur, ijsdemque punctis, quibus nunc perstat, insisteret. Quod
+            <lb ed="#F" n="14"/>igitur ille solum pronuntiat, hic, ut arbitror, probatur: debet enim terra 
+            ha<lb ed="#F" n="15" break="no"/>bere vim, ne natura deficiat in necessarijs, conservandi se in situ, quem 
+            ha<lb ed="#F" n="16" break="no"/>bet, ut non perturbetur perpetua Cęlorum rotatione, &amp;, ne immutentur 
+            tem<lb ed="#F" n="17" break="no"/>pestates, continendi se, ne rotetur; &amp; hanc affirmo esse magneticam illam
+            <lb ed="#F" n="18"/>rim, quam in terra contendimus probare.
+        </p>
+            <p xml:id="p9i7y5-de7565-d1e217">
+               <lb ed="#F" n="19"/>Quod si quis obijciat, octavam sphęram proprium quendam habere
+            <lb ed="#F" n="20"/>motum secundum praecisionem aequinoctiorum; ex quo fit, ut astra circa 
+            ter<lb ed="#F" n="21" break="no"/>ram non eodem modo rotentur idest semper in eodem parallelo, ac 
+            propte<lb ed="#F" n="22" break="no"/>rea variari influentias, ex quo ulterius sibi videatur inferendum, quod terra
+            <lb ed="#F" n="23"/>debeat perpetuo sequi istam astrorum variationem, &amp; diversam latitudinem,
+            <lb ed="#F" n="24"/>&amp; amplitudinem ortivam, ut semper eodem modo alteretur; ad haec tria 
+            re<lb ed="#F" n="25" break="no"/>spondeo: primum est. quamvis astra mutent diversam amplitudinem 
+            orti<lb ed="#F" n="26" break="no"/>vam, &amp; per novos excurrant parallelos, adhuc tamen semper gerunt circa
+            <lb ed="#F" n="27"/>terram, unde circunquaque afficiunt semper per ordinem ad polos, &amp; axem:
+            <lb ed="#F" n="28"/>ergo debet perseverare terra in eodem situ polari. ex quo infero secundo,
+            <lb ed="#F" n="29"/>istam diversam latitudinem stellarum non debere commovere terram, sicut
+            <lb ed="#F" n="30"/>non commovet diversa latitudo solis, &amp; planetarum, quae tamen tantam 
+            ten<lb ed="#F" n="31" break="no"/>pestatum varietatem efficit; quia hoc est ad bonum universi, ut per hanc 
+            vi<lb ed="#F" n="32" break="no"/>cissitudinem fiat perpetua novarum rerum generatio, &amp; conservatio 
+            uni<lb ed="#F" n="33" break="no"/>versi. Tertio ista diversa latitudo, quae subinde acquiritur à stellis, est adeo
+            <lb ed="#F" n="34"/>sensim sine sensu facta, ut non violenter quasi alteret terram, &amp; de suo statu
+            <lb ed="#F" n="35"/>deturbet, sed sensim ad novam rationem, &amp; dispositionem perducat.
+            <lb ed="#F" n="36"/>Hinc obiter illud colligas, quod in nonnullorum gratiam subijcere non
+            <lb ed="#F" n="37"/>gravabor; cum magnopere videam nonnullos hac in re laborare, contra
+            <lb ed="#F" n="38"/>quosdam ingeniosiores, qui quandam in terra perpetuam fluctuationem se
+            <lb ed="#F" n="39"/>invenisse gloriantur. Dicunt enim terrae globum hanc solam habere 
+            con<lb ed="#F" n="40" break="no"/>sistendi vim, &amp; hac solum ratione librari, &amp; in medio universi detineri, quod
+            <lb ed="#F" n="41"/>suo centro gravitatis centrum totius mundi debeat occupare; &amp; ex 
+            philo<lb ed="#F" n="42" break="no"/>sophorum placitis vulgare illud assumunt, gravia ad centrum universi ten¬
+            <!--87.xml-->
+            <pb ed="#F" n="68"/>
+               <lb ed="#F" n="1"/>dere; ita ut contendant omnia suum centrum gravitatis in centro Mundi
+            <lb ed="#F" n="2"/>collocare; terram vero, quippè quae gravissima est, id ipsum maximè, &amp; 
+            ap<lb ed="#F" n="3" break="no"/>petere, &amp; obtinere. Hoc posito iam suum de terrae fluctuatione monstrum
+            <lb ed="#F" n="4"/>sic confirmant. Centrum gravitatis totius terrae debet consistere in centro
+            <lb ed="#F" n="5"/>universi, sed centrum huius gravitatis in terreno globo mutatur, quoties
+            <lb ed="#F" n="6"/>aliquod corpus grave, vel minimum in eius superficie movetur loco, ergo
+            <lb ed="#F" n="7"/>debet etiam moveri terra, ut illud punctum, quod de novo constitutum est
+            <lb ed="#F" n="8"/>centrum gravitatis terrae descendat ad centrum universi, ut terra sit in 
+            pro<lb ed="#F" n="9" break="no"/>prio loco, cum terrae locus sit habere suum centrum gravitatis in centro
+            <lb ed="#F" n="10"/>universi. ergo quoties movetur aliquod vel minimum corpus in superficie
+            <lb ed="#F" n="11"/>terrae, tota terra movetur, &amp; nutat.
+         <lb ed="#F" n="43" type="fixed=68"/>
+               <figure xml:id="p9i7y5-de7565-Fd1e302">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869811/1356,1667,884,948/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">B A D C</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375457-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-de7565-d1e320">
+               <lb ed="#F" n="12" type="fixed=68"/>Hoc argumento videntur sibi portentosum terrae motum demonstrare,
+            <lb ed="#F" n="13"/>&amp; perpetuam quandam, vel ad unius aviculae motum, terrae fluctuationem
+            <lb ed="#F" n="14"/>inducere: minor enim suam habet in argumento confirmationem; maior
+            <lb ed="#F" n="15"/>vero sic evidenter roboratur. Centrum gravitatis in quolibet corpore 
+            sphae<lb ed="#F" n="16" break="no"/>rico est punctum illud, à quo, hinc inde ex omni parte opposita, sunt 
+            aequa<lb ed="#F" n="17" break="no"/>lia pondera, &amp; quidem punctum indivisibile; si ergo aequalitas tollitur, per
+            <lb ed="#F" n="18"/>quamcunque ablationem, vel positionem in altero extremorum, si in 
+            sphae<lb ed="#F" n="19" break="no"/>ra B. C. centrum gravitatis erat A.
+            <lb ed="#F" n="20"/>eo quod tantundem gravitatis 
+            es<lb ed="#F" n="21" break="no"/>set ab A. ad B. quantum ab A. ad
+            <lb ed="#F" n="22"/>C. si auferatur aliquid gravitatis
+            <lb ed="#F" n="23"/>ex B. non remanebit centrum 
+            gra<lb ed="#F" n="24" break="no"/>vitatis A. quia ab A. ad C, non
+            <lb ed="#F" n="25"/>sunt amplius momenta aequalia;
+            <lb ed="#F" n="26"/>atque ab A. ad B. cum enim prius
+            <lb ed="#F" n="27"/>essent aequalia; nunc vero ab uno
+            <lb ed="#F" n="28"/>extremo ablatum sit aliquid, non
+            <lb ed="#F" n="29"/>erunt amplius aequalia, ne totum,
+            <lb ed="#F" n="30"/>&amp; pars dicantur aequalia; sed 
+            con<lb ed="#F" n="31" break="no"/>stitutum erit centrum gravitatis
+            <lb ed="#F" n="32"/>punctum D. ex quo ad partes 
+            op<lb ed="#F" n="33" break="no"/>positas B. &amp; C. sunt pondera ę
+            qua<lb ed="#F" n="34" break="no"/>lia. ergo ad aviculae motum, quae
+            <lb ed="#F" n="35"/>avolet ex B. centrum gravitatis
+            <lb ed="#F" n="36"/>mutabitur, si B. C. sit globus 
+            ter<lb ed="#F" n="37" break="no"/>rae, &amp; consequenter movebitur tota terra, ut novum illud punctum, quod
+            <lb ed="#F" n="38"/>constitutum est centrum gravitatis, ad centrum universi confluat.
+            <lb ed="#F" n="39"/>Hoc argumentum aliquibus valde difficile videtur, nec ita facilè 
+            solu<lb ed="#F" n="40" break="no"/>tionem invenire profitentur. Alij varias afferunt solutiones, quas nolo hic
+            <lb ed="#F" n="41"/>pluribus examinare, cum solum ex occasione hoc tractem. Dico solum 
+            pa<lb ed="#F" n="42" break="no"/>tere optimè solutionem illius ex discursu supra facto: non enim praecisè ideo
+            <!--87.xml-->
+
+         <!--88.xml-->
+         <pb ed="#F" n="69"/>
+               <lb ed="#F" n="1"/>terra conquiescit in medio, quia quasi gravissimum corpus centro suae 
+            gra<lb ed="#F" n="2" break="no"/>vitatis mathematico centrum totius omnino marhematicum possidere 
+            la<lb ed="#F" n="3" break="no"/>boret; neque ex hac imaginatione conficto indivisibili puncto tanta moles
+            <lb ed="#F" n="4"/>sibi locum determinat; sed illa verticitate, &amp; magnetica virtute infręnatur
+            <lb ed="#F" n="5"/>contineturque, ac locum sibi hunc, quem habet, vindicat. non ex unico 
+            pun<lb ed="#F" n="6" break="no"/>cto, sed ex tota sua mole, ut scilicet eadem semper ratione, &amp; eodem pacto
+            <lb ed="#F" n="7"/>afficiatur ex aequali undique rotatione, ac distantia in gyrum sese agentis Cę¬
+            <lb ed="#F" n="8"/>li. haec sunt, quae terram consistentem reddunt, nec perpetuo fluctuare ad
+            <lb ed="#F" n="9"/>aviculae motum patiuntur. &amp; haec est magnetica illa virtus, qua in polos 
+            di<lb ed="#F" n="10" break="no"/>rigitur tellus, &amp; detinetur, &amp; quam nos tam multis iam conficere 
+            cona<lb ed="#F" n="11" break="no"/>mur. Quare directe ad oppositum argumentum respondeo primo, 
+            conce<lb ed="#F" n="12" break="no"/>dendo quidem ad motum cuiuscunque rei gravis mutari centrum 
+            gravita<lb ed="#F" n="13" break="no"/>tis totius terrae: hoc enim mathematicorum evidenter conficiunt rationes,
+            <lb ed="#F" n="14"/>nec potest à quoquam, qui in mathematicorum pulvere non dicam 
+            versa<lb ed="#F" n="15" break="no"/>tus, sed eo vel leviter aspersus sit, negari; sed nego terrae inditam esse vim,
+            <lb ed="#F" n="16"/>aut contendere, ut suo centro gravitatis sit in centro universi: nec enim 
+            ma<lb ed="#F" n="17" break="no"/>thematicum locum quaerit, sed physicum, &amp; consequenter, dico terram in
+            <lb ed="#F" n="18"/>medio consistere, non mathematicè, sed physicè, &amp; res quidem graves 
+            mo<lb ed="#F" n="19" break="no"/>do, de quo alias à me dictum est, ad centrum terrae inclinare, ipsam verò 
+            ter<lb ed="#F" n="20" break="no"/>ram physicè sulum esse in medio iuxta finem, propter quem est in medio, ut
+            <lb ed="#F" n="21"/>scilicet hinc inde ęqualiter Caeli actionem excipere possit: ad quod nihil 
+            fa<lb ed="#F" n="22" break="no"/>cit, quod mathematicè aliquid plus emineat ex una parte: ad actionem 
+            e<lb ed="#F" n="23" break="no"/>nim, mathematica non attenditur distantia, sed physica: unde terra, quae 
+            lo<lb ed="#F" n="24" break="no"/>cum sibi quaerit physicum, non mathematicum, cum quaerat sibi locum ad
+            <lb ed="#F" n="25"/>actionem, &amp; passionem, tunc demum solum moveretur, quando ita ex 
+            cen<lb ed="#F" n="26" break="no"/>tro universi extraheretur, ut non amplius physicam Caeli actionem eodem
+            <lb ed="#F" n="27"/>modo circumquaque exciperet; quia ex una parte proximior esset Caelo,
+            <lb ed="#F" n="28"/>quam ex alia, à quo solo continetur, quandiù autem hoc non fit, non mutat
+            <lb ed="#F" n="29"/>locum nec fluctuat. non fit autem in casu posito ad motum aviculae. ergo ad
+            <lb ed="#F" n="30"/>illius motum non fluctuat terra.
+        </p>
+            <p xml:id="p9i7y5-de7565-d1e461">
+               <lb ed="#F" n="31"/>Adde necessariam esse hanc magneticam terrae virtutem, ut omnino 
+            con<lb ed="#F" n="32" break="no"/>tineatur terra in situ polari, in quo nunc est. &amp; sanè si nulla alia esset ratio,
+            <lb ed="#F" n="33"/>quae mihi persuaderet hanc magneticam terrae virtutem, vel ex hoc uno 
+            ad<lb ed="#F" n="34" break="no"/>mitterem; quia alioquin non video, qua ratione possit terra contineri in situ
+            <lb ed="#F" n="35"/>polorum, quem nunc habet, ut partes polares v. g. non vertantur ad 
+            orien<lb ed="#F" n="36" break="no"/>tem, aut occidentem, quod de facto videmus servari, nisi ponamus in illa
+            <lb ed="#F" n="37"/>talem vim, qua possit se in tali situ continere; &amp; hanc magneticam vim 
+            ap<lb ed="#F" n="38" break="no"/>pellamus. Quotiescunque aliqua res gravis non removetur centro suae 
+            gra<lb ed="#F" n="39" break="no"/>vitatis magis à centro universi, à qualibet vi, poterit circumagi circa suum
+            <lb ed="#F" n="40"/>centrum gravitatis: gravitas enim rei non impedit motum, nec resistit, nisi
+            <lb ed="#F" n="41"/>ne centrum gravitatis totius magis recedat à centro universi, &amp; nisi 
+            inter<lb ed="#F" n="42" break="no"/>veniant fricationes, quae impediant, poterit res gravis circa suum centrum
+            <!--89.xml-->
+            <pb ed="#F" n="70"/>
+               <lb ed="#F" n="1"/>gravitatis rotari à qualibet, vel minima vi: nihil enim est, demptis 
+            fricatio<lb ed="#F" n="2" break="no"/>nibus, quod illum motum retardet. nec puto ego, dum res est verè una, &amp;
+            <lb ed="#F" n="3"/>verè unum habet centrum gravitatis, centra gravitatis partium, quae possunt
+            <lb ed="#F" n="4"/>concipi in illa acta gravitate centrum versus universi, ita ut dimoveantur à
+            <lb ed="#F" n="5"/>suo statu naturali, si linea ducta à centro gravitatis istius partis ad centrum
+            <lb ed="#F" n="6"/>universi fiat productior, eo quod rotatur res; &amp; ad hoc faceret illa longa
+            <lb ed="#F" n="7"/>disputatio, quae instituitur à Mechanicis de libra, utrum verè sistat in 
+            quali<lb ed="#F" n="8" break="no"/>bet positione res librata ex suo centro gravitatis, quod habes apud 
+            Guido<lb ed="#F" n="9" break="no"/>baldum de Monte; imò propter hoc etiam magnam ego habui semper dif¬¬
+            <lb ed="#F" n="10"/>ficultatem in illa Archimedis demonstratione de aequiponderantibus, in
+            <lb ed="#F" n="11"/>qua probat in vecte servari proportionem immutatam distantiarum ab 
+            ipo<lb ed="#F" n="12" break="no"/>moleo inter potentiam, &amp; pondus, quia supponit partes actu habere 
+            cen<lb ed="#F" n="13" break="no"/>trum gravitatis, quo actu gravitent, distinctum à centro totius. sed de illa 
+            de<lb ed="#F" n="14" break="no"/>monstratione, quae mihi non videtur perfectè concludere, dicam alias.
+        </p>
+            <p xml:id="p9i7y5-de7565-d1e524">
+               <lb ed="#F" n="15"/>Adde, quia hoc posset esse alicui dubium, &amp; quod hic assero, certum 
+            vide<lb ed="#F" n="16" break="no"/>tur, etiam dato quod partes haberent sua centra gravitatis, &amp; inclinarent,
+            <lb ed="#F" n="17"/>non removeri à linea brevissima; cum centrum gravitatis totius sit illud
+            <lb ed="#F" n="18"/>punctum, à quo ad partes oppositas sunt aequalia pondera. ergo quolibet
+            <lb ed="#F" n="19"/>addito ex una parte fiet pars illa gravior, &amp; tolletur aequalitas, &amp; attollet
+            <lb ed="#F" n="20"/>oppositam sibi partem. ergo rorabit illam rem quaelibet vis, vel minima;
+            <lb ed="#F" n="21"/>quia facit illam partem, cui additur, praevalere contra oppositam, cum 
+            igi<lb ed="#F" n="22" break="no"/>tur terra sit in centro universi, sua quidem gravitare resistit, ne dimoveatur
+            <lb ed="#F" n="23"/>ab illo situ, idest ne recedat centrum gravitatis à centro universi, at non 
+            re<lb ed="#F" n="24" break="no"/>sistit gravitas terrae, ne terra circa centrum gravitatis rotetur. quaero igitur
+            <lb ed="#F" n="25"/>quid sit, quod retineat terram, ne circa suum centrum rotetur, dum maxima
+            <lb ed="#F" n="26"/>ventorum vis impellit montes. Sicut enim videmus onerarias impelli per
+            <lb ed="#F" n="27"/>Oceanum non maxima ventorum vi, curventorum turbines 
+            vehemen<lb ed="#F" n="28" break="no"/>tissimi, dum montes impellunt, terram non contorquent? quid resistit huic
+            <lb ed="#F" n="29"/>volutationi? non fricationes, quae nullae sunt, cum terra circumquaque aëre
+            <lb ed="#F" n="30"/>vestiatur, non corpore solido; non gravitas, quia gravitate perinde est 
+            aspi<lb ed="#F" n="31" break="no"/>cere hanc, atque illam Caeli plagam, &amp;, dummodo centrum gravitatis non
+            <lb ed="#F" n="32"/>extollatur à centro universi, gravitas non repugnat. quid ergo terram sic
+            <lb ed="#F" n="33"/>continet? dico igitur necesse esse ponere in terra aliquam qualitatem, quae
+            <lb ed="#F" n="34"/>contineat illam, ne circumrotetur, sicuti datur qualitas, quę continet illam,
+            <lb ed="#F" n="35"/>ne asportetur aliò, &amp; est gravitas; cum non minori futurum sit incommodo
+            <lb ed="#F" n="36"/>respectu terrae, si rotetur, quam si asportetur à centro universi: &amp; hanc 
+            quali<lb ed="#F" n="37" break="no"/>tatem dico esse qualitatem magneticam, quae disponit terram, &amp; continet in
+            <lb ed="#F" n="38"/>ordine ad polos, ne moveatur ab illo situ. non difiteor quidem detineri 
+            e<lb ed="#F" n="39" break="no"/>tiam à condensatione aëris, &amp; resistentia, quam invenient montes, &amp; 
+            emi<lb ed="#F" n="40" break="no"/>nentiae, sed tamen non debuit natura omittere hanc qualitatem, quae per se
+            <lb ed="#F" n="41"/>terram continet.
+        </p>
+            <p xml:id="p9i7y5-de7565-d1e585">
+               <lb ed="#F" n="42"/>Verum in gratiam illorum, qui hoc nostrum de magnetica vi terrae prin¬
+            <!--90.xml-->
+            <pb ed="#F" n="71"/>
+               <lb ed="#F" n="1"/>cipium nolent admittere(quamvis cur illis tenear, qui mecum non tenent)
+            <lb ed="#F" n="2"/>ut appareat nihilominus, quam tenui fundamento à nonnullis hoc de 
+            ter<lb ed="#F" n="3" break="no"/>rae fluctuatione portentosum argumentum insolubile videatur, respondeo
+            <lb ed="#F" n="4"/>secundo, etiam admittendo, quod ipsi contendunt, centrum gravitatis 
+            ter<lb ed="#F" n="5" break="no"/>rae ad cuiusuis rei gravis mutationem mutari, &amp; terram hanc sibi inditam
+            <lb ed="#F" n="6"/>habere vim, ut velit centro suae gravitatis centrum universi occupare; 
+            ne<lb ed="#F" n="7" break="no"/>gando tamen adhuc ad motum cuiuscunque rei levissimae terram 
+            fluctua<lb ed="#F" n="8" break="no"/>re; cuius negationis ratio est, quia non solum ad hoc, ut efficiatur motus 
+            ta<lb ed="#F" n="9" break="no"/>lis in terra, debet ex una parte terrae esse plus gravitatis, sed tantus debet esse
+            <lb ed="#F" n="10"/>excessus, ut possit aëris in oppositum conantis, resistentiam superare, sicut 
+            e<lb ed="#F" n="11" break="no"/>nim, si muscam ingenti onerariae filo alligares, quantumvis conaretur, non
+            <lb ed="#F" n="12"/>posset eam onerariam loco dimovere, ne tantillum quidem, &amp; hoc, non 
+            ni<lb ed="#F" n="13" break="no"/>si, quia aquae resistentiam superare non potest. sic etiam, quamvis homo, vel
+            <lb ed="#F" n="14"/>aliquid huiusmodi supra terram moveatur, esto terra conatetur discedere,
+            <lb ed="#F" n="15"/>resistentia aëris in contrarium nitentis superari non potest exigua illa 
+            pon<lb ed="#F" n="16" break="no"/>deris differentia: illa enim sola est, quae cum medio pugnare deberet, 
+            ma<lb ed="#F" n="17" break="no"/>gis autem proportionata est musca ad movendam onerariam, quam 
+            quae<lb ed="#F" n="18" break="no"/>libet magnitudo, nedum avicula, quae supra terram moveri possit, ad 
+            mo<lb ed="#F" n="19" break="no"/>vendam terram.
+        </p>
+            <p xml:id="p9i7y5-de7565-d1e635">
+               <lb ed="#F" n="20"/>Nec admitto, quod nonnulli videntur gratis assumere, aërem nimirum,
+            <lb ed="#F" n="21"/>&amp; aquam resistere ad velocitatem motus, non vero ad motum simpliciter,
+            <lb ed="#F" n="22"/>&amp; videat, si quis fortasse hac de re suspicetur, quam vim habeant haec, quae
+            <lb ed="#F" n="23"/>hic obiter subdo, non quasi hac de re disputans, sed potius leviter dubitans:
+            <lb ed="#F" n="24"/>aër enim, &amp; aqua, ut unitatem seruent, vim habent, qua partes simul, ut ita
+            <lb ed="#F" n="25"/>dicam, adglutinentur; ad quam vim superandam, quod per aëtem, &amp; aquam
+            <lb ed="#F" n="26"/>debet moveri, determinatam virtutem debet habere, ut hoc superet, &amp; 
+            par<lb ed="#F" n="27" break="no"/>tes à se invicem dividat. patet in aqua: nam gutta, quae ex tubo dependet,
+            <lb ed="#F" n="28"/>non statim decidit, quia gravitas, qua deorsum trahitur non tanta est, ut 
+            su<lb ed="#F" n="29" break="no"/>peret adhaerescentiam, &amp; ut sic dixerim gluten partium similiter bullae, quae
+            <lb ed="#F" n="30"/>fiunt in spuma, quamvis sint ex aqua, illa statim non concidit in locum aë¬
+            <lb ed="#F" n="31"/>ris inclusi in bulla, quia non praevalet, gravitas contra adhęrescentiam 
+            par<lb ed="#F" n="32" break="no"/>tium. ad hoc igitur, ut moveat, praesertim mobile per immediatum 
+            impe<lb ed="#F" n="33" break="no"/>tum, &amp; consequenter determinata velocitate, aër, &amp; aqua refistet 
+            simplici<lb ed="#F" n="34" break="no"/>ter, sua tenacitate partium. Etiamsi ergo ex B. auferatur aliquid gravitatis,
+            <lb ed="#F" n="35"/>ac proinde sit plus gravitatis in A. C. non tamen statim descendet B. 
+            ver<lb ed="#F" n="36" break="no"/>sus, quia debet impelli, seu condensari totus aër, qui circundat 
+            hemisphae<lb ed="#F" n="37" break="no"/>rium B. si terra debet moveri ad illam partem. exigua autem illa gravitatis
+            <lb ed="#F" n="38"/>differentia non habet hanc vim. quare si argumentum illud concluderet,
+            <lb ed="#F" n="39"/>concluderet mathematicè, &amp; supponeret terram in vacuo, non in pleno,
+            <lb ed="#F" n="40"/>cum resistentia medij ad motum.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

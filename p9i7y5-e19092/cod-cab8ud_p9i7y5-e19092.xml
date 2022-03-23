@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 17</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 17</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="179"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e19092"> <!-- l2c17 -->
+            <head xml:id="p9i7y5-e19092-Hd1e107">Caput 17</head>
+            <p xml:id="p9i7y5-e19092-d1e109">
+               <lb ed="#F" n="15"/>De electricis attractionibus; &amp; primo de multiplici discrimine inter magnetis,
+            <lb ed="#F" n="16"/>electri attractiones. Cap. XVII.
+        </p>
+            <p xml:id="p9i7y5-e19092-d1e116">
+               <lb ed="#F" n="17"/>Placuit in fine huius libri aliquid subijcere de attractionibus,
+            <lb ed="#F" n="18"/>quae fiunt per electrum seu succinum, &amp; per illa electrica 
+            cor<lb ed="#F" n="19" break="no"/>pora, quae electrica possunt appellari, quia similem habent 
+            at<lb ed="#F" n="20" break="no"/>trahendi facultatem cum electro. Quamvis enim extra 
+            ma<lb ed="#F" n="21" break="no"/>gneticam naturam sint huiusmodi attractiones; quia tamen
+            <lb ed="#F" n="22"/>&amp; nomine, &amp; externa specie prima fronte rem consideranti affinitatem 
+            ha<lb ed="#F" n="23" break="no"/>bere videbuntur cum magneticis attractionibus, non videntur 
+            praetermit<lb ed="#F" n="24" break="no"/>tendae. Id cum Gilberto lib. 2. cap. 2. eo libentius facio, quod multa in eius
+            <lb ed="#F" n="25"/>doctrina accuratius discutienda videantur. Neque, dum tam multis disputo
+            <lb ed="#F" n="26"/>de attractione, possum, sine aliqua nota, hanc tam insignem omisisse. 
+            Quam<lb ed="#F" n="27" break="no"/>vis, ut verum fatear, diu haesitaverim, cum nullius ferè alterius videam in hoc
+            <lb ed="#F" n="28"/>sapientum notata vestigia. Quid enim audeam ignotum tentare iter nullo
+            <lb ed="#F" n="29"/>stipatus praesidio? dum à Gilberto in aliquibus discedendum puto. Verum,
+            <lb ed="#F" n="30"/>amicè lector, aequi bonique consulas. Ex meis fortasse erroribus tute tibi viam
+            <lb ed="#F" n="31"/>monstrabis certiorem.
+        </p>
+            <p xml:id="p9i7y5-e19092-d1e151">
+               <lb ed="#F" n="32"/>Omitto igitur in praesentia nominum varietatem, &amp; ethymologiam, sive
+            <lb ed="#F" n="33"/>sint nomina ex aliena, sive ex domestica loquendi forma derivata: Hoc 
+            pas<lb ed="#F" n="34" break="no"/>sim apud auctores invenies, &amp; apud Gilbertum citatum. Quod ad rem 
+            spe<lb ed="#F" n="35" break="no"/>ctat; illud in primis certum sit, valde diversas esse electricas attractiones à
+            <lb ed="#F" n="36"/>magneticis: quamvis enim, ut lepidè inquit ille; aeque magnetem, atque 
+            suc<lb ed="#F" n="37" break="no"/>cinum, seu electrum invocent philosophi nonnulli, cum in arcanis 
+            pluri<lb ed="#F" n="38" break="no"/>mis illustrandis caligat sensus, nec progredi ratio potest, &amp; in omnibus 
+            dif<lb ed="#F" n="39" break="no"/>ficultatibus magnetem aequè, ac succinum, tanquam personatos advocatos
+            <lb ed="#F" n="40"/>inducunt, quo suam tueantur imbecillitatem, ex triplici potissimum capite
+            <!--198.xml-->
+            <pb ed="#F" n="179"/>
+               <lb ed="#F" n="1"/>demonstro differre, ex eo scilicet, quod trahit, ex rebus attractis, &amp; ex modo
+            <lb ed="#F" n="2"/>attrahendi. Ex his enim tribus magnum sumitur diversitatis argumentum
+            <lb ed="#F" n="3"/>inter has attractiones, magneticas, &amp; electricas.
+        </p>
+            <p xml:id="p9i7y5-e19092-d1e185">
+               <lb ed="#F" n="4"/>Primo igitur magneticè trahunt solum magnes, &amp; si addere velis, telluris
+            <lb ed="#F" n="5"/>globus, &amp; illa, quę manifestè magneticam inducunt naturam, ut est ferrum,
+            <lb ed="#F" n="6"/>&amp; ferrea corpora; quae ita patentem, &amp; probatam habent cum magnete 
+            affi<lb ed="#F" n="7" break="no"/>nitatem, ut etiam ex magnete, tanquam ex perfectissima vena ferrum possit
+            <lb ed="#F" n="8"/>fundi; vires autem attractivas magneticè concipit ferrum ex solo magnete,
+            <lb ed="#F" n="9"/>aut magnetico corpore per contactum suppositi, vel virtutis. Quo fit, ut 
+            iu<lb ed="#F" n="10" break="no"/>re dicere possimus, solum magnetem, &amp;, si velis, telluris globum, vim 
+            habe<lb ed="#F" n="11" break="no"/>re magneticè attrahendi; quia haec sola vim habent istam per se primo; 
+            reli<lb ed="#F" n="12" break="no"/>qua habent ab istis communicatam.
+        </p>
+            <p xml:id="p9i7y5-e19092-d1e207">
+               <lb ed="#F" n="13"/>At vero electricè trahunt plurima corpora. Nec enim solum electrum,
+            <lb ed="#F" n="14"/>aut Gagates, vel succinum trahit paleas, ut communiter dicitur, sed hanc 
+            ean<lb ed="#F" n="15" break="no"/>dem attrahendi vim habent alia plurima, quorum multa numerat 
+            Gilber<lb ed="#F" n="16" break="no"/>tus citatus. Trahit enim, Adamas, Sapphirus, Carbunculus, Iris gemma,
+            <lb ed="#F" n="17"/>Opalus, Amethystus Vinuntina Bristola (Anglica gemma, sive fluor) 
+            Be<lb ed="#F" n="18" break="no"/>cyllus, Chrystallus, Similes attrahendi vires habere videtur Vitrum, tum ex
+            <lb ed="#F" n="19"/>vitro aut chrystallo adulteratae gemmae, Vitrum antimonij, &amp; fluores 
+            plu<lb ed="#F" n="20" break="no"/>rimi ex fodinis, e Belemnitis. Allicit etiam Sulphur, Mastiche, non solum
+            <lb ed="#F" n="21"/>albi, sed etiam rubri coloris, Cera dura sigillaris ex laca varijs coloribus 
+            tin<lb ed="#F" n="22" break="no"/>cta. Allicit Resina durior, Arsenicum, sed imbecillius, aegrè etiam in 
+            con<lb ed="#F" n="23" break="no"/>venienti Cęlo situs Sal gemma, Lapis specularis, Alumen rupeum. Haec 
+            com<lb ed="#F" n="24" break="no"/>memorat Gilbertus, quòd vires habeant attrahendi electricè.
+        </p>
+            <p xml:id="p9i7y5-e19092-d1e236">
+               <lb ed="#F" n="25"/>Sunt tamen etiam alia, quae hanc eamdem vim habent, ut Cera alba, &amp;
+            <lb ed="#F" n="26"/>quodlibet ex cera durum, ut tergi possit, imo cera sigillaris non trahit 
+            ratio<lb ed="#F" n="27" break="no"/>ne alterius admixti, sed ex cera. Trahunt praeterea plurimae gemmae, ut Gum
+            <lb ed="#F" n="28"/>ma elemi, Carabe Gumma naturalis ex ligno, ut dicitur, sancto, Gumma ex
+            <lb ed="#F" n="29"/>mastice, Pix, quae dicitur Hispana; trahit etiam licet obscure Gypsum non
+            <lb ed="#F" n="30"/>coctum, &amp; aliae fortasse plurimae Gummae hanc eandem habebunt vim attra
+            <lb ed="#F" n="31"/>ctivam. Non est igitur haec vis attractiva electticè unius alicuius naturae
+            <lb ed="#F" n="32"/>proprietas, neque alicuius peculiaris corporis facultas, sicuti illa est proprie
+            <lb ed="#F" n="33"/>tas magnetis; cum haec in tam multis reperiatur corporibus, non solum spe
+            <lb ed="#F" n="34"/>cie, sed etiam genere diversis. Sunt enim multae gemmae, quae trahunt 
+            ele<lb ed="#F" n="35" break="no"/>ctricè, non tamen omnes: trahunt enim nominatae: aliae plurimae, quamvis
+            <lb ed="#F" n="36"/>tergantur, &amp; nitescant, non ostendunt hanc facultatem, non trahit acathes,
+            <lb ed="#F" n="37"/>Smaragdus, carneolus, margaritae. trahunt multi lapides, non tamen omnes
+            <lb ed="#F" n="38"/>etiamsi poliantur, &amp; nitescant: non trahit marmor, non alabastrum non 
+            ly<lb ed="#F" n="39" break="no"/>dius lapis, non silex, non alia multa. nullum metallorum, quod sciam, 
+            ele<lb ed="#F" n="40" break="no"/>ctricè trahit, non aurum, non argentum, non ligna quamvis durissima, ut
+            <lb ed="#F" n="41"/>ebanum, non ossea, non carnea, non corallus, etiam si plurima ex istis, &amp; 
+            du<lb ed="#F" n="42" break="no"/>ra sint, &amp; tersa. trahunt tamen etiam aliqua artefacta, ut vitrum. ergo haec
+            <!--199.xml-->
+            <pb ed="#F" n="180"/>
+               <lb ed="#F" n="1"/>attrahendi ratio non est alicuius certae naturae, &amp; vix certum genus poterit
+            <lb ed="#F" n="2"/>assignari, cuius omnes species trahant electricè; &amp; extra quod, nullum 
+            tra<lb ed="#F" n="3" break="no"/>hat. In quo enim genere convenit sulphur, vitrum, adamus, electrum cera,
+            <lb ed="#F" n="4"/>gummae, quae omnia trahunt; in quo non conveniant alia, quae non trahunt?
+            <lb ed="#F" n="5"/>Est igitur haec prima diversitas inter attractiones electricas, &amp; 
+            magneti<lb ed="#F" n="6" break="no"/>cas; quod haec est proprietas alicuius determinati corporis, illa vero multis,
+            <lb ed="#F" n="7"/>&amp; inter se longè diversis convenit corporibus.
+        </p>
+            <p xml:id="p9i7y5-e19092-d1e297">
+               <lb ed="#F" n="8"/>Ad hoc idem discrimen harum attractionum, quod desumitur à 
+            trahen<lb ed="#F" n="9" break="no"/>te, illud etiam potest reduci, quod haec vis attractiva magnetica ita est 
+            ma<lb ed="#F" n="10" break="no"/>gnetis propria, ut possit tamen alteri nimirum ferro per solum contactum
+            <lb ed="#F" n="11"/>communicari, &amp; ferrum, quod ante contactum magnetis nullam fere 
+            osten<lb ed="#F" n="12" break="no"/>debat vim attrahendi aliud ferrum, post contactum magnetis iam 
+            acquisi<lb ed="#F" n="13" break="no"/>verit vim hanc attractivam alterius ferri. at vero electrica, &amp; quae illa 
+            ratio<lb ed="#F" n="14" break="no"/>ne trahunt, non possunt suam hanc facultatem alijs communicare 
+            corpori<lb ed="#F" n="15" break="no"/>bus per contactum, neque ullum invenitur corpus, quod ex consortio, cum
+            <lb ed="#F" n="16"/>electro vim acquirat attrahendi paleas, quam prius non haberet, sicut 
+            repe<lb ed="#F" n="17" break="no"/>titur corpus, quod ex consortio cum magnete acquirit vim attrahendi 
+            fer<lb ed="#F" n="18" break="no"/>rum, quam prius non habebat. Est igitur ita in suo subiecto vis attractiva
+            <lb ed="#F" n="19"/>magneticè, ut possit alteri communicari, non communicata natura subiecti,
+            <lb ed="#F" n="20"/>at vero vis attractiva electrice, ita est in suis subiectis, ut non possit nisi 
+            com<lb ed="#F" n="21" break="no"/>municata substantia alteri communicari.
+        </p>
+            <p xml:id="p9i7y5-e19092-d1e330">
+               <lb ed="#F" n="22"/>Secundum discrimen inter has attractiones est ratione rei attractae: 
+            ma<lb ed="#F" n="23" break="no"/>gnes enim, &amp; quae magneticè trahunt, non trahunt, nec sibi adiungunt, nisi
+            <lb ed="#F" n="24"/>ferrum, aut magnetem, &amp; sola illa corpora, quae etiam ipsa possunt sibi alia
+            <lb ed="#F" n="25"/>similia eodem attractionis genere adiungere. at vero electrica attrahunt
+            <lb ed="#F" n="26"/>non aliquod peculiare corpus, sed omnia omnino corpora; praeter nimis
+            <lb ed="#F" n="27"/>subtilia, &amp; inflammata, quę propter suam subtilitatem, vincula 
+            quodammo<lb ed="#F" n="28" break="no"/>do eludunt, nec trahi possunt. Electrum enim non solum trahit paleas,
+            <lb ed="#F" n="29"/>festucas, &amp; arida corpuscula: sed etiam chartam, ligna, ossa, metalla, imo 
+            o<lb ed="#F" n="30" break="no"/>leum, &amp; aquam, &amp; quoslibet humores: si enim fuerit gutta aquae supra tabu
+            <lb ed="#F" n="31"/>lam, &amp; applices electrum bene praeparatum, attrahit illam, &amp; sustollit in
+            <lb ed="#F" n="32"/>conum electrum versus. Ex quo vides non modo inutilem, sed ridiculam esse illam
+            <lb ed="#F" n="33"/>quaestionem, qua multi quaerunt, cur electrum trahat paleas, &amp; arentia solum
+            <lb ed="#F" n="34"/>corpora, sicut magnes trahit solum ferrum; &amp; laborant, ut inveniant 
+            con<lb ed="#F" n="35" break="no"/>venientiam inter electrum, &amp; arida ista corpora, qua fiat, ut potius trahat ista,
+            <lb ed="#F" n="36"/>quam alia. Sed, ut inquit ille, facile est viris ingenio abundantibus, &amp; 
+            ex<lb ed="#F" n="37" break="no"/>perimentis egentibus in varios incidere errores; &amp; invenire etiam causas
+            <lb ed="#F" n="38"/>rerum, quae nusquam sunt: quicquid reclamet Aristoteles: non est non ens
+            <lb ed="#F" n="39"/>scire. Non solum igitur electrum, &amp; electrica trahunt aliquod genus 
+            cor<lb ed="#F" n="40" break="no"/>porum, in quibus possit similitudo excogitali, sed trahunt omnia omnino
+            <lb ed="#F" n="41"/>corporum genera, si nimis gravia non sint, praeter nimis subtilia, ut dicebam,
+            <lb ed="#F" n="42"/>&amp; inflammata; sive corpora arida sint, sive humida: nec ullum rerum genus
+            <!--200.xml-->
+            <pb ed="#F" n="181"/>
+               <lb ed="#F" n="1"/>est, quod non trahatur.
+        </p>
+            <p xml:id="p9i7y5-e19092-d1e385">
+               <lb ed="#F" n="2"/>Imo ad experimentum faciendum, utrum aliquod corpus 
+            electri<lb ed="#F" n="3" break="no"/>cè corpuscula trahat, placet fieri versorium ex aurichaleo, vel alio
+            <lb ed="#F" n="4"/>metallo, dummodo non fiat ex ferro, prorsus eodem modo, quò fiunt
+            <lb ed="#F" n="5"/>versioria magnetica, tenuè, &amp; benè ęquilibratum; ut facilime moveatur 
+            su<lb ed="#F" n="6" break="no"/>pra suum stylum: applicatum enim ad huiusmodi versorium corpus 
+            electri<lb ed="#F" n="7" break="no"/>cè praeparatum trahet ad se versorium, si aliquid virium habeat attrahendi;
+            <lb ed="#F" n="8"/>&amp; multae erunt gummae, &amp; alia etiam corpora, quae alia ratione vim non 
+            o<lb ed="#F" n="9" break="no"/>stendent electricè attractivam: nec enim tantum habent virium, ut attollant,
+            <lb ed="#F" n="10"/>vel tenuissimam paleam, huiusmodi tamen ad se trahent versoria, quia ex
+            <lb ed="#F" n="11"/>sua ęquilibratione facillimum habet motum. Sit ergo secundum discrimen
+            <lb ed="#F" n="12"/>ex parte rei attractae, quod magnetica trahant solum magnetica corpora,
+            <lb ed="#F" n="13"/>electrica vero trahant quodcunque corpus proportionatum, quod ad 
+            ma<lb ed="#F" n="14" break="no"/>gnitudinem, si non sit nimis rarum, &amp; trahi non patiatur.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

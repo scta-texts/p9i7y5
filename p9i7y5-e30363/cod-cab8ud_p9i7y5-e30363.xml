@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 37</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 37</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="284"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e30363"> <!-- l3c37 -->
+            <head xml:id="p9i7y5-e30363-Hd1e107">Caput 37</head>
+            <p xml:id="p9i7y5-e30363-d1e109">
+               <lb ed="#F" n="14"/>Omnia ferramenta, quae longo tempore, aut in meridiana linea, aut erecta supra terram
+            <lb ed="#F" n="15"/>mansere, determinatam acquirunt verticitatem, quam etiam acquirunt 
+            fer<lb ed="#F" n="16" break="no"/>rei lateres. quibus solent viae insterni. Cap. XXXVII.
+        </p>
+            <p xml:id="p9i7y5-e30363-d1e118">
+               <lb ed="#F" n="17"/>Satis alibi hoc explicatum est, hic solum, quia locus 
+            expostu<lb ed="#F" n="18" break="no"/>lare videtur, non omitto: Dico igitur omnia ferramenta 
+            aedi<lb ed="#F" n="19" break="no"/>ficiorum, vel quibus fornices constringuntur, vel quibus 
+            il<lb ed="#F" n="20" break="no"/>ligantur trabium capita, quae longo tempore decem, aut 
+            quin<lb ed="#F" n="21" break="no"/>decim annorum decursu iacuerunt in meridiana linea (quod
+            <lb ed="#F" n="22"/>etiam Gilbertus observavit) certissimam concipere verticitatem. Praeterea,
+            <lb ed="#F" n="23"/>si ferreum bacillum non iacuerit in meridiana, sed steterit longo tempore
+            <lb ed="#F" n="24"/>erectum (quod addo de meo) verticitatem acquirere fortasse etiam maiorem,
+            <lb ed="#F" n="25"/>&amp; quidem tali via, ut pars inferior perpetuo in Septentrionem dirigatur, 
+            su<lb ed="#F" n="26" break="no"/>perior in Austrum. quod ita in universum verum est, ut deprehendatur haec
+            <lb ed="#F" n="27"/>virtus valde efficax, vel in ipsis ostiorum cardinibus antiquioribus in parte
+            <lb ed="#F" n="28"/>illa, quae erigitur extra parietem, ut apertè constat ex eo, quia determinatis
+            <lb ed="#F" n="29"/>finibus determinatas ad se provocat versorij partes. In omnibus ergo 
+            hu<lb ed="#F" n="30" break="no"/>iusmodi feramentis erectis pars inferior semper ad Septentrionem 
+            conver<lb ed="#F" n="31" break="no"/>vertitur, superior ad Austrum patet hoc in ferreis fenestrarum cancellis: 
+            ba<lb ed="#F" n="32" break="no"/>cilla enim, quae erecta stetere insignem habent verticitatem, ut partem infer
+            <lb ed="#F" n="33"/>nam ad Septentrionem dirigant.
+        </p>
+            <p xml:id="p9i7y5-e30363-d1e157">
+               <lb ed="#F" n="34"/>Ut huius rei ratio explicetur, sit globus magneticus A. B. cuius poli sint
+            <lb ed="#F" n="35"/>A. &amp; B. sive obelum supra globum iacere facias meridionaliter, sive erigas
+            <lb ed="#F" n="36"/>perpendiculariter; dummodo tangat magnetem in aliquo puncto 
+            hemis<lb ed="#F" n="37" break="no"/>phaerij C. E.A. D. ita verticitatem concipiet, ut si suspendatur illa pars, quae
+            <lb ed="#F" n="38"/>fuit conversa ad A, vel quae magnetem tetigit, semper pariter convertatur ad
+            <lb ed="#F" n="39"/>A. ut illam qualitatem roboret, quam semel acquisivit. Iam finge animo
+            <lb ed="#F" n="40"/>globum A. B. C. D. esse tellurem, quae alibi probata est magnetica, &amp; longo
+            <!--303.xml-->
+            <pb ed="#F" n="284"/>
+               <lb ed="#F" n="1"/>saltem tempore in ferrum verticitatem immittere. Quia nos sumus in 
+            he<lb ed="#F" n="2" break="no"/>misphęrio Septentrionali, &amp;
+            <lb ed="#F" n="3"/>sumus, verbi gratia, in 
+            pun<lb ed="#F" n="4" break="no"/>cto E. hinc fit, ut sive ferrum
+            <lb ed="#F" n="5"/>iaceat in meridiano, sive eri
+            <lb ed="#F" n="6"/>gatur perpendiculariter 
+            eo<lb ed="#F" n="7" break="no"/>dem modo, pars illa, quae in
+            <lb ed="#F" n="8"/>Septentrionem dirigitur, &amp;
+            <lb ed="#F" n="9"/>illa quae terram versus 
+            depres<lb ed="#F" n="10" break="no"/>sa stetit, perpetuò in 
+            Septen<lb ed="#F" n="11" break="no"/>trionem dirigatur, ut à terra
+            <lb ed="#F" n="12"/>conceptum vigorem sic 
+            ro<lb ed="#F" n="13" break="no"/>boret.
+         <lb ed="#F" n="40" type="fixed=284"/>
+               <figure xml:id="p9i7y5-e30363-Fd1e210">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870027/1373,514,865,976/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">C E A D B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375791-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e30363-d1e229">
+               <lb ed="#F" n="14" type="fixed=284"/>Hinc duo conficiuntur
+            <lb ed="#F" n="15"/>Primum est, ut si alicubi 
+            verso<lb ed="#F" n="16" break="no"/>rium valde sensibiliter 
+            de<lb ed="#F" n="17" break="no"/>viet à sua directione, si alia
+            <lb ed="#F" n="18"/>non pateat causa, possimus
+            <lb ed="#F" n="19"/>incusare aliquod ferramentum, quod longo tempore magnum contraxerit
+            <lb ed="#F" n="20"/>vigorem magneticum, &amp; ex aliqua parte versorium obsideat. quod si 
+            notas<lb ed="#F" n="21" break="no"/>set Garzonius, non tantopere admiratus esset novam illam directionem ver
+            <lb ed="#F" n="22"/>lorij in quadam campanarum turri, quam commemorat; mirum enim est
+            <lb ed="#F" n="23"/>ad quantam se extendant sphaeram huiusmodi ferramenta, Secundo 
+            cave<lb ed="#F" n="24" break="no"/>re debemus magnopere à ferramentis erectis verticaliter; maiorem enim
+            <lb ed="#F" n="25"/>haec verticitatem concipiunt, quam iacentia, etiam in meridiano hic apud nos.
+            <lb ed="#F" n="26"/>Illud addam hic, ut magis pateat, quod alibi dictum est; qualitatem 
+            ma<lb ed="#F" n="27" break="no"/>gneticam terrae non differre à qualitate magnetis; quamvis cum, ut hic etiam
+            <lb ed="#F" n="28"/>dico, tantam habeat vim directivam, parvam tamen habeat attractivam. id
+            <lb ed="#F" n="29"/>ex eo provenit fortasse, quod eius sphęra activitatis non decrescat, nisi parum,
+            <lb ed="#F" n="30"/>&amp; propagetur cum exiguo decremento; &amp; ideo ferramenta, quae se ad illam
+            <lb ed="#F" n="31"/>qualitatem conformant, non laborant ut accedant prope ad ferrum, a quo
+            <lb ed="#F" n="32"/>dirigunt; quia per accessum exiguum caperet incrementum eorum qualitas.
+            <lb ed="#F" n="33"/>Lateritia magnetica vis alibi explicata est: satis enim est hoc nosse 
+            late<lb ed="#F" n="34" break="no"/>res praedictos ferream habere natutam, ut magneticum ex terra possint 
+            con<lb ed="#F" n="35" break="no"/>cipere vigorem. &amp; haec de directione satis. Utinam hac etiam magnetica
+            <lb ed="#F" n="36"/>pyxide, quae summam Dei sapientiam, &amp; providentiam facillima, 
+            certissi<lb ed="#F" n="37" break="no"/>maque via commonstrat, navim ad verum salutis portum dirigere sciam 
+            ip<lb ed="#F" n="38" break="no"/>se, &amp; alios mecum tuto ductare.
+        </p>
+            <p xml:id="p9i7y5-e30363-d1e286">
+               <lb ed="#F" n="39"/>Finis Libri Tertij.
+        </p>
+            <p xml:id="p9i7y5-e30363-d1e291">
+            <!--303.xml-->
+
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

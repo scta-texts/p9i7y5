@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 8</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 8</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n=""/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e31861"> <!-- l4c8 -->
+            <head xml:id="p9i7y5-e31861-Hd1e107">Caput 8</head>
+            <p xml:id="p9i7y5-e31861-d1e109">
+               <lb ed="#F" n="3"/>Si duo versoriae superponantur unum alteri, convertent se invicem contrario situ, &amp; 
+            op<lb ed="#F" n="4" break="no"/>posita ratione conformabunt. Cap. VIII.
+        </p>
+            <p xml:id="p9i7y5-e31861-d1e116">
+               <lb ed="#F" n="5"/>Dixi supra, si ponantur in eodem plano Horizontali versoria,
+            <lb ed="#F" n="6"/>futurum, ut teneant cuspides ad eandem partem. Verum, ut
+            <lb ed="#F" n="7"/>sentias hoc solum provenire ex ratione superius posita: Si
+            <lb ed="#F" n="8"/>duo versoria ita componantur, ut unum alteri 
+            superpona<lb ed="#F" n="9" break="no"/>tur, utrunque tamen supra suum stylum, ut ambo possint se
+            <lb ed="#F" n="10"/>libere movere, unum independenter ab altero; non 
+            detine<lb ed="#F" n="11" break="no"/>bunt tunc cuspides ad eandem partem, sed omnino contraria ratione 
+            diri<lb ed="#F" n="12" break="no"/>gentur, &amp; movendo sese accommodabit alterum illorum cuspidem supra
+            <lb ed="#F" n="13"/>crucem alterius, ut vides in figura. Et quidem si sit magna inter versoria
+            <lb ed="#F" n="14"/>inaequalitas, stabit magnum in sua 
+            directio<lb ed="#F" n="15" break="no"/>ne ad polos Mundi, &amp; minus obtemperabit
+            <lb ed="#F" n="16"/>contorquendo se contraria ratione, ut cuspi
+            <lb ed="#F" n="17"/>dem suam ad crucem magni dirigat. Si vero
+            <lb ed="#F" n="18"/>sint aequalia versoria, vel quasi aequalia, accom
+            <lb ed="#F" n="19"/>modabunt se quidem directè unum supra 
+            al<lb ed="#F" n="20" break="no"/>terum contrario situ, utrunque tamen 
+            illo<lb ed="#F" n="21" break="no"/>rum remittet aliquid de sua meridiana directione. Rei facilè est 
+            experimen<lb ed="#F" n="22" break="no"/>tum, ac proinde non laboro in probatione.
+         <lb ed="#F" n="40" type="fixed=297"/>
+               <figure xml:id="p9i7y5-e31861-Fd1e160">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870040/1308,1447,686,421/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text"/>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375812-r4</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e31861-d1e177">
+               <lb ed="#F" n="23" type="fixed=297"/>Ratio etiam communis est, &amp; supra decantata, quia scilicet versoria, ita
+            <lb ed="#F" n="24"/>se conformare volunt, ut se mutua actione, &amp; alteratione potius iuvent, quam
+            <lb ed="#F" n="25"/>lędant &amp; quia, si utriusque cuspis esset ad eandem partem, pugnarent illae par
+            <lb ed="#F" n="26"/>tes similes ad invicem propter agendi modum ipsius magnetis, &amp; 
+            magne<lb ed="#F" n="27" break="no"/>ticorum, &amp; se mutuis incursionibus insequerentur; ideo refugiunt ab illo
+            <lb ed="#F" n="28"/>status quia autem, dum volunt ab invicem digredi, non incurrunt in illas
+            <lb ed="#F" n="29"/>difficultates, quas offendunt, dum sunt in eodem plano Horizontali, ut 
+            ex<lb ed="#F" n="30" break="no"/>plicatum est: dum enim sic versoria superposita removent ab invicem cuspi
+            <lb ed="#F" n="31"/>des, collato studio, &amp; ęquali impetu cruces non accedunt ad invicem, sed etiam
+            <lb ed="#F" n="32"/>ipsę discedunt pari pasu; ideo non retardatur motus, immo pari conatu ab
+            <lb ed="#F" n="33"/>utroque extremo incitatur; quia utrique extremo congruum est, neque uno
+            <lb ed="#F" n="34"/>stante versorio alterius extrema sibi invicem motum impediunt, cum pariter
+            <lb ed="#F" n="35"/>in utriusque bonum recidat. Cum ergo non adsit peculiaris ratio supraposita
+            <lb ed="#F" n="36"/>in praecedenti casu, communis regula vim suam obtinet; quod partes seu
+            <lb ed="#F" n="37"/>facies contrariae mutuo connectantur, similes se fugiant. Neque hic aliud
+            <lb ed="#F" n="38"/>addendum est: semper enim, ubi non interveniat peculiaris quaedam ratio,
+            <lb ed="#F" n="39"/>talem magnetica possidebunt conformationem.
+        </p>
+            <p xml:id="p9i7y5-e31861-d1e217">
+            <!--316.xml-->
+
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 32</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 32</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="273"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e29293"> <!-- l3c32 -->
+            <head xml:id="p9i7y5-e29293-Hd1e107">Caput 32</head>
+            <p xml:id="p9i7y5-e29293-d1e109">
+            <!--292.xml-->
+               <pb ed="#F" n="273"/>
+               <lb ed="#F" n="1"/>Perniciosè in eodem Instrumento, si non sit maximum, plura collocantur versoria, ut
+            <lb ed="#F" n="2"/>illis meridiana linea ostendatur. Cap. XXXII.
+        </p>
+            <p xml:id="p9i7y5-e29293-d1e120">
+               <lb ed="#F" n="3"/>Illi affinis est error iste, qui versorium in crucis formam 
+            con<lb ed="#F" n="4" break="no"/>ficiebat, ut certius dirigeretur in polos: sic enim etiam aliqui
+            <lb ed="#F" n="5"/>plura prodesse putant versoria, ut unius tarditas alterius 
+            dili<lb ed="#F" n="6" break="no"/>gentia sollicitetur, &amp; multiplicatis indicibus meridiana linea
+            <lb ed="#F" n="7"/>exactius demonstretur. re tamen vera contrarium omnino 
+            ac<lb ed="#F" n="8" break="no"/>cidit: quo magis enim multiplicantur versoria, si Instrumentum non sit ma
+            <lb ed="#F" n="9"/>ximum, sibi invicem impedimento sunt, seseque mutuo deturbant à vero
+            <lb ed="#F" n="10"/>meridiano, perinde, ac si plures simul ab eodem angusto foramine tentarent
+            <lb ed="#F" n="11"/>exitum: sibi enim mutuo clauderent hostium. Dico igitur non solum 
+            inu<lb ed="#F" n="12" break="no"/>tiliter multiplicari versoria, sed omnino pernitiosè: neque iuvat, quod illa
+            <lb ed="#F" n="13"/>versoria sint exquisita arte elaborata, &amp; egregio magnete excitata: quo 
+            e<lb ed="#F" n="14" break="no"/>nim facilius, vel ex diligentia artificis, vel ex virtute magnetis, obtemperant
+            <lb ed="#F" n="15"/>magneticis legibus, eo pernicies maior est: quia incommodum, quod oritur
+            <lb ed="#F" n="16"/>in hac versoriorum multitudine, à legibus magneticis, &amp; ex huius lapidis 
+            na<lb ed="#F" n="17" break="no"/>tura dependet. ergo quo maior fuerit artificis diligentia magnetisque 
+            effica<lb ed="#F" n="18" break="no"/>citas, eo certior erit pernicies.
+        </p>
+            <p xml:id="p9i7y5-e29293-d1e157">
+               <lb ed="#F" n="19"/>Huius rei ita certa est ratio ex suppositis, ut in experimento afferrendo non
+            <lb ed="#F" n="20"/>laborem. puto enim futurum, ut, qui rationem percipiat, aliud sibi non 
+            quae<lb ed="#F" n="21" break="no"/>rat ad fidem dictis praestandam. Vel igitur collocantur versoria parallela à
+            <lb ed="#F" n="22"/>dextris, &amp; sinistris meridianae lineae, quam quaerimus; vel collocantur conse
+            <lb ed="#F" n="23"/>quenter unum post alterum in eadem linea, vel incerto ordine, prout locum
+            <lb ed="#F" n="24"/>obtulerit Instrumentum. dum enim pars Septentrionalis unius vult coniun
+            <lb ed="#F" n="25"/>gi cum parte meridionali alterius, quae sibi non nihil praecedit, ut lex 
+            magne<lb ed="#F" n="26" break="no"/>tica pręcipit, dum sunt sibi invicem intra sphaeram activitatis, se invicem à
+            <lb ed="#F" n="27"/>vero meridiano deturbant; &amp; ita neutrum illorum certam habebit 
+            directio<lb ed="#F" n="28" break="no"/>nem. Duos enim in illo casu habet impetus sibi repugnantes versorium, 
+            u<lb ed="#F" n="29" break="no"/>trumque à natura inspiratum; &amp; convertendi se scilicet ad polum, &amp; 
+            dispo<lb ed="#F" n="30" break="no"/>nendi se ad alterum, intra cuius vires est; &amp; quia utrunque simul perfectè 
+            prae<lb ed="#F" n="31" break="no"/>stare non potest, ideo remittitur aliquid de utroque, ut aliquid utrique 
+            con<lb ed="#F" n="32" break="no"/>cedatur: quia enim utrumque à natura imperatur, ideo non est maior ratio,
+            <lb ed="#F" n="33"/>cur unum assequatur, quam alterum; &amp; ita neque perfectè ad meridianum
+            <lb ed="#F" n="34"/>se accommodabit, neque exactè ad alterum se disponet, sed media consistet
+            <lb ed="#F" n="35"/>via. Perniciosè ergo plura ponentur versoria in eodem Instrumento ad meri
+            <lb ed="#F" n="36"/>dianam lineam inveniendam, quod erat demonstrandum, si sint sibi invicen
+            <lb ed="#F" n="37"/>intra sphaeram activitatis, quod ut ne contingat, debent minimum per unam
+            <lb ed="#F" n="38"/>aut alteram spithamam ab invicem distare.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

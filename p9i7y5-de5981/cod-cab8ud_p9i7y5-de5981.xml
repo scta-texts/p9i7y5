@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 16</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 16</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="52"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-de5981"> <!-- l1c16 -->
+            <head xml:id="p9i7y5-de5981-Hd1e107">Caput 16</head>
+            <p xml:id="p9i7y5-de5981-d1e109">
+               <lb ed="#F" n="29"/>Magnetem, &amp; magnetica non dirigi ad ullum determinatum punctum in terra,
+            <lb ed="#F" n="30"/>tanquam ad proprium terminum, quem ubique respiciant.
+            
+            <lb ed="#F" n="31"/>Caput XVI.
+        </p>
+            <p xml:id="p9i7y5-de5981-d1e118">
+               <lb ed="#F" n="32"/>Hactenus communem multorum errorem, evidenter, ut 
+            arbi<lb ed="#F" n="33" break="no"/>tror, convici, qui putabant magneticas acus, &amp; pyxides 
+            diri<lb ed="#F" n="34" break="no"/>gi ad polum Caeli ad ursam caelestem, ad Cynosuram, vel ad
+            <lb ed="#F" n="35"/>alium caeli punctum, quo corruunt multi praeclari 
+            ingenio<lb ed="#F" n="36" break="no"/>rum partus, ingeniorum, inquam, tantum; quia non natura
+            <lb ed="#F" n="37"/>obstetricante prodiere: qui suum in hoc locarunt fundamentum, quod 
+            ma<lb ed="#F" n="38" break="no"/>gnetica nautica stella polarem stellam spectet.
+        </p>
+            <p xml:id="p9i7y5-de5981-d1e136">
+               <lb ed="#F" n="39"/>Alij putarunt magnetica punctum determinatum in terra respicere. non
+            <lb ed="#F" n="40"/>placet igitur, imò nec videtur ulla ratione posse defendi istorum sententia,
+            <!--70.xml-->
+           
+         <!--71.xml-->
+         <pb ed="#F" n="52"/>
+               <lb ed="#F" n="1"/>qui ponunt imaginarios, ac confictos montes magneticos; qui si non 
+            tra<lb ed="#F" n="2" break="no"/>hant, ut supra à nobis ostensum est, certè dirigant, &amp; termini sint magnetici
+            <lb ed="#F" n="3"/>motus. Neque circae polos terrae, vel polorum alterum punctum aliquod
+            <lb ed="#F" n="4"/>statui potest pro termino, &amp; polo magnetico; quae tamen opinio adeo 
+            vide<lb ed="#F" n="5" break="no"/>tur percrebuisse, ut in geographicas etiam tabulas eruditissimorum irrepse
+            <lb ed="#F" n="6"/>rit, notentur'que puncta aliqua, quasi essent poli magnetici. Et, ut alia 
+            omit<lb ed="#F" n="7" break="no"/>tam, quae supra à nobis dicta sunt, dum monstrosam vim huiusmodi 
+            mon<lb ed="#F" n="8" break="no"/>tium subverteremus, per illam inexplicabilis magneticorum à vero 
+            meri<lb ed="#F" n="9" break="no"/>diano declinatio ostenderetur. Atque ita unico opere omnium illorum
+            <lb ed="#F" n="10"/>opiniones, qui ante Gilbertum scripserunt, falsas esse ostendo; qui scilicet 
+            ali<lb ed="#F" n="11" break="no"/>quem locum, vel aliquod punctum assignarunt, sive in Caelo, sive in terra,
+            <lb ed="#F" n="12"/>sive in universo imaginatione confectum, tanquam terminum magnetic.
+            <lb ed="#F" n="13"/>motus.
+        </p>
+            <p xml:id="p9i7y5-de5981-d1e179">
+               <lb ed="#F" n="43" type="fixed=52"/>
+               <figure xml:id="p9i7y5-de5981-Fd1e184">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869795/1199,2129,1150,1120/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">C A D B M E I N H G F</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375433-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="14" type="fixed=52"/>Vel enim fingunt huiusmodi terminum mobilem, vel immobilem: non
+            <lb ed="#F" n="15"/>potest dici esse mobilem, quia illa sequerentur incommoda, de quibus 
+            ini<lb ed="#F" n="16" break="no"/>tio capitis praecedentis dicebam; videremus enim stante pyxide in eodem
+            <lb ed="#F" n="17"/>loco immobiliter, variari versorium, variaque esset eodem die perpetuo 
+            ma<lb ed="#F" n="18" break="no"/>gnetici declinatio à vero meridiano, prout terminus, ad quem se convertit
+            <lb ed="#F" n="19"/>variatur: atqui videmus in eodem loco esse eandem perpetuo 
+            declinatio<lb ed="#F" n="20" break="no"/>nem, etsi immota maneat pyxis, nullus adhuc versorij motum potuit 
+            nota<lb ed="#F" n="21" break="no"/>re. ergo non est mobilis eius terminus. neque potest dici terminum illum
+            <lb ed="#F" n="22"/>magnetici motus esse immobilem fixum, &amp; ratum; quia, si posset tale 
+            pun<lb ed="#F" n="23" break="no"/>ctum confingi usquam gentium; primo, (quod hactenus fuit inauditum)
+            <lb ed="#F" n="24"/>versorium, quod modo cuspidem in septentrionem dirigit, retinendo 
+            ean<lb ed="#F" n="25" break="no"/>dem virtutem magneticam invariatam, in austrum pariter cuspide 
+            vertere<lb ed="#F" n="26" break="no"/>tur; immo aliquando versorium converteret se ad ortum, &amp; occasum; quod
+            <lb ed="#F" n="27"/>nullus adhuc dixit nisi 
+            er<lb ed="#F" n="28" break="no"/>rando, &amp; tamen de facto
+            <lb ed="#F" n="29"/>hoc contingeret. Patet hoc
+            <lb ed="#F" n="30"/>tali diagrammate. Sit terrae
+            <lb ed="#F" n="31"/>globus A. B. C. D. cuius C.
+            <lb ed="#F" n="32"/>D. sint poli A. B. aequatur, 
+            li<lb ed="#F" n="33" break="no"/>nea C. D, sit sectio 
+            meridia<lb ed="#F" n="34" break="no"/>na, in qua ponatur polus
+            <lb ed="#F" n="35"/>magneticus, qui sit locus,
+            <lb ed="#F" n="36"/>quem ferramenta 
+            magneti<lb ed="#F" n="37" break="no"/>ca respicere dicantur E. vere
+            <lb ed="#F" n="38"/>quidem versorium in H. 
+            di<lb ed="#F" n="39" break="no"/>rigeret cuspidem ad E. &amp;
+            <lb ed="#F" n="40"/>conformaret se ad 
+            meridia<lb ed="#F" n="41" break="no"/>num, &amp; in omnibus punctis
+            <lb ed="#F" n="42"/>intermedijs ad G. declina¬
+            <!--71.xml-->
+            
+         <!--72.xml-->
+         <pb ed="#F" n="53"/>
+               <lb ed="#F" n="1"/>ret ad ortum, &amp; ab H. I. versus declinaret ad occasum; at vero in F. loco 
+            sci<lb ed="#F" n="2" break="no"/>licet inter punctum E. &amp; verum polum D. idem versorium retinendo 
+            ean<lb ed="#F" n="3" break="no"/>dem magneticam virtutem, cuspidem dirigeret ad austrum, &amp; crucem ad
+            <lb ed="#F" n="4"/>septentrionem, &amp; in parallelo M. N. in quo est punctum respectus 
+            magne<lb ed="#F" n="5" break="no"/>tici in G. &amp; I. versorium directè spectaret Orientem, &amp; Occidentem, quod
+            <lb ed="#F" n="6"/>tamen falsum esse constat, quia iam tota terra est peragrata, &amp; ferè etiam sub
+            <lb ed="#F" n="7"/>polo fuerunt, qui observarunt magnetem non dirigi unquam nisi in septen
+            <lb ed="#F" n="8"/>trionem, &amp; austrum, certa quadam variatione dempta, de qua postea.
+        </p>
+            <p xml:id="p9i7y5-de5981-d1e289">
+               <lb ed="#F" n="9"/>Et ne dicas punctum magnetici respectus esse ferè sub polo, ac propterea
+            <lb ed="#F" n="10"/>non potuisse ad illud punctum penetrari, ex quo sequatur nullum unquam
+            <lb ed="#F" n="11"/>potuisse pervenire; neque in puncto F. ubi versorij cuspis respiceret austrum,
+            <lb ed="#F" n="12"/>neque in G. aut I. ubi directè respiceret orientem, vel occidentem, ac 
+            prop<lb ed="#F" n="13" break="no"/>terea nihil unquam tale auditum esse; contra est, quia, si tanta est versorij
+            <lb ed="#F" n="14"/>declinatio ad partes australes, quanta alicubi esse dicitur à peritis, nautis, 
+            tri<lb ed="#F" n="15" break="no"/>ginta scilicet, aut quadraginta graduum; in Anglia, &amp; in septentrionalibus
+            <lb ed="#F" n="16"/>regionibus prorsus ad aequatorem parallela starent versoria; si quidem in
+            <lb ed="#F" n="17"/>meridiano Azorico huiusmodi poli magnetici fingendi erunt, in quo 
+            me<lb ed="#F" n="18" break="no"/>ridiano omnium consensu directè congruit cum vero meridiano versorium;
+            <lb ed="#F" n="19"/>sed haec falsa esse probantur experimentis; ergo, &amp; illud falsum erit, ex quo
+            <lb ed="#F" n="20"/>ista sequuntur.
+        </p>
+            <p xml:id="p9i7y5-de5981-d1e318">
+               <lb ed="#F" n="43" type="fixed=53"/>
+               <figure xml:id="p9i7y5-de5981-Fd1e323">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869796/1247,2047,856,854/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A B D C E</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375434-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="21" type="fixed=53"/>Quod ne alicui fortasse gratis dictum videatur; quamvis res sit satis 
+            cla<lb ed="#F" n="22" break="no"/>ra, tamen sic illam ostendo. Sit circulus meridianus A. B. C. D. ille in quo
+            <lb ed="#F" n="23"/>versorium dicitur inclinare gradus 35. &amp; punctum A. sit locus in quo talis
+            <lb ed="#F" n="24"/>deprehenditur declinatio per punctum A. ducatur arcus A. E. qui sit portio
+            <lb ed="#F" n="25"/>meridiani magnetici, &amp; circuli directionis magneticae, &amp; consequenter 
+            fa<lb ed="#F" n="26" break="no"/>ciat angulum B. A. E. graduum 35. si 
+            er<lb ed="#F" n="27" break="no"/>go punctum A. sit circa aequatorem, &amp;
+            <lb ed="#F" n="28"/>ducatur arcus B. E. facto centro in A. 
+            e<lb ed="#F" n="29" break="no"/>rit pariter iste circulus maximus, &amp; 
+            con<lb ed="#F" n="30" break="no"/>sequenter erit B. E. graduum 35. quod si
+            <lb ed="#F" n="31"/>talis declinatio (ut dicitur esse) esset etiam
+            <lb ed="#F" n="32"/>ultra ęquatorem, curreret fortasse magis
+            <lb ed="#F" n="33"/>argumenti vis. Erit ergo in circulo 
+            ma<lb ed="#F" n="34" break="no"/>ximo transeunte per polum B. punctum
+            <lb ed="#F" n="35"/>E. procul à polo triginta quinque 
+            gra<lb ed="#F" n="36" break="no"/>dus. ergo in parallelo distanti à polo 35.
+            <lb ed="#F" n="37"/>grad. versorium directè respiciet 
+            orien<lb ed="#F" n="38" break="no"/>tem, &amp; occidentem, &amp; hoc in omni 
+            me<lb ed="#F" n="39" break="no"/>ridiano illius paralleli, praeterquam in meridiano illo, in quo fingitur tale
+            <lb ed="#F" n="40"/>punctum, in quo versorium ad nullam vertetur partem quod sit meridianum
+            <lb ed="#F" n="41"/>Azoricum, patet haec consequentia in mathematicis exercitatis, vel 
+            medio<lb ed="#F" n="42" break="no"/>criter: si enim punctum A. ponitur punctum verticale, in quo maxima de¬
+            <!--72.xml-->
+            
+         <!--73.xml-->
+         <pb ed="#F" n="54"/>
+               <lb ed="#F" n="1"/>prehenditur declinatio; si punctum respectus ad quod se convertendo 
+            de<lb ed="#F" n="2" break="no"/>clinant à vero meridiano magnetica, est fixum, &amp; stabile in aliquo 
+            meridia<lb ed="#F" n="3" break="no"/>no, quodcunque tandem illud sit, debet esse necessario in puncto, quod 
+            re<lb ed="#F" n="4" break="no"/>spectu meridiani D. A. B. habeat ratione horizontis hoc est circulo, qui 
+            du<lb ed="#F" n="5" break="no"/>ctus per polos D. B. faciat angulos rectos cum meridiano D. A. B. alioquin
+            <lb ed="#F" n="6"/>in puncto A. non fieret maxima declinatio à meridiano ex punctis 
+            aequino<lb ed="#F" n="7" break="no"/>ctij per respectum ad punctum E. arcus enim ex E. puncto ductus ad 
+            aequi<lb ed="#F" n="8" break="no"/>noctij puncta maximum facit angulum cum illo meridiano, qui ad 
+            angu<lb ed="#F" n="9" break="no"/>los rectos dicit, cum meridiano E. B. In triangulo igitur B. E. A. ex circulis
+            <lb ed="#F" n="10"/>maximis facto, cum angulus B. A. E. sit 35. graduum, ut suppono, erit arcus
+            <lb ed="#F" n="11"/>B. E. 35. graduum in suo circulo, qui est maximus. ergo in illo meridiano
+            <lb ed="#F" n="12"/>punctum E. distat à polo B. 35. gradus. Si ergo ducatur circulus parallelus
+            <lb ed="#F" n="13"/>aequatori, qui transeat per punctum E. distabit iste circulus ab Aequatore
+            <lb ed="#F" n="14"/>55. gradus ergo in toto parallelo altitudinis poli respiciet versorium 
+            orien<lb ed="#F" n="15" break="no"/>tem, &amp; occidentem, quod erat propositum monstrare. ergo in Anglia 
+            dire<lb ed="#F" n="16" break="no"/>ctè respiciet orientem, &amp; occidentem, &amp; stabit in parallelo aequatoris, quod
+            <lb ed="#F" n="17"/>erat propositum, &amp; tamen hoc est falsum.
+        </p>
+            <p xml:id="p9i7y5-de5981-d1e432">
+               <lb ed="#F" n="43" type="fixed=54"/>
+               <figure xml:id="p9i7y5-de5981-Fd1e437">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869797/1320,2106,1064,1064/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A C B D E F G H I K M N</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375436-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="18" type="fixed=54"/>Deinde, quando ista non haberent vim, quam tamen habent maximam,
+            <lb ed="#F" n="19"/>aliud ex hac hypothesi sequeretur, quod experientijs repugnat: videremus
+            <lb ed="#F" n="20"/>enim versoria in declinatione à vera meridiana linea regulam certam, 
+            for<lb ed="#F" n="21" break="no"/>mamque servare, ut perpetuo in eodem parallelo per unam circuli 
+            medieta<lb ed="#F" n="22" break="no"/>tem integram declinarent â polo in ortum, in alio integro semicirculo 
+            de<lb ed="#F" n="23" break="no"/>clinarent à polo ad occasum, quod facilè quisque, vel leviter sphaeram 
+            con<lb ed="#F" n="24" break="no"/>templando poterit sibi persuadere. Sit terrae globus A. B. C. D. Et quoniam
+            <lb ed="#F" n="25"/>omnes nautae, &amp; observatores in hoc conveniunt, multis iam ab hinc 
+            an<lb ed="#F" n="26" break="no"/>nis, in meridiano Fortunatarum, quod Hispani vocant de los Azores, 
+            ma<lb ed="#F" n="27" break="no"/>gneticam pyxidem in polum ve
+            <lb ed="#F" n="28"/>rum directè collimare, inde 
+            pro<lb ed="#F" n="29" break="no"/>cedendo ad occidentem ad 
+            occi<lb ed="#F" n="30" break="no"/>dentalem plagam pariter 
+            verso<lb ed="#F" n="31" break="no"/>rium deflectere paulatim; si quis
+            <lb ed="#F" n="32"/>verò ab illo meridiano cursum 
+            re<lb ed="#F" n="33" break="no"/>petat, quasi iter monstrare vellet,
+            <lb ed="#F" n="34"/>versorium in ortum vergere. 
+            Con<lb ed="#F" n="35" break="no"/>stituatur: ex isto communi sensu
+            <lb ed="#F" n="36"/>in hoc meridiano Azorico polus
+            <lb ed="#F" n="37"/>magneticus. Referat ergo 
+            circu<lb ed="#F" n="38" break="no"/>lus A. C. B. D. meridianum illarum
+            <lb ed="#F" n="39"/>Insularum, &amp; sit E. punctum illud,
+            <lb ed="#F" n="40"/>ad quod diriguntur magnetica,
+            <lb ed="#F" n="41"/>poli verò terrae sint A. B. congruit
+            <lb ed="#F" n="42"/>ergo in illo meridiano bene ver¬
+            <!--73.xml-->
+            
+         <!--74.xml-->
+         <pb ed="#F" n="55"/>
+               <lb ed="#F" n="1"/>sorium, etsi in ortum tendas ad ortum deflectit, si ad occasum vergas, 
+            se<lb ed="#F" n="2" break="no"/>quitur ad occasum, ut in puncto G. &amp; pariter in H. alio puncto eiusdem 
+            pa<lb ed="#F" n="3" break="no"/>ralleli declinabit tanto magis adhuc, quanto magis recedetur à primo 
+            me<lb ed="#F" n="4" break="no"/>ridiano, &amp; sic in tota quarta parte illius paralleli, quo magis recedetur à 
+            pri<lb ed="#F" n="5" break="no"/>mo meridiano, eo maior fiet deviatio, ita ut in puncto I. sit maxima 
+            decli<lb ed="#F" n="6" break="no"/>natio. si verò ulterius procedas in eodem parallelo ad puncta K. M incipiat
+            <lb ed="#F" n="7"/>iam imminui declinatio, donec iterum in puncto N. opposito puncto F. cum
+            <lb ed="#F" n="8"/>vero meridiano congruat. Quod si ita esset, benè sanè factum esset, &amp; 
+            opti<lb ed="#F" n="9" break="no"/>mè de nobis meritus esset magnes, si talem in declinando regulam servaret;
+            <lb ed="#F" n="10"/>sic enim fieret, ut optimam ad longitudines regionum cognoscendas 
+            regu<lb ed="#F" n="11" break="no"/>lam haberemus, quod in geographica doctrina impeditum adeo est, &amp; 
+            ob<lb ed="#F" n="12" break="no"/>scurum, ut, quod mirum videatur, fere non nisi luminaribus per eclipsim
+            <lb ed="#F" n="13"/>obscuratis possit clarè in lucem prodire, quasi illustre adeo hoc esset, ut 
+            vel<lb ed="#F" n="14" break="no"/>let solum tacentibus, &amp; laborantibus astris emicare.
+        </p>
+            <p xml:id="p9i7y5-de5981-d1e546">
+               <lb ed="#F" n="15"/>Verum natura praemonstrante non libera voluntate praefiniente, suos 
+            se<lb ed="#F" n="16" break="no"/>quitur terminos magnetica directio. Et contra hoc illud est primo, quod
+            <lb ed="#F" n="17"/>viri fide digni, &amp; qui, in suis scriptis ostendunt se in huiusmodi etiam rebus
+            <lb ed="#F" n="18"/>esse non mediocriter eruditos, suo eam testimonio infirmant; quibus si fidem
+            <lb ed="#F" n="19"/>non adhibeas, ut adhibet Gilbertus, nae tù fidem humanam negasti, in 
+            eo<lb ed="#F" n="20" break="no"/>dem meridiano Azorico toto non congruere perpetuo versorium, cum 
+            ve<lb ed="#F" n="21" break="no"/>ro meridiano, sed propę regionem Brasiliam deflectere occidentem versus;
+            <lb ed="#F" n="22"/>quod tamen nequaquam paterentur poli magnetici, si in eo meridiano 
+            es<lb ed="#F" n="23" break="no"/>sent. Vides iam collapsam universam illam molem magneticorum 
+            mon<lb ed="#F" n="24" break="no"/>tium, &amp; polorum, vel hoc uno ictu: si enim sint in illo meridiano poli 
+            ma<lb ed="#F" n="25" break="no"/>gnetici, &amp; termini, ad quos convertuntur magnetica, certè non poterunt
+            <lb ed="#F" n="26"/>versoria in toto eius gyro declinare ab illo meridiano, ut perse constat ex
+            <lb ed="#F" n="27"/>sola inspectione sphaerae: sed contrarium experientia ipsa demonstrat: ergo
+            <lb ed="#F" n="28"/>non sunt poli magnetici in illo meridiano. &amp; tamen vere ad Insulas 
+            Fortu<lb ed="#F" n="29" break="no"/>natas, ut constans est fama, congruunt magnetica cum vero neridiano, 
+            er<lb ed="#F" n="30" break="no"/>go necessario, si alicubi ponendi essent huiusmodi poli magnetici; essent in
+            <lb ed="#F" n="31"/>illo meridiano, igitur erunt ibi, &amp; non erunt.
+        </p>
+            <p xml:id="p9i7y5-de5981-d1e585">
+               <lb ed="#F" n="32"/>Adde, quod idem subdit Gilbertus, hoc in omnibus ferè contingere 
+            me<lb ed="#F" n="33" break="no"/>ridianis, ut non sit semper eadem declinatio à vero meridiano, dum 
+            percur<lb ed="#F" n="34" break="no"/>ritur à polo ad polum, sed sub uno parallelo sit una declinatio, &amp; in eodem
+            <lb ed="#F" n="35"/>omnino meridiano sub altero parallelo diversa, quod libenterego 
+            admit<lb ed="#F" n="36" break="no"/>to; libentius tamen haberem testem oculatum huius rei, non quiae non 
+            cre<lb ed="#F" n="37" break="no"/>dam, sed quia dulce nimis mihi est fidem oculis, quam maximè possum,
+            <lb ed="#F" n="38"/>haurire. Valet tamen hoc ad evertenda haec polorum figmenta, ad quae ex
+            <lb ed="#F" n="39"/>tot geographicis tabulis eradenda unum argumentum non sufficit. Pergo
+            <lb ed="#F" n="40"/>igitur. Non videmus magnetica versoria illam servare regulam in 
+            decli<lb ed="#F" n="41" break="no"/>natione, ut, quadam servata ratione, crescat declinatio recedentibus nobis
+            <lb ed="#F" n="42"/>à meridiano Azorico, &amp; tandiù crescat, quamdiù quadrantem in eodem pa¬
+            <!--75.xml-->
+            <pb ed="#F" n="56"/>
+               <lb ed="#F" n="1"/>rallelo expleverimus, &amp; deinde decrescere incipiat declinatio post, 90. 
+            gra<lb ed="#F" n="2" break="no"/>dus ab Azorico, donec in opposito puncto iterum conquiescat: cum 
+            apertis<lb ed="#F" n="3" break="no"/>simè constet decrescere nunc parum, nunc multum in diversis regionibus,
+            <lb ed="#F" n="4"/>nulla tali seruata ratione, ut postea subdam. Interim unico illo 
+            argumen<lb ed="#F" n="5" break="no"/>to haec ratio, seu lex, quae magneticis praescribitur, evidenter abrogatur. hic
+            <lb ed="#F" n="6"/>apud nos, qui sumus in longitudine graduum 33. &amp; distamus à meridiano
+            <lb ed="#F" n="7"/>Azorico multum orientem versus respectu illius meridiani, versorium 
+            de<lb ed="#F" n="8" break="no"/>clinat, ad summum â vero meridiano gradus 5. in quo meridiano 
+            Azo<lb ed="#F" n="9" break="no"/>rico, quod nobis est occidentale, nihil declinat: ergo procedendo hinc ad
+            <lb ed="#F" n="10"/>occidentem, hoc est ad meridianum Azoricum accedendo, semper deberet
+            <lb ed="#F" n="11"/>minui declinatio, donec ad illud pervenias, &amp; tamen constat Londini in
+            <lb ed="#F" n="12"/>Anglia, quae Civitas nobis est maximè occidentalis, utpote in longitudine
+            <lb ed="#F" n="13"/>graduum 21. &amp; est proxima meridiano Azorico ad istam partem 
+            occiden<lb ed="#F" n="14" break="no"/>talem declinare versorium gradus 11. cum triente, ut observavit 
+            accuratis<lb ed="#F" n="15" break="no"/>sime Gilbertus libro quarto, capite primo, &amp; consequenter tanto plus 
+            decli<lb ed="#F" n="16" break="no"/>nare, quam apud nos, &amp; tamen deberet minus declinare. certè hunc nemo,
+            <lb ed="#F" n="17"/>qui hominem norit, inscitiae accusabit,
+        </p>
+            <p xml:id="p9i7y5-de5981-d1e653">
+               <lb ed="#F" n="18"/>Vides quam parvi faciant legem illam magnetica versoria, imo quam
+            <lb ed="#F" n="19"/>evidenter contemnant. Caetera in hanc sententiam libens omitto: nec 
+            e<lb ed="#F" n="20" break="no"/>nim plura, desiderari arbitror ad evidenter ostendendum terminos illos 
+            ma<lb ed="#F" n="21" break="no"/>gnetici motus non esse puncta fixa in universo, ad quae, nullo errore, ubique
+            <lb ed="#F" n="22"/>gentium convertantur magnetica. Addo tamen ultimo loco, si poli illi
+            <lb ed="#F" n="23"/>qui finguntur, essent termini magnetici motus, nunquam omnino 
+            verso<lb ed="#F" n="24" break="no"/>rium congrueret cum vero meridiano nisi in illo solo, in quo sunt illa 
+            pun<lb ed="#F" n="25" break="no"/>cta, ut constabit consideranti: non enim immoror in rebus clarissimis 
+            osten<lb ed="#F" n="26" break="no"/>dendis, ne gratis Lectorem satiem; at contrarium experimenta, quae ex
+            <lb ed="#F" n="27"/>praestantissimis viris accepimus, suadent, qui restantur etiam in alijs 
+            meri<lb ed="#F" n="28" break="no"/>dianis congruere, ut postea dicam, neque gratis istorum fidem subvertere
+            <lb ed="#F" n="29"/>debemus, &amp; negare observationes.
+            <lb ed="#F" n="30"/>Potuit ergo fortasse absque temeritatis nota Garzonius suis illis 
+            tempo<lb ed="#F" n="31" break="no"/>ribus, quibus scribebat tot ante annos, &amp; ante ipsum Gilbertum, &amp; ante
+            <lb ed="#F" n="32"/>Portam, &amp; alios, qui ex ipso res transcripserunt, dubitare de hac 
+            magnetico<lb ed="#F" n="33" break="no"/>rum declinatione, quod non sibi adhuc magnopere constarent, qui 
+            experi<lb ed="#F" n="34" break="no"/>mento se didicisse profiterentur, in aliquibus meridianis congruere, in alijs
+            <lb ed="#F" n="35"/>plus, in alijs minus deflectere. Unde factum est, ut prudenter hanc 
+            quaestio<lb ed="#F" n="36" break="no"/>nem ipse declinarit, ne causam quaereret effectus, qui nusquam esset; &amp; 
+            po<lb ed="#F" n="37" break="no"/>tuit suspicari ipse triginta ab hinc annis, aut quadraginta, quo tempore ma
+            <lb ed="#F" n="38"/>gnetem exercebat, ne ubique semper eodem modo declinaret gradibus 5.
+            <lb ed="#F" n="39"/>ad orientem, sicut hic declinat, &amp; Romae, ubi minor dicitur declinatio; dum
+            <lb ed="#F" n="40"/>ibi esset, rem non est expertus, sicut nec ego expertus sum; nec magnus in eo
+            <lb ed="#F" n="41"/>fuit error suspicari id provenire ex imperfectione ferri, non magnetis 
+            ip<lb ed="#F" n="42" break="no"/>sius; licet illud illi obijcere possimus, cur declinet semper tot gradus, &amp;
+            <!--76.xml-->
+            <pb ed="#F" n="57"/>
+               <lb ed="#F" n="1"/>semper ad orientem? sed quidquid sit, ut dixi, de Garzonio, qui excusandus
+            <lb ed="#F" n="2"/>maximè est, quod firma nondum haberet sapientum testimonia: nobis sane
+            <lb ed="#F" n="3"/>non licet sine temeritate in dubium vertere, cum &amp; Gilbertus oculatissimus
+            <lb ed="#F" n="4"/>testetur in Anglia declinare gradus undecim ad orientem, &amp; admittat vir
+            <lb ed="#F" n="5"/>alioquin prudenter non facilis in credendo, nunc plus, nunc minus 
+            decli<lb ed="#F" n="6" break="no"/>nare, nunc ad orientem, nunc ad occidentem, aliquando prorsus 
+            congrue<lb ed="#F" n="7" break="no"/>re; &amp; constans tot annorum suffragium persuadeat in meridiano Azorico
+            <lb ed="#F" n="8"/>ad insulas Fortunatas congruere, ut congruit ad Caput Bonae spei in 
+            pro<lb ed="#F" n="9" break="no"/>montorio, quod dicunt, de las Agullias. Garzonio igitur omisso rem ex
+            <lb ed="#F" n="10"/>alijs teneamus.
+        </p>
+            <p xml:id="p9i7y5-de5981-d1e736">
+               <lb ed="#F" n="11"/>Haec habui, quae in aliorum placitis difficultatem faciunt; quod si 
+            melio<lb ed="#F" n="12" break="no"/>ra ipse fortasse non dicam, dicam saltem experimentis magis consentanea.
+            <lb ed="#F" n="13"/>in eo tamen hic non laboro, quantum hic, aut ibi deflectant à vero 
+            meri<lb ed="#F" n="14" break="no"/>diano magnetica, sed solum illud suppono ex probatissimis auctoribus,
+            <lb ed="#F" n="15"/>quos, qui non audit, audiendus sane ipse non est, non ubique eandem esse
+            <lb ed="#F" n="16"/>declinationem, sed hic unam esse, Romae alteram, in Hispania, aut Anglia
+            <lb ed="#F" n="17"/>aliam: quanta autem praecisè sit exactissima magneticorum declinatio hic,
+            <lb ed="#F" n="18"/>&amp; quanta in qualibet regione de facto, non puto meum esse determinatè
+            <lb ed="#F" n="19"/>praescribere: ad nauticam potius hoc spectare dixerim discliplinam, vel ad
+            <lb ed="#F" n="20"/>Geographiam. mihi satis erit causam declinationis inquirere, cur, scilicet
+            <lb ed="#F" n="21"/>hic tantum, alibi plus, aut minus declinet: Ut autem meam afferam 
+            senten<lb ed="#F" n="22" break="no"/>tiam nonnulla prius iacienda sunt fundamenta.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 22</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 22</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="348"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e37114"> <!-- l4c22 -->
+            <head xml:id="p9i7y5-e37114-Hd1e107">Caput 22</head>
+            <p xml:id="p9i7y5-e37114-d1e109">
+               <lb ed="#F" n="11"/>Ferrum ignitum non trahitur à magnete. Cap. XXII.
+        </p>
+            <p xml:id="p9i7y5-e37114-d1e114">
+               <lb ed="#F" n="12"/>Animadvertit etiam hoc oculatissimus in experimentis 
+            Gilber<lb ed="#F" n="13" break="no"/>tus lib. secundo, cap. 4. si ferrum, inquit, magno feruore incandesceret,
+            <lb ed="#F" n="14"/>manifestum est, quod non attraheretur. bacillum ferreum valde ignitum;
+            <lb ed="#F" n="15"/>appone versorio excito. stat versorium, nec ad tale ferrum convertitur, sed
+            <lb ed="#F" n="16"/>statim, ut de candore aliquid remiserit, accurrit illico. Haec ille. at ego
+            <lb ed="#F" n="17"/>non magnopere miraret de versorio; nam versorium, vel tenuissimo 
+            reflan<lb ed="#F" n="18" break="no"/>te spiritu repellitur; &amp; ex ferro candenti exalationes, &amp; ignitos reflari 
+            spiri<lb ed="#F" n="19" break="no"/>tus posset aliquis contendere; qui versorium potius repellerent, quam 
+            advo<lb ed="#F" n="20" break="no"/>carent. quare non ex hoc, facile est evincere ferrum candens inaeptum esse
+            <lb ed="#F" n="21"/>magneticis attractionibus, quod versorium ad se non provocet, magis 
+            effi<lb ed="#F" n="22" break="no"/>caciter, rem persuadet, quod nec à magnete validissimo, qui suspenderet 
+            in<lb ed="#F" n="23" break="no"/>tegram ferri libram, trahatur tantillum ferri, si incanduerit; ubi vero incę
+            pe<lb ed="#F" n="24" break="no"/>rit remitti de candore, &amp; ad pristinum tedire statum, confestim trahatur, &amp;
+            <lb ed="#F" n="25"/>quidem validissime: Experientia in promptu est, ratio magis inquirenda.
+            <lb ed="#F" n="26"/>Idem Gilbertus eodem loco, ferrum, inquit, licet maneat post perfectam 
+            igni<lb ed="#F" n="27" break="no"/>tionem, nec in cinerem convertatur, aut recrementum, tamen ferrum ignitum non est 
+            fer<lb ed="#F" n="28" break="no"/>num, sed quiddam extra suam naturam positum: nam veluti ambientis aeris rigore aqua à
+            <lb ed="#F" n="29"/>natura sua in glaciem mutatur, ita ferrum ignibus incandescens violento fervore 
+            percus<lb ed="#F" n="30" break="no"/>sum confusam habet formam, &amp; perturbatam; quare &amp; non attrahitur. Verum, 
+            quid<lb ed="#F" n="31" break="no"/>quid sit de amissione virtutis magneticae per immodicam ferri ignitionem,
+            <lb ed="#F" n="32"/>de qua postea: hic solum illud quęrimus, cur magnes non trahat ferrum, dum
+            <lb ed="#F" n="33"/>actu est ignitum? Videtur autem velle Gilbertus ex verbis citatis non 
+            tra<lb ed="#F" n="34" break="no"/>here, quia ferrum candens non sit ferrum; quod probare contendit exemplo
+            <lb ed="#F" n="35"/>aquae, quam putat, cum gelascit, non remanere aquam, sed mutari in aliam
+            <lb ed="#F" n="36"/>naturam. Reijcio tamen ego tam conclusionem, quam probationem; &amp; 
+            qui<lb ed="#F" n="37" break="no"/>dem, quod spectat ad exemplum, &amp; probationem, de aqua congelata, quod
+            <lb ed="#F" n="38"/>non mutetur, sed remaneat aqua, rem puto verissimam; Sicut enim frigus non
+            <lb ed="#F" n="39"/>habuit vim brevi illo tempora, quo facta est congelatio, inducendi 
+            muta<lb ed="#F" n="40" break="no"/>tionem substantialem in aquam; ita multo minus tenuissimus solis radius,
+            <!--367.xml-->
+            <pb ed="#F" n="348"/>
+               <lb ed="#F" n="1"/>aut modicus Favonij flatus posset è vestigio mutare substantialiter 
+            subie<lb ed="#F" n="2" break="no"/>ctum, &amp; iterum forma aquae suis tepentibus plumis revehere, dum glacies
+            <lb ed="#F" n="3"/>solvitur.
+        </p>
+            <p xml:id="p9i7y5-e37114-d1e190">
+               <lb ed="#F" n="4"/>Non negarim sanè multa, quae frigore concrescunt, substantialiter 
+            mu<lb ed="#F" n="5" break="no"/>tari, ut dicitur de crystallo: at non solvitur facilè, nec expellitur frigore 
+            in<lb ed="#F" n="6" break="no"/>ducta forma quolibet radio, ut facile glacies solvitur. Praeterea firmissimo
+            <lb ed="#F" n="7"/>argumento philosophus Catholicus hoc sibi suadebit, quod res dum 
+            gela<lb ed="#F" n="8" break="no"/>scit, non mutetur substantialiter; si enim aqua congelata non est aqua, nec
+            <lb ed="#F" n="9"/>vinum congelatum esset vinum; at in regionibus magis polo subiectis, ubi
+            <lb ed="#F" n="10"/>frigora sunt maiora, consecrant vinum etiam congelatum, ita mihi homo
+            <lb ed="#F" n="11"/>doctus, &amp; fide dignus narravit: fides sit penes auctorem; nec enim ego aliud
+            <lb ed="#F" n="12"/>huius rei habeo argumentum. ergo vinum congelatum est vinum: alioquin
+            <lb ed="#F" n="13"/>non posset consecrari. praeterea, sipost consecrationem congeletur admoto
+            <lb ed="#F" n="14"/>igne solvunt ex glacie, ut in consummatione sacrificij sumant calicem; atqui
+            <lb ed="#F" n="15"/>certissima est doctrina Theologorum, tam diu corpus Christi remanere sub
+            <lb ed="#F" n="16"/>speciebus sacramentalibus, quamdiu maneant ibi dispositiones panis, &amp; 
+            vi<lb ed="#F" n="17" break="no"/>ni, &amp; talis accidentium complexio, qualis requiritur ad hoc; ut durare 
+            pos<lb ed="#F" n="18" break="no"/>set sub illis accidentibus forma panis, &amp; vini, si adesset. ergo si per 
+            congela<lb ed="#F" n="19" break="no"/>tionem solvitur illa accidentium complexio, quae requiritur ad formam 
+            vi<lb ed="#F" n="20" break="no"/>ni, ita ut, si ibi esset forma vini, non posset manere amplius sub illa 
+            acciden<lb ed="#F" n="21" break="no"/>tium complexione, sed recederet adveniente forma aliqua alia substantiali;
+            <lb ed="#F" n="22"/>neque ibi maneret substantia sanguinis, &amp; corporis Christi. ergo, etiam si 
+            de<lb ed="#F" n="23" break="no"/>inde glacies solveretur, &amp; reverteretur etiam substantia vini, non tamen 
+            re<lb ed="#F" n="24" break="no"/>diret substantia sanguinis, &amp; corporis Christi: quia ubi semel facta sit 
+            solu<lb ed="#F" n="25" break="no"/>tio accidentium, &amp; semel abierit praesentia Christi Domini, non revertitur
+            <lb ed="#F" n="26"/>nisi per novam consecrationem, etiam si fiat ex illa materia iterum panis, &amp;
+            <lb ed="#F" n="27"/>vinum: alioquin quam plurima sequerentur incommoda, si, quoties 
+            dare<lb ed="#F" n="28" break="no"/>tur casus, ut sub illa eadem quantitate, &amp; aliquibus accidentibus fieret iterum
+            <lb ed="#F" n="29"/>complexio apta ad panem, &amp; vinuni, toties ex vi priotis consecrationis ibi
+            <lb ed="#F" n="30"/>rediret corpus, &amp; sanguis Christi. Dum ergo sacerdos consummat sacrificium,
+            <lb ed="#F" n="31"/>non sumeret verum sanguinem, quod tamen falsum omnino esse 
+            Catholi<lb ed="#F" n="32" break="no"/>corum religio tenet; falsum igitur exemplum adducitur ibi.
+        </p>
+            <p xml:id="p9i7y5-e37114-d1e256">
+               <lb ed="#F" n="33"/>Sed falsum etiam esse id, ad quod adducitur exemplum, constat: nam 
+            vi<lb ed="#F" n="34" break="no"/>demus ferrum, etiamsi maximè incandeat, tamen restitui ad pristinum 
+            sta<lb ed="#F" n="35" break="no"/>tum nulla externa agente vi, nullo externo auxilio. ergo non est 
+            reprodu<lb ed="#F" n="36" break="no"/>ctio formae substantialis, sed solum conveniens accidentium reparatio, quae
+            <lb ed="#F" n="37"/>sibi sua vi forma substantialis reproducit. Sicut enim aqua calida restituit
+            <lb ed="#F" n="38"/>sibi suum frigus nullo externo adveniente auxilio, ubi primum cessaverit
+            <lb ed="#F" n="39"/>externum agens violenter alterans; &amp; hoc, quia in illa materia remanet 
+            for<lb ed="#F" n="40" break="no"/>ma substantialis aquę, quę quia ex sua natura requirit tantum frigus, ideo
+            <lb ed="#F" n="41"/>nullo externo auxilio ipsa sibi sufficit, ut illud sibi reproducat in illa 
+            inten<lb ed="#F" n="42" break="no"/>sione. Cum igitur videamus in ferro ab igne exempto omnia antiqua acci¬
+            <!--368.xml-->
+            <pb ed="#F" n="349"/>
+               <lb ed="#F" n="1"/>magnete, &amp; ex ferro. Ex parte quidem magnetis, quia magnes 
+            coniungi<lb ed="#F" n="2" break="no"/>tur, ut per hoc suam qualitatem duarum facierum foveat, &amp; per qualitatem
+            <lb ed="#F" n="3"/>magneticam, quae est in ferro sibi vires ad agendum corroboret; at dum fer
+            <lb ed="#F" n="4"/>rum sic candet, non potest magnes ab illo iuvari, imo potius destrueretur
+            <lb ed="#F" n="5"/>ab immodico inimico colore, nec ferrum sic candens potest habere sic 
+            qua<lb ed="#F" n="6" break="no"/>litatem magneticam. non est igitur ratio, cur magnes illud sibi coniungat.
+            <lb ed="#F" n="7"/>Ex parte vero ipsius ferri, quia, cum ferrum ad magnetem active moveatur
+            <lb ed="#F" n="8"/>per qualitatem, quam prius acquisivit, cum istam qualitatem nullo modo
+            <lb ed="#F" n="9"/>possit habere, dum candet ex eo, quod in illo statu non sit subiectum idoneum
+            <lb ed="#F" n="10"/>illius qualitatis, cum ab illo immodico calore depellatur potius si adsit, non
+            <lb ed="#F" n="11"/>poterit in illo statu ad magnetem moveri, neque poterit roborare 
+            qualita<lb ed="#F" n="12" break="no"/>tem per contactum, quam nullo modo potest habere. Cum igitur ille nexus
+            <lb ed="#F" n="13"/>mutuus ferri, &amp; magnetis à qualitate mutua proveniat, cum in ferro 
+            can<lb ed="#F" n="14" break="no"/>denti nulla esse possit, non est ratio, cur sit talis nexus.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

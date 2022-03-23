@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 11</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 11</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="307"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e32906"> <!-- l4c11 -->
+            <head xml:id="p9i7y5-e32906-Hd1e107">Caput 11</head>
+            <p xml:id="p9i7y5-e32906-d1e109">
+               <lb ed="#F" n="36"/>Commovent se versoria, &amp; magnetica trahuntur, si sint in debita distantia, quocunque
+            <lb ed="#F" n="37"/>corpore interposito etiam solidissimo, perinde ac si eßet solus aer.
+            <lb ed="#F" n="38"/>Cap. XI.
+        </p>
+            <p xml:id="p9i7y5-e32906-d1e118">
+               <lb ed="#F" n="39"/>Ex hoc, quod hic propono, ansam fortasse sumpserunt fingendi, qui por
+            <lb ed="#F" n="40"/>tentum de pyxidibus sympathicis, proximè confutatum invenere. Dico
+            <!--326.xml-->
+            <pb ed="#F" n="307"/>
+               <lb ed="#F" n="1"/>igitur versoria se invicem provocare, &amp; disponere, &amp; omnino omnia 
+            ma<lb ed="#F" n="2" break="no"/>gnetica corpora se invicem attrahere convenienti ratione, si sint in debita
+            <lb ed="#F" n="3"/>distantia; sive inter illa duo corpora magnetica intercedat solum aer, sive
+            <lb ed="#F" n="4"/>interponatur lignum, sive es, sive marmor, sive aliud quodlibet corpus duris
+            <lb ed="#F" n="5"/>simum: neque ullo prorsus modo magnetem retardari à tractione, sive 
+            dire<lb ed="#F" n="6" break="no"/>ctione ferri, sive solus interpositus sit aer tenuissimus, sive interponatur 
+            li<lb ed="#F" n="7" break="no"/>gnum, sive aes, sive aliud corpus durissimum; &amp; ad omnes magneticas 
+            actio<lb ed="#F" n="8" break="no"/>nes efficiendas, dico aequaliter omne medium esse idoneum, sive illud 
+            duris<lb ed="#F" n="9" break="no"/>simum sit, sive tenuissimum: eodem enim modo magneticè excurrunt 
+            alte<lb ed="#F" n="10" break="no"/>rationes per illud. Ut huius rei experimentum habeas, sume lapidem A. B.
+            <lb ed="#F" n="11"/>&amp; versorium C. tum
+            <lb ed="#F" n="12"/>subinde converte 
+            la<lb ed="#F" n="13" break="no"/>pidem ita, ut modo
+            <lb ed="#F" n="14"/>B. modo A. 
+            obver<lb ed="#F" n="15" break="no"/>tas versorio: sit 
+            au<lb ed="#F" n="16" break="no"/>tem versorium in tan
+            <lb ed="#F" n="17"/>ta à lapide distantia,
+            <lb ed="#F" n="18"/>ut tamen expedite
+            <lb ed="#F" n="19"/>illud lapis dirigat.
+         <lb ed="#F" n="43" type="fixed=307"/>
+               <figure xml:id="p9i7y5-e32906-Fd1e173">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870050/755,1107,1219,459/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">C B A</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375826-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e32906-d1e191">
+               <lb ed="#F" n="20" type="fixed=307"/>Observa autem diligenter, quando nihil nisi aer intercipitur inter versorium,
+            <lb ed="#F" n="21"/>&amp; magnetem, quanta velocitate convertatur versorium, quando prius 
+            obij<lb ed="#F" n="22" break="no"/>cis partem B. tum converso lapide, obijcis A. &amp; nota, quanta auiditate 
+            inter<lb ed="#F" n="23" break="no"/>posito tenui medio accurrat versorium modo cuspide, modo cruce ad 
+            lapi<lb ed="#F" n="24" break="no"/>dem; tum inter lapidem, &amp; versorium interponito quodlibet corpus, sive 
+            li<lb ed="#F" n="25" break="no"/>brum, sive lignum, sive lapidem, sive aliud quodlibet, &amp; videbis ad motum
+            <lb ed="#F" n="26"/>lapidis dum modo A, modo B. versorio obvertis, eadem prorsus velocitate
+            <lb ed="#F" n="27"/>versorium converti, qua convertebatur prius, &amp; eadem auiditate ad 
+            magne<lb ed="#F" n="28" break="no"/>tem ferri. Quod autem eadem prorsus efficacia agat magneticum per utrun
+            <lb ed="#F" n="29"/>que medium rarum scilicet, &amp; densum, sic praeterea ostendo. Colloca 
+            verso<lb ed="#F" n="30" break="no"/>rium supra mensam, vel alio in loco ita, ut liberè convertatur ad meridianum
+            <lb ed="#F" n="31"/>magneticum, &amp; ad polos Mundi, quantum magnetica virtus, qua 
+            instrui<lb ed="#F" n="32" break="no"/>tur, dirigere potest: tum paulatim ad versorium accedito magnete, vel alio
+            <lb ed="#F" n="33"/>magnetico corpore, donec videas non nihil versorium dimoveri à sua natu
+            <lb ed="#F" n="34"/>rali directione propter accessum alterius magnetici, cuius virtutem per 
+            me<lb ed="#F" n="35" break="no"/>dium diffusam sentire incipit: tum sistas in illa distantia magnetem, &amp; inter
+            <lb ed="#F" n="36"/>magnetem, &amp; versorium interpone quodlibet durissimum corpus, quantum
+            <lb ed="#F" n="37"/>patitur distantia, quae inter magnetem, &amp; versorium intercedit, si ex interpo
+            <lb ed="#F" n="38"/>sitione illius corporis solidioris retardaretur virtus à magnete diffusa, aut ex
+            <lb ed="#F" n="39"/>parte saltem imminueretur, versorium statim rediret ad suam naturalem di
+            <lb ed="#F" n="40"/>rectionem ad polos Mundi, quo dirigebatur, antequam accederet magnes,
+            <lb ed="#F" n="41"/>&amp; quidem tantum praecisè, quantum remitteretur de virtute ab adventitio
+            <lb ed="#F" n="42"/>magnete diffusa. Retinetur enim quodammodo, si sic loqui liceret, contra
+            <!--326.xml-->
+
+         <!--327.xml-->
+         <pb ed="#F" n="308"/>
+               <lb ed="#F" n="1"/>inclinationem suae naturae, &amp; contra vim directivam terrae ab influente 
+            vir<lb ed="#F" n="2" break="no"/>tute illius magnetis, &amp; deturbatur à sua illa directione. Quantum igitur
+            <lb ed="#F" n="3"/>haec remittetur, tantum illud redibit ad suam pristinam, &amp; propriam 
+            dire<lb ed="#F" n="4" break="no"/>ctionem. quod patet, quia, vel si tantillum removeas magnetem, versorium
+            <lb ed="#F" n="5"/>statim redibit saltem ex parte ad suam directionem, &amp; remittetur aliquid de
+            <lb ed="#F" n="6"/>illa deviatione, si versorium sit exquisitè elaboratum, &amp; stylo impositum perfe
+            <lb ed="#F" n="7"/>ctè acuminato, ut facilem habeat motum: quia, dum removetur lapis ex eo,
+            <lb ed="#F" n="8"/>quod illius activitatis sphaerae procedit uniformiter difformiter, minuitur
+            <lb ed="#F" n="9"/>consequenter intensio qualitatis, &amp; vis illa, quae ferrum deijciebat à sua dire
+            <lb ed="#F" n="10"/>ctione. Si ergo per illam solidioris corporis interpositionem minueretur sal
+            <lb ed="#F" n="11"/>tem ex parte actio magnetis, remitteretur aliquid de deviatione versorij, &amp;
+            <lb ed="#F" n="12"/>rediret, vel ex toto, vel ex parte ad suam naturalem directionem; sicuti 
+            mi<lb ed="#F" n="13" break="no"/>nuitur deviatio per remotionem lapidis: sed, quodcunque medium 
+            interpo<lb ed="#F" n="14" break="no"/>nas, nihilo penitus minus deviatur versorium, &amp; ne tantillum quidem rever
+            <lb ed="#F" n="15"/>titur magis ad suam directionem servata eadem inter illos distantia. ergo 
+            ae<lb ed="#F" n="16" break="no"/>qualiter per quodcunque medium agit magnes, sive sit rarum, sive densum,
+            <lb ed="#F" n="17"/>sive solidum, sive fluvidum.
+        </p>
+            <p xml:id="p9i7y5-e32906-d1e287">
+               <lb ed="#F" n="18"/>Posset quis, qui esset ad negandum paratissimus, duo ad haec excogitare;
+            <lb ed="#F" n="19"/>aut scilicet virtutem magneticam per poros transmitti, sicut dicunt aliqui
+            <lb ed="#F" n="20"/>transmeare vocem, dum, qui clamat inclusus cubiculo aliquo, exauditur ab
+            <lb ed="#F" n="21"/>alio extra cubiculum, aut certè virtutem magneticam transmitti, non quia per
+            <lb ed="#F" n="22"/>medium solidum corpus propagetur, sed quia circum à lateribus sibi viam
+            <lb ed="#F" n="23"/>inveniat. Quod etiam commodius dicet aliquis de voce, quod aditum 
+            si<lb ed="#F" n="24" break="no"/>bi inveniat per patentiores cuniculos, quam per poros, &amp; quia non 
+            propa<lb ed="#F" n="25" break="no"/>gatur linea recta sicuti lumen, sed quaqua versum se effundit, ideo deflectit
+            <lb ed="#F" n="26"/>etiam ad alium, qui non directè contra sonorum corpus patentem habet viam
+            <lb ed="#F" n="27"/>ad suas aures. Non audio tamen has responsiones, etiam si à voce, &amp; à sono
+            <lb ed="#F" n="28"/>sumantur; &amp; ut omittam quaestionem de propagatione soni, &amp; vocis, quae
+            <lb ed="#F" n="29"/>non est huius loci, &amp; in qua si deberem dicere, quid sentiam, ostenderem 
+            for<lb ed="#F" n="30" break="no"/>tasse quod feci ad libros de anima, valde diversa ratione propagari vocem
+            <lb ed="#F" n="31"/>&amp; ex audiri sonum inclusum, quam per poros angustum nimis est illud 
+            ef<lb ed="#F" n="32" break="no"/>fugium, nec promptùm nobis aditum praeberent pororum minutissima 
+            fo<lb ed="#F" n="33" break="no"/>ramina, dum in sequentium adversariorum ictus devitamus. Ad primum igi
+            <lb ed="#F" n="34"/>tur effugium, quidquid sit de sono, si magnes deberet virtutem transmittere
+            <lb ed="#F" n="35"/>per poros, non posset fieri, quo minus retardaretur aliquid de illius actione,
+            <lb ed="#F" n="36"/>dum actio fertur per liquidum aerem, &amp; dum corpus interponitur, quod non
+            <lb ed="#F" n="37"/>nisi per poros actionem transmittat; &amp; quo magis corpus esset densum, &amp;
+            <lb ed="#F" n="38"/>minus porosum, &amp; pori essent vicissitudinatim positi; tunc enim in 
+            corpo<lb ed="#F" n="39" break="no"/>ribus habentibus sic poros vicissitudinatim positos non posset virtus 
+            ma<lb ed="#F" n="40" break="no"/>gnetica in directum propagari, imo haud scio; an quis omnino fingere 
+            pos<lb ed="#F" n="41" break="no"/>sit hanc vim, quę in directum propagatur, ut lumen męandros illos posse
+            <lb ed="#F" n="42"/>momento invenire, &amp; insinuare se per illos anfractus, ut viam invenias ex¬
+            <!--328.xml-->
+            <pb ed="#F" n="309"/>
+               <lb ed="#F" n="1"/>peditam, certè quo crassities esset maior, eo magis hoc discrimen sentiretur.
+            <lb ed="#F" n="2"/>sed, ut probatur, nullum omnino sentitur discrimen, sive interponatur solidum
+            <lb ed="#F" n="3"/>corpus, sive nihil tale mediet, sive sit corpus porosum magis, sive minus, sive
+            <lb ed="#F" n="4"/>sit quatuor digitorum, sive unius spithamae. ergo non fit transmissio per 
+            po<lb ed="#F" n="5" break="no"/>ros, quae in ista corporum varietate induceret necessario aliquam sensibilem
+            <lb ed="#F" n="6"/>varietatem. Praeterea impossibile esset, quod dum subinde interponis, &amp; 
+            amo<lb ed="#F" n="7" break="no"/>ves, versorium non commoveretur aliquantulum, nihil autem penitus 
+            com<lb ed="#F" n="8" break="no"/>movetur. ergo veque actio magnetis ulla ratione variatur, quae necessario
+            <lb ed="#F" n="9"/>ex variatione ferri varietatem aliquam prae se ferret. Haec autem ratio 
+            secun<lb ed="#F" n="10" break="no"/>dam etiam evasionem magna ex parte praecludit, quae longiorem quidem
+            <lb ed="#F" n="11"/>viam arripit, sed non effugit, immo vehementius ex proprijs magneticis 
+            prin<lb ed="#F" n="12" break="no"/>cipijs impugnatur evidenter.
+        </p>
+            <p xml:id="p9i7y5-e32906-d1e374">
+               <lb ed="#F" n="43" type="fixed=309"/>
+               <figure xml:id="p9i7y5-e32906-Fd1e379">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870052/864,1335,1176,1295/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">B A F D O G C</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375829-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="13" type="fixed=309"/>Non solum virtus magnetis per medium propagatur, sed etiam, ut saepe
+            <lb ed="#F" n="14"/>dictum est, 
+            propaga<lb ed="#F" n="15" break="no"/>tur certa quanam 
+            ra<lb ed="#F" n="16" break="no"/>tione ac lege. Si enim
+            <lb ed="#F" n="17"/>sit magnes A. cuius
+            <lb ed="#F" n="18"/>poli sint A, &amp; B. ita ab
+            <lb ed="#F" n="19"/>illo magnete virtus
+            <lb ed="#F" n="20"/>effunditur per medium
+            <lb ed="#F" n="21"/>ut in puncto G. 
+            verso<lb ed="#F" n="22" break="no"/>rium uno modo 
+            diri<lb ed="#F" n="23" break="no"/>gatur, alio modo in
+            <lb ed="#F" n="24"/>D. alio adhuc in O. ut
+            <lb ed="#F" n="25"/>vides. si ergo 
+            interpo<lb ed="#F" n="26" break="no"/>natur planum C. F. si
+            <lb ed="#F" n="27"/>virtus, quae debet 
+            di<lb ed="#F" n="28" break="no"/>sponere versorium in
+            <lb ed="#F" n="29"/>O. &amp; certa ratione 
+            di<lb ed="#F" n="30" break="no"/>rigere magnetem ver
+            <lb ed="#F" n="31"/>sus, deberet divertere
+            <lb ed="#F" n="32"/>ad C. vel ad F. ut 
+            po<lb ed="#F" n="33" break="no"/>stea refrangeret se ad
+            <lb ed="#F" n="34"/>versorium in O. neces
+            <lb ed="#F" n="35"/>sario confunderet se cum virtute, quae disponit versorium in G. vel D. quae alio mo
+            <lb ed="#F" n="36"/>do disponit, atque disponatur in O. &amp; ita mutaretur ex illa confusione, nec
+            <lb ed="#F" n="37"/>amplius cum pervenit ad O. dirigeret versorium illo modo, quo ibi 
+            dirige<lb ed="#F" n="38" break="no"/>batur, antequam interponeretut plenum C. F tamen constat esse omnino 
+            ean<lb ed="#F" n="39" break="no"/>dem directionem, sive inter magnetem, &amp; versorium interponatur solidum
+            <lb ed="#F" n="40"/>medium, sive nihil mediet nisi aer. Cum igitur ex ista certa directione 
+            ver<lb ed="#F" n="41" break="no"/>sorij in determinatis locis constet non solum magnetem per medium 
+            vir<lb ed="#F" n="42" break="no"/>tutem propagare, sed propagare etiam recta via ubique, &amp; per rectos radios,
+            <!--328.xml-->
+
+         <!--329.xml-->
+         <pb ed="#F" n="310"/>
+               <lb ed="#F" n="1"/>ut certa in quolibet puncto ratione versorium dirigat; quae dispositio certa
+            <lb ed="#F" n="2"/>necessario indicat propagationem virtutis recta via factam, constat non pos
+            <lb ed="#F" n="3"/>se fieri ex interpositione corporis illam refractionem virtutis, ut ascendat ad
+            <lb ed="#F" n="4"/>extrema corporis interiecti, &amp; postea refrangatur ad versorium, quod latitat
+            <lb ed="#F" n="5"/>post corpus illud interpositum.
+        </p>
+            <p xml:id="p9i7y5-e32906-d1e479">
+               <lb ed="#F" n="6"/>Adde, quod, si corpus interpositum sit adeo magnum, ut eius extrema C.
+            <lb ed="#F" n="7"/>&amp; F. ac reliqua ita producantur, ut longè excedant sphaeram activitatis non
+            <lb ed="#F" n="8"/>poterit virtus ascendere ad illa extrema, ut se postea reflectat; quia sunt illa
+            <lb ed="#F" n="9"/>extrema extra sphaeram, quam non excedit actio illius magnetis; &amp; ita post
+            <lb ed="#F" n="10"/>corpus illud non dirigetur versorium: atqui constat contrarium accidere,
+            <lb ed="#F" n="11"/>etiam si interponatur tabulatum latissimum multarum ulnarum, immo &amp;
+            <lb ed="#F" n="12"/>totus aliquis paries satis magnus; adhuc enim versorium eodem modo 
+            di<lb ed="#F" n="13" break="no"/>sponetur post corpus illud, ac si nihil solidum mediaret. ergo non fit illa quasi
+            <lb ed="#F" n="14"/>reflexio virtutis.
+        </p>
+            <p xml:id="p9i7y5-e32906-d1e501">
+               <lb ed="#F" n="15"/>Tertio, si illo modo propagaretur virtus, ut diverteret ad extrema 
+            corpo<lb ed="#F" n="16" break="no"/>ris interiecti, ac deinde deflecteret ad versorium, sequeretur, quod, si magnes
+            <lb ed="#F" n="17"/>obsideretur circunquaquę corpore solido, &amp; clauderetur quasi in arctissima
+            <lb ed="#F" n="18"/>custodia in capsella optimè consignata, aut sepeliretur in terra, aut in 
+            parie<lb ed="#F" n="19" break="no"/>tis alicuius crassitie, quod tunc in se suam vim magneticam continere 
+            coge<lb ed="#F" n="20" break="no"/>retur circunquaque valide obsessam: atqui contrarium omnino videmus
+            <lb ed="#F" n="21"/>accidere: quacunque enim custodia magnetem claudas, &amp; quacunque 
+            dili<lb ed="#F" n="22" break="no"/>gentia vim eius obsideas, prorsus eodem modo virtutem exerit suam, ac si in
+            <lb ed="#F" n="23"/>aperto esset aere, &amp; libero cęlo frueretur. Patent hoc evidenti experientia: si
+            <lb ed="#F" n="24"/>enim contingat in medio alicuius parietis antiqui consepultum esse ferreum
+            <lb ed="#F" n="25"/>bacillum, aut ferro cancellatam fenestram, si versorio accedas ad illum 
+            pa<lb ed="#F" n="26" break="no"/>rietem, videbis à ferro etiam incluso versorium deturbari à sua directione,
+            <lb ed="#F" n="27"/>quod tanta cum admiratione aspexit Garzonius Romae in campanarum Di
+            <lb ed="#F" n="28"/>vi Laurentij Turri, ut iterato tanquam rem in toto orbe insignem, &amp; 
+            singu<lb ed="#F" n="29" break="no"/>larem notarit; quasi vero ubique terrarum dirigeretur versorium ad Septen
+            <lb ed="#F" n="30"/>trionem pręter quam in illa Turri, &amp; ad illam Turris partem: quod tamen
+            <lb ed="#F" n="31"/>mirum non videbitur, si intelligatur provenire à ferreo al quo cancello, vel
+            <lb ed="#F" n="32"/>bacillo in antiquissimo illo pariete sepulto: sic enim deviabitur versorium
+            <lb ed="#F" n="33"/>ubique terrarum, si accedat ad antiquum praesertim ferreum cancellum, qui
+            <lb ed="#F" n="34"/>ex longo tempore insignem conceperit verticitatem. Verum quia 
+            Garzo<lb ed="#F" n="35" break="no"/>nius hanc terrae magneticam vim non agnovit, nec cancellorum vim tantam
+            <lb ed="#F" n="36"/>adnotaverat, ideo tam mira illi accidit illa deviatio in illa Turri: quod 
+            ta<lb ed="#F" n="37" break="no"/>men ubique gentium contingat, si eadem inveniatur causa; hoc autem 
+            facilli<lb ed="#F" n="38" break="no"/>mè, nec longa peregrinatione continget, immo, ut dixi, deviationis has cau
+            <lb ed="#F" n="39"/>sas in parietibus sepultas mihi nimis etiam se se in apertum dederunt; dum
+            <lb ed="#F" n="40"/>vix, ut supra dixi, supra parietem versorium unquam obtinere vidi propriam
+            <lb ed="#F" n="41"/>directionem, propter delitescentes in pariete ferreos lateres, qui virturem
+            <lb ed="#F" n="42"/>magneticam conceperunt. ergo corpus magneticum etiam consepultum in me¬
+            <!--330.xml-->
+            <pb ed="#F" n="311"/>
+               <lb ed="#F" n="1"/>dio pariete vim suam ostentat ergo huic virtuti non iter praecludit obiectum
+            <lb ed="#F" n="2"/>solidissimum corpus, &amp; aequè propagatur per medium rarum, ac densum
+            <lb ed="#F" n="3"/>non ab extremitatibus obiecti corporis quaerit effugium: quod erat 
+            osten<lb ed="#F" n="4" break="no"/>dendum.
+        </p>
+            <p xml:id="p9i7y5-e32906-d1e577">
+               <lb ed="#F" n="5"/>Hujus ergo ratio illa est, quia virtus magnerica non effluit per medium ef
+            <lb ed="#F" n="6"/>fluvio corpusculorum, nec per transmissionem quasi docalem qualitatis, ita
+            <lb ed="#F" n="7"/>ut ex magnete aliquid exeat, sive illud corpusculum sit, sive (quod videtur mi
+            <lb ed="#F" n="8"/>hi magis impossibile) qualitas, quae eadem numero, &amp; in eadem entitate 
+            lo<lb ed="#F" n="9" break="no"/>caliter excurrat per medium usque ad extremum sphaerę activitatis. Nam
+            <lb ed="#F" n="10"/>praeterquam quod iste modus agendi, quem vulga res homines, &amp; soli, qui
+            <lb ed="#F" n="11"/>cum vulgo sapiunt, vel rectius desipiunt, imaginantur, reijcitur ferè à philo
+            <lb ed="#F" n="12"/>sophica schola in omnibus corporibus, exceptis odoriferis, &amp; si quae sunt
+            <lb ed="#F" n="13"/>alia huiusmodi: nec ullus est (nisi, si qui fortasse ingenia habeant valde mate
+            <lb ed="#F" n="14"/>rialia) qui hoc admittat, quidquid sentiant aliqui de lumine; in quo cęcutire
+            <lb ed="#F" n="15"/>iudicantur comuniter, quantum ego videre potui, &amp; de lumine dicam 
+            for<lb ed="#F" n="16" break="no"/>tasse alias. Cum igitur hac ratione non propagetur virtus magnetica, sed
+            <lb ed="#F" n="17"/>propagetur, quia magneticum agens de potentia subiecti circumiacentis
+            <lb ed="#F" n="18"/>educit illam qualitatem magneticam, quę ita educitur de novo; ut perpetuo
+            <lb ed="#F" n="19"/>pendeat in esse, &amp; conservari à magnete; hinc fit, ut aequaliter, &amp; omnino pa
+            <lb ed="#F" n="20"/>ri facilitate producatur haec qualitas in quolibet corpore, in quo non 
+            inve<lb ed="#F" n="21" break="no"/>niatur qualitas, quae illi vel directè, vel indirectè repugnet. Et haec est 
+            uni<lb ed="#F" n="22" break="no"/>versalis natura cuiusque agentis, ut aeque suas qualitates producat in 
+            subie<lb ed="#F" n="23" break="no"/>ctis, in quibus aequalem invenit resistentiam: quae resistentia solum oritur ex
+            <lb ed="#F" n="24"/>alijs qualitatibus, seu accidentibus existentibus iam in subiecto, quae sint 
+            di<lb ed="#F" n="25" break="no"/>rectè vel indirectè contraria illis, quae debent produci: ita videmus corpus
+            <lb ed="#F" n="26"/>luminosum producere suum lument in sibi circumiecta corpora omnino
+            <lb ed="#F" n="27"/>aequaliter, sive corpus illud frigidum sit, sive calidum, sive solidum ut vitrum,
+            <lb ed="#F" n="28"/>sive tenue, ut aer, &amp; hoc quia istae qualitates calr, &amp; frigus non habent 
+            ul<lb ed="#F" n="29" break="no"/>lam repugnantiam cum lumine producendo. sive ergo altera sit ex his, sive
+            <lb ed="#F" n="30"/>contraria in subiecto, sive nulla, nihil impedit quo minus luminosum ęqua
+            <lb ed="#F" n="31"/>liter suum producat lumen, sed sulum ubi luminosum invenit opacitatem
+            <lb ed="#F" n="32"/>ibi sistit suam actionem, quia hęc habet contrarietatem aliquam cum 
+            lumi<lb ed="#F" n="33" break="no"/>ne, quam luminosum deberet superare, cęterę qualitates impertinenter se ha
+            <lb ed="#F" n="34"/>bent ad lumen. ideoque luminosum illas contemnit. Similiter ergo agens
+            <lb ed="#F" n="35"/>magneticum producit suam qualitatem in sibi circumiecta corpora, sive 
+            ca<lb ed="#F" n="36" break="no"/>lida sint, sive frigida, sive densa, sive rara, sive opaca sint, sive translucida, 
+            si<lb ed="#F" n="37" break="no"/>ve aliam quamlibet habeant ex contrarijs qualitatibus; &amp; hoc, quia istae
+            <lb ed="#F" n="38"/>qualitates nullam omnino habent contrarietatem nec directam, nec 
+            indi<lb ed="#F" n="39" break="no"/>rectam, cum qualitate magnetica producenda. Quia ergo in tota natura
+            <lb ed="#F" n="40"/>corporea elementari nulla: est qualitas illi ullo modo contraria, nec ullum
+            <lb ed="#F" n="41"/>aliud accidens inimicum, &amp; hoc convenienvissime: quia, haec est 
+            universa<lb ed="#F" n="42" break="no"/>lis qualitas totius globi, quę solum conspirat in bonum universi, ut totum
+            <!--331.xml-->
+            <pb ed="#F" n="312"/>
+               <lb ed="#F" n="1"/>telluris globum in convenienti positione detineat ad Coeli influentias 
+            con<lb ed="#F" n="2" break="no"/>gruenter accipiendas; ideo quodcunque sit illud corpus, quamcunque 
+            ha<lb ed="#F" n="3" break="no"/>beat qualitatem, aequaliter in illud, &amp; per illud magnes suam producit 
+            qua<lb ed="#F" n="4" break="no"/>litatem. &amp; sicuti videmus, &amp; intelligimus aliquas qualitates contrarias non
+            <lb ed="#F" n="5"/>obsistere actioni luminosi, ut non obsistit calor, nec frigus, densitas, aut 
+            ra<lb ed="#F" n="6" break="no"/>ritas, quia istae nullam habent cum lumine contrarietatem, obsistit opacitas
+            <lb ed="#F" n="7"/>sola, quia aliquo modo opponitur; ita intelligamus nullum accidens 
+            om<lb ed="#F" n="8" break="no"/>nino obsistere actiovi magnetis producendae. aequaliter ergo per quodlibet
+            <lb ed="#F" n="9"/>medium suam propagat magnes actionem, &amp; virtutem. quod erat 
+            demon<lb ed="#F" n="10" break="no"/>strandum, &amp; ratio etiam huius, quae quaerebatur, constat à priori.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 31</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 31</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="373"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e39778"> <!-- l4c31 -->
+            <head xml:id="p9i7y5-e39778-Hd1e107">Caput 31</head>
+            <p xml:id="p9i7y5-e39778-d1e109">
+            <!--392.xml-->
+               <pb ed="#F" n="373"/>
+               <lb ed="#F" n="1"/>Ferrei fenestrarum cancelli semper inferna parte trahunt versorij partem, quae in Austrum
+            <lb ed="#F" n="2"/>dirigitur, superiori. quae in Septentrionem. sic, &amp; ferramenta, quae ad ignem 
+            adhi<lb ed="#F" n="3" break="no"/>bentur, manubrio trahunt Septentrionalem, cuspide, quae ad ignem
+            <lb ed="#F" n="4"/>adhibetur, Australem versorij partem.
+            <lb ed="#F" n="5"/>Cap. XXXI.
+        </p>
+            <p xml:id="p9i7y5-e39778-d1e127">
+               <lb ed="#F" n="6"/>Quod hic propono, etiam alibi indicatum est; immo facile 
+            po<lb ed="#F" n="7" break="no"/>test ex alibi dictis deduci: quia tamen res non solum nova,
+            <lb ed="#F" n="8"/>sed iucundissima est, ipsa fortasse iteratione non vilescet, sed
+            <lb ed="#F" n="9"/>magis explicabitur. Dico ergo in quolibet ferro, quod 
+            man<lb ed="#F" n="10" break="no"/>serit ad longum tempus erectum perpendiculariter, &amp; prę
+            ci<lb ed="#F" n="11" break="no"/>pue in ferreis fenestrarum cancellis, si applicetur versorium ad inferiorem
+            <lb ed="#F" n="12"/>illorum partem, extremitas illa, quae est terram versus, trahet partem versorij,
+            <lb ed="#F" n="13"/>quae dirigitur in austrum nusquam variante eventu. Si vero versorium 
+            ap<lb ed="#F" n="14" break="no"/>plicetur ad partem superiorem illius cancelli, perpetuo pars illa superior 
+            ad<lb ed="#F" n="15" break="no"/>vocabit ad se partem illam versorij, quae dirigitur in Septentrionem: &amp; hoc
+            <lb ed="#F" n="16"/>verissimum, &amp; constantissimum est in omnibus fenestrarum cancellis. Quam
+            <lb ed="#F" n="17"/>rem ut ego semper iucunde iterum; ac tertio spectavi, ita non gravor iterare
+            <lb ed="#F" n="18"/>narrationem; videtur enim mihi iucundissimum spectaculum. Neque haec
+            <lb ed="#F" n="19"/>vis attractiva in ferreis hisce cancellis obscura est, &amp; quę oculatum requirat
+            <lb ed="#F" n="20"/>observatorem: maior enim aliquando est, quam in validissimo magnete, cum
+            <lb ed="#F" n="21"/>ad distantiam duodecim aut quindecim spithamarum versorium dimoveat
+            <lb ed="#F" n="22"/>à sua directione, &amp; ad se convertat parte inferiori Australem, superiori 
+            Se<lb ed="#F" n="23" break="no"/>ptentrionalem; cum magnes etiam validus non nisi ad quinque aut sex 
+            spit<lb ed="#F" n="24" break="no"/>hamas versorium commoveat, nisi sit exaggeratae magnitudinis.
+        </p>
+            <p xml:id="p9i7y5-e39778-d1e171">
+               <lb ed="#F" n="25"/>Similiter ferramenta igniaria parte illa, quae ad ignem adhibetur, 
+            tra<lb ed="#F" n="26" break="no"/>hunt ad se versorij partem, quae dirigitur in austrum, manubrio trahunt
+            <lb ed="#F" n="27"/>versorij partem, quae convertitur in Septentrionem: &amp; hoc etiam 
+            longis<lb ed="#F" n="28" break="no"/>simo experimento confirmatum est, &amp; in omnibus omnino huiusmodi
+            <lb ed="#F" n="29"/>ferramentis verum semper repertum. Res adeo facilem habet 
+            experien<lb ed="#F" n="30" break="no"/>tiam, ut nullum fere putem futurum, qui hoc proprio experimento 
+            no<lb ed="#F" n="31" break="no"/>lit comprobare, si hoc inaudiat. Cui enim horologium solare, &amp; eius 
+            ver<lb ed="#F" n="32" break="no"/>sorium non est ad manus? et ubique sunt ferrei cancelli, ubique ignarium
+            <lb ed="#F" n="33"/>ferri instrumentum.
+        </p>
+            <p xml:id="p9i7y5-e39778-d1e194">
+               <lb ed="#F" n="34"/>Ratio huius rei facilis est ex supradictis. Probatum est supra ista ferramen
+            <lb ed="#F" n="35"/>ta qualitatem in se magneticam habere sibi à toto telluris globo 
+            communi<lb ed="#F" n="36" break="no"/>catam, &amp; consequenter talem habere, ut si filo librentur, illa pars, quę stetit 
+            ter<lb ed="#F" n="37" break="no"/>ram versus, dirigatur in polum Septentrionalem, &amp; pars, quae sursum
+            <lb ed="#F" n="38"/>fuit erecta, dirigatur ad austrum. Hoc est dictum, &amp; probatum supra: 
+            Si<lb ed="#F" n="39" break="no"/>militer probatum est partes magneticorum, quae dirigunt ad easdem partes
+            <!--393.xml-->
+            <pb ed="#F" n="374"/>
+               <lb ed="#F" n="1"/>universi, ut ad eundem polum telluris, habere hoc, ut se mutuo fugiant, &amp;
+            <lb ed="#F" n="2"/>quae se convertunt ad oppositos polos, se mutuo trahant, cuius ratio etiam 
+            ex<lb ed="#F" n="3" break="no"/>posita est. Constat ergo ex his duobus etiam ratio, cur huiusmodi 
+            ferramen<lb ed="#F" n="4" break="no"/>ta ex parte inferiori trahant partem versorij, quae se convertit ad austrum.
+            <lb ed="#F" n="5"/>Cum .n. ipsa ita magneticam habeant qualitatem, ut illam partem inferiori
+            <lb ed="#F" n="6"/>dirigant in septentrionem, trahet necessario eadem versorium, qua dirigitur
+            <lb ed="#F" n="7"/>ad austrum. similiter quia pars superior in bacillis convertitur ad austrum,
+            <lb ed="#F" n="8"/>trahet versorium, qua dirigitur ad septentrionem, Et si causa illorum 
+            duo<lb ed="#F" n="9" break="no"/>rum ita videtur explicata, ut res sit in aperto, eadem etiam transferenda erit
+            <lb ed="#F" n="10"/>totidem apicibus ad hoc idem ostendendum, quod hic propono.
+        </p>
+            <p xml:id="p9i7y5-e39778-d1e236">
+               <lb ed="#F" n="11"/>Hec porro ratio tam de ferreis fenestrarum bacillis, quam de ignario 
+            in<lb ed="#F" n="12" break="no"/>strumento rem demonstrat: nam etiam si illa ignis ferramenta ex eo, quod
+            <lb ed="#F" n="13"/>pars illa, quae ad ignem adhibetur, perpetuo manet conversa ad terras, &amp; ex
+            <lb ed="#F" n="14"/>ignitione fere ad terram convertitur, concipit à tellure vim se convertendi
+            <lb ed="#F" n="15"/>ad septentrionem, cuius Hemisphaerium tetigit. ergo, etiam si ex hac vi 
+            ma<lb ed="#F" n="16" break="no"/>gnetica, quam à tellure concepit, debet versorium commovere, non poterit
+            <lb ed="#F" n="17"/>ad se provocare, nisi partem illam, quae in austrum dirigitur: &amp; quia 
+            manu<lb ed="#F" n="18" break="no"/>brium in libratione dirigitur ad austrum, quandoquidem dum excitabatur
+            <lb ed="#F" n="19"/>à tellure magnetice sursum erigebatur, non minus constanter trahet partem
+            <lb ed="#F" n="20"/>versorij, quae convertitur in septentrionem.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

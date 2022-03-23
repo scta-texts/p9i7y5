@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="287"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e30647"> <!-- l4c2 -->
+            <head xml:id="p9i7y5-e30647-Hd1e107">Caput 2</head>
+            <p xml:id="p9i7y5-e30647-d1e109">
+               <lb ed="#F" n="4"/>Contrariae facies in magneticis corporibus solae se mutuo coniungunt, similes semper
+            <lb ed="#F" n="5"/>se fugiunt. Caput II.
+        </p>
+            <p xml:id="p9i7y5-e30647-d1e116">
+               <lb ed="#F" n="6"/>Quoniam quam plurimi effectus insigniores, &amp; maximè 
+            mira<lb ed="#F" n="7" break="no"/>biles, qui in magneticis attractionibus deprehenduntur, ex
+            <lb ed="#F" n="8"/>isto noscuntur, quod hic propono, vel saltem ex eo, lucem
+            <lb ed="#F" n="9"/>accipiunt; ideo hinc mihi viam volui aperire. Sit ergo 
+            ma<lb ed="#F" n="10" break="no"/>gnes A. B. sit versorium C. D. sit pars magnetis B. illa, quae 
+            sus<lb ed="#F" n="11" break="no"/>penso magnete 
+            conver<lb ed="#F" n="12" break="no"/>titur in Septentrionem,
+            <lb ed="#F" n="13"/>&amp; A. convertatur in 
+            Au<lb ed="#F" n="14" break="no"/>strum, perpetuo, quomo
+            <lb ed="#F" n="15"/>docunque obijciatur 
+            la<lb ed="#F" n="16" break="no"/>pis versorio supra suum
+            <lb ed="#F" n="17"/>stylum librato, vel ex 
+            fi<lb ed="#F" n="18" break="no"/>lo suspenso, semper pars
+            <lb ed="#F" n="19"/>B. magnetis, quae conver
+            <lb ed="#F" n="20"/>titur in Septentrionem trahet crucem versorij C. quae dirigitur in Austrum,
+            <lb ed="#F" n="21"/>&amp; pars magnetis A. advocabit cuspidem D. nec unquam falles, quamvis
+            <lb ed="#F" n="22"/>furtivè supponas lapidem, aut ex improviso adoriaris versorium: &amp; si 
+            la<lb ed="#F" n="23" break="no"/>pidem circunducas, obijciendo semper versorio B. semper sequetur pars
+            <lb ed="#F" n="24"/>versorij C. etsi de repente B. ad D. applices, è vestigio fugiet D. &amp; sese 
+            obij<lb ed="#F" n="25" break="no"/>ciet C. Res est plana, &amp; iucunde spectatur, nec solum hoc inter magnetem,
+            <lb ed="#F" n="26"/>&amp; versorium, sed inter quaelibet magnetica corpora deprehendetur: 
+            sem<lb ed="#F" n="27" break="no"/>per enim oppositae facies adinvicem concurrent, nec unquam fallent. Hoc
+            <lb ed="#F" n="28"/>quia, ut dixi, ferè totius rei cardo est, &amp; quamplurima secum trahit, ex his,
+            <lb ed="#F" n="29"/>quae in toto isto libro dicuntur, ideo non solum rectè vellem apprehendi,
+            <lb ed="#F" n="30"/>sed etiam rationem comprehendi; unde lectorem moneo, ut ad hoc 
+            dili<lb ed="#F" n="31" break="no"/>genter advertat, &amp; huius experimentum faciat, ac sibi benè persuadeat 
+            fa<lb ed="#F" n="32" break="no"/>cies similes, hoc est, quae ad eandem universi partem convertuntur, se se 
+            per<lb ed="#F" n="33" break="no"/>petuo fugare, &amp; à contactu refugere, contrarias vero sequi se invicem, &amp;
+            <lb ed="#F" n="34"/>avide copulari.
+         <lb ed="#F" n="41" type="fixed=286"/>
+               <figure xml:id="p9i7y5-e30647-Fd1e184">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870029/1135,1254,1224,477/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">D C B A</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375794-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e30647-d1e202">
+               <lb ed="#F" n="35" type="fixed=286"/>Huius vero ratio à priori ex eo sumitur, quod, ut saepe dictum est, 
+            magne<lb ed="#F" n="36" break="no"/>tica se invicem disponunt, &amp; per motum se tali ratione conformant, ut 
+            ac<lb ed="#F" n="37" break="no"/>commodent suam qualitatem, quam iam habent in se illi, quae in medio
+            <lb ed="#F" n="38"/>diffusa, est, ut iuvent se invicem potius, quam ab invicem patiantur. Quia
+            <lb ed="#F" n="39"/>ergo magnes A. B. ita ex B. disseminat virtutem magneticam per suae 
+            activi<lb ed="#F" n="40" break="no"/>tatis sphaeram, ut proportionali ratione exeat ab ipso magnete, qua est in
+            <!--305.xml-->
+
+         <!--306.xml-->
+         <pb ed="#F" n="287"/>
+               <lb ed="#F" n="1"/>illo, ideo sic propagantur radij virtutis, ut sicut si tota virtus sumatur, quae
+            <lb ed="#F" n="2"/>est intus in lapide, est tota ita disposita, ut B. convertat se ad Septentrionem
+            <lb ed="#F" n="3"/>A. ad Austrum; ita, si sumatur tota virtus, quae est in sphaera activitatis B. D.
+            <lb ed="#F" n="4"/>sit consequenter ad hanc posita, &amp; qualitas, quae est in D. sit facies, quae 
+            diri<lb ed="#F" n="5" break="no"/>gatur ad Septentrionem, &amp; quae est in C. ad Austrum tendat. Et sic omnes ra
+            <lb ed="#F" n="6"/>dij, qui propagantur ex B. ita proficiscuntur, ut toti progrediendo à B. ad 
+            ex<lb ed="#F" n="7" break="no"/>tremum radium dirigantur ad Septentrionem, &amp; toti progrediendo ab 
+            ex<lb ed="#F" n="8" break="no"/>tremo radio ad ipsum B. dirigantur ad Austrum. Quod ex eo provenit, quia
+            <lb ed="#F" n="9"/>illi radij virtutis non propagantur ex puncto B. tanquam ex puncto 
+            virtuo<lb ed="#F" n="10" break="no"/>so, &amp; activo, sed ex illo exeunt tanquam à termino propagationis virtutis;
+            <lb ed="#F" n="11"/>virtus autem activa, quae immediate agit, est tota virtus, quae in toto inest
+            <lb ed="#F" n="12"/>lapide; quia inquam, tota virtus lapidis, quae excurrit ab A. ad B. effundit quasi
+            <lb ed="#F" n="13"/>actionem ex B. tanquam ex ostio; ideo non est mirum, quod ex B. non 
+            profi<lb ed="#F" n="14" break="no"/>ciscatur virtus, quae dirigat in Septentrionem in contactu ipsius B. quamvis
+            <lb ed="#F" n="15"/>ipsum B. ad talem partem dirigatur, &amp; quo magis externum passum applica
+            <lb ed="#F" n="16"/>tum fuerit prope B. eò minus secundum illam partem, quę est B. versus, in 
+            Sep<lb ed="#F" n="17" break="no"/>tentrionem dirigetur. Neque enim ipsum praecisum punctum B. est 
+            princi<lb ed="#F" n="18" break="no"/>pium, &amp; fons activitatis, ut debeat sibi passum assimilare, &amp; dirigere ad illam
+            <lb ed="#F" n="19"/>partem ad quam ipsum dirigitur, sed est, ut ita dicam, purus terminus 
+            radia<lb ed="#F" n="20" break="no"/>tionis; vis autem activa illa est, quae est in toto lapide, &amp; hinc 
+            conforman<lb ed="#F" n="21" break="no"/>tur diffusi radij, &amp; quia tota vis lapidis ita est disposita, ut ab A. ad B. in 
+            Sep<lb ed="#F" n="22" break="no"/>tentrionem excurrat, continuatur quodammodo hic cursus, &amp; extra lapidem
+            <lb ed="#F" n="23"/>in toto medio, &amp; in omnibus radijs, qui exeunt ex B: tanquam ex communi
+            <lb ed="#F" n="24"/>termino ad quamcunque deinde partem dirigantur, &amp; ita quaelibet pars 
+            cu<lb ed="#F" n="25" break="no"/>iuscunque radij, quae sumatur, ad quamcunque partem directus sit radius
+            <lb ed="#F" n="26"/>dummodo aliqua ratione exire intelligatur ex B. quia provenit quodammo
+            <lb ed="#F" n="27"/>do à tota virtute lapidis A. B. eodem etiam modo. continuatur eadem 
+            ratio<lb ed="#F" n="28" break="no"/>ne, &amp; eodem tenore illa virtus, ut pergat tendere Septentrionem versus; &amp;
+            <lb ed="#F" n="29"/>ita ille radius in remotiore parte ab ipso B faciem habet Septentrionalem,
+            <lb ed="#F" n="30"/>in proximiore australem: eodem scilicet continuato tenore, quo est virtus
+            <lb ed="#F" n="31"/>in illo corpore; ex quo proficiscitur. Quod si B. punctum praecisum esset 
+            ra<lb ed="#F" n="32" break="no"/>dix activitatis, non posset ista ratione virtus dessemirari; sed sicut B. 
+            conver<lb ed="#F" n="33" break="no"/>titur in Septentrionem, ita quidquid ab illo produceretur, Septentrionale
+            <lb ed="#F" n="34"/>esset forsitan potiori ratione.
+        </p>
+            <p xml:id="p9i7y5-e30647-d1e299">
+               <lb ed="#F" n="35"/>lam verò quoniam versorium, &amp; quodlibet aliud magneticum corpus.
+            <lb ed="#F" n="36"/>dum est intra sphaeram huius activitatis A. B. qualitas illa ex B. diffusa in 
+            il<lb ed="#F" n="37" break="no"/>lud corpus magneticum imbibitur, &amp; habet vim agendi in illud, ideo 
+            cor<lb ed="#F" n="38" break="no"/>pus illud si liberum habeat motum, ita vult se disponere, ut potius ab illa
+            <lb ed="#F" n="39"/>qualitate per medium à magnete diffusa, quae alterativa est, perficiatur, quam
+            <lb ed="#F" n="40"/>destruatur qualitas, quam iam habet in se, &amp; se taliter conformat, ut 
+            quali<lb ed="#F" n="41" break="no"/>tas, quam habet in se, sit in eodem situ, &amp; excurrat eodem modo, quo 
+            excur<lb ed="#F" n="42" break="no"/>rit qualitas illa, quae est in medio. Si igitur pars B. magnetis convertit se in
+            <!--307.xml-->
+            <pb ed="#F" n="288"/>
+               <lb ed="#F" n="1"/>Septentrionem, quia qualitas ex B. effusa per medium in illo casu talis est, ut
+            <lb ed="#F" n="2"/>continuet cursum, cum qualitate, quae est intus in lapide; ideo sumpta 
+            qua<lb ed="#F" n="3" break="no"/>libet parte qualitatis, quae sit in medio ex illa parte, &amp; progrediendo B. 
+            ver<lb ed="#F" n="4" break="no"/>sus respiciet Austrum, sicut continuando cursum à B. A. versus, virtus, quae est
+            <lb ed="#F" n="5"/>in lapide, dirigitur in Austrum. &amp; sicuti ab A. progrediendo ad B. virtus 
+            ex<lb ed="#F" n="6" break="no"/>currit in Septentrionem, ita continuando cursum à B. &amp; ulterius progredien
+            <lb ed="#F" n="7"/>do, virtus, quae est in medio, perget ad Septentrionem converti. Hinc vides,
+            <lb ed="#F" n="8"/>cur versorium convertat ad B partem, quae dirigitur in Austrum, &amp; avertat
+            <lb ed="#F" n="9"/>Septentrionalem, quamvis ipsum B. dirigatur in Septentrionem: quia sic se
+            <lb ed="#F" n="10"/>conformat qualitati, quae est in medio effusa. quod si pars Septentrionalis ver
+            <lb ed="#F" n="11"/>sorij fortè convertatur ad B. statim refugit ab illo statu: sic enim contraria
+            <lb ed="#F" n="12"/>ratione se habet, atque iubeat natura qualitatis, quae est per medium effusa:
+            <lb ed="#F" n="13"/>nam qualitas, quae est in medio, recedendo à B. respicit Septentrionem, 
+            acce<lb ed="#F" n="14" break="no"/>dendo ad B. respicit Austrum: atque ita contraria ratione se haberent ad 
+            invi<lb ed="#F" n="15" break="no"/>cem istae qualitates. &amp; quia sunt qualitates alterativae aptae ad invicem 
+            age<lb ed="#F" n="16" break="no"/>re, &amp; pati, &amp; natura dedit illis talem vim, ut possint per motum localem refu
+            <lb ed="#F" n="17"/>gere ab illa innaturali, &amp; contraria positione, propter rationem alias positam,
+            <lb ed="#F" n="18"/>hinc versorium, cuius est ex libratione facilis motus, convertit sese, &amp; 
+            accom<lb ed="#F" n="19" break="no"/>modat ad qualitatem, quae est in medio.
+        </p>
+            <p xml:id="p9i7y5-e30647-d1e364">
+               <lb ed="#F" n="20"/>Ratio igitur breviter, cur similes facies in magneticis corporibus se 
+            fu<lb ed="#F" n="21" break="no"/>giant, oppositae coniungantur, est, quia magnetica volunt se invicem 
+            dispo<lb ed="#F" n="22" break="no"/>nere, ita ut qualitas, quam habent in se, conformiter iaceat ad qualitatem in
+            <lb ed="#F" n="23"/>medium effusam, ut sic potius iuvent se invicem, quam ab invicem 
+            laedan<lb ed="#F" n="24" break="no"/>tur. &amp; quia quodammodo virtus, quae ex polis propagatur, ad quamcunque
+            <lb ed="#F" n="25"/>tandem partem se effundat, continuatur, quasi non interrupto tractu, cum
+            <lb ed="#F" n="26"/>virtute, quae est in ipso magnetico corpore; ideo virtus, quae in medio est 
+            ef<lb ed="#F" n="27" break="no"/>fusa ex parte Septentrionali, dum acceditur ad ipsum polum, à quo 
+            effundi<lb ed="#F" n="28" break="no"/>tur, respicit Austrum; recedendo ab illo respicit Septentrionem. Et ex eo fit, ut
+            <lb ed="#F" n="29"/>ferrum convertat ad faciem Septentrionalem suam Australem, &amp; è 
+            contra<lb ed="#F" n="30" break="no"/>rio, ut se ad illam accommodet qualitatem; quod erat demonstrandum.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

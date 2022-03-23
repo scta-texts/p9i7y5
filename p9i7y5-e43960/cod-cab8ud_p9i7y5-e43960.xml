@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 46</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 46</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="412"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e43960"> <!-- l4c46 -->
+            <head xml:id="p9i7y5-e43960-Hd1e107">Caput 46</head>
+            <p xml:id="p9i7y5-e43960-d1e109">
+               <lb ed="#F" n="24"/>Alia etiam via ex non nullorum placito magnetica virtus incrementum accipit.
+            <lb ed="#F" n="25"/>Cap. XLVI.
+        </p>
+            <p xml:id="p9i7y5-e43960-d1e116">
+               <lb ed="#F" n="26"/>Hactensus illas posui, &amp; exposui formas proprio 
+            experimen<lb ed="#F" n="27" break="no"/>to habitas, quibus magnetica virtus, aut conservatur, aut 
+            in<lb ed="#F" n="28" break="no"/>crementum sumit. Unum hic postremum adijcio, ab alio 
+            nar<lb ed="#F" n="29" break="no"/>ratum, quod tamen neque ille, qui narravit proprio didicit 
+            ex<lb ed="#F" n="30" break="no"/>perimento, alioqui sane luculentissimam fidem fecisset, tanta
+            <lb ed="#F" n="31"/>erat viri authoritas; sed etiam ipse fidem penes authorem relinquebat, 
+            poe<lb ed="#F" n="32" break="no"/>nes quem integram illam ego etiam relinquo. Si ergo sumatur magnes,
+            <lb ed="#F" n="33"/>inquiunt, &amp; applicetur illi lentus ignis, excipiatur autem tubo ferreo, ut 
+            ar<lb ed="#F" n="34" break="no"/>bitror, magnes ille, qui ad ignem applicatus est, &amp; bene circumquaque clau
+            <lb ed="#F" n="35"/>datur, ut quicquid ex magnete, ad ignem applicato exhalat, cogatur suisum
+            <lb ed="#F" n="36"/>per tubum ascendere, in cuius tubi vertice ponatur alter magnes infirmus,
+            <lb ed="#F" n="37"/>cuius velis augere virtutem, ita autem in summo tubo collocetur, &amp; circum
+            <lb ed="#F" n="38"/>quaque aditus pręcludantur, ut quicquid exhalat ex inferiori magnete 
+            to<lb ed="#F" n="39" break="no"/>tum illud imbibatur quodammodo à superiore, nihilque expiret, sitque 
+            su<lb ed="#F" n="40" break="no"/>perior magnes in tanta distantia ab inferiore, ut calorem tantum solum con¬
+            <!--431.xml-->
+            <pb ed="#F" n="412"/>
+               <lb ed="#F" n="1"/>cipiat, quantum manus illaesa sustinet; dicunt futurum, ut superior magnes
+            <lb ed="#F" n="2"/>una cum illo halitu sulphureo, qui ex magnete inferiore, dum torretur,
+            <lb ed="#F" n="3"/>solet exhalari, virtutem etiam illius concipiat magneticam: &amp; sic putant
+            <lb ed="#F" n="4"/>posse nos virtutem magneticam, quę in tribus aut quatuor erat dispersa lapi
+            <lb ed="#F" n="5"/>dibus, in unum solum colligere, donec tantam superior ille magnes 
+            virtu<lb ed="#F" n="6" break="no"/>tem imbibat, quantam capere potest eius forma; nec enim in infinitum 
+            po<lb ed="#F" n="7" break="no"/>test excrescere.
+        </p>
+            <p xml:id="p9i7y5-e43960-d1e171">
+               <lb ed="#F" n="8"/>Rem, ut dixi, non sum ipse expertus, atque ideo neque causam inquiro,
+            <lb ed="#F" n="9"/>quia nollem causam quaerere, effectu non existente, imo, ut verum fateat, nu
+            <lb ed="#F" n="10"/>tat fides non nihil: quia cito in illo halitu consistat virtus magnetica, &amp; 
+            qua<lb ed="#F" n="11" break="no"/>si magnetis anima, haec tamen ex hactenus demonstratis certum obtinet 
+            si<lb ed="#F" n="12" break="no"/>tum, non vage disponitur. Dum ergo ascendit, confuse miscentur halitus
+            <lb ed="#F" n="13"/>per tubum, ergo confuse ingrederetur alterum magnetem, esto posset etiam
+            <lb ed="#F" n="14"/>in illo excipi, &amp; ita potius antiquam perturbaret quam augeret. Quod si
+            <lb ed="#F" n="15"/>etiam summo studio tam inferior lapis, quam superior in eodem situ dispone
+            <lb ed="#F" n="16"/>rentur, quòd tamen non dicunt observari, adhuc in illa halituum 
+            conglo<lb ed="#F" n="17" break="no"/>meratione, confunderentur necessario partes, &amp; perturbarentur, nec 
+            cer<lb ed="#F" n="18" break="no"/>tam illam servarent positionem, &amp; ita nullo ordine in superiorem lapidem
+            <lb ed="#F" n="19"/>ingrederentur. Ubi igitur de re constiterit, ad causae inquisitionem 
+            ani<lb ed="#F" n="20" break="no"/>mum adijciam.
+            <lb ed="#F" n="21"/>Haec sunt, quae de magneticis attractionibus, &amp; dispositionibus, &amp; in 
+            uni<lb ed="#F" n="22" break="no"/>versum de magnetica philosophia mihi occurrerunt. Quaedam enim 
+            faci<lb ed="#F" n="23" break="no"/>liora, ut quod possit per magnetem arena nigra ab alba cum ipsa permixta
+            <lb ed="#F" n="24"/>se cerni, &amp; alia huiusmodi, omitto. Interim aequi bonique consulas, amice
+            <lb ed="#F" n="25"/>lector, si, quod mea potuit ingenij tenuitas, hoc tibi totum libens, ac volens
+            <lb ed="#F" n="26"/>ob tuli, &amp; ora D. O. M. ut, si ferrum novit ad magnetem confluere; ut illi 
+            ad<lb ed="#F" n="27" break="no"/>haereat in suum bonum, noverim etiam ego illi infinitae bonitati adhaerere,
+            <lb ed="#F" n="28"/>ad meam foelicitatem, cuius gloriae, &amp; me ipsum, &amp; mea omnia studia volo
+            <lb ed="#F" n="29"/>famulari.
+        </p>
+            <p xml:id="p9i7y5-e43960-d1e222">
+               <lb ed="#F" n="30"/>FINIS.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 7</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 7</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="213"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e22646"> <!-- l3c7 -->
+            <head xml:id="p9i7y5-e22646-Hd1e107">Caput 7</head>
+            <p xml:id="p9i7y5-e22646-d1e109">
+               <lb ed="#F" n="12"/>Variantur puncta polaria diviso magnete per parallelum aequatoris at non variatur axis,
+            <lb ed="#F" n="13"/>nisi diviso per parallelum axe. Cap. VII.
+        </p>
+            <p xml:id="p9i7y5-e22646-d1e116">
+               <lb ed="#F" n="41" type="fixed=212"/>
+               <figure xml:id="p9i7y5-e22646-Fd1e121">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869955/1525,1612,880,724/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A C E D B F G</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375678-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="14" type="fixed=212"/>Sit magnes A. B. potest iste magnes dividi dupliciter, 
+            quan<lb ed="#F" n="15" break="no"/>tum facit, ad rem praesentem: idem enim erit iudicium de
+            <lb ed="#F" n="16"/>alijs divisionibus, quae
+            <lb ed="#F" n="17"/>ad alteram istarum acce
+            <lb ed="#F" n="18"/>dant. Ponamus enim
+            <lb ed="#F" n="19"/>quod totus lapis polaria puncta habeat. 
+            <lb ed="#F" n="20"/>A. B. potest dividi per planum E. F. in
+            <lb ed="#F" n="21"/>quod planum axis A. B. cadit 
+            perpendi<lb ed="#F" n="22" break="no"/>culariter; &amp; hanc divisionem appello
+            <lb ed="#F" n="23"/>factam per parallelum. potest iterum 
+            di<lb ed="#F" n="24" break="no"/>vidi per planum C. D. parallelum axi A.
+            <lb ed="#F" n="25"/>B. &amp; hanc divisionem appello factam
+            <lb ed="#F" n="26"/>per meridianum. Dico igitur, quod si
+            <lb ed="#F" n="27"/>fiat divisio totius lapidis A. B. per 
+            paral<lb ed="#F" n="28" break="no"/>lelum E. F. tunc fit variatio in punctis
+            <lb ed="#F" n="29"/>polaribus, vel altero ipsorum, sed non in axe, cuius pars remanet cum eadem
+            <lb ed="#F" n="30"/>axis denominatione, &amp; virtute. Si autem fiat divisio per planum C. D. tunc
+            <lb ed="#F" n="31"/>non solum fit variatio in utroque puncto polari, sed etiam in axe. 
+            Proba<lb ed="#F" n="32" break="no"/>tur, quod ad primam partem, prius experientia. Illud punctum in 
+            magne<lb ed="#F" n="33" break="no"/>te dicitur à nobis polus virtutis, ad quem punctum magnetica sua 
+            conver<lb ed="#F" n="34" break="no"/>sione diriguntur, &amp; ad cuius analogiam reliquae partes agunt, seu cum 
+            or<lb ed="#F" n="35" break="no"/>dine, ad quod suam dirigunt actionem, &amp; conversionem ad polum; sed 
+            an<lb ed="#F" n="36" break="no"/>tea in integro lapide erant huiusmodi puncta A. &amp; B. quia ad illa puncta
+            <lb ed="#F" n="37"/>convertebantur magnetica, &amp;c. iam vero illa facta divisione per E. F. 
+            con<lb ed="#F" n="38" break="no"/>fluunt quidem magnetica ad B. quod remanet punctum polare, ut prius;
+            <lb ed="#F" n="39"/>at vero ex parte opposita confluerent ad G. ut constabit experimento. ergo
+            <lb ed="#F" n="40"/>factus est novus polus ex tali divisione; qui tamen apparebit in eodem axe
+            <!--231.xml-->
+
+         <!--232.xml-->
+         <pb ed="#F" n="213"/>
+               <lb ed="#F" n="1"/>A. B. Ratio autem cur non remaneant utraque eadem puncta polaria, est, quia
+            <lb ed="#F" n="2"/>alterum illorum aufertur. erat enim punctum B. in frusto ablato, ut 
+            suppo<lb ed="#F" n="3" break="no"/>no; cur vero remaneat eadem pars axis, ratio est; quia, cum axis virtutis sit
+            <lb ed="#F" n="4"/>linea, quae ita per medium transit lapidem secundum longitudinem illius
+            <lb ed="#F" n="5"/>naturalem, ut, quomodocunque dividatur lapis, dummodo fiat per planum
+            <lb ed="#F" n="6"/>rectum, in quo sit talis linea, semper lapis dividatur bifariam; cum hoc 
+            con<lb ed="#F" n="7" break="no"/>tingat, si ponatur pro axe linea A. G. pars illa scilicet A. B. quae remanet in
+            <lb ed="#F" n="8"/>frusto lapidis A. E. F. non est ratio cur debeat mutari axis. duo ergo 
+            requi<lb ed="#F" n="9" break="no"/>runtur ad hoc, ut aliqua linea possit dici, &amp; sit verè axis magnetici corporis,
+            <lb ed="#F" n="10"/>cuius extrema sint poli magnetici; primo requiritur, ut sit ducta haec linea
+            <lb ed="#F" n="11"/>per longitudinem naturalem lapidis, secundum quam magnes impetu suae
+            <lb ed="#F" n="12"/>naturae disponente, virtute propria dirigitur ad polos Mundi, in quo à 
+            natu<lb ed="#F" n="13" break="no"/>ra fuit productus in consequentia ad polos; Debet ergo haec linea primo du
+            <lb ed="#F" n="14"/>ci secundum hanc longitudinem; secundo debet esse talis, ut, quomodocun
+            <lb ed="#F" n="15"/>que dividatur lapis, dummodo divisio fiat per planum rectum, in quo sit 
+            ta<lb ed="#F" n="16" break="no"/>lis linea, semper lapis bifariam divisus evadat: Quoties haec duo 
+            concurre<lb ed="#F" n="17" break="no"/>rint, ille dicetur, &amp; erit axis magneticus. cum ergo in frusto A. E. F. linea A.
+            <lb ed="#F" n="18"/>G. hoc utrunque habet, quae est pars lineae A. B. remanebit axis virtutis illa
+            <lb ed="#F" n="19"/>linea convenienti ratione.
+        </p>
+            <p xml:id="p9i7y5-e22646-d1e245">
+               <lb ed="#F" n="20"/>Quod ad secundam vero partem, quod in frusto C. E. D. non remaneat
+            <lb ed="#F" n="21"/>axis A. B. facta divisione per planum C. D. primo patet experientia: quia si
+            <lb ed="#F" n="22"/>quis polos illius partis inveniat ea ratione, quae alias exposita est, inveniet
+            <lb ed="#F" n="23"/>non esse amplius puncta A. B. puncta polaria, &amp; consequenter cum axis 
+            co<lb ed="#F" n="24" break="no"/>nectat recta polos, constabit axem non esse amplius lineam A. B. Ratio 
+            ve<lb ed="#F" n="25" break="no"/>ro huius est, quia linea quidem A. B. est ducta secundum longitudinem 
+            ma<lb ed="#F" n="26" break="no"/>gnetis; nam quomodocunque dividatur magnes, non mutatur, nec 
+            varia<lb ed="#F" n="27" break="no"/>tur naturalis longitudo; sicut etiam contingit in ligno, in quo quacunque
+            <lb ed="#F" n="28"/>tandem ratione secetur, semper naturalis longitudo, secundum quam pori
+            <lb ed="#F" n="29"/>excurrunt, eadem manet; sic, cum in magnete ea sit naturalis longitudo,
+            <lb ed="#F" n="30"/>secundum quam excurrit eius virtus, cum in toto lapide virtus excurreret
+            <lb ed="#F" n="31"/>prius secundum A. B. facta etiam divisione, non nova calcabit vestigia.
+            <lb ed="#F" n="32"/>Quare habet hoc quidem primum etiam in illo frusto linea A. B. quod sit
+            <lb ed="#F" n="33"/>secundum longitudinem lapidis; at non habet alterum, quod nimirum,
+            <lb ed="#F" n="34"/>quomodocunque dividatur lapis, dummodo fiat divisio per planum rectum,
+            <lb ed="#F" n="35"/>in quo sit illa linea, partes divisae futurae sint aequales: posset enim, ut 
+            con<lb ed="#F" n="36" break="no"/>stat, dividi iterum frustum per planum, in quo esset tota linea A. B. &amp; tamen
+            <lb ed="#F" n="37"/>lapis non esset divisus bifariam. ergo linea A. B. facta divisione per planum
+            <lb ed="#F" n="38"/>C. D. non remanet axis; quod erat propositum, sed convenienti ratione
+            <lb ed="#F" n="39"/>quaerendus est alius axis.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 19</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 19</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="336"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e35967"> <!-- l4c19 -->
+            <head xml:id="p9i7y5-e35967-Hd1e107">Caput 19</head>
+            <p xml:id="p9i7y5-e35967-d1e109">            
+            <!--355.xml-->
+               <pb ed="#F" n="336"/>
+               <lb ed="#F" n="1"/>Potest etiam unico solum magnete, metaplysicè loquendo, suspendi ferrum, ut pendeat,
+            <lb ed="#F" n="2"/>in libero aere. Cap. XIX.
+        </p>
+            <p xml:id="p9i7y5-e35967-d1e120">
+               <lb ed="#F" n="3"/>Dixi posse ferrum inter duos magnetes constitui, ut pendeat in
+            <lb ed="#F" n="4"/>aere, neque ad unum, neque ad alterum acccedat, si in aequali
+            <lb ed="#F" n="5"/>distantia inter unum. &amp; alterum habita ratione virtutis consti
+            <lb ed="#F" n="6"/>tuatur aequatis viribus, ut ab utroque pari conatu trahatur.
+            <lb ed="#F" n="7"/>hic addo posse etiam unico magnete ita ferrum librari, ut in
+            <lb ed="#F" n="8"/>aere dependeat, &amp; neque ad magnetem accedat, neque deorsum cadat. Res,
+            <lb ed="#F" n="9"/>fortasse physico experimento repugnabit: quia in rebus materia concretis
+            <lb ed="#F" n="10"/>non possumus nostra actione minutas hasce rerum differentias assequi. Re
+            <lb ed="#F" n="11"/>posuit Fracastorius cap 8. de sympathia, qui id posse fieri affirmavit; 
+            Gilber<lb ed="#F" n="12" break="no"/>tus vero lib. 2., cap. 23 hoc absurdum: esse putat: quia, magis, inquit, vis 
+            propini<lb ed="#F" n="13" break="no"/>qua fortior semper est, ita quod paululum à terra magnetis vi attollitur ferrum, ad 
+            ma<lb ed="#F" n="14" break="no"/>gnetem incontinenter incitari nullo alio obstante, &amp; adhaerere necesse est. Haec ille. 
+            Ve<lb ed="#F" n="15" break="no"/>rum, pace illius dictum sit, Eracastorij easum non improbat Gilbertus, licet
+            <lb ed="#F" n="16"/>id se facere putet. non contendit Fracastorius magnetem ferrum attollere,
+            <lb ed="#F" n="17"/>&amp; quasi ex longinquo traheres ubi vero ad medium pervenerit itineris, ibi
+            <lb ed="#F" n="18"/>quasi labore fessum conquiescere, &amp; haerere in medio cursu; quasi verò 
+            gra<lb ed="#F" n="19" break="no"/>vitas, quae obdormierat, illo motu, &amp; agitatione repente experrecta, fięna
+            <lb ed="#F" n="20"/>ferro inhibuerit, &amp; retrahere cęperita contra vero adnitente magnete, ut vi
+            <lb ed="#F" n="21"/>ferrum ad se trahat, stare pendulum in aere; quasi nesciret, cui potius esset
+            <lb ed="#F" n="22"/>obtem perandum. qui casus verè fulsus est. Sed solum contendit ferri frustum
+            <lb ed="#F" n="23"/>in aere suspendi, ut nec sursum, nec deorsum moveatur; si applicetur ferrum
+            <lb ed="#F" n="24"/>ad magnetem, ita ut tantum magnes trahat sursum ferrum, quantum ipsum
+            <lb ed="#F" n="25"/>deorsum inclinat aequali potentia. quod est valde diversum. Sic enim habet,
+            <lb ed="#F" n="26"/>fieri posset, ut ferri frustum in aere penderet quidem, sed nec sursum nec deorsum moveri
+            <lb ed="#F" n="27"/>posset; quod quidem contingeret si desuper magnes poneretur, qui tantum traheret rursum
+            <lb ed="#F" n="28"/>ferrum, quantum ipsum deorsum declinat aequali potentia. Haec ille, qui casus est 
+            val<lb ed="#F" n="29" break="no"/>de diversus.
+        </p>
+            <p xml:id="p9i7y5-e35967-d1e181">
+               <lb ed="#F" n="30"/>Dico igitur in hac propositione; hoc, quod contendit Fracastorius posse,
+            <lb ed="#F" n="31"/>saltem metaphysice loquendo, &amp; debere admitti, maleque à Gilberto reijci,
+            <lb ed="#F" n="32"/>tanquam absurdum. Non possum experimento comprobare, quod ipse 
+            sum<lb ed="#F" n="33" break="no"/>pserim; quia hoc relinquere volui, ut verum fatear, ijs, qui plus fortasse otio
+            <lb ed="#F" n="34"/>abundant; evidenter tamen rem ipsam convincit ratio. Certum est, ferrum,
+            <lb ed="#F" n="35"/>dum ad magnetem fertur sursum, verbi gratia, habere in se duo motus prin
+            <lb ed="#F" n="36"/>cipia; alterum est principium motus elementaris, gravitas scilicet, qua 
+            ten<lb ed="#F" n="37" break="no"/>dit deorsum: neque enim ex illo motu sursum, quisquam, ut arbitror, 
+            conten<lb ed="#F" n="38" break="no"/>det ferrum gravitatem amittere; alterum est principium motus magnetici, 
+            qua<lb ed="#F" n="39" break="no"/>litas nimirum duarum facierum, qua tendit sursum. Ista duo motus 
+            princi<lb ed="#F" n="40" break="no"/>pia sunt actu simul in ferro; quod patet, dum ferrum magneticè excitum ia¬
+            <!--356.xml-->
+            <pb ed="#F" n="337"/>
+               <lb ed="#F" n="1"/>cet supra mensam: nec enim tunc ex hoc, quod non moveatur actu ad 
+            ma<lb ed="#F" n="2" break="no"/>gnetem. amittit magneticam qualitatem. ut patet, quia, si libretur, diriget se
+            <lb ed="#F" n="3"/>ad polos per hanc qualitatem, cum alio ferro copulabitur, &amp; adveniente ma
+            <lb ed="#F" n="4"/>gnetico corpore in debita distantia, per hanc tanquam per instrumentum
+            <lb ed="#F" n="5"/>ad illud movebitur. ergo habet in se actu magneticam qualitatem: habet
+            <lb ed="#F" n="6"/>etiam in se actu suam gravitatem, quam prius habebat, quae in nullo est 
+            fa<lb ed="#F" n="7" break="no"/>cta minor, ut patet, si examinetur ad bilancem. Verum cum actu utrunque
+            <lb ed="#F" n="8"/>principium est simul in magnete, quia sunt principia contrariorum 
+            mo<lb ed="#F" n="9" break="no"/>tuum, non potest utrunque exercere suum effectum, &amp; re ipsa corpus 
+            move<lb ed="#F" n="10" break="no"/>re. exercebit igitur suum munus movendi corpus illud principium, quod
+            <lb ed="#F" n="11"/>praevalet in virtute, ut si sit maior gravitas, quam vis magnetica, etiam 
+            prae<lb ed="#F" n="12" break="no"/>sente magnete ferrum deorsum cadet; quia gravitas maior est, quam sit vis,
+            <lb ed="#F" n="13"/>ut ita dicam, sublevativa magnetis: contra vero, si sit maior vis magnetica,
+            <lb ed="#F" n="14"/>quam sit gravitas ferri, ferrum ascendet sursum, quicquid ipsa gravitas in
+            <lb ed="#F" n="15"/>contrarium moliatur.
+        </p>
+            <p xml:id="p9i7y5-e35967-d1e245">
+               <lb ed="#F" n="16"/>Iam vero constat ex alibi dictis magnetem effundere circa se qualitatem
+            <lb ed="#F" n="17"/>istam magneticam per totam sphaeram activitatis uniformiter difformiter;
+            <lb ed="#F" n="18"/>ita ut intensior sit qualitas, quo magis acceditur ad magnetem, &amp; quo 
+            qua<lb ed="#F" n="19" break="no"/>litas in medio intensior est, eò etiam in ferrum positum in tali medio 
+            produ<lb ed="#F" n="20" break="no"/>citur magis intensa. Quid ergo prohibet posse dari casum, in quo detur 
+            fer<lb ed="#F" n="21" break="no"/>rum tale, &amp; tantae gravitatis, &amp; ponatur in tali distantia à magnete, in qua
+            <lb ed="#F" n="22"/>qualitas magnetica, mediante qua ferrum sursum fertur, sit in tanta 
+            inten<lb ed="#F" n="23" break="no"/>sione, seu sit omnino tam efficax ad causandum in tali ferro sic efformato, &amp;
+            <lb ed="#F" n="24"/>per tale medium, motum sursum, quam est efficax ipsa gravitas ad causandum
+            <lb ed="#F" n="25"/>in eodem ferro motum deorsum? Dato autem tali casu, neque ascendet
+            <lb ed="#F" n="26"/>ferrum, neque descendet; quia non est maior ratio de uno, quam de altero:
+            <lb ed="#F" n="27"/>Supponitur enim aequalis omnino efficacia tam in qualitate, qua fertur 
+            sur<lb ed="#F" n="28" break="no"/>sum quam in gravitate, qua trahitur deorsum. Quia de facto dato magnete
+            <lb ed="#F" n="29"/>A. cuius sphaera activitatis pertingat usque ad D: uniformiter difformiter, si
+            <lb ed="#F" n="30"/>acum ponas in B. ubi qualitas illa est valde remissa, acus decidet deorsum: quia
+            <lb ed="#F" n="31"/>in illa distantia minus efficax est virtus ad promovendum sursum, quam gra
+            <lb ed="#F" n="32"/>vitas ad trahendum deorsum; &amp; ideo praevalebit, at vero si acus ponatur in
+            <lb ed="#F" n="33"/>C. quia qualitas illa magnetica in illa distantia facta est efficacior, iam 
+            prae<lb ed="#F" n="34" break="no"/>valebit contra gravitatem, &amp; trahet acum sursum, donec coniungat cum la
+            <lb ed="#F" n="35"/>pide, quidquid in contrarium nitatur gravitas. ergo cum ista vis magnetica
+            <lb ed="#F" n="36"/>à C. ad B. procedat uniformiter difformiter decrescendo, si in C. est maior gra
+            <lb ed="#F" n="37"/>vitate, &amp; ideo ferrum fertur sursum, in B. est minor, &amp; fertur deorsum, 
+            dabi<lb ed="#F" n="38" break="no"/>tur etiam locus, in quo sit ęqualis, &amp; si ibi collocetur acus, neque ascendet,
+            <lb ed="#F" n="39"/>neque descendet; quia ęquatę sunt utriusque vires.
+        </p>
+            <p xml:id="p9i7y5-e35967-d1e300">
+               <lb ed="#F" n="40"/>Non igitur dico posse fieri, ut magnes ferrum attollat, verbi gratia, ex
+            <lb ed="#F" n="41"/>mensa à se remotiore, &amp; à B. trahat usque ad C. &amp; ibi sistat ferrum, eo quod
+            <lb ed="#F" n="42"/>invicem gravitas ferri, &amp; vis tractiva magnetis aequatis viribus pugnent:
+            <!--357.xml-->
+            <pb ed="#F" n="338"/>
+               <lb ed="#F" n="1"/>In hoc enim ius stat à Gilberto, quia si ferrum, dum adhuc procul est, &amp;, ut
+            <lb ed="#F" n="2"/>sic dicam, adhuc haeret in extrema sphaera
+            <lb ed="#F" n="3"/>activitatis, nihilominus magnes habet
+            <lb ed="#F" n="4"/>vim attollendi, ac proinde superandi 
+            re<lb ed="#F" n="5" break="no"/>sistentiam gravitatis, quae deorsum trahit
+            <lb ed="#F" n="6"/>ferrum, in medio cursu non hęrebit: quia
+            <lb ed="#F" n="7"/>ibi maior est virtus magnetica, quę si vicit
+            <lb ed="#F" n="8"/>gravitatem, quando erat minor, multo ma
+            <lb ed="#F" n="9"/>gis vincet iam facta grandior: sed dico, si
+            <lb ed="#F" n="10"/>ponatur ferrum in tali distantia, ut manu,
+            <lb ed="#F" n="11"/>aut alia vi attollatur, &amp; admoveatur ad
+            <lb ed="#F" n="12"/>magnetem, ubi devenerit ad locum, in
+            <lb ed="#F" n="13"/>quo aequalis est vis magnetica, &amp; 
+            gravita<lb ed="#F" n="14" break="no"/>tis ferri; si ibi destituatur, futurum, ut 
+            con<lb ed="#F" n="15" break="no"/>sistat, neque sursum, neque deorsum 
+            ten<lb ed="#F" n="16" break="no"/>dat. quod erat demonstrandum.
+         <lb ed="#F" n="42" type="fixed=338"/>
+               <figure xml:id="p9i7y5-e35967-Fd1e350">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870081/1655,552,719,1207/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">C B D</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375873-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

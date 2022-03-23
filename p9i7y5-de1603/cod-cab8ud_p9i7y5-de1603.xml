@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="13"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-de1603"> <!-- l1c5 -->
+            <head xml:id="p9i7y5-de1603-Hd1e107">Caput 5</head>
+            <p xml:id="p9i7y5-de1603-d1e109">
+               <lb ed="#F" n="8"/>Qua ratione possit in magnete vera eius longitudo cognosci, &amp; poli illius inveniri. Cap V
+        </p>
+            <p xml:id="p9i7y5-de1603-d1e114">
+               <lb ed="#F" n="9"/>Cum ex ipsius lapidis inspectione, &amp; ex lapideis venis, quae 
+            ali<lb ed="#F" n="10" break="no"/>quando in illo possent inveniri, non possit haec naturalis 
+            lon<lb ed="#F" n="11" break="no"/>gitudo cognosci, neque alio lapidario artificio possit 
+            depre<lb ed="#F" n="12" break="no"/>hendi occulta haec virtutis ratio, alia necessario tentanda est
+            <lb ed="#F" n="13"/>via. Neque vero sufficit ad magnetis polos inveniendos, &amp; longitudinem
+            <lb ed="#F" n="14"/>eius determinandam, quod supra dictum est: dixi enim, si suspendatur 
+            ma<lb ed="#F" n="15" break="no"/>gnes, futurum, ut determinatas partes ad polos convertat, alteram ad 
+            Sep<lb ed="#F" n="16" break="no"/>tentrionem, alteram ad Austrum. statim igitur aliquis sibi videbitur huius
+            <lb ed="#F" n="17"/>virtutis situm ex tali positione deprehendisse, eum scilicet, qui à polo ad
+            <lb ed="#F" n="18"/>polum excurrit, ut, si suspendatur rotundus magnes A. B. per C. D. vertat
+            <lb ed="#F" n="19"/>partem A. ad Septentrionem B. ad Austrum, statim videbitur inferendum
+            <lb ed="#F" n="20"/>virtutem excurrere per A. B.
+         <lb ed="#F" n="43" type="fixed=12"/>
+               <figure xml:id="p9i7y5-de1603-Fd1e145">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869755/1163,1738,1194,1384/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A M C H B G D F</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375372-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-de1603-d1e163">
+         Verum, si benè quis advertat ad ea, quae dixi,
+         <lb ed="#F" n="21" type="fixed=12"/>ex eo, quod magnes 
+            suspen<lb ed="#F" n="22" break="no"/>sus, loquendo per se 
+            physi<lb ed="#F" n="23" break="no"/>cè, determinatam partem
+            <lb ed="#F" n="24"/>ad Austrum vertit, &amp; 
+            oppo<lb ed="#F" n="25" break="no"/>sitam ad Septentrionem,
+            <lb ed="#F" n="26"/>confici solum potest, quod
+            <lb ed="#F" n="27"/>supra intuli, in magnete
+            <lb ed="#F" n="28"/>determinatas esse facies;
+            <lb ed="#F" n="29"/>perperam verò, &amp; gratis 
+            ali<lb ed="#F" n="30" break="no"/>quis inferret eam semper
+            <lb ed="#F" n="31"/>esse partem, quae virtutis 
+            a<lb ed="#F" n="32" break="no"/>pex est, quae 
+            quomodocum<lb ed="#F" n="33" break="no"/>que suspenso lapide in 
+            Sep<lb ed="#F" n="34" break="no"/>tentrionem, vel in Austrum
+            <lb ed="#F" n="35"/>collimat. Nam ex eo quod
+            <lb ed="#F" n="36"/>lapis A. B. vertit 
+            hemisphae<lb ed="#F" n="37" break="no"/>rium D. A. C. ad partes poli
+            <lb ed="#F" n="38"/>Australis, non potes aliud.
+            <lb ed="#F" n="39"/>inferre, quam virtutis 
+            api<lb ed="#F" n="40" break="no"/>cem esse in hemisphaerio 
+            il<lb ed="#F" n="41" break="no"/>lo, non verò determinatè
+            <lb ed="#F" n="42"/>esse, aut punctum A. quod
+            <!--31.xml-->
+            
+         <!--32.xml-->
+         <pb ed="#F" n="13"/>
+               <lb ed="#F" n="1"/>finitoris in parallelo est, vel aliud quodvis punctum; non potes, inquam,
+            <lb ed="#F" n="2"/>hoc conficere: eaque huius rei est ratio quia quoties suspenditur lapis, vel 
+            a<lb ed="#F" n="3" break="no"/>quis committitur, ut innatet, si directio virtutis, &amp; axis roboris non 
+            eriga<lb ed="#F" n="4" break="no"/>tur praecisè in verticali, sed ad aliquam eius partem declinet, verbi gratia in
+            <lb ed="#F" n="5"/>posita figura, si contingat casu, vel arte, ut non suspendatur lapis ille per 
+            il<lb ed="#F" n="6" break="no"/>lam eamdem lineam, per quam dicimus excurrere virtutem magneticam,
+            <lb ed="#F" n="7"/>&amp; axem virtutis nominavimus, quae longitudinem naturalem mensurat,
+            <lb ed="#F" n="8"/>cuius lineae extrema polos magneticos appellamus, si, inquam, D. E. non
+            <lb ed="#F" n="9"/>sint poli magnetici, sed sint hi poli in aliquo alio puncto, ea qua poterunt
+            <lb ed="#F" n="10"/>ratione se se ad polos convertent. In quocunque igitur puncto hemisphę¬
+            <lb ed="#F" n="11"/>rij C. B. D. sit polus, eodem modo illud hemisphaerium convertetur ad illam
+            <lb ed="#F" n="12"/>partem. ergo ex ista conversione praecisè non possumus axem virtutis 
+            de<lb ed="#F" n="13" break="no"/>terminare: quod si contingeret, ut virtus exaltaretur ad punctum 
+            vertica<lb ed="#F" n="14" break="no"/>lem, in nullam partem lapis ex vi magnetica inclinaret; quia tamen hoc
+            <lb ed="#F" n="15"/>vix continget nisi aut exquisito artificio, aut ratissimo casu, ideo dixi per
+            <lb ed="#F" n="16"/>se physicè, semper lapidem se dirigere ad polos. Verum ut hanc rem, quae
+            <lb ed="#F" n="17"/>videbitur fortassè cuipiam obscurior, explicemus (sit supra positus lapis B.
+            <lb ed="#F" n="18"/>D. A. C. iam habemus in primis in huiusmodi magnete duas esse partes, seù
+            <lb ed="#F" n="19"/>potentias oppositas, &amp; hanc vim, &amp; virtutem non vagam esse, &amp; 
+            incon<lb ed="#F" n="20" break="no"/>stantem, sed determinatam habere dimensionem, secundum quam 
+            exten<lb ed="#F" n="21" break="no"/>ditur. Est igitur in illo magnete rotundo aliqua via. qua tota virtus 
+            excur<lb ed="#F" n="22" break="no"/>rit, non secus ac si esset ligneus globus, in quo essent determinatae venae, &amp;
+            <lb ed="#F" n="23"/>pori: ergo est etiam aliqua diametralis linea, quae media est huius virtutis,
+            <lb ed="#F" n="24"/>quam deinde aliae sequuntur, &amp; illi obsequiosè famulantur, &amp; hanc mediam
+            <lb ed="#F" n="25"/>lineam per centrum deductam cui reliqui virtutis radij paralleli excurrere
+            <lb ed="#F" n="26"/>supponantur, in praesentia inquirimus, &amp; huius lineae extrema puncta 
+            po<lb ed="#F" n="27" break="no"/>los magnetis appellamus. Ponamus igitur in lapide huiusmodi lineam 
+            es<lb ed="#F" n="28" break="no"/>se C. D. si lapis ita suspendatur, ut C. medium Caeli verticem praecisè 
+            suspi<lb ed="#F" n="29" break="no"/>ciat, D. imum telluris centrum despiciat, magnes ita suspensus in nullam
+            <lb ed="#F" n="30"/>vertetur partem, &amp; sic iam habebimus quaesitam lineam. Quoties igitur 
+            su<lb ed="#F" n="31" break="no"/>spensus magnes in nullam prorsus se partem convertit, sed in quacunque
+            <lb ed="#F" n="32"/>positione acquiescit, longitudo illius lapidis erit in illa linea, quae verticalis
+            <lb ed="#F" n="33"/>est, &amp; poli erunt extrema illius lineae. Non possum omnium, hic quae 
+            dicun<lb ed="#F" n="34" break="no"/>tur, reddere rationem, quia proprium singulorum expectare debeo locum.
+            <lb ed="#F" n="35"/>Si tamen velis aliquam rationem, hanc habeto: quod ideo libratus magnes
+            <lb ed="#F" n="36"/>movetur, ut altero suo polo ad alterum Telluris polum sibi amicum, ut 
+            in<lb ed="#F" n="37" break="no"/>frà patebit, accedat, eumque quantum fieri potest, contingat, sed dum polos
+            <lb ed="#F" n="38"/>habet magnes in imo, &amp; in vertice, quia, quantumvis rotetur, nullus 
+            polo<lb ed="#F" n="39" break="no"/>rum lapidis accedit propius ad polos Telluris, quam antea per talem 
+            mo<lb ed="#F" n="40" break="no"/>tum; ideo cum natura sentiat se non posse assequi finem, nec conatur ad 
+            il<lb ed="#F" n="41" break="no"/>lum.
+        </p>
+            <p xml:id="p9i7y5-de1603-d1e309">
+               <lb ed="#F" n="42"/>Quod si poli non existant in illa linea verticali, sed vel tantillum decli¬
+            <!--33.xml-->
+            <pb ed="#F" n="14"/>
+               <lb ed="#F" n="1"/>nent ad quamvis partem, vertetur lapis, donec illa duo puncta extrema con
+            <lb ed="#F" n="2"/>sistant in meridiano magnetico, quia sic proximius ad polos Telluris talia
+            <lb ed="#F" n="3"/>puncta accedunt. Quare ex tali situatione possumus hoc primum 
+            infer<lb ed="#F" n="4" break="no"/>re, virtutem excurrere per planum, verbi gratia, B. D. A. C. sed non 
+            possu<lb ed="#F" n="5" break="no"/>mus scire, utrum excurrat ab A. B. versus, an ab T: ad H. an alia ratione:
+            <lb ed="#F" n="6"/>quocunque enim in puncto illius plani sint, ità vertetur lapis ille. Quod
+            <lb ed="#F" n="7"/>autem bene liceat inferre virtutem excurrere per illud planum, &amp; polos
+            <lb ed="#F" n="8"/>magnetis esse in aliquibus punctis illius plani; tali videtur pacto posse 
+            de<lb ed="#F" n="9" break="no"/>monstrari. Suppono, ut dixi, quoties magnes ex se movetur, moveri, ut al
+            <lb ed="#F" n="10"/>ter polus illius accedat quam maximè ad polum Telluris, ut patebit ex 
+            di<lb ed="#F" n="11" break="no"/>cendis suo loco.
+         <lb ed="#F" n="43" type="fixed=14"/>
+               <figure xml:id="p9i7y5-de1603-Fd1e344">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869757/1297,1133,1065,1581/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">M A B K H L I E F D G</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375375-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-de1603-d1e362">
+         Hoc posito sit circulùs terrae, &amp; planum illius meridiani¬
+         <lb ed="#F" n="12" type="fixed=14"/>E. H. F. G. cuius sectio 
+            horizon<lb ed="#F" n="13" break="no"/>talis sit E. F. verticalis H, G. axis
+            <lb ed="#F" n="14"/>polorum D. L. suspendatur 
+            glo<lb ed="#F" n="15" break="no"/>bus magneticus M. A. per M. 
+            di<lb ed="#F" n="16" break="no"/>co futurum, ut punctum polare
+            <lb ed="#F" n="17"/>huius magnetis, ubicunque 
+            tan<lb ed="#F" n="18" break="no"/>dem sit, dummodo non sit in
+            <lb ed="#F" n="19"/>M. vertatur ad planum 
+            meridia<lb ed="#F" n="20" break="no"/>num terrę, &amp; constituat se in 
+            eo<lb ed="#F" n="21" break="no"/>dem plano E. H. F. sursum 
+            pro<lb ed="#F" n="22" break="no"/>ducto; &amp; convertat se verticali
+            <lb ed="#F" n="23"/>motu super axem suum 
+            vertica<lb ed="#F" n="24" break="no"/>liter, donec perveniat ad planum
+            <lb ed="#F" n="25"/>meridianum, quia sic magis 
+            ac<lb ed="#F" n="26" break="no"/>cedit ad polum terrae L. si enim
+            <lb ed="#F" n="27"/>intelligatur factam esse sectionem
+            <lb ed="#F" n="28"/>parallelam horizonti I. L. per po
+            <lb ed="#F" n="29"/>lum scilicet, L. &amp; aliam pariter
+            <lb ed="#F" n="30"/>in magnete suspenso, quae 
+            tran<lb ed="#F" n="31" break="no"/>seat per polum illius, &amp; sit K. A.
+            <lb ed="#F" n="32"/>istae duae sectiones erunt circuli
+            <lb ed="#F" n="33"/>paralleli, quorum minor erit A.
+            <lb ed="#F" n="34"/>K. erunt'que sectiones coni 
+            iso<lb ed="#F" n="35" break="no"/>celis. Si ergo ducatur linea A.
+            <lb ed="#F" n="36"/>L. ad punctum A. quod existat in plano secante conum superiùs: &amp; si ab A.
+            <lb ed="#F" n="37"/>ad quodlibet aliud punctum eiusdem plani A. K. ducatur linea, ut ad B. 
+            fa<lb ed="#F" n="38" break="no"/>ciet necessario cum linea A. L. angulum maiorem recto; si ergo polus 
+            di<lb ed="#F" n="39" break="no"/>catur B. linea B. L. maior erit linea A. L. cum angulus ad A. sit maior 
+            re<lb ed="#F" n="40" break="no"/>cto, &amp; consequenter maior quolibet alio seorsum sumpto in triangulo A.
+            <lb ed="#F" n="41"/>B. L. erit ergo haec linea A. L brevissima, quam à puncto L. sectionis, seù basis coni
+            <lb ed="#F" n="42"/>potest duci ad periphęriam sectionis superioris K. A. illis quae ducuntur pa¬
+            <!--33.xml-->
+            
+         <!--34.xml-->
+         <pb ed="#F" n="15"/>
+               <lb ed="#F" n="1"/>riter ad punctum sectionis per axem, A. si igitur B. esset punctum polare,
+            <lb ed="#F" n="2"/>moveretur ad locum A. verticaliter; quasi super axem, cum in puncto A
+            <lb ed="#F" n="3"/>per lineam breviorem tendat ad L. Hoc igitur sola hac prima libratione
+            <lb ed="#F" n="4"/>tantum possumus cognoscere, puncta polaria suspensi lapidis esse in plano
+            <lb ed="#F" n="5"/>meridiano; non vero possumus definire, quam praecisè viam teneat 
+            ma<lb ed="#F" n="6" break="no"/>gnetica virtus. Ut autem hoc obtineamus; quandoquidem ad ea, quae 
+            se<lb ed="#F" n="7" break="no"/>quuntur, experimenta degustanda apprimè necessarium est in magnete
+            <lb ed="#F" n="8"/>polos exactè, quantum fieri potest, deprehendisse; si magnes figuram 
+            ali<lb ed="#F" n="9" break="no"/>quam commodam habeat, &amp; regularem, non admodum operosum erit 
+            il<lb ed="#F" n="10" break="no"/>lius polos designare, satis etiam pro re nostra exacte: si enim sphęricus sit,
+            <lb ed="#F" n="11"/>vel sphęroidicus, cubicus, vel prismalis, ducatur prius supra planum 
+            hori<lb ed="#F" n="12" break="no"/>zontale linea D. E. meridiana magnetica (dico meridianam magneticam,
+            <lb ed="#F" n="13"/>quia haec non congruit cum vera meridiana, ut postea patebit ex dicendis)
+            <lb ed="#F" n="14"/>tum suspendatur lapis, verbi gratia, per A. C. itaut punctum C. imum 
+            im<lb ed="#F" n="15" break="no"/>mineat lineae meridianae ductae, &amp; tunc notetur planum directionis 
+            ma<lb ed="#F" n="16" break="no"/>gnetis, hoc est planum meridionale, quo secaretur magnes, si planum D. E.
+            <lb ed="#F" n="17"/>sursum erigeretur: quod sic fiet. in extremitatibus D. &amp; E. erigantur 
+            per<lb ed="#F" n="18" break="no"/>pendiculares G. D: F. E. ex istis enim erectis lineis licebit describere supra
+            <lb ed="#F" n="19"/>magnetem planum verticale meridianum, quod faceret erecta linea E. D. si
+            <lb ed="#F" n="20"/>notentur rubrica directiones harum duarum perpendicularium, ut se 
+            re<lb ed="#F" n="21" break="no"/>spiciunt in lapide, certum igitur est, ex supra dictis, in isto plano esse puncta
+            <lb ed="#F" n="22"/>polaria magnetica.
+         <lb ed="#F" n="43" type="fixed=15"/>
+               <figure xml:id="p9i7y5-de1603-Fd1e488">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869758/1115,1771,978,1059/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">G D F E A C</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375376-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-de1603-d1e506">
+         Suspendito
+         <lb ed="#F" n="23" type="fixed=15"/>iterum lapidem ex aliquo alio pun
+            <lb ed="#F" n="24"/>cto, qui non sit in plano iam nota,
+            <lb ed="#F" n="25"/>to, eodem modo operando, ut 
+            prius<lb ed="#F" n="26" break="no"/>&amp; erectis perpendicularibus 
+            note<lb ed="#F" n="27" break="no"/>tur planum directionis, uti primo
+            <lb ed="#F" n="28"/>factum est, cum enim etiam ex hac
+            <lb ed="#F" n="29"/>secunda libratione liceat 
+            confice<lb ed="#F" n="30" break="no"/>re, in hoc secundo plano esse etiam
+            <lb ed="#F" n="31"/>polos magneticos; ubi se ista plana
+            <lb ed="#F" n="32"/>secabunt mutuo, ibi praecisè erunt
+            <lb ed="#F" n="33"/>poli magnetici; quod si duplici 
+            li<lb ed="#F" n="34" break="no"/>bratione polos non invenias, aut
+            <lb ed="#F" n="35"/>certus non sis, tertiam, aut quartam
+            <lb ed="#F" n="36"/>adiunge. non possunt autem se 
+            pla<lb ed="#F" n="37" break="no"/>na notata non secare si semper 
+            la<lb ed="#F" n="38" break="no"/>pis medius suspendatur, &amp; liberè
+            <lb ed="#F" n="39"/>pendeat. Hactenus natura duce ipsa solum, magnete viam monstrante,
+            <lb ed="#F" n="40"/>polos indagare curavimus; nunc artis magis vestigia sequamur.
+        </p>
+            <p xml:id="p9i7y5-de1603-d1e548">
+               <lb ed="#F" n="41"/>Notum est ferè omnibus, imò magis etiam decantatum, non solum magnetem, si
+            <lb ed="#F" n="42"/>suspendatur, aut iubeatur innatare in cymbula, polum respicere; verum
+            <!--34.xml-->
+            
+         <!--35.xml-->
+         <pb ed="#F" n="16"/>
+               <lb ed="#F" n="1"/>etiam in ferramenta à magnete tacta hanc virtutem derivari, si huiusmodi
+            <lb ed="#F" n="2"/>ferramenta suspendantur tenui filo, vel alia ratione disponantur, ut facilè
+            <lb ed="#F" n="3"/>se possint contorquere, &amp; ad quam malverint partem dirigere; qua ratione
+            <lb ed="#F" n="4"/>instituuntur pyxides nauticae, &amp; versoia horologiorum solarium, quae ex
+            <lb ed="#F" n="5"/>ferro, non ex magnete fiunt. Sume igitur acum, vel filum ferreum trium
+            <lb ed="#F" n="6"/>digitorum; illiusque altero fine tange utcunque magnetem; tum filum tactum
+            <lb ed="#F" n="7"/>iubeas dependere libratum procul amoto magnete, &amp; observa quam 
+            par<lb ed="#F" n="8" break="no"/>tem septentrioni, quam austro obvertat: hoc facto iterum admove 
+            magne<lb ed="#F" n="9" break="no"/>tem ad ferrum, atque ità ferro supponas, ut plus minus distet per quatuor
+            <lb ed="#F" n="10"/>digitos; immineat autem ferrum magneti in medio, ita ut non adhaereat
+            <lb ed="#F" n="11"/>alteri extremo, nec tangat magnetem, imo nec tangere possit, atque ita
+            <lb ed="#F" n="12"/>magnetem infra acum positum moveas, ita ducas, &amp; reducas; modo unum,
+            <lb ed="#F" n="13"/>modo alterum lapidis extremum
+            <lb ed="#F" n="14"/>attollas, ut acus non modo stet
+            <lb ed="#F" n="15"/>libratus, &amp; pendeat 
+            perpendicu<lb ed="#F" n="16" break="no"/>lariter ex suo filo, non ad has, vel
+            <lb ed="#F" n="17"/>ad illas partes trahatur à lapide;
+            <lb ed="#F" n="18"/>sed &amp; maneat horizonti 
+            paralle<lb ed="#F" n="19" break="no"/>lus, nec altero suo fine magis ad
+            <lb ed="#F" n="20"/>magnetem accedat; tum quem 
+            si<lb ed="#F" n="21" break="no"/>tum accipiet ferrum, seù acus in
+            <lb ed="#F" n="22"/>aere, eundem tenebit cursum 
+            vir<lb ed="#F" n="23" break="no"/>tus in lapide, ut si ferrum tactum
+            <lb ed="#F" n="24"/>sit S. O. suppositus magnes B. A.
+            <lb ed="#F" n="25"/>poteris primo inferre magneticam
+            <lb ed="#F" n="26"/>virtutem esse in plano verticali,
+            <lb ed="#F" n="27"/>in quo consistit ferrum S. O. 
+            po<lb ed="#F" n="28" break="no"/>teris etiam secundo inferre, axem
+            <lb ed="#F" n="29"/>virtutis parallelum ferro 
+            incede<lb ed="#F" n="30" break="no"/>re iuxta directionem, quam 
+            acci<lb ed="#F" n="31" break="no"/>pit ferrum. si enim ductam 
+            intel<lb ed="#F" n="32" break="no"/>ligas lineam in magnete in 
+            pla<lb ed="#F" n="33" break="no"/>no iam notato, quae secet planum
+            <lb ed="#F" n="34"/>medium, ita ut incedat parallela ferro supra magnetem directo, habebis
+            <lb ed="#F" n="35"/>axem virtutis magneticae, cuius extrema sunt poli, &amp; praecisam viam 
+            virtu<lb ed="#F" n="36" break="no"/>tis magneticae.
+         <lb ed="#F" n="43" type="fixed=16"/>
+               <figure xml:id="p9i7y5-de1603-Fd1e642">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869759/1333,1161,1067,1355/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">O S B A</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375378-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-de1603-d1e660">
+         Verum facilitatis ergo, iterum converso magnete, alte¬
+         <lb ed="#F" n="37" type="fixed=16"/>rum planum illius ferro obijcias, eodem modo, &amp; notato à directione ferri
+            <lb ed="#F" n="38"/>plano, signando rubrica vide, ubi se intersecant notata plana, ibi enim
+            <lb ed="#F" n="39"/>erunt poli; &amp; haec prorsus erit via, secundum quam excurrit virtus 
+            magne<lb ed="#F" n="40" break="no"/>tica. Si ergo acus ille, seù ferrum, dum procul est à magnete, O. in austrum
+            <lb ed="#F" n="41"/>vertit, S. in septentrionem, cum admovebitur lapidi, S. imminebit parti
+            <lb ed="#F" n="42"/>australi lapidis, O. Septentrionali, ita ut hac eadem opera possis etiam in¬
+            <!--35.xml-->
+           
+         <!--36.xml-->
+         <pb ed="#F" n="17"/>
+               <lb ed="#F" n="1"/>ferre partem lapides, cui videris S. iminere, dirigi, si libretur lapis, in 
+            au<lb ed="#F" n="2" break="no"/>strum, &amp; oppositam in septentrionem; sivè deinde dicenda sit australis, sivè
+            <lb ed="#F" n="3"/>septentrionalis; de quo infra.
+            <lb ed="#F" n="4"/>Iterum poteris etiam alio 
+            experi<lb ed="#F" n="5" break="no"/>mento investigare hoc idem: 
+            su<lb ed="#F" n="6" break="no"/>me versorium, vel pyxidem in
+            <lb ed="#F" n="7"/>propria capsella inclusam, 
+            collo<lb ed="#F" n="8" break="no"/>ca supra mensam, tum 
+            magne<lb ed="#F" n="9" break="no"/>tem, cuius polos inquiris, ad 
+            ver<lb ed="#F" n="10" break="no"/>sorium applica, &amp; paulatim in
+            <lb ed="#F" n="11"/>omnes obversa partes donec 
+            ver<lb ed="#F" n="12" break="no"/>sorium accommodetur ita, ut nul
+            <lb ed="#F" n="13"/>lo extremo suo accedat ad 
+            ma<lb ed="#F" n="14" break="no"/>gnetem, sed incedat cursu quasi
+            <lb ed="#F" n="15"/>parallelo ipsi magneti; &amp; nota
+            <lb ed="#F" n="16"/>punctum magnetis, verbi gratia,
+            <lb ed="#F" n="17"/>A. quod respicit directè medium
+            <lb ed="#F" n="18"/>versorij, &amp; tangit capsellam tum
+            <lb ed="#F" n="19"/>tenta, ut potes, ita rotare lapidem,
+            <lb ed="#F" n="20"/>ut semper versorium immotum
+            <lb ed="#F" n="21"/>maneat, nec unquam plus altero
+            <lb ed="#F" n="22"/>extremo accedat ad lapidem, &amp;
+            <lb ed="#F" n="23"/>linea, A. B. C. quam punctum F. medium capsellae, &amp; versorij designat, 
+            no<lb ed="#F" n="24" break="no"/>tando diligenter, scito extrema
+            <!--false line break-->
+            <lb ed="#F" n="25"/>puncta E. D. quae aequaliter distant ab hac
+            <lb ed="#F" n="26"/>notata linea A. B. C. esse puncta
+             <!--false line break-->
+            <lb ed="#F" n="27"/>polaria, quorum E. quod cruci versorij 
+            su<lb ed="#F" n="28" break="no"/>biacet in septentrionem vertetur D. in austrum collimabit.
+            <lb ed="#F" n="45" type="fixed=17"/>
+               <figure xml:id="p9i7y5-de1603-Fd1e749">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869760/1085,535,1056,1249/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">F A D C E B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375379-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-de1603-d1e767">
+         Dum autem la¬
+            <lb ed="#F" n="29" type="fixed=17"/>pis convertitur iuxta versorium,
+            <lb ed="#F" n="30"/>debet semper ita detineri, ut
+            <lb ed="#F" n="31"/>medium lapidis, quantum fieri
+            <lb ed="#F" n="32"/>potest, medium capsellae F. 
+            tan<lb ed="#F" n="33" break="no"/>gat.
+         <lb ed="#F" n="46" type="fixed=17"/>
+               <figure xml:id="p9i7y5-de1603-Fd1e783">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869760/1029,2136,1077,966/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text"/>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375379-region_1630484260871_1598</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-de1603-d1e801">
+         Tertio hoc idem facilius
+         <lb ed="#F" n="34" type="fixed=17"/>si non ita exactè in lapide satis
+            <lb ed="#F" n="35"/>rotundo invenies: sumef 
+            rustu<lb ed="#F" n="36" break="no"/>lum ferri longitudinis tantae
+            <lb ed="#F" n="37"/>quanta est grani frumenti, vel
+            <lb ed="#F" n="38"/>hordei, pro lapidis 
+            magnitu<lb ed="#F" n="39" break="no"/>dine, &amp; virtute, quo enim 
+            ma<lb ed="#F" n="40" break="no"/>ior est virtus, eo magis longum
+            <lb ed="#F" n="41"/>pariter filum sumere potes, 
+            hu<lb ed="#F" n="42" break="no"/>iusmodi filum magneti 
+            impo<lb ed="#F" n="43" break="no"/>nito: videbis enim obliquè 
+            sta<lb ed="#F" n="44" break="no"/>re ad omnes partes magnetis,    
+         <!--37.xml-->
+         <pb ed="#F" n="18"/>
+               <lb ed="#F" n="1"/>&amp; solum in duobus oppositis punctis directè ad centrum magnetis 
+            perpen<lb ed="#F" n="2" break="no"/>diculariter tendere. Loca igitur in quibus adiacet magneti, &amp; nihil 
+            erigi<lb ed="#F" n="3" break="no"/>tur, polis dici possunt opposita; &amp; dicuntur puncta aequinoctialia, &amp; 
+            pun<lb ed="#F" n="4" break="no"/>ctum illud, in quo perpendiculariter ad magnetici corporis centrum 
+            erigi<lb ed="#F" n="5" break="no"/>tur, polus erit. Consimilis est illa altera ratio, si magnetem ferreo 
+            pulve<lb ed="#F" n="6" break="no"/>re, vel nigra arena totum consepelias: in aliquibus enim partibus 
+            adhae<lb ed="#F" n="7" break="no"/>rebit pulvis quasi prostratus supra magnetem; in alijs erigetur quasi 
+            in<lb ed="#F" n="8" break="no"/>horrescerent pili: ubi enim erigitur ferreum capillicium, ibi poli sunt. ut
+            <lb ed="#F" n="9"/>cernitur in magnete A. B. qui,
+            <lb ed="#F" n="10"/>dum totus aspergitur, &amp; quasi
+            <lb ed="#F" n="11"/>sepelitur in ferreo pulvere, 
+            so<lb ed="#F" n="12" break="no"/>lum tamen induobus 
+            opposi<lb ed="#F" n="13" break="no"/>tis partibus ferrum illud 
+            qua<lb ed="#F" n="14" break="no"/>si in pilos concrescit, &amp; 
+            pro<lb ed="#F" n="15" break="no"/>ducitur, qui tamen pili ita 
+            in<lb ed="#F" n="16" break="no"/>horrescunt, ut solum in 
+            pun<lb ed="#F" n="17" break="no"/>ctis A. &amp; B. directè erigantur, in alijs obliquentur, vel adiaceant lapidi. 
+            Me<lb ed="#F" n="18" break="no"/>dium igitur illud A. &amp; B. erunt poli, &amp; per illa puncta transibit axis. &amp; haec
+            <lb ed="#F" n="19"/>satis expedita via est ad polos inveniendos.
+         <lb ed="#F" n="43" type="fixed=18"/>
+               <figure xml:id="p9i7y5-de1603-Fd1e875">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869761/1254,897,1090,507/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">B A</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375381-r4</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-de1603-d1e893">
+         Denique placuit Gilberti ratio¬
+         <lb ed="#F" n="20" type="fixed=18"/>nem pau-lulum immutate, ut fortasse clariorem redderem, quo facilius in
+            <lb ed="#F" n="21"/>rotundo lapide magnetico ad experimenta sanè magis accommodato 
+            po<lb ed="#F" n="22" break="no"/>los inveniamus, quam exactissime adijcere: licet fortasse parum haec ratio
+            <lb ed="#F" n="23"/>iam differat à supra positis.
+        </p>
+            <p xml:id="p9i7y5-de1603-d1e904">
+               <lb ed="#F" n="44" type="fixed=18"/>
+               <figure xml:id="p9i7y5-de1603-Fd1e909">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869761/1242,2063,988,1107/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A B G C E F</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375381-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="24" type="fixed=18"/>Sume rotundum magnetem A. B. &amp; cuspidem ex aere fabrica, apta huic 
+            ex<lb ed="#F" n="25" break="no"/>perimento, ita scilicet, ut commodè supra lapidem sedeat; huic versorium 
+            impo<lb ed="#F" n="26" break="no"/>nito, &amp; tandiù in diversas.
+            <lb ed="#F" n="27"/>magnetis sedes trahas cum
+            <lb ed="#F" n="28"/>versorio cuspidem, donec
+            <lb ed="#F" n="29"/>tandem versorium libretur,
+            <lb ed="#F" n="30"/>neque ulla ex parte, aut 
+            ex<lb ed="#F" n="31" break="no"/>tremitate magis lapidem 
+            ver<lb ed="#F" n="32" break="no"/>sùs deprimatur: hoc facto
+            <lb ed="#F" n="33"/>nota ibi punctum C. cui 
+            im<lb ed="#F" n="34" break="no"/>minet versorij medium. tunc,
+            <lb ed="#F" n="35"/>tentando, pariter invenias
+            <lb ed="#F" n="36"/>punctum, E. in quo similiter
+            <lb ed="#F" n="37"/>versorium libretur, neque ul
+            <lb ed="#F" n="38"/>la eius extremitas ad magne
+            <lb ed="#F" n="39"/>tem inclinet, &amp; sic invenias
+            <lb ed="#F" n="40"/>F. G. &amp;c. quot sufficiant ad
+            <lb ed="#F" n="41"/>describendum in lapide 
+            cir<lb ed="#F" n="42" break="no"/>culum, quem circulum in
+            <!--37.xml-->
+
+         <!--37.xml-->
+         
+         <!--38.xml-->
+         <pb ed="#F" n="19"/>
+               <lb ed="#F" n="1"/>tali magnetis globo poteris aequatorem appellare, quia aequaliter distat
+            <lb ed="#F" n="2"/>à polis: si enim utrinque circino, aut alia via, in lapide puncta reperias, quae
+            <lb ed="#F" n="3"/>aequaliter distent ab hoc descripto circulo, haec puncta polos referent: ut 
+            in<lb ed="#F" n="4" break="no"/>posita figura puncta A. &amp; B. Quare habebis viam, qua excurrit virtus 
+            ma<lb ed="#F" n="5" break="no"/>gnetica, &amp; huius lapidis determinatam à natura longitudinem, quae 
+            ex<lb ed="#F" n="6" break="no"/>currit ab A. ad B. &amp; haec de polos inveniendi ratione; quorum tamen 
+            om<lb ed="#F" n="7" break="no"/>nium causae infra reddentur, &amp; de cognoscenda via, ac dimensione 
+            ma<lb ed="#F" n="8" break="no"/>gneticae longitudinis: alias enim rationes hoc idem obtinendi longum
+            <lb ed="#F" n="9"/>esset prosequi, &amp; poterit per se quisque invenire, ubi hanc totam 
+            magneti<lb ed="#F" n="10" break="no"/>cam philosophiam pernoverit, verum priusquam ad causam inquirendam
+            <lb ed="#F" n="11"/>descendamus, libet, quid à priscis hac de re habere possimùs, indagare.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

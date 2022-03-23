@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 14</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 14</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="161"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e17263"> <!-- l2c14 -->
+            <head xml:id="p9i7y5-e17263-Hd1e107">Caput 14</head>
+            <p xml:id="p9i7y5-e17263-d1e109">
+            <!--180.xml-->
+               <pb ed="#F" n="161"/>
+               <lb ed="#F" n="1"/>De causa cur magnes magnetem trahat. Cap. XIV.
+        </p>
+            <p xml:id="p9i7y5-e17263-d1e118">
+               <lb ed="#F" n="2"/>Sensim delabimur ad solutionem quaestionis, quam initio 
+            hu<lb ed="#F" n="3" break="no"/>ius libri de magnetica ferri attractione, &amp; expulsione 
+            propo<lb ed="#F" n="4" break="no"/>suimus. Explicata igitur superioribus capitibus natura 
+            quali<lb ed="#F" n="5" break="no"/>tatis duarum facierum, &amp; explicatis illius proprietatibus, ac
+            <lb ed="#F" n="6"/>modo se se propagandi, &amp; effundendi per circumiecta 
+            cor<lb ed="#F" n="7" break="no"/>pora, antequam de magnetica ferri attractione dicam, causam affero, cur
+            <lb ed="#F" n="8"/>magnes magnetem trahat, quae paucis immutatis eadem erit, cur ferrum ad
+            <lb ed="#F" n="9"/>se provocet.
+        </p>
+            <p xml:id="p9i7y5-e17263-d1e138">
+               <lb ed="#F" n="10"/>Dictum igitur est, &amp; superius demonstratum, hunc lapidem suaptè 
+            natu<lb ed="#F" n="11" break="no"/>ra, &amp; ex sua forma duas habere veluti facies, australem, scilicet, &amp; 
+            septen<lb ed="#F" n="12" break="no"/>trionalem, vel potius unam solam, &amp; simplicem qualitatem per totam 
+            lapi<lb ed="#F" n="13" break="no"/>dis substantiam diffusam, quae duplicem sortitur facultatem, ea ratione, qua
+            <lb ed="#F" n="14"/>in ligno naturae ductu veluti quasdam virtutis rimulas insertas videmus
+            <lb ed="#F" n="15"/>quae determinata corporis positione excurrunt. Sic etiam magnes 
+            virtua<lb ed="#F" n="16" break="no"/>lem quandam habet positionem, quae certam in lapide longitudinem 
+            desi<lb ed="#F" n="17" break="no"/>gnat, et certa excurrit ratione: Solumque ex hac qualitate duas insigniores
+            <lb ed="#F" n="18"/>oriri dico veluti proprietates; quarum altera est, ut partes huius qualitatis
+            <lb ed="#F" n="19"/>seu subiecti, in quo est ista qualitas, debitum obtineant situm, &amp; positionem:
+            <lb ed="#F" n="20"/>ne, cum haec qualitas sit ex genere suo activa, &amp; productiva qualitatis sibi
+            <lb ed="#F" n="21"/>similis, cogantur domesticum veluti bellum exercere partes ipsae ad invicem;
+            <lb ed="#F" n="22"/>altera est, ut totum illud subiectum, in quo est ista qualitas, determinatam
+            <lb ed="#F" n="23"/>in hoc universo positionem obtineat, &amp; determinatum tueatur situm: sicuti
+            <lb ed="#F" n="24"/>videmus accidere in animali, ut in homine: Cum enim diversis constet 
+            par<lb ed="#F" n="25" break="no"/>tibus, &amp; multiplici facultatum genere, duo ad eius commodam 
+            conserva<lb ed="#F" n="26" break="no"/>tionem requiruntur; alterum est, ut partes sint ordinatim positae, ut caput
+            <lb ed="#F" n="27"/>collo immineat, hocque pectori connectatur, thorax costis tegatur, &amp; sic
+            <lb ed="#F" n="28"/>de reliquis; donec crura columnarum istar pedibus innixa tanquam 
+            basi<lb ed="#F" n="29" break="no"/>bus totam sustineant corporis struem. Praeter hoc vero requiritur etiam hoc,
+            <lb ed="#F" n="30"/>ut tota haec fabrica benè sit constituta, &amp; collocata in ordine ad universum,
+            <lb ed="#F" n="31"/>ut caput ad Cęlum erigatur, pedes huminitantur, &amp; tota corporis forma 
+            e<lb ed="#F" n="32" break="no"/>recta subsistat. quod si inverso ordine plantas ad Cęlum erigeret, caput terrę
+            <lb ed="#F" n="33"/>obverteret, quamvis omnes partes bene inter se essent constitutae, tamen 
+            ho<lb ed="#F" n="34" break="no"/>mo pessimè secum actum sentiret, neque diù se commodè posset conservare;
+            <lb ed="#F" n="35"/>solum quia hoc illi deesset, quod in ordine ad universum debitam non 
+            ob<lb ed="#F" n="36" break="no"/>tineret positionem. Hoc idem etiam aspicimus, &amp; in virgultis: non solum
+            <lb ed="#F" n="37"/>enim radicibus truncus inhaeret, ex isto rami propagantur, unde folia, &amp;
+            <lb ed="#F" n="38"/>fructus deducuntur, sed etiam, ut vigorem conservent, &amp; vegetos spiritus,
+            <lb ed="#F" n="39"/>debent radices humi serpere, truncus se debet erigere, &amp; rami ad auras 
+            dif<lb ed="#F" n="40" break="no"/>fundere: Sic natura etiam huius lapidis ea est, ut, cum duas habeat veluti
+            <!--181.xml-->
+            <pb ed="#F" n="162"/>
+               <lb ed="#F" n="1"/>facies septentrionalem, &amp; meridionalem, benè inter se istae sint compositae,
+            <lb ed="#F" n="2"/>&amp; coagmentatae, prout ipsarum natura postulat: Praeterea, ut benè etiam
+            <lb ed="#F" n="3"/>possit se conservare, exigit, ut eaedem facies benè, &amp; convenienter sint in 
+            or<lb ed="#F" n="4" break="no"/>dine ad universum constitutae, altera in septentrionem, &amp; altera in austrum
+            <lb ed="#F" n="5"/>ad suas partes.
+        </p>
+            <p xml:id="p9i7y5-e17263-d1e224">
+               <lb ed="#F" n="6"/>His igitur positis ex magnetica natura desumptis vim obtinet magnes se
+            <lb ed="#F" n="7"/>se movendi propter utrunque, tum ut commodè se habeant partes in suo 
+            to<lb ed="#F" n="8" break="no"/>to, tum ut totum bene constitutum sit in ordine ad universum. Quamvis 
+            ta<lb ed="#F" n="9" break="no"/>men videantur hae, duae qualitates motivae, altera, qua partes disponuntur ad
+            <lb ed="#F" n="10"/>totum, altera, qua totum disponitur ad universum, prima qua constituitur,
+            <lb ed="#F" n="11"/>secunda qua commodè conservatur, illa necessaria, haec utilis; nihilominus
+            <lb ed="#F" n="12"/>una, ac simplex est, &amp; à simplici qualitate duarum facierum, atque à 
+            magne<lb ed="#F" n="13" break="no"/>tis natura, quae non magis composita est, proficiscitur, imò ut unicus est, sim
+            <lb ed="#F" n="14"/>plexque motus, &amp; ad eundem finem directus, ac propter eandem rationem à
+            <lb ed="#F" n="15"/>natura institutus, quamvis unus videatur attractionis, alter expulsionis, seu,
+            <lb ed="#F" n="16"/>ut melius dicam, sequelae unus, &amp; fugae alter, motus conversionis ad polos,
+            <lb ed="#F" n="17"/>&amp; verticitatis. Quod, ut explicem,
+        </p>
+            <p xml:id="p9i7y5-e17263-d1e253">
+               <lb ed="#F" n="18"/>Suppono ex supradictis qualitatem hanc magnetis alterativam esse, &amp;
+            <lb ed="#F" n="19"/>effundere se in circumiecta corpora determinata ratione; ita, ut radij 
+            quo<lb ed="#F" n="20" break="no"/>dammodo virtutis proijciantur facie septentrionali, vel australi, ut certa 
+            ra<lb ed="#F" n="21" break="no"/>tione excurrant, &amp; determinatum accipiant in medio situm, non 
+            quantita<lb ed="#F" n="22" break="no"/>tis, sed virtutis, quae qualitas per medium diffusa, cum vim habeat alterandi,
+            <lb ed="#F" n="23"/>&amp; producendi permanentem qualitatem, sibi similem in corpora 
+            propor<lb ed="#F" n="24" break="no"/>tionata, &amp; hanc eandem etiam habere virtutem magneticam, &amp; hanc 
+            ean<lb ed="#F" n="25" break="no"/>dem activitatem totum telluris globum.
+        </p>
+            <p xml:id="p9i7y5-e17263-d1e273">
+               <lb ed="#F" n="26"/>His suppositis, dum magnes sibi relinquitur, quia ab actione 
+            circumqua<lb ed="#F" n="27" break="no"/>que effusa à terra, &amp; à qualitate per medium diffusa statim invaditur, si 
+            con<lb ed="#F" n="28" break="no"/>tingat esse in tali situ, &amp; positione, ut illa invasio sit amicus occursus, &amp; 
+            il<lb ed="#F" n="29" break="no"/>lud, quod producitur à terra circumquaque determinata positione, 
+            excipia<lb ed="#F" n="30" break="no"/>tur in magnete convenienti ratione, ita ut iuvetur illa actione, &amp; foveatur
+            <lb ed="#F" n="31"/>qualitas, quam iam habet, acquiescit in illo situ magnes, &amp; immobilis 
+            per<lb ed="#F" n="32" break="no"/>severat. Verum, si dum sic pacificè residet, &amp; quietum potum tenet, forte 
+            con<lb ed="#F" n="33" break="no"/>tingat, ut alter magnes accedat, cuius actio, ut praesens magis, ita efficacior
+            <lb ed="#F" n="34"/>sit, quam actio telluris, si illa actio huius supervenientis magnetis, non sit
+            <lb ed="#F" n="35"/>in illo situ, &amp; positione, in qua est actio telluris, magnes ille, qui 
+            quiesce<lb ed="#F" n="36" break="no"/>bat in cymbula, verbi gratia, &amp; fovebatur actione telluris, dum sentit 
+            actio<lb ed="#F" n="37" break="no"/>nem illius alterius magnetis esse efficaciorem, quam sit actio telluris, 
+            con<lb ed="#F" n="38" break="no"/>tempto auxilio illo, &amp; beneficio, quod ab actione telluris accipiebat, 
+            con<lb ed="#F" n="39" break="no"/>vertit se ad supervenientem magnetem, &amp; disponit se in convenienti situ,
+            <lb ed="#F" n="40"/>prout postulat qualitas per medium effusa à superveniente inagnete, ut ab
+            <lb ed="#F" n="41"/>illius actione iuvetur, quae nimirum efficacior est, ne magis laedatur ab illo,
+            <lb ed="#F" n="42"/>quam iuvetur ab actione telluris. Et haec est ratio, cur magnetes se invicem
+            <!--182.xml-->
+            <pb ed="#F" n="163"/>
+               <lb ed="#F" n="1"/>disponant determinato situ; quia nimirum determinata ratione quodlibet
+            <lb ed="#F" n="2"/>corpus magneticum circum quaque effundit per medium qualitatem duarum
+            <lb ed="#F" n="3"/>facierum, &amp; effundit illam modo supra explicato. Quia ergo quilibet 
+            ma<lb ed="#F" n="4" break="no"/>gnes qualitatem, quam habet in se, determinatam habet, non vagam, &amp; 
+            in<lb ed="#F" n="5" break="no"/>constantem, ideo se convertit, &amp; determinata ratione disponit, ut accommo
+            <lb ed="#F" n="6"/>det se ad qualitatem per medium effusam, si ab in convenienti situ sibi aliquid
+            <lb ed="#F" n="7"/>timeat, vel à convenienti positione aliquid commodi expectet.
+        </p>
+            <p xml:id="p9i7y5-e17263-d1e332">
+               <lb ed="#F" n="8"/>Posito autem quod iam sit convenienter dispositus magnes in ordine ad
+            <lb ed="#F" n="9"/>alterum magnetum; ita ut qualitas per medium effusa sic convenienter 
+            ac<lb ed="#F" n="10" break="no"/>cedat, quia hanc positionem accipit, ut iuvetur ab illa qualitate, quae est in
+            <lb ed="#F" n="11"/>medio, &amp; quia haec qualitas in medio eò efficacior est, quo proximior suo
+            <lb ed="#F" n="12"/>principio, à quo fluit, ideo per illam eandem vim, per quam disposuit se 
+            li<lb ed="#F" n="13" break="no"/>ber magnes determinata ratione, per eandem accedit adstantem magnetem;
+            <lb ed="#F" n="14"/>vel si ambo liberum habeant motum, sicut uterque iubente natura ad 
+            alte<lb ed="#F" n="15" break="no"/>rum se disponit convenienter, ut ab invicem iuventur, non laedantur, sic ob
+            <lb ed="#F" n="16"/>eandem rationem confluunt. Non est igitur duorum magneticorum 
+            attra<lb ed="#F" n="17" break="no"/>ctio, nec unus alteri violentas inijcit manus; sed amico feruntur ambo 
+            im<lb ed="#F" n="18" break="no"/>petu in mutuos amplexus, &amp; concursus est ad auxilium, non attractio ad
+            <lb ed="#F" n="19"/>servitutem. Ex quo manifestè constat, quod supra dicebam, tam 
+            conversio<lb ed="#F" n="20" break="no"/>nem magneticorum in polos, quam attractionem mutuam, seu concursum
+            <lb ed="#F" n="21"/>nec enim abhorrebo à communi loquendi modo, ubi rem iam explicaui)
+            <lb ed="#F" n="22"/>provenire ab una, &amp; eadem qualitate duarum facierum. Nam magnetica se
+            <lb ed="#F" n="23"/>disponunt ad polos, ut accommodent se ad actionem magneticam telluris,
+            <lb ed="#F" n="24"/>&amp; ad qualitatem per medium effusam à tellure, ad hoc, ut sic actio illa 
+            ter<lb ed="#F" n="25" break="no"/>rae, &amp; qualitas sibi convenienter accidat, &amp; iuventur potius, quam lędantur.
+            <lb ed="#F" n="26"/>Quare illa directio ad polos non est nisi ex qualitate duarum facierum, quae
+            <lb ed="#F" n="27"/>vult stare in illo situ, &amp; positione, in quo est qualitas pariter duarum facierum
+            <lb ed="#F" n="28"/>per medium effusa à tellure. Similiter confluunt magnetica ad invicem,
+            <lb ed="#F" n="29"/>ut qualitas duarum facierum, quae est in singulis accommodet se ad 
+            quali<lb ed="#F" n="30" break="no"/>atem per medium effusam, ut iuventur ad invicem, non laedantur: &amp; quia
+            <lb ed="#F" n="31"/>haec actio magneticorum adinvicem efficacior est, quam sit actio totius 
+            tel<lb ed="#F" n="32" break="no"/>luris, ideo contempta tellure, ut vel hoste infirmiore, vel amico minus 
+            di<lb ed="#F" n="33" break="no"/>vite, ad se invicem accurrunt: imò &amp; aliquando tanta est magnetis vis, &amp;
+            <lb ed="#F" n="34"/>tantum sibi sentit commodum futurum ex amico nexu, ut magnes, qui prius
+            <lb ed="#F" n="35"/>contemnebat actionem telluris, &amp; ideo se ad illam non disponebat, 
+            con<lb ed="#F" n="36" break="no"/>vettendo se ad polos, non contemnat actionem alterius magnetis, &amp; ad illum
+            <lb ed="#F" n="37"/>se convenienter accommodet.
+        </p>
+            <p xml:id="p9i7y5-e17263-d1e400">
+               <lb ed="#F" n="38"/>Verum ut ea, quae hactenus dicta sunt quasi oculis subijciantur, sit magnes
+            <lb ed="#F" n="39"/>S. A. qui stet medius in magno vase aqua pleno: in suo vasculo habeat A. 
+            fa<lb ed="#F" n="40" break="no"/>ciem australem S. septentrionalem, &amp; sint poli horizonti paralleli. Ex 
+            su<lb ed="#F" n="41" break="no"/>pradictis; ex polis prodibunt radij virtutis quaqua versum. prodeant ergo
+            <lb ed="#F" n="42"/>ex A. radij ad omnes partes indirectum contra axem obliquè ad hanc, &amp; ad
+            <!--183.xml-->
+            <pb ed="#F" n="164"/>
+               <lb ed="#F" n="1"/>illam partem, qui omnes radij sivè sint directi, sivè refracti ad aliquam partèm,
+            <lb ed="#F" n="2"/>habebunt, ratione explicata, 
+            uni<lb ed="#F" n="3" break="no"/>cum tractum cum virtute S. A.
+            <lb ed="#F" n="4"/>nimirum omnes à septentrione
+            <lb ed="#F" n="5"/>in austrum producti erunt. sint
+            <lb ed="#F" n="6"/>ergo varij parvi magnetes in suis
+            <lb ed="#F" n="7"/>cymbulis positi, qui omnes suos
+            <lb ed="#F" n="8"/>habeant polos ad horizontem
+            <lb ed="#F" n="9"/>constitutos, septentrionalem, &amp;
+            <lb ed="#F" n="10"/>australem. Si parvi isti magnetes
+            <lb ed="#F" n="11"/>ponantur intra sphaeram 
+            activita<lb ed="#F" n="12" break="no"/>tis huius magni, sicuti ablato 
+            ma<lb ed="#F" n="13" break="no"/>gno singuli de se disposuissent
+            <lb ed="#F" n="14"/>in suis cymbulis, &amp; accommodassent se ad radium magneticum diffusum à
+            <lb ed="#F" n="15"/>terra, &amp; vertissent partem A. in austrum, I. in septentrionem, ita, ubi sint 
+            in<lb ed="#F" n="16" break="no"/>tra sphaeram activitatis huius magnetis, accommodant se primo ad radium,
+            <lb ed="#F" n="17"/>in quo sunt, &amp;, ut primus parvus magnes disponit se ad axem, ita ut habeat
+            <lb ed="#F" n="18"/>S. contra A. quo in uno extremo sit S. in altero A. ita secundus parvus 
+            ma<lb ed="#F" n="19" break="no"/>gnes eodem modo se disponit ad hoc, ut quasi sit continuatus tractus ab S.
+            <lb ed="#F" n="20"/>maioris magnetis, ad A. extremum radium perinde, ac si non esset radius
+            <lb ed="#F" n="21"/>refractus, sed directus, similiter tertius, &amp; quartus parvus magnes disponunt
+            <lb ed="#F" n="22"/>suam virtutem, quam iam habent in radio, in quo sunt, ita ut sicut virtus 
+            ra<lb ed="#F" n="23" break="no"/>dij est ita disposita, ut à polo S. per polum A. extensus radius sivè sit directus,
+            <lb ed="#F" n="24"/>sive refractus ad aliquam partem, excurrat continuato tractu, &amp; in extremo
+            <lb ed="#F" n="25"/>habeat A. sic etiam parvi magnetes disponunt suam partem australem 
+            ex<lb ed="#F" n="26" break="no"/>tremum versus radij, septentrionalem ad polum A.
+         <lb ed="#F" n="43" type="fixed=164"/>
+               <figure xml:id="p9i7y5-e17263-Fd1e476">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869907/1361,454,1018,729/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">S A 3 2 1 4</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375606-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e17263-d1e494">
+               <lb ed="#F" n="27" type="fixed=164"/>Ex hoc iam vides rationem illius, quod supra desiderabam in aliorum
+            <lb ed="#F" n="28"/>sententijs; cur scilicet magnes magnetem trahat determinata solum 
+            ratio<lb ed="#F" n="29" break="no"/>ne, &amp; quidem in polo directè ad axem, in alijs partibus oblique disponatur,
+            <lb ed="#F" n="30"/>in aequatore prorsus adiaceat, sicut dicebam etiam de obelis: Non tam enim
+            <lb ed="#F" n="31"/>id contingit, ut supra contra Peregrinum dicebam, quod magnetica unum
+            <lb ed="#F" n="32"/>efficere laborent, &amp; restituere se quodammodo ad pristinum statum, sed ex
+            <lb ed="#F" n="33"/>eo praecisè nascitur, ut partes sint convenienter in toto dispositae, nec civiles
+            <lb ed="#F" n="34"/>excitent pugnas, sed amico se foveant auxilio, ut nimirum magnetes 
+            circum<lb ed="#F" n="35" break="no"/>iacentes accommodent se ad radium, in quo sunt, qui ab altero magnete 
+            ef<lb ed="#F" n="36" break="no"/>funditur; Sic enim in toto quasi illo magnete conflato ex illis partibus 
+            par<lb ed="#F" n="37" break="no"/>tes iam erunt convenienter dispositae. Quia vero radius ille, cui se parvus
+            <lb ed="#F" n="38"/>magnes accommodavit, eò efficacior est, quò magis acceditur ad maiorem
+            <lb ed="#F" n="39"/>magnetem; ideo iam per illum radium, quantum potest quasi secundo defer
+            <lb ed="#F" n="40"/>tur vento ad maiorem magnetem. Ex quibus omnibus satis iam pro 
+            reprae<lb ed="#F" n="41" break="no"/>senti videtur mihi magneticus iste concursus explicatus; cum praesertim 
+            ite<lb ed="#F" n="42" break="no"/>rum de illo futurus sit sermo: Si enim exactè contempleris rationem, qua
+            <!--183.xml-->
+
+         <!--184.xml-->
+         <pb ed="#F" n="165"/>
+               <lb ed="#F" n="1"/>magnes circumquaque agit determinata ratione virtutem effundendo, &amp;
+            <lb ed="#F" n="2"/>supponas alios magnetes per qualitatem, quam iam habent in se, vim 
+            habe<lb ed="#F" n="3" break="no"/>re disponendi se, &amp; accommodandi ad qualitatem per medium effusam, 
+            in<lb ed="#F" n="4" break="no"/>telliges, cur determinata ratione omnes illi parvi magnetes se circa 
+            maio<lb ed="#F" n="5" break="no"/>rem magnetem disponant.
+        </p>
+            <p xml:id="p9i7y5-e17263-d1e549">
+               <lb ed="#F" n="6"/>Ex hoc etiam patet magneticos concursus, seu attractiones non debero
+            <lb ed="#F" n="7"/>obscuro nomine dici sympathicos concursus, neque oriri ex sympathia 
+            cor<lb ed="#F" n="8" break="no"/>porum, nihil aliud addendo: Verba enim haec obscurum sonant, nihil 
+            expli<lb ed="#F" n="9" break="no"/>cant. Quamvis, si hac occasione dicere debeo quod sentio, non est alienum,
+            <lb ed="#F" n="10"/>ut arbitror, à vera philosophia, si dicatur concursus magneticos motus esse
+            <lb ed="#F" n="11"/>sympathicos, rem explicando, non verba ingerendo, nullum enim motum
+            <lb ed="#F" n="12"/>ego puto sympathicum, qui non fiat proportionaliter eadem ratione, qua
+            <lb ed="#F" n="13"/>fit motus magneticus. Neque enim puto dari in natura ullum motum, aut
+            <lb ed="#F" n="14"/>localem, aut alterationis, sive alterationis perfectivae, sivè corruptivae, qui ita
+            <lb ed="#F" n="15"/>dicatur fieri ex sympathia, seu antipathia, &amp; non fiat ex aliquo à corpore 
+            sym<lb ed="#F" n="16" break="no"/>pathico per medium transmisso usque ad aliud sympathicum, quod tamen
+            <lb ed="#F" n="17"/>per medium transmissum, quicquid illud sit, non afficit interiecta corpora,
+            <lb ed="#F" n="18"/>nisi ut media praecisè, &amp; consequenter non se prodit per aliquem effectum,
+            <lb ed="#F" n="19"/>nisi ubi devenerit ad aliud corpus sympathicum, in quo, quia iam illud est
+            <lb ed="#F" n="20"/>subiectum proportionatum, suas ostendit vires, &amp; suum prodit effectum: &amp;
+            <lb ed="#F" n="21"/>ideo ei, qui solum sensum habet iudicem, videtur ex sympathia oriri effectum
+            <lb ed="#F" n="22"/>in alio corpore, cum nihil sit in intermedio: re tamen vera non sic est, sed
+            <lb ed="#F" n="23"/>semper quicunque sit effectus sympathicus, aliquid etiam effundit per 
+            me<lb ed="#F" n="24" break="no"/>dium, quod tamen non se prodit, quia subiectum medium non est proprietatum.
+            <lb ed="#F" n="25"/>Sic quando dicuntur duae chordae tensae ad unisonum concentum, ita se
+            <lb ed="#F" n="26"/>habere, ut si vna pulsetur, altera etiam, si in proximo sit, sonet, quamvis non
+            <lb ed="#F" n="27"/>fuerit tacta, nec sonent chordae intermedię, non oritur ex sympathia, quasi
+            <lb ed="#F" n="28"/>vero nulla sit actio per medium, sed oritur, quia sonus, ut fortasse alius erit
+            <lb ed="#F" n="29"/>dicendi locus, non est sine vibratione aeris ad vibrationem corporis 
+            sono<lb ed="#F" n="30" break="no"/>ri, si non est sonus ipsa sola vibratio; &amp; quo vibrationes sunt incitatiores, &amp;
+            <lb ed="#F" n="31"/>ut ita dicam, undationes pressae magis, eo sonus est magis acutus, quoque 
+            un<lb ed="#F" n="32" break="no"/>dationes vibrati corporis sunt deductiores, &amp; tremores latiores, eò sonus est
+            <lb ed="#F" n="33"/>gravior. quod puto patere ad sensum. dum ergo vibratur chorda, &amp; per hoc
+            <lb ed="#F" n="34"/>sonat, ex tremore chordae fit etiam tremor in aere; &amp; quia chorda tensa ad
+            <lb ed="#F" n="35"/>unisonum concentum est apta tremere illa eadem incitatione, &amp; simili, simi
+            <lb ed="#F" n="36"/>literque incitato tremore, quo tremit aer ex motu primae chordae, aliae non
+            <lb ed="#F" n="37"/>sunt apta tremere illo modo, hoc est enim esse tensam ad unisonum concentum,
+            <lb ed="#F" n="38"/>&amp; alias non: ideo tremor ille aeris movet potius illam chordam, &amp; facit eam
+            <lb ed="#F" n="39"/>tremere, quam alias. Vides ergo sympathiam non esse nisi ex actione diffusa
+            <lb ed="#F" n="40"/>per medium, quae tamen non nisi cognata, &amp; proportionata corpora afficit.
+            <lb ed="#F" n="41"/>Sic medicamenta purgantia ex similitudine, vel dissimilitudine naturae
+            <lb ed="#F" n="42"/>agunt transmissis per totum corpus halitibus, seu spiritosis particulis ex vi
+            <!--185.xml-->
+            <pb ed="#F" n="166"/>
+               <lb ed="#F" n="1"/>caloris excitatis, ea ferè ratione, qua corpora odorata medium inficiunt:
+            <lb ed="#F" n="2"/>qui halitus, seu spiritus humores per corpus effusos excitant, &amp; commovent
+            <lb ed="#F" n="3"/>vel propter similitudinem naturae, quasi amico subsidio, vel propter dissimi
+            <lb ed="#F" n="4"/>litudinem, quasi ex hostili impetu: humores autem excitati eijciuntur 
+            po<lb ed="#F" n="5" break="no"/>stea à vi expulsiva animalis, &amp; profligantur quasi rebellans plebecula, vel 
+            cer<lb ed="#F" n="6" break="no"/>te ipsimet humores excitati moventur, &amp; accurrunt ad principium excitans,
+            <lb ed="#F" n="7"/>ubi sentiunt actionem illam, qua commoventur efficaciorem esse. Non enim
+            <lb ed="#F" n="8"/>puto alienum esse à vera philosophia, ubi ad aliquod subiectum perveniat
+            <lb ed="#F" n="9"/>actio conformis illius subiecti naturae, &amp; eo efficacior, quo magis acceditur
+            <lb ed="#F" n="10"/>ad principium, à quo fluit, vim habere illud subiectum à natura se movendi,
+            <lb ed="#F" n="11"/>&amp; propius accedendi ad tale principium, à quo fluat amica actio, ut magis
+            <lb ed="#F" n="12"/>ab illo iuvetur. Dum vero humores ex toto confluunt corpore ad principium
+            <lb ed="#F" n="13"/>illud, sive in stomacho, sive in visceribus existat, natura, quia sensit iam 
+            tu<lb ed="#F" n="14" break="no"/>multum ingravescere, &amp; ex coniuratione humorum, sibi periculum 
+            immi<lb ed="#F" n="15" break="no"/>nere, impetu facto illos omnes eijcere, &amp; egerere conatur, &amp; sic fiunt 
+            purga<lb ed="#F" n="16" break="no"/>tiones.
+        </p>
+            <p xml:id="p9i7y5-e17263-d1e671">
+               <lb ed="#F" n="17"/>Omnino in omni effectu sympathico, sive antipathico, ut inter lupum,
+            <lb ed="#F" n="18"/>&amp; ovem, vel alio quicunque sit, eandem semper actionis formam invenies,
+            <lb ed="#F" n="19"/>quam pono in magneticis coitionibus, quòd scilicet effundatur aliquid per
+            <lb ed="#F" n="20"/>medium, quod alia corpora non afficiat; ita permanenter, &amp; sensibiliter, sed
+            <lb ed="#F" n="21"/>solum sympathica afficiat; quia haec sunt proportionata; &amp; quia, ut 
+            pluri<lb ed="#F" n="22" break="no"/>mum, sicut habent res à natura vim refugiendi ab eo, quod nocet, &amp; 
+            simili<lb ed="#F" n="23" break="no"/>ter vim accedendi ad id, quod iuvat, ideo, quia actio efficacior est, quo 
+            ma<lb ed="#F" n="24" break="no"/>gis acceditur ad principium; à quo fluit, ex illa qualitate vim habeant ad 
+            il<lb ed="#F" n="25" break="no"/>lud accedendi, ut magis iuventur, sicut vim fabent refugiendi ab eo, quod
+            <lb ed="#F" n="26"/>nocet.
+        </p>
+            <p xml:id="p9i7y5-e17263-d1e695">
+               <lb ed="#F" n="27"/>Quod si aliae res non haberent patenter hanc vim motivam, qua possint
+            <lb ed="#F" n="28"/>accedere ad amicum, &amp; recedere ab inimico, certè peculiaris est ratio, cur
+            <lb ed="#F" n="29"/>haec facultas magneticis corporibus sit attributa. Alia enim corpora non
+            <lb ed="#F" n="30"/>ubique habent amicum, nec ubique inimicum, &amp; ideo non est necesse 
+            sim<lb ed="#F" n="31" break="no"/>pliciter, ut ad sui conservationem habeant hanc facultatem motivam 
+            ac<lb ed="#F" n="32" break="no"/>commodandi se ad amicum, &amp; refugiendi ab inimico: nam, nisi fortè 
+            fortu<lb ed="#F" n="33" break="no"/>na contingat, ut in amicum, vel inimicum alia incidant, possunt se 
+            conser<lb ed="#F" n="34" break="no"/>vare absique eo, quod loco moveantur, nec simpliciter ad sui conservationem
+            <lb ed="#F" n="35"/>indigent motu locali; at vero quia tota terra vim habet magneticam, &amp; á
+            <lb ed="#F" n="36"/>tota circumquaque effunditur actio magnetica, ideo similia corpora, ubique
+            <lb ed="#F" n="37"/>gentium paratum habent amicum, vel inimicum; amicum si stent in situ 
+            con<lb ed="#F" n="38" break="no"/>formi ad actionem terrae; inimicum, si stent in situ contrario. Si ergo illis 
+            na<lb ed="#F" n="39" break="no"/>tura dedit qualitatem duarum facierum, debuit etiam tradere illis 
+            faculta<lb ed="#F" n="40" break="no"/>tem motiuam media hac eadem qualitate; quia haec simpliciter erat 
+            necessa<lb ed="#F" n="41" break="no"/>ria ad illius conservationem; cum enim ubique sit paratus hostis, non 
+            pote<lb ed="#F" n="42" break="no"/>rant effugere adversarios impetus, nisi hanc facultatem motivam habuis¬
+            <!--186.xml-->
+            <pb ed="#F" n="167"/>
+               <lb ed="#F" n="1"/>sent. Et haec est ratio à priori, cur, cum lignum non habeat vim accedendi
+            <lb ed="#F" n="2"/>ad lignum, aurum non accedat ad aurum, nec alia accedant ad sibi similia
+            <lb ed="#F" n="3"/>corpora, magnes tamen accedat ad magnetem convenienti ratione, quia
+            <lb ed="#F" n="4"/>nimirum cum magnes, ut natura illi non deesset in necessarijs, debuerit 
+            ha<lb ed="#F" n="5" break="no"/>bere vim se accommodandi convenienter ad actionem telluris, quae actio
+            <lb ed="#F" n="6"/>ubique est, &amp; in nullo loco illam evitare potest, &amp; consequenter non 
+            po<lb ed="#F" n="7" break="no"/>test sine hac facultate simpliciter suam qualitatem conservare, &amp; cum actio
+            <lb ed="#F" n="8"/>alterius magnetis sit eiusdem rationis cum actione telluris; habet etiam vim
+            <lb ed="#F" n="9"/>se accommodandi ad actionem alterius magnetis; ac proinde haec vis, 
+            quan<lb ed="#F" n="10" break="no"/>tum ego arbitror, non est illi data in gratiam alterius magnetis; quia in 
+            or<lb ed="#F" n="11" break="no"/>dine ad illam non erat simpliciter necessaria ad conservationem, sed est 
+            da<lb ed="#F" n="12" break="no"/>ta in gratiam totius telluris, cuius actionem nunquam poterat evitare: quia
+            <lb ed="#F" n="13"/>tamen aliquando efficacior est actio alterius magnetis, quam telluris, 
+            reli<lb ed="#F" n="14" break="no"/>cta tellure ad magnetem se accommodat. Praeterea haec qualitas 
+            Magne<lb ed="#F" n="15" break="no"/>tica est locativa, &amp; constitutiva totius globi in proprio situ, &amp; collocatione,
+            <lb ed="#F" n="16"/>&amp; sicuti vidimus alias qualitates locativas esse etiam motivas suorum 
+            corpo<lb ed="#F" n="17" break="no"/>rum, ut gravitas, &amp; levitas, ergo etiam haec debuit posse movere suum 
+            cor<lb ed="#F" n="18" break="no"/>pus, &amp; collocare in loco illi conveniente; &amp; quia non est locativa 
+            simpli<lb ed="#F" n="19" break="no"/>citer, sed potius dispositiva, ideo debuit posse contorquere corpus, ut 
+            di<lb ed="#F" n="20" break="no"/>sponat ad proprium situm, &amp; omnia corpora, quae talem habent qualitatem
+            <lb ed="#F" n="21"/>debent sic se conformare. ut autem hoc facilius obtineant datum est illis, ut
+            <lb ed="#F" n="22"/>se mutuo iuvent ad talem situationem, &amp; hinc est illam qualitatem esse 
+            al<lb ed="#F" n="23" break="no"/>terativam.
+        </p>
+            <p xml:id="p9i7y5-e17263-d1e786">
+               <lb ed="#F" n="24"/>Sed dices, quid sibi timent magnentica, si non sint in situ conformi ad 
+            actio<lb ed="#F" n="25" break="no"/>nem telluris, vel alterius magnetis, cum efficaciorem habeant vim activam,
+            <lb ed="#F" n="26"/>quam terra? Respondeo efficaciorem quidem habere vim activam in 
+            proxi<lb ed="#F" n="27" break="no"/>mo, seu prope ad contactum; terram tamen propter sui ingentem molem
+            <lb ed="#F" n="28"/>longè maiorem habere sphaeram activitatis, &amp; permanentem obstinatè 
+            a<lb ed="#F" n="29" break="no"/>ctionem, maiorem'que resistentiam. Praeterea cum videamus posse validum,
+            <lb ed="#F" n="30"/>&amp; ingentem magnetem immutare verticitatem alterius magnetis, si ille
+            <lb ed="#F" n="31"/>infirmus sit, &amp; debilis, &amp; posse eius etiam qualitatem roborare; conficitur
+            <lb ed="#F" n="32"/>magneticam actionem in ipsum magnetem vim habere. quod verò unus
+            <lb ed="#F" n="33"/>magnes in alterum habeat vim agendi, patet; quia se invicem trahunt, &amp;
+            <lb ed="#F" n="34"/>unus se ad alterum accommodat. id quod non facerent, nisi invicem 
+            habe<lb ed="#F" n="35" break="no"/>rent vim activam. &amp; quamvis non posset omnino illam qualitatem 
+            pro<lb ed="#F" n="36" break="no"/>fligare primo impetu, necessario tamen non nihil lęderet, &amp; infirmaret: &amp; ut
+            <lb ed="#F" n="37"/>gutta cauat lapidem non vi, sed saepe cadendo, ita tandem, si duraret illa 
+            po<lb ed="#F" n="38" break="no"/>sitio, absumeretur qualitas magnetis. &amp; hinc fit, quod alibi dicam, ut longè
+            <lb ed="#F" n="39"/>maximè conducat ad magnetis conservationem, si in convenienti situ ad to
+            <lb ed="#F" n="40"/>tum telluris globum conservetur. adde quod est data vis haec, non solum ad
+            <lb ed="#F" n="41"/>simpliciter, sed ad commodè se conservandum, ad quod habendum debet
+            <lb ed="#F" n="42"/>fugere etiam ab illa exigva vi telluris.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

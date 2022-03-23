@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 6</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 6</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="120"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e12900"> <!-- l2c6 -->
+            <head xml:id="p9i7y5-e12900-Hd1e107">Caput 6</head>
+            <p xml:id="p9i7y5-e12900-d1e109">
+               <lb ed="#F" n="37"/>&amp; quot modis existere possit. Caput VI.
+        </p>
+            <p xml:id="p9i7y5-e12900-d1e114">
+               <lb ed="#F" n="38"/>Vehementer stomachum mihi semper movere vulgares quidam 
+            Phi<lb ed="#F" n="39" break="no"/>losophi; qui, ubi primum aliquid in rebus offenderint, cuius nesciant
+            <lb ed="#F" n="40"/>rationem reddere ex primis illis nominatissimis quattuor qualitatibus, sta¬
+            <!--139.xml-->
+            <pb ed="#F" n="120"/>
+               <lb ed="#F" n="1"/>tim, ut ingenia deterreant ab illius investigatione, id ex ignota, &amp; occulta
+            <lb ed="#F" n="2"/>qualitate provenire pronunciant, nec aliam esse causam inquirendam: &amp;
+            <lb ed="#F" n="3"/>quasi filum defecerit ignotae se viae, aut, si mavis, labyrintho haud quaquam
+            <lb ed="#F" n="4"/>committendum. quasi vero eorum tantum modo effectuum causa sciri 
+            di<lb ed="#F" n="5" break="no"/>catur, qui ex primis qualitatibus provenire deprehenduntur, &amp; ubi aliquid
+            <lb ed="#F" n="6"/>novum deprehendatur, si ad primarum qualitatum combinationem 
+            sta<lb ed="#F" n="7" break="no"/>tim revocari non possit, ad occultas confugiendum sit qualitates, &amp; causam
+            <lb ed="#F" n="8"/>sciri non posse proclamandum; cur hoc? quia non provenit à calore, aut 
+            fri<lb ed="#F" n="9" break="no"/>gore; quasi illae tantum essent notae causae, aut qualitates.
+        </p>
+            <p xml:id="p9i7y5-e12900-d1e147">
+               <lb ed="#F" n="10"/>In hac eram defixus cognitione, cum in mentem venit elegans loannis
+            <lb ed="#F" n="11"/>Fernelij dictum, quod singulariter rem ob oculos ponit, clarissimeque demon
+            <lb ed="#F" n="12"/>strat indignum esse recurrere ad occultas qualitates, cum ita certas habeas,
+            <lb ed="#F" n="13"/>&amp; ratas, ut est vis abstergendi, abluendi, promptitudo ad explendam 
+            quam<lb ed="#F" n="14" break="no"/>libet figuram, quam appellant terminabilitatem termino alieno, &amp; aliae hu
+            <lb ed="#F" n="15"/>iusmodi, quae à notis qualitatibus proveniunt, neque occultae censentur.
+            <lb ed="#F" n="16"/>Non piguit rem transcribere eius met verbis facetè ad modum dialogo 
+            ex<lb ed="#F" n="17" break="no"/>pressam. Sic igitur habet ex persona philosophi: Ph. Nuper ex India 
+            qui<lb ed="#F" n="18" break="no"/>dam meus familiaris nescio quid mirè luminosum deportavit, quod totum
+            <lb ed="#F" n="19"/>quasi incensum admirabili lucis fulgore fulget, iactisque radijs ambientem
+            <lb ed="#F" n="20"/>aërem lumine quaqua versum implet; hoc terrae impatiens suoptè ipsum im
+            <lb ed="#F" n="21"/>petu confestim in sublime evolat, neque verò angustè haberi potest, sed am
+            <lb ed="#F" n="22"/>plo, liberoque loco tenendum: summa in eo puritas, summus nitor; nulla 
+            sor<lb ed="#F" n="23" break="no"/>de, aut labe inquinato: figurae species nulla certa, sed inconstans, 
+            momen<lb ed="#F" n="24" break="no"/>toque mutabilis: cumque sit aspectu longè pulcherrimum, sese tamen contre
+            <lb ed="#F" n="25"/>ctari non sinit; &amp; si diutius adnitaris, feriet aeriter; si quid illi demitur, fit 
+            ni<lb ed="#F" n="26" break="no"/>hilo minor. aiebat insuper eius vim esse ad plurima, tum utilem, tum 
+            sum<lb ed="#F" n="27" break="no"/>mè necessariam. Br. ita ne fabulosis enigmatibus cum Aedipodibus 
+            qui<lb ed="#F" n="28" break="no"/>busdam te iocari putas? Ph. nihil fabularum texo: rem si ante te constitui
+            <lb ed="#F" n="29"/>voles, oculorum fide verissimam fateberis. Br. bestiolam, aut novi generis
+            <lb ed="#F" n="30"/>aviculam esse oportet Ph. nihil istorum, sed res est prorsus muta, &amp; 
+            ina<lb ed="#F" n="31" break="no"/>nima. Br. novam, &amp; admirabilem rem audio, cuius profecto, si cuiuspiam
+            <lb ed="#F" n="32"/>alterius, debet occulta proprietas censeri. at nullum ne est illi inditum 
+            no<lb ed="#F" n="33" break="no"/>men. Ph. Ignis, Flamma. Br. captus sum, &amp; quidem satis suspicabar 
+            quid<lb ed="#F" n="34" break="no"/>piam fallaciae esse. Ph. quid me fallaciae, aut falsitatis insimulas? res est 
+            pro<lb ed="#F" n="35" break="no"/>fecto verissima. Br. Sed tamen vilissima, &amp; maximè protrita. Hactenus
+            <lb ed="#F" n="36"/>ille.
+        </p>
+            <p xml:id="p9i7y5-e12900-d1e209">
+               <lb ed="#F" n="37"/>Vides quot mira sunt in una flamma: quam multis partibus magnetis
+            <lb ed="#F" n="38"/>superat proprietates? immo harum sola postrema, si aliquid demas, fit 
+            ni<lb ed="#F" n="39" break="no"/>hilo minor; longe multum'que simul omnes magneticas antecellit. Si de
+            <lb ed="#F" n="40"/>novo hactenus in nostro orbe invisa flamma deferretur ex India, quis non
+            <lb ed="#F" n="41"/>diceret istas esse qualitates occultas? &amp; tamen, ut benè subdit idem auctor,
+            <lb ed="#F" n="42"/>si quaeram unde ignis comburat, aut has, quas dixi, vires accipiat? non pote¬
+            <!--140.xml-->
+            <pb ed="#F" n="121"/>
+               <lb ed="#F" n="1"/>ris docte aliud respondere, quam summum inesse illi calorem, summam'que
+            <lb ed="#F" n="2"/>raritatem, &amp; hanc esse illius naturam; hoc'que responso videberis 
+            satisfecis<lb ed="#F" n="3" break="no"/>se, nec ullus philosophus dicet provenire ex qualitate occulta. &amp; tamen cum
+            <lb ed="#F" n="4"/>magnetem dico ferrum attrahere, aut paeoniam comitialem morbum 
+            pro<lb ed="#F" n="5" break="no"/>fligare, ignotam tibi proprietatem ingeri clamas; verius dixeris 
+            innomina<lb ed="#F" n="6" break="no"/>tam: nec videor tibi causam satis dilucide exprimere. quid ita? aut quod 
+            uti<lb ed="#F" n="7" break="no"/>que commune est, alterius tantum, veluti quodam privilegio, proprium 
+            fa<lb ed="#F" n="8" break="no"/>cis? Id unum fortasse discriminis statui potest, quod ignis proprietas, quia
+            <lb ed="#F" n="9"/>usitatior, peculiari nomine caloris, &amp; levitatis definita sit, magnetis vero, &amp;
+            <lb ed="#F" n="10"/>similium nullum sit nomen hactenus inditum. Quo errore minutiores
+            <lb ed="#F" n="11"/>plerique philosophi tenentur; rati quidem unumquodque sciri, cuius nomen
+            <lb ed="#F" n="12"/>cognitum habeas, nihil vero sciri, cuius nomen desit. Et certè scientia non
+            <lb ed="#F" n="13"/>ex nominum, sed ex rerum cognitione ducitur: neque res ipsae nominibus;
+            <lb ed="#F" n="14"/>sed nomina rebus deserviunt. quid plus nosti de proprietate ignis, &amp; de 
+            ca<lb ed="#F" n="15" break="no"/>lore, nisi quod effectum sensu percipis, &amp; principium, à quo manat 
+            sensibi<lb ed="#F" n="16" break="no"/>lis iste effectus, qui calefactio dicitur, calorem appellamus; &amp; si effectum
+            <lb ed="#F" n="17"/>demas, ipsam scilicet calefactionem, quid plus nosti de calore? at non ne
+            <lb ed="#F" n="18"/>pariter quotidie vides magnetem ferrum attrahere? cur mihi inculcas esse
+            <lb ed="#F" n="19"/>ex qualitate occulta? an quia homines frequentissimè non utuntur, ideoque
+            <lb ed="#F" n="20"/>nondum nomen imposuerunt? Ego iam, quia opus habui saepius 
+            nomina<lb ed="#F" n="21" break="no"/>re, appello qualitatem duarum facierum, ostende tù mihi quid plus 
+            nove<lb ed="#F" n="22" break="no"/>ris de calore, quam effectum illius: ausim enim dicere nos plus aliquid de
+            <lb ed="#F" n="23"/>magnetica proprietate dicturos. Tentemus igitur hoc ipsum clarius, 
+            quan<lb ed="#F" n="24" break="no"/>tum fieri potest explicare, immo quasi sub aspectum collocare.
+        </p>
+            <p xml:id="p9i7y5-e12900-d1e281">
+               <lb ed="#F" n="25"/>Quod primo loco assero, illud est; hanc esse qualitatem motivam, &amp; 
+            qui<lb ed="#F" n="26" break="no"/>dem simplicium perfectissimam. Est qualitas motiva, quia sicuti gravitas,
+            <lb ed="#F" n="27"/>&amp; levitas dicuntur qualitates motivae, quia illud, quod immediatè, &amp; 
+            proxi<lb ed="#F" n="28" break="no"/>mè motum efficit, &amp; causat, sursum, aut deorsum eo modo, quo motus 
+            loca<lb ed="#F" n="29" break="no"/>lis potest causam habere, est illa qualitas; ita haec in magnete qualitas 
+            pro<lb ed="#F" n="30" break="no"/>ximum, &amp; immediatum principium statuendum est directionis in polos, &amp;
+            <lb ed="#F" n="31"/>motus magneticorum ad invicem. &amp; sicuti quęrenti, quidnam causae sit, cur
+            <lb ed="#F" n="32"/>ignis sursum adnitatur, rectè tibi videris respondisse, si dicas; ascendit, quia
+            <lb ed="#F" n="33"/>levis est; nec criminabitur aliquis te causam occultam induxisse: ita 
+            quae<lb ed="#F" n="34" break="no"/>renti, cur magnes in polos dirigitur, &amp; cur magnetica confluunt? optimè 
+            sa<lb ed="#F" n="35" break="no"/>tisfit, si dicas causam esse qualitatum duarum facierum, quae hos motus 
+            effi<lb ed="#F" n="36" break="no"/>cit, nec in occultam amplius causam reijciendum. Quid enim novimus
+            <lb ed="#F" n="37"/>de levitate ignis nisi effectum ascendendi; &amp; quia viso effectu cogimur 
+            ali<lb ed="#F" n="38" break="no"/>quod huius principium assignare, levitatem nominamus; quo nomine 
+            in<lb ed="#F" n="39" break="no"/>telligimus principium illius motus sensibilis: quod principium quamvis
+            <lb ed="#F" n="40"/>in se ipsum non sentiatur, sed solum in isto suo effectu, motus nimirum 
+            sur<lb ed="#F" n="41" break="no"/>sum, tamen non dicitur qualitas occulta. sic videmus etiam conversionem
+            <lb ed="#F" n="42"/>magneticorum in polos, &amp; concursum illorum; &amp; quaerenti principium hu
+            <!--141.xml-->
+            <pb ed="#F" n="122"/>
+               <lb ed="#F" n="1"/>ius motus dicimus, esse qualitatem duarum facierum. Nihil verò ad plenam
+            <lb ed="#F" n="2"/>huius rei cognitionem, &amp; tantam, quantam de levitate habemus, magis
+            <lb ed="#F" n="3"/>desiderabatur quàm nomen, sicut principium illud in igne levitatis nomen
+            <lb ed="#F" n="4"/>sortitum est, pari enim ratione, &amp; prorsus tantundem cognovimus sensu de
+            <lb ed="#F" n="5"/>utroque, solum nimirum effectu. Iam ecce tibi nomen; dicatur qualitas
+            <lb ed="#F" n="6"/>duarum facierum: nec amplius labores, aut quemquam audias 
+            murmuran<lb ed="#F" n="7" break="no"/>tem, magnetem in polos dirigi ex qualitete occulta: nihil enim discriminis
+            <lb ed="#F" n="8"/>potest assignari inter has qualitates, ut una magis altera nota dicatur. Dixi
+            <lb ed="#F" n="9"/>vero omnium esse perfectissimam inter simplices motrices: quia motum
+            <lb ed="#F" n="10"/>efficit perfectissimum, uti supra explicatum est, praecedenti libro.
+        </p>
+            <p xml:id="p9i7y5-e12900-d1e349">
+               <lb ed="#F" n="11"/>Dico praeterea hanc qualitatem duarum facierum vim habere alterandi
+            <lb ed="#F" n="12"/>sibi cognita, &amp; familiaria corpora, eaq'ue ad motum provocandi. Hoc 
+            pla<lb ed="#F" n="13" break="no"/>citum Gilberto non placuit lib. 4. cap. 6. immo nos inter vulgum reijcit 
+            phi<lb ed="#F" n="14" break="no"/>losophantium, &amp; tanquam sciolos exsibilat, qui nullas alias vires quam 
+            to<lb ed="#F" n="15" break="no"/>ties decantatas attractrices agnoscimus. Verum iniuria: cum enim, ut mox
+            <lb ed="#F" n="16"/>ostendam, &amp; meo quidem iudicio evidenter ex ipsis experimentis, &amp; ex 
+            su<lb ed="#F" n="17" break="no"/>pradictis etiam aliorum rationibus confectum sit ferrum alterari à 
+            magne<lb ed="#F" n="18" break="no"/>te, ut illud ad se provocet; cumque experientia constet non utcumque 
+            al<lb ed="#F" n="19" break="no"/>terari, sed ita, ut distinctionem acquirat facierum, &amp; vero etiam ad 
+            magne<lb ed="#F" n="20" break="no"/>tem contendat eadem facierum servata lege, non cogimur aliam virtutem
+            <lb ed="#F" n="21"/>in magnete assignare, qua ferrum suae subijciat actioni: sed eidem qualitati
+            <lb ed="#F" n="22"/>duarum facierum hoc adscribere possumus. Atque hinc etiam alias 
+            mo<lb ed="#F" n="23" break="no"/>trices qualitates tanto praecurrit intervallo haec motiva magnetis qualitas,
+            <lb ed="#F" n="24"/>ut, &amp; se ipsam quasi perpetuam reddere, suique similem valeat procreare,
+            <lb ed="#F" n="25"/>quod'que in alijs est divisum sparsumque in se una coniungat, &amp; cogat. Nam
+            <lb ed="#F" n="26"/>levitas ad agendum levis est, ut, &amp; philosophi ut plurimum testantur, &amp; 
+            ex<lb ed="#F" n="27" break="no"/>perientia suadet, nec levitas, aut gravitas vim habet producendi qualitatem
+            <lb ed="#F" n="28"/>sibi similem permanentem, licet producere possit impetum, quem in physicis
+            <lb ed="#F" n="29"/>vocavi gravitatem accidentalem beneficio motus localis, etsi leviorem rem ad
+            <lb ed="#F" n="30"/>longum tempus gravi advincias, nihilo fit gravior; sed solum, vel dum per
+            <lb ed="#F" n="31"/>calorem raritas inducitur, vel alia quapiam ratione incremento aliarum
+            <lb ed="#F" n="32"/>qualitatum crescit levitas. Sic nec gravitas vi activa praestat, sed ad 
+            gravi<lb ed="#F" n="33" break="no"/>tatem procreandam, vel ad frigus, vel ad aliam qualitatem accedere non
+            <lb ed="#F" n="34"/>gravatur. Aliorum ergo beneficio gravitas, &amp; levitas crescunt, &amp; 
+            conve<lb ed="#F" n="35" break="no"/>nientibus corporibus immittuntur. Non vero sic in magnetica qualitate
+            <lb ed="#F" n="36"/>cogimur expectare aliquid, quo qualitas duarum facierum per cognata
+            <lb ed="#F" n="37"/>corpora diffundatur; sed sicuti calor calorem in subiectum idoneum 
+            pro<lb ed="#F" n="38" break="no"/>ducere potest, &amp; sicut lux se ipsam diffundere valet, ac circumiecta corpora
+            <lb ed="#F" n="39"/>collustrare, atque adeo pervadere, nisi sua opacitate obstinate obsistant. ita
+            <lb ed="#F" n="40"/>etiam haec qualitas per quodcunque medium effunditur; etsi amicum 
+            na<lb ed="#F" n="41" break="no"/>cta fuerit corpus, in eo placide conquiescit, &amp; amicè hospitatur, quod 
+            lumi<lb ed="#F" n="42" break="no"/>ni non est adeo obvium; ita ut ipsa una, &amp; vim movendi corpus, in quo est,
+            <!--142.xml-->
+            <pb ed="#F" n="123"/>
+               <lb ed="#F" n="1"/>tanquam in proprio subiecto, &amp; alterandi aliud, similemque producendi 
+            ha<lb ed="#F" n="2" break="no"/>peat facultatem. Cuius rei ea sit ratio, quod sicuti in alijs, perfectiora in se
+            <lb ed="#F" n="3"/>colligunt unita, quae in inferioribus sunt divisa; ita etiam, quae sunt divisa in
+            <lb ed="#F" n="4"/>pluribus, vis nimirum movendi, &amp; alterandi, in hac una, quia perfectior est,
+            <lb ed="#F" n="5"/>colliguntur. Ut igitur illud commune est omnibus formis, quibus agendi
+            <lb ed="#F" n="6"/>vis inest univoca, ut effundant sese, ac multiplicent, quantum fieri possit, ut
+            <lb ed="#F" n="7"/>suam tueantur speciem, seseque pro viribus aeternent; ita etiam haec qualitas
+            <lb ed="#F" n="8"/>vim obtinet sibi similem procreandi, sese'que in orbem quaqua versus 
+            dif<lb ed="#F" n="9" break="no"/>fundendi; ea fere ratione, qua luxè corpore luminoso diffunditur, ut 
+            dici<lb ed="#F" n="10" break="no"/>tur, uniformiter, difformiter; idest robustè magis, quo magis ad illius 
+            acce<lb ed="#F" n="11" break="no"/>ditur principium, minus robustè, quo dongius ab eo quis discesserit, donec
+            <lb ed="#F" n="12"/>tandem vis activa absolvatur: ergo vis etiam haec producitur, ita ut eo sit
+            <lb ed="#F" n="13"/>maior, non solum quo magneticum fuerit, &amp; mole majus, &amp; virtute magis
+            <lb ed="#F" n="14"/>robustum, sed etiam caeteris paribus, quo magis acceditur ad magnetem.
+            <lb ed="#F" n="15"/>Hoc totum deinde sigillatim expendendum, &amp; varijs rationibus, &amp; 
+            experi<lb ed="#F" n="16" break="no"/>mentis comprobandum erit.
+        </p>
+            <p xml:id="p9i7y5-e12900-d1e460">
+               <lb ed="#F" n="17"/>Primum quod sit huiusmodi sphaera magneticorum effusa per medium
+            <lb ed="#F" n="18"/>duplici conficio argumento: antequam enim videamus quid sit, 
+            philoso<lb ed="#F" n="19" break="no"/>phum sequentes auctorem, videndum est, an sit. primum experimentum 
+            ta<lb ed="#F" n="20" break="no"/>le esto. Videmus duos magnetes in aqua suis in navigijs positos, etiam si
+            <lb ed="#F" n="21"/>non se tangant, sed aliquanto distent intervallo, sese tamen invicem 
+            diri<lb ed="#F" n="22" break="no"/>gere, &amp; invicem certa ratione conformare, sed hoc contingere non potest
+            <lb ed="#F" n="23"/>nisi aliquam haberent activitatis sphaeram, in quadum sunt, sibi invicem
+            <lb ed="#F" n="24"/>vires addunt, alioquin cur si magnetes ad invicem distent, &amp; alterum in 
+            al<lb ed="#F" n="25" break="no"/>tero cubiculo, alterum in opposito colloces, non amplius sibi invicem 
+            qua<lb ed="#F" n="26" break="no"/>si obediunt, sed utrumque sua se peculiari ratione conformat, atque in 
+            cer<lb ed="#F" n="27" break="no"/>tam mundi plagam collimat determinata parte? si vero in proximo 
+            po<lb ed="#F" n="28" break="no"/>nantur, verbi gratia, in distantia duorum palmorum, statim utrunque 
+            illo<lb ed="#F" n="29" break="no"/>rum, vel saltem alterum deturbat se ab aliqua directione, etiamsi illum 
+            pror<lb ed="#F" n="30" break="no"/>sus non tangat? quod idem etiam in duobus versorijs cernitur, si prope 
+            po<lb ed="#F" n="31" break="no"/>nantur. Cum igitur alia non possit iure fingi ratio, cur magnetes uno 
+            mo<lb ed="#F" n="32" break="no"/>do si procul distantes sint, alio, si propius admoveantur, conforment? 
+            di<lb ed="#F" n="33" break="no"/>cendum erit id ex eo provenire, quod proximi, ad invicem sint intra 
+            sphae<lb ed="#F" n="34" break="no"/>tam activitatis mutuam, ad quam se velint accommodare modo postea 
+            ex<lb ed="#F" n="35" break="no"/>plicando, remitti vero, non amplius. Hoc idem, ut dixi, deprehendes 
+            du<lb ed="#F" n="36" break="no"/>plici versorio, vel duplici pyxide nautica, dum enim distant ad invicem,
+            <lb ed="#F" n="37"/>utraque in polos suo iure se dirigit: si verò proximae sint; deturbant sese, &amp;
+            <lb ed="#F" n="38"/>etiamsi non se tangant, sibi tamen mutuo fraena inijciunt, modo alibi 
+            ex<lb ed="#F" n="39" break="no"/>plicando.
+        </p>
+            <p xml:id="p9i7y5-e12900-d1e512">
+               <lb ed="#F" n="40"/>Secundum esto experimentum, quo ostendatur haec qualitas duarum 
+            fa<lb ed="#F" n="41" break="no"/>cierum sese diffundere per circoniecta corpora ex lege magnetica, prout
+            <lb ed="#F" n="42"/>scilicet est in activo corpore. Sume acum, vel filum ferreum, vel versorium
+            <!--143.xml-->
+            <pb ed="#F" n="124"/>
+               <lb ed="#F" n="1"/>nondum magneticè excitum; haec ferramenta si librentur, ad meridianum
+            <lb ed="#F" n="2"/>aegerrime confluunt; nam si diriguntur à tellure, id ferè solum contingit in
+            <lb ed="#F" n="3"/>aqua, in qua liberrimus est motus; etsi id tandem faciet, multum in hoc 
+            de<lb ed="#F" n="4" break="no"/>sudabit, &amp; exiguo impedimento ab hac directione retardabitur. Fac ut 
+            hu<lb ed="#F" n="5" break="no"/>iusmodi ferramentum non magnetem tangat, sed propius accedat, verbi
+            <lb ed="#F" n="6"/>gratia, per quattuor digitorum intervallum, ita ut ferrum inter, &amp; 
+            magne<lb ed="#F" n="7" break="no"/>tem aliquod corpus, quodcunque tandem sit, interiaceat, sive solidum sit, sive
+            <lb ed="#F" n="8"/>tenue; statim ex magnete magneticas vires contrahit ferrum, &amp; ex tali 
+            pro<lb ed="#F" n="9" break="no"/>pinquitate, etsi magnetem non tangat, vim acquirit, qua se expeditè in 
+            po<lb ed="#F" n="10" break="no"/>los dirigit, ad se trahit ferramenta, ex se suspendit, uno verbo magneticum
+            <lb ed="#F" n="11"/>fit ergo ex propinquitate magnetica virtutem contraxit, quam prius non
+            <lb ed="#F" n="12"/>habebit. Cum enim novos cernamus patentes effectus, qui prius non 
+            ap<lb ed="#F" n="13" break="no"/>parebant, &amp; ferrum magnetem non tetigerit, omnisque actio fiat per 
+            conta<lb ed="#F" n="14" break="no"/>ctum, necessario dicendum est per medium dispersam esse virtutem, &amp; 
+            qui<lb ed="#F" n="15" break="no"/>dem qualitatem duarum facierum, cum huiusmodi sit etiam, quae producta
+            <lb ed="#F" n="16"/>est in ferro, nec dum ad magnetem appellente; sed adhuc nonnihil procul
+            <lb ed="#F" n="17"/>posito. Huic non dissimile est illud experimentum, de quo infra, quo 
+            nus<lb ed="#F" n="18" break="no"/>quam tacto magnete versorium iam conceptam verticitatem in se 
+            immu<lb ed="#F" n="19" break="no"/>tatam sentit, &amp; illa parte, qua septentrionem respiciebat, à septentrione 
+            re<lb ed="#F" n="20" break="no"/>fugit; sed de hoc infra.
+        </p>
+            <p xml:id="p9i7y5-e12900-d1e569">
+               <lb ed="#F" n="21"/>Ex his experimentis, ut ego arbitror, satis constat magnetem, ac 
+            magne<lb ed="#F" n="22" break="no"/>tica quęcunque, in sphęra activitatis, effundere circumquaque qualitatem, 
+            ni<lb ed="#F" n="23" break="no"/>mirum quę apta sit ad motum efficiendum, ut constat ex primo 
+            experimen<lb ed="#F" n="24" break="no"/>to, &amp; quae sit etiam alterativa, ut ostendit secundum experimentum; &amp; hanc
+            <lb ed="#F" n="25"/>esse qualitatem duarum facierum: haec enim solum utrunque praestat.
+            <lb ed="#F" n="26"/>Dixi praeterea hanc qualitatem diffundi ea ratione, qua lumen à luminoso
+            <lb ed="#F" n="27"/>disseminatur. Nondum inveni, qua ratione melius, &amp; quo praeclariori
+            <lb ed="#F" n="28"/>exemplo rem hanc hactenus obscurissimam, possem illustrare, &amp; in 
+            aper<lb ed="#F" n="29" break="no"/>tum lucem'que proferre, quam ab ipsa luce lucem mutuando. Ut ergo 
+            cor<lb ed="#F" n="30" break="no"/>pus luminosum, ubi primum infertur in locum obscurum, lucis radios 
+            dis<lb ed="#F" n="31" break="no"/>seminat, &amp; quaqua versum omnia lumine complet, re vera physicè 
+            produ<lb ed="#F" n="32" break="no"/>cendo physicam qualitatem in toto medio, non spargendo corpuscula, aut
+            <lb ed="#F" n="33"/>atomos sed educendo de potentia medij physicam illam qualitatem, quam
+            <lb ed="#F" n="34"/>lumen appellamus, quod nullus, nisi caecus sit, negare potest; &amp; quamvis
+            <lb ed="#F" n="35"/>densissimum obijcias crystallum, luci fraena non inijcis; nam duritiem 
+            il<lb ed="#F" n="36" break="no"/>lam pervadit, &amp; penetrat perinde, ac si nihil obiecisses, quantum facit ad rem
+            <lb ed="#F" n="37"/>praesentem: refractiones enim nihil in re nostra sunt: ita ubi magneticum
+            <lb ed="#F" n="38"/>corpus aliquem occupaverit locum, statim momento temporis undique 
+            vir<lb ed="#F" n="39" break="no"/>tutis eiaculatur radios. Et sicuti luminoso corpore nihil obest neque 
+            actio<lb ed="#F" n="40" break="no"/>nem retardat corpus, quamvis durum sit, aut aliam habeat qualitatem; 
+            dum<lb ed="#F" n="41" break="no"/>modo non habeat opacitatem, sed sit diaphanum, ita magneticae actioni
+            <lb ed="#F" n="42"/>nihil resistit corpus, quodcunque interponatur, quamvis durum, ac densum,
+            <!--144.xml-->
+            <pb ed="#F" n="125"/>
+               <lb ed="#F" n="1"/>neque diaphaneitatem, aut similem qualitatem requirit in corpore, ut sit
+            <lb ed="#F" n="2"/>pervium actioni magnetis, sicut requirit luminosum; sed eadem facilitate
+            <lb ed="#F" n="3"/>medio durissimo corpore agit, qua ageret medio aëre.
+         <lb ed="#F" n="31" type="fixed=125"/>
+               <figure xml:id="p9i7y5-e12900-Fd1e632">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869868/182,654,1845,778/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">B A I C D</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375545-r7</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e12900-d1e651">
+            <!--144.xml-->
+               <lb ed="#F" n="4" type="fixed=125"/>Quod, ut experiaris, sume versorium A. B. cuius A. sit pars meridionalis
+            <lb ed="#F" n="5"/>B. septentrionalis. sume magnetem C. D. cuius C. in septentrionem 
+            diriga<lb ed="#F" n="6" break="no"/>tur D. in meridiem in distantia verbi gratia unius palmi C. magnetis 
+            con<lb ed="#F" n="7" break="no"/>uertet ad se A. versorij. Quo observato, simul etiam observa eadem 
+            facili<lb ed="#F" n="8" break="no"/>tate C. provocare ad se A. sive solum aër intercipiatur inter C. A. sive 
+            inter<lb ed="#F" n="9" break="no"/>ponatur solidissimum corpus E. interiecto'que corpore nihilo lentius 
+            ma<lb ed="#F" n="10" break="no"/>gnes versorium, aut adducet, aut detinebit in sibi convenienti situ. ergo 
+            a<lb ed="#F" n="11" break="no"/>ctio ipsius C. in A. non pendet à medio, nisi quatenus medium est, quodcun
+            <lb ed="#F" n="12"/>que postea tandem sit, &amp; quamcunque habeat qualitatem, sive durum sit, 
+            si<lb ed="#F" n="13" break="no"/>ae tenue, &amp;c. Verum hoc fusius alibi probabitur, &amp; ijs, quae possent in 
+            con<lb ed="#F" n="14" break="no"/>trarium obijci, satisfaciam: ubi etiam huius rei rationem reddam à priori.
+            <lb ed="#F" n="15"/>Deinde luminosum corpus ita suam lucem aëri circumiectis'que 
+            corpo<lb ed="#F" n="16" break="no"/>ribus impertitur, ut tamen perpetuo lux illa à luminoso corpore dependeat;
+            <lb ed="#F" n="17"/>momentoque temporis producitur, nec si corpus lumine collustratum procul
+            <lb ed="#F" n="18"/>auferatur, secum lumen à luminoso quasi surreptum devehit, sed tanquam
+            <lb ed="#F" n="19"/>precario acceptum succedenti sibi corpori relinquit: lux enim, ut dicitur in
+            <lb ed="#F" n="20"/>philosophorum scholis, in fieri, &amp; conservari à luminoso dependet, à quo, ut
+            <lb ed="#F" n="21"/>momento producitur, ita, si destituatur, perit. Sic magnes circunquaque
+            <lb ed="#F" n="22"/>suam praeclarissimam virtutem effundit: nam qualitas illa, quae à magnete
+            <lb ed="#F" n="23"/>circunquaque producitur, tam diù in illo aëre, vel in illis corporibus durat,
+            <lb ed="#F" n="24"/>quandiù magneti adfuerint; etsi asportentur, illam non secum deferunt, 
+            si<lb ed="#F" n="25" break="no"/>cuti exsuflatus aër non secum defert lumen; à magnetico enim inesse, &amp;
+            <lb ed="#F" n="26"/>conservari perpetuo dependet. Et, ut nihil desideres, momento pariter 
+            pro<lb ed="#F" n="27" break="no"/>ducitur, momento aufertur ablato magnete. Mitto quod, sicut, dum recedis
+            <lb ed="#F" n="28"/>a luminoso corpore, decrescit magis magisque lumen, decrescit virtus pariter
+            <lb ed="#F" n="29"/>magnetica, quae per medium est diffus, dum discedis à magnetico: eadem
+            <lb ed="#F" n="30"/>enim ratione de utroque, ac de utriusque sphaera philosophandum est: in
+            <!--144.xml-->
+
+         <!--145.xml-->
+         <pb ed="#F" n="126"/>
+               <lb ed="#F" n="1"/>utraque enim pari passu proceditur. Illud unum plus habes in hac 
+            magne<lb ed="#F" n="2" break="no"/>tica sphaera, quod, quamvis lumen, quod luminosum possidet corpus, 
+            col<lb ed="#F" n="3" break="no"/>lustret circumiecta corpora, &amp; in illis lumen producat eiusdem rationis, 
+            at<lb ed="#F" n="4" break="no"/>que ipsum est, quod in luminoso reperitur; non tamen valet alteri corpori
+            <lb ed="#F" n="5"/>ita lumen impertiri communiter, ut in illud corpus illuminatum lumen 
+            fir<lb ed="#F" n="6" break="no"/>mas agat radices, &amp; possit mutuatum sibi splendorem, etiam remoto 
+            lumi<lb ed="#F" n="7" break="no"/>noso, in se conservare: &amp; quamvis possit colores producere, qui nihil 
+            for<lb ed="#F" n="8" break="no"/>tasse sunt, nisi lumen, ignem etiam excitare, unde lumen emicet, &amp; istud ex
+            <lb ed="#F" n="9"/>accidente contingit, quod spectat ad lumen, &amp; per se in corpore à luminoso
+            <lb ed="#F" n="10"/>diversum lumen non producitur permanenter: at magnes ita qualitatem
+            <lb ed="#F" n="11"/>duarum facierum per medium in sua sphaera diffundit, &amp; ita circumiecta
+            <lb ed="#F" n="12"/>corpora illam imbibunt qualitatem, ut si contingat aliqua peculiaria 
+            cor<lb ed="#F" n="13" break="no"/>pora adesse proportionata, ut est ferrum, ita sese insinuet in illa corpora hęc
+            <lb ed="#F" n="14"/>qualitas, ut etiam ablato magnete in illis perseveret, etiam ad longum tem
+            <lb ed="#F" n="15"/>pus. Quae verò difficultatem facere possent hac in re, inferius discutientur,
+            <lb ed="#F" n="16"/>quamvis huius etiam aliquis fulgeat in luminoso radius, ut dicam.
+        </p>
+            <p xml:id="p9i7y5-e12900-d1e755">
+               <lb ed="#F" n="17"/>Ex hactenus dictis, &amp; ex toto hoc discursu experientijs, ut mihi videtur,
+            <lb ed="#F" n="18"/>satis stabilito, istud conficio, hanc qualitatem duarum facierum, cum unius
+            <lb ed="#F" n="19"/>eiusdem sit rationis in omnibus, sicuti lumen est eiusdem speciei, ut arbitror,
+            <lb ed="#F" n="20"/>nullo dissentiente, sive sit in luminoso, sive in aëre, sive in crystallo, triplicem
+            <lb ed="#F" n="21"/>tamen habere existendi rationem. Primum enim existit haec qualitas 
+            dua<lb ed="#F" n="22" break="no"/>rum facierum tanquam proprietas in subiecto proprio in magnete, &amp; in
+            <lb ed="#F" n="23"/>tota tellure, et, ut loquar de magnete, eum perpetuo comittatur, neque ulla
+            <lb ed="#F" n="24"/>ratione ab eo divelli, aut separari potest, si facias magnetis formam 
+            perdu<lb ed="#F" n="25" break="no"/>rare. Inest igitur magneti haec qualitas tanquam aliquid illi innatum, à
+            <lb ed="#F" n="26"/>cuius natura promanat, neque alteri acceptam refert, sicut lumen Solem 
+            il<lb ed="#F" n="27" break="no"/>lustrem reddit, &amp; alia luminosa corpora lumen in se habent sibi innatum,
+            <lb ed="#F" n="28"/>&amp; proprium.
+        </p>
+            <p xml:id="p9i7y5-e12900-d1e784">
+               <lb ed="#F" n="29"/>Secundo inest haec qualitas duarum facierum in circumiectis magneti
+            <lb ed="#F" n="30"/>corporibus transeunter, &amp;, ut sic dixerim, precario, idest ita, ut in illis radices
+            <lb ed="#F" n="31"/>non habeat, nec nisi praesente agenteque magnete perduret, ut lumen in 
+            me<lb ed="#F" n="32" break="no"/>dio perspicuo constituitur, quam rationem existendi, hoc est ita, ut non à
+            <lb ed="#F" n="33"/>subiecto dependere videatur, sed solum à principio activo, ideo fortasse 
+            spi<lb ed="#F" n="34" break="no"/>rituale effluvium appellaverunt aliqui, non quod verè non putarint 
+            perti<lb ed="#F" n="35" break="no"/>nere ad corpus, &amp; esse verè aliquid corporeum, sed quia, cum in sui 
+            conser<lb ed="#F" n="36" break="no"/>vatione, existentia, et modo operandi non videatur dependere à subiecto,
+            <lb ed="#F" n="37"/>ideo videtur quodammodo rerum illarum spiritualium naturam imitari,
+            <lb ed="#F" n="38"/>quae in sui conservatione à solo agente dependent. quam etiam ob causam
+            <lb ed="#F" n="39"/>aliqui lumen qualitatem spiritualem dixerunt, &amp; dicitur à nonnullis haec
+            <lb ed="#F" n="40"/>existentia intentionalis.
+        </p>
+            <p xml:id="p9i7y5-e12900-d1e813">
+               <lb ed="#F" n="41"/>Tertia ratio existendi huius qualitatis propria illa est, quam in ferri 
+            sub<lb ed="#F" n="42" break="no"/>stantia invenit. In ferro enim ita reperitur, ut non quidem ab innata totius
+            <!--146.xml-->
+            <pb ed="#F" n="127"/>
+               <lb ed="#F" n="1"/>forma fluat, sed à magnete in ferrum derivetur; ea tamen ratione, ut etiam
+            <lb ed="#F" n="2"/>absente magnete perseveret. Quod à peculiari ferri natura provenire 
+            di<lb ed="#F" n="3" break="no"/>gnoscitur. Cum enim undique in omnibus corporibus suam virtutem
+            <lb ed="#F" n="4"/>disseminet magnes, in nullo tamen, nisi in ferro, &amp; in his, quae ferrum 
+            aemu<lb ed="#F" n="5" break="no"/>lantur, eas agit radices, ut in illo perseveret, &amp; suis quasi pedibus 
+            consiste<lb ed="#F" n="6" break="no"/>re, suis'que non alienis manibus magneticas valeat exercere operationes, non
+            <lb ed="#F" n="7"/>potest nisi hoc à natura ferri provenire, quae peculiarem habeat cum 
+            ma<lb ed="#F" n="8" break="no"/>gnete amicitiam, &amp; in ordine ad hanc qualitatem praecipuo quodam 
+            ho<lb ed="#F" n="9" break="no"/>spitalitatis foedere cum illo coniungatur. Differt tamen haec tertia ratio
+            <lb ed="#F" n="10"/>existendi huius qualitatis à prima, quod ferro, ut dixi qualitas haec duarum
+            <lb ed="#F" n="11"/>facierum non innascitur, nec natura ferri inspirante gignitur. Quod enim
+            <lb ed="#F" n="12"/>habuerit hanc initio qualitatem in vena, quae, dum igne liquescit metallum,
+            <lb ed="#F" n="13"/>&amp; partes confunduntur, fuerit confusa, ut ego verum non arbitror, ita
+            <lb ed="#F" n="14"/>alibi discutiendum relinquo; esto quod aliqua ditissima ferri vena, vel à 
+            tel<lb ed="#F" n="15" break="no"/>lure, sicuti diximus de ferro, vel à vicina aliqua magnetica rupe possit virtu
+            <lb ed="#F" n="16"/>tem magneticam concipere; quod ego non admitto, illud est, ferri venam,
+            <lb ed="#F" n="17"/>quod habebat verticitatem, &amp; magneticam qualitatem, amittere, quia per
+            <lb ed="#F" n="18"/>metallicam fusionem partes confunduntur, sicuti amittunt ferri ramenta,
+            <lb ed="#F" n="19"/>si postquam excitata fuerint, confundantur. Illud hic solum libenter 
+            sci<lb ed="#F" n="20" break="no"/>rem, unde sit, quod si magnes igne aduratur, verticitatem amittat, &amp; in igne
+            <lb ed="#F" n="21"/>quasi immoriatur; at vero vena ferri si ad magneticas torpeat operationes;
+            <lb ed="#F" n="22"/>&amp; igne per decem, aut duodecim horas extimuletur, verticitatem iam 
+            con<lb ed="#F" n="23" break="no"/>cipiat, unde nam oritur ista diversitas; si idem est magnes, &amp; vena ferri, cur
+            <lb ed="#F" n="24"/>haec post ignem fit magnetica, magnes per ignem vim magneticam 
+            amit<lb ed="#F" n="25" break="no"/>tit?
+        </p>
+            <p xml:id="p9i7y5-e12900-d1e878">
+               <lb ed="#F" n="26"/>Triplex igitur existendi ratio huius qualitatis duarum facierum iam 
+            sa<lb ed="#F" n="27" break="no"/>tis luce ipsa, quam omnes cernunt, &amp; quae sane occulta qualitas non est, 
+            fa<lb ed="#F" n="28" break="no"/>cem praeferente illustravimus. Inest enim lux in luminoso corpore, ut in
+            <lb ed="#F" n="29"/>Sole, tanquam in propria sede, cui coaeva est, &amp; sine qua sol non reperitur,
+            <lb ed="#F" n="30"/>sic facierum qualitas magneti est intima, innata, connata; nec usquam 
+            ma<lb ed="#F" n="31" break="no"/>gnes, ut sic dixerim, vivus reperitur, quin in eo sit qualitas duarum facierum
+            <lb ed="#F" n="32"/>intensa, vel remissa, prout magnes maiori minorivè perfectione praeditus
+            <lb ed="#F" n="33"/>fuerit, aut aliena qualitatum illuvie foedatus, aut senio confectus: tempotis
+            <lb ed="#F" n="34"/>enim iniurias aedacem'que sentit rerum vetustatem magnes; Et haec sit 
+            pri<lb ed="#F" n="35" break="no"/>ma existendi ratio huius qualitatis.
+        </p>
+            <p xml:id="p9i7y5-e12900-d1e902">
+               <lb ed="#F" n="36"/>Inest secundo lux in medio non firmiter, ac constanter; sed continua à
+            <lb ed="#F" n="37"/>luminoso dependentia ita, ut illato luminoso medium lumen recipiat, 
+            abla<lb ed="#F" n="38" break="no"/>to eodem è vestigio orbetur. sic existit haec qualitas in circumiectis 
+            magne<lb ed="#F" n="39" break="no"/>ti corporibus tanquam virtus ab ipso magnete ad certam distantiam 
+            pro<lb ed="#F" n="40" break="no"/>pagata, atque ita existit, ut statim posito magnete ponatur, ablato, neque 
+            ip<lb ed="#F" n="41" break="no"/>sa possit diutius conservari. Et sicuti luminosum corpore quamvis 
+            duris<lb ed="#F" n="42" break="no"/>simo non impeditur, ut crystallo, quominus suam disseminet virtutem, &amp;
+            <!--147.xml-->
+            <pb ed="#F" n="128"/>
+               <lb ed="#F" n="1"/>educat lumen, etiam ultra corpus durum; ita magnes undique radios virtutis
+            <lb ed="#F" n="2"/>diffundit, nullo quamvis durissimo corpore viam praecludente, quaecunque
+            <lb ed="#F" n="3"/>tandem illa sint corpora, quae circumiacent. Et sicuti lumen non maiori
+            <lb ed="#F" n="4"/>difficultate premitur, dum per durum corpus propagat lumen, quam si 
+            pro<lb ed="#F" n="5" break="no"/>paget per aëtem, ita nec magnes ulla maiore difficultate premitur, ut per
+            <lb ed="#F" n="6"/>dura corpora sibi aditum aperiat, quam si per rarissimum aërem agat. Atque
+            <lb ed="#F" n="7"/>hanc secundam existendi formam non displicet intentionalem, seu 
+            spirita<lb ed="#F" n="8" break="no"/>lem appellare.
+        </p>
+            <p xml:id="p9i7y5-e12900-d1e942">
+               <lb ed="#F" n="9"/>Tertio denique lumen existit quibusdam in medicatis lapillis (quo nihil
+            <lb ed="#F" n="10"/>in magnete habeas, quod lumine non sit illustratum) docent enim 
+            nonnul<lb ed="#F" n="11" break="no"/>li rationem componendi quosdam lapillos, qui si mane, quando sol 
+            con<lb ed="#F" n="12" break="no"/>surgit, aperto Caelo exponantur, ita ut primos nascentis radios Solis 
+            exci<lb ed="#F" n="13" break="no"/>piant, ita primam illam nascentem lucem imbibunt, ut si statim auferantur,
+            <lb ed="#F" n="14"/>&amp; in theca accuratè claudantur, conceptam illam lucem ita conservent, ut
+            <lb ed="#F" n="15"/>si in loco obscuro postea promantur ex theca, in qua clausi asservabantur,
+            <lb ed="#F" n="16"/>luce irradient aliquanto temporis spacio. Quod ego verum esse non 
+            qui<lb ed="#F" n="17" break="no"/>dem experimento didici, quod malvissem, sed ex oculatis testibus accepi.
+            <lb ed="#F" n="18"/>Narrabant enim se id vidisse (fides sit penes ipsos) Ita existit qualitas duarum
+            <lb ed="#F" n="19"/>facierum in ferro. Sicut enim lapilli illi propter peculiarem suam naturam,
+            <lb ed="#F" n="20"/>diffusam in medio lucem ita concipiunt, ut incipiant habere non precario,
+            <lb ed="#F" n="21"/>&amp; dependenter à continua luminosi actione; Sed remoto etiam luminoso
+            <lb ed="#F" n="22"/>lumen receptum in se conservant, concepta se produnt luce, ita ferrum pro
+            <lb ed="#F" n="23"/>pter eius peculiarem naturam, qualitas duarum facierum per medium 
+            dif<lb ed="#F" n="24" break="no"/>fusa sic pervadit, ut etiam ablato magnete eam conservet, nec quidquam 
+            am<lb ed="#F" n="25" break="no"/>plius operante magnete perduret. Hoc solum est discriminis, quod altiores
+            <lb ed="#F" n="26"/>in ferro qualitas haec duarum facierum, quam in illis lapillis lux radices 
+            a<lb ed="#F" n="27" break="no"/>git, firmius'que inheret; nam lapilli per tantillum temporis modicum lucis
+            <lb ed="#F" n="28"/>ostentant, haec diutissime in ferro, &amp; vegeta perseverat: quia tamen in 
+            fer<lb ed="#F" n="29" break="no"/>ro non nascitur, potest etiam à ferro divelli, non destructa ferri forma. Si 
+            e<lb ed="#F" n="30" break="no"/>nim fertum liquescat, imo ignescat, vel diuturnas temporis ferat iniurias,
+            <lb ed="#F" n="31"/>amittit hanc qualitatem, &amp; tamen ferrum magis aliquando perficitur illo
+            <lb ed="#F" n="32"/>igne.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

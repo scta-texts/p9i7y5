@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 32</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 32</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="374"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e39934"> <!-- l4c32 -->
+            <head xml:id="p9i7y5-e39934-Hd1e107">Caput 32</head>
+            <p xml:id="p9i7y5-e39934-d1e109">
+               <lb ed="#F" n="21"/>Ferrum ex magnete melius suspenditur in parte crassiori, quam in graciliori.
+            <lb ed="#F" n="22"/>Cap. XXXII.
+        </p>
+            <p xml:id="p9i7y5-e39934-d1e116">
+               <lb ed="#F" n="23"/>Sit magnes A. B. &amp; sit ferrum. C, ex una parte latum, &amp; 
+            cras<lb ed="#F" n="24" break="no"/>sum; in altero vero extremo gracilescat, &amp; in arctum desinat
+            <lb ed="#F" n="25"/>ea fere ratione, qua procuduntur clavi, &amp; similia ferramenta,
+            <lb ed="#F" n="26"/>&amp; desinat in apicem; dico futurum, ut, si velis ex magnete 
+            su<lb ed="#F" n="27" break="no"/>spendere ferrum, melius suspendas; si ad magnetem applices
+            <lb ed="#F" n="28"/>
+               <!--393.xml-->
+               <pb ed="#F" n="374"/>
+               <lb ed="#F" n="29"/>partem ferri Iatiorem, &amp; crassiorem ut in B. quam si applicetur pars gracilis
+            <lb ed="#F" n="30"/>&amp; acuta, ut in A. Res per experientiam vera apparebit. Quod .n. ferrum non ita
+            <!--393.xml-->
+
+         <!--394.xml-->
+         <pb ed="#F" n="375"/>
+               <lb ed="#F" n="1"/>frimiter cohaereat cum magnete, si adhaereat in apice, patet, quia decidet à
+            <lb ed="#F" n="2"/>magnete: si autem adhaereat parte latiore, adhaerebit, nec cadet. Cum igitur
+            <lb ed="#F" n="3"/>ibi decidat, hic non, manifesto constat, quod hic firmius, quam ibi copuletur.
+         <lb ed="#F" n="31" type="fixed=374"/>
+               <figure xml:id="p9i7y5-e39934-Fd1e155">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870117/504,2357,1817,666/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A C C B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375929-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e39934-d1e173">
+               <lb ed="#F" n="4" type="fixed=374"/>Ratio vero nec difficilis, nec obscura est. Cum enim sphaera activitatis ma
+            <lb ed="#F" n="5"/>gnetis procedat uniformiter difformiter recedendo à polis, erit semper 
+            in<lb ed="#F" n="6" break="no"/>firmior, quo magis receditur: cum vero ferrum virtutem contrahat à 
+            con<lb ed="#F" n="7" break="no"/>tactu magnetis pro ratione qualitatis, quae est in medio; si ferrum ponatur,
+            <lb ed="#F" n="8"/>ut in A. pars crassior remotior est à magnete, &amp; consequenter est in loco,
+            <lb ed="#F" n="9"/>ubi virtus per medium diffusa infirmior est, ac proinde consequenter etiam
+            <lb ed="#F" n="10"/>illa pars minorem concipit vim magneticam, &amp; denique consequenter 
+            mi<lb ed="#F" n="11" break="no"/>nori vi nititur sursum magnetem versus, ut illi adhaereat; &amp; ita, quia vis 
+            ma<lb ed="#F" n="12" break="no"/>gnetica in illa parte minor est gravitate, illam superare non poterit, &amp; 
+            sur<lb ed="#F" n="13" break="no"/>sum contra nisum gravitatis suspendere. Quare, etiam si maior esset vis
+            <lb ed="#F" n="14"/>magnetica in parte superiori, quam sit gravitas illius partis; quia tamen gra
+            <lb ed="#F" n="15"/>vitas istius maioris partis longè maior est, quam sit vis magnetica, decidet
+            <lb ed="#F" n="16"/>ferrum superante gravitate maiore partis inferioris vim magneticam 
+            par<lb ed="#F" n="17" break="no"/>tis superioris. At vero, si ponatur ferrum parte crassiore magnetem versus,
+            <lb ed="#F" n="18"/>ubi vis magnetica in medio est robustior, concipiet maiorem vim 
+            ma<lb ed="#F" n="19" break="no"/>gneticam, quae plus sursum conabitur ad magnetem, quam per gravitatem
+            <lb ed="#F" n="20"/>deorsum prematur. Illa vero pars, in qua minor est virtus magnetica, 
+            mi<lb ed="#F" n="21" break="no"/>norem etiam habet gravitatem, &amp; ideo ille parvus excessus non poterit 
+            de<lb ed="#F" n="22" break="no"/>trahere ferrum à magnete.
+        </p>
+            <p xml:id="p9i7y5-e39934-d1e218">
+               <lb ed="#F" n="23"/>Quod si dicas, cum ferrum ponitur, ut in B. pars illa latior habet quidem
+            <lb ed="#F" n="24"/>maiorem virtutem, sed tamen, quia quantitas magna est, illi etiam 
+            propor<lb ed="#F" n="25" break="no"/>tionatur. Ut igitur se habet magna vis ad magnum, ita parva ad parvum
+            <lb ed="#F" n="26"/>ferrum. Vel ergo utrobique stabit, vel utrobique decidet ferrum. 
+            Respon<lb ed="#F" n="27" break="no"/>deo, decidat ne, an stet utrobique, non esse ratiocinationibus conficiendum:
+            <lb ed="#F" n="28"/>de re enim non potest esse disputatio, quam prius notam fecit experientia;
+            <lb ed="#F" n="29"/>&amp; quidquid in contrarium conficeret discursus, manifestum esse errorem
+            <lb ed="#F" n="30"/>res ipsa convinceret.
+        </p>
+            <p xml:id="p9i7y5-e39934-d1e238">
+               <lb ed="#F" n="31"/>Dico igitur, quod obijcitur, esse de qualitatis extensione, non de intensio
+            <lb ed="#F" n="32"/>ne. Verum, ut videas rei veritatem ad calculi etiam examen subsistere, cum
+            <lb ed="#F" n="33"/>pendet ferrum, fac in parte superiori, qua tangit magnetem, virtutem 
+            ma<lb ed="#F" n="34" break="no"/>gneticam excedere gravitatem in sesqui altera proportione, in inferiori 
+            ve<lb ed="#F" n="35" break="no"/>ro ferri parte remotiore à magnete gravitatem iam excedere virturem, eo
+            <lb ed="#F" n="36"/>quod virtus sit imminuta, &amp; quaecunque fit gravitas, ac ferri quantitas, virtu
+            <lb ed="#F" n="37"/>tem magneticam esse duplo minorem; quam sit gravitas ferri. Hoc posito,
+            <lb ed="#F" n="38"/>fac in parte A. partem superiorem ferri habere pondus duarum unciarum.
+            <lb ed="#F" n="39"/>Erit ibi vis magnetica trium unciarum, idest vis talis, quae posset sustinere, &amp;
+            <lb ed="#F" n="40"/>suspendere pondus trium unciarum; pars inferior ferri ibi in A. sit quattuor
+            <lb ed="#F" n="41"/>unciarum, vis magnetica erit duarum tantum, quare ibi superabitur vis ma
+            <lb ed="#F" n="42"/>gnetica à gravitate pondere duarum unciarum.
+        </p>
+            <p xml:id="p9i7y5-e39934-d1e267">
+            <!--395.xml-->
+               <pb ed="#F" n="376"/>
+               <lb ed="#F" n="1"/>Si ergo deberet sustineri ferrum, deberet addi vis, quę posset sustinere duas
+            <lb ed="#F" n="2"/>uncias, &amp; quia in parte illa superiori abundat tantum facultas ad 
+            sustentan<lb ed="#F" n="3" break="no"/>dam unam adhuc unciam, eum ex ista parte inferiori duae addantur. quae 
+            in<lb ed="#F" n="4" break="no"/>digent sustentatione, decidet ferrum; quia in toto ferro est tantum vis 
+            ma<lb ed="#F" n="5" break="no"/>gnetica ad sustentandas quinque uncias, &amp; est gravitas sex unciarum. Iam
+            <lb ed="#F" n="6"/>vero ponatur idem ferrum, ut in. B. quia ponitur vis magnetica ibi maior
+            <lb ed="#F" n="7"/>gravitate in sesqui altera proportione, cum gravitas ponatur quattuor 
+            un<lb ed="#F" n="8" break="no"/>ciarum, vis magnetica, quae est in ferro, talis erit, ut possit sustentare sex 
+            un<lb ed="#F" n="9" break="no"/>cias; in parte vero inferiori, quia vis magnetica in illa distantia est duplo
+            <lb ed="#F" n="10"/>minor gravitate, cum gravitas ponatur in illa duarum unciarum, vis 
+            ma<lb ed="#F" n="11" break="no"/>gnetica erit talis, ut solum possit sustinere unicam unciam: remanebit
+            <lb ed="#F" n="12"/>praeterea alia uncia sustentanda, quae destituitur à vi magnetica: atqui
+            <lb ed="#F" n="13"/>in parte superiori abundabant vires ad sustentandas duas amplius uncias:
+            <lb ed="#F" n="14"/>ergo ferrum adhaerebit, &amp; non cadet: est enim in toto illo ferro gravitas sex
+            <lb ed="#F" n="15"/>unciarum, quae deorsum nititur, &amp; est vis magnetica ad sustendendum 
+            se<lb ed="#F" n="16" break="no"/>ptem uncias. Firmius ergo ferrum magneti adhaerebit caeteris patibus, si
+            <lb ed="#F" n="17"/>cum magnete coniungatur in sua parte crassiore, quam si iungatur in 
+            gracilio<lb ed="#F" n="18" break="no"/>ri, quod erat demonstrandum.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

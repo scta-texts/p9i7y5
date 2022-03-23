@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 39</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 39</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="395"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e42106"> <!-- l4c39 -->
+            <head xml:id="p9i7y5-e42106-Hd1e107">Caput 39</head>
+            <p xml:id="p9i7y5-e42106-d1e109">
+            <!--414.xml-->
+               <pb ed="#F" n="395"/>
+               <lb ed="#F" n="1"/>Ferrum iuvatur ad actiones 
+            magneti<lb ed="#F" n="2" break="no"/>tas à praesentia magnetis.
+            <lb ed="#F" n="3"/>Cap. XXXIX.
+        </p>
+            <p xml:id="p9i7y5-e42106-d1e122">
+               <lb ed="#F" n="4"/>Dum supra rationem
+            <lb ed="#F" n="5"/>redderem, cur 
+            fer<lb ed="#F" n="6" break="no"/>rum magneti ferrum
+            <lb ed="#F" n="7"/>surripiat, hoc ipsum,
+            <lb ed="#F" n="8"/>quod hic propono
+            <lb ed="#F" n="9"/>pro argumento adduxi, ad 
+            osten<lb ed="#F" n="10" break="no"/>dum ferrum non acquirere maio
+            <lb ed="#F" n="11"/>rem virtutem magneticam, quae
+            <lb ed="#F" n="12"/>in ipso perseveret, quam quae sit
+            <lb ed="#F" n="13"/>in magnete illo, à quo virtutem
+            <lb ed="#F" n="14"/>accepit. Dum enim ferrum est
+            <lb ed="#F" n="15"/>intra sphęram activitatis 
+            magne<lb ed="#F" n="16" break="no"/>tis, ex se alterum feirum 
+            suspen<lb ed="#F" n="17" break="no"/>dit aliquando, quod si procul 
+            a<lb ed="#F" n="18" break="no"/>moveatur magnes; non amplius
+            <lb ed="#F" n="19"/>sustinebit, sed usurpatam in què
+            <lb ed="#F" n="20"/>praedam dimittet, videlicet 
+            invi<lb ed="#F" n="21" break="no"/>tum. Et nequis dicat, illam non esse ferri virtutem, sed esse praecisam 
+            ma<lb ed="#F" n="22" break="no"/>gnetis vim, &amp; sic ferrum ferro copulari, atque adhaereret ligno, si 
+            interpo<lb ed="#F" n="23" break="no"/>neretur, quia scilicet illi cursum intercipit, quo contendebat ad magnetem;
+            <lb ed="#F" n="24"/>supta demonstravi non solum ferrum hoc modo ferro adhaerere, sed quod
+            <lb ed="#F" n="25"/>iam magneti adhaerebat, ferrum à ferro suɹripi, &amp; ferro copulari ex parte 
+            ip<lb ed="#F" n="26" break="no"/>sius magaetis; ubi non solum ferrum non impedit cursum contendentis ad
+            <lb ed="#F" n="27"/>magnetem, sed potius fugam praecludit si ferrum velit procul à magnete 
+            se<lb ed="#F" n="28" break="no"/>subducere. Sic igitur magnes A. B. &amp; ferrum C. ex quo pendeat alterum fer¬
+            <!--414.xml-->
+            <pb ed="#F" n="395"/>
+               <lb ed="#F" n="29"/>rum E. ex parte illa ferri C. quae vergit ad B. quod ferrum E. non penderet ex
+            <lb ed="#F" n="30"/>C. si amoveretur magnes A. B. sed statim decidere: signum ergo est maiorem
+            <lb ed="#F" n="31"/>illam virturem, quae inest ferro C. ad sustinendum ferrum E. oriri ex praesen¬
+            <!--414.xml-->
+
+         <!--415.xml-->
+         <pb ed="#F" n="396"/>
+               <lb ed="#F" n="1"/>tia magnetis, esse tamen in ipso ferro tanquam in medio, perinde atque esser
+            <lb ed="#F" n="2"/>in ligno ęri, &amp;c. V.
+         <lb ed="#F" n="32" type="fixed=395"/>
+               <figure xml:id="p9i7y5-e42106-Fd1e203">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870138/1085,423,788,1450/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A C D E F B G</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375963-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <!--414.xml-->
+               <lb ed="#F" n="33" type="fixed=395"/>
+               <figure xml:id="p9i7y5-e42106-Fd1e225">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870138/220,2463,956,585/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375963-r7</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <!--414.xml-->
+               <lb ed="#F" n="34" type="fixed=395"/>
+               <figure xml:id="p9i7y5-e42106-Fd1e248">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870138/1176,2463,904,585/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">E C</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375963-r8</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e42106-d1e266">
+               <lb ed="#F" n="3" type="fixed=395"/>Ulterius vero ostendo, inferro ex praesentia magnetis maiorem esse actu
+            <lb ed="#F" n="4"/>virtutem magneticam, ita ut possit effectus producere quos non produceret,
+            <lb ed="#F" n="5"/>nisi sibi assistente, ut ita dicam, magnete; Sit ferrum C. quod non possit com¬
+            <!--415.xml-->
+            <pb ed="#F" n="396"/>
+               <lb ed="#F" n="6"/>movere versorium in tanta distantia, nec illud detorquere à sua magnetica,
+            <lb ed="#F" n="7"/>polari directione; si huic ferro addatur in altero extremo opposito magnes
+            <lb ed="#F" n="8"/>A. B. iam commovebit versorium, &amp; ad se faciet deflectere relicta sua propria
+            <lb ed="#F" n="9"/>directione; erga ille magnes A. B. auget vires ferri C. cum nunc ex pręsentia
+            <lb ed="#F" n="10"/>ipsius magnetis possit trahere versorium, quod antea non trahebat. Et ne dicas
+            <lb ed="#F" n="11"/>istam tractionem provenire à magnete A. B. fac versorium esse in tanta distantia
+            <lb ed="#F" n="12"/>à magnete A. B. ut in illa distantia versorium non possit ab illo magnete mo
+            <lb ed="#F" n="13"/>veri, commovebitur nihilominus versorium interiecto ferro in E. ergo ille 
+            mo<lb ed="#F" n="14" break="no"/>tus provenit à ferro, cuius virtus fuit aucta ex pręsentia magnetis A. B. licet
+            <lb ed="#F" n="15"/>possit etiam, &amp; bene, ut infra ponam, dici augeri vim magneticam ipsius 
+            ma<lb ed="#F" n="16" break="no"/>gnetis, ex interpositione corporis magnetici, sicuri augeretur ex 
+            interposi<lb ed="#F" n="17" break="no"/>tione alterius magnetis, qui poneretur in loco, in quo est ferrum C. Et sane
+            <lb ed="#F" n="18"/>haec ipsa sola videtur mihi ratio huius effectus: quia nimirum, dum ponitur
+            <lb ed="#F" n="19"/>ferrum in F. redintegratur quodammodo sphaera activitatis ipsius A. B. &amp;
+            <lb ed="#F" n="20"/>quasi instauratur, quae vergebat ad extremum; unde fit productior; &amp; quae
+            <lb ed="#F" n="21"/>prius non pertingebat ad versorium, iam pervenit, &amp; illud commovet. Fit
+            <lb ed="#F" n="22"/>ergo quodammodo ex adiunctione ferri magneticum agens maius, ac 
+            pro<lb ed="#F" n="23" break="no"/>inde non est mirum quod longiorem habeat sphaeram activitatis, &amp; ferrum ex
+            <lb ed="#F" n="24"/>actuali illa coniunctione, cum magnete magneticos effectus habeat 
+            effica<lb ed="#F" n="25" break="no"/>ciores. Imo ex hoc constat maiorem effectum, qui provenit ex maioritate
+            <lb ed="#F" n="26"/>agentis, non arguere intensionem maiorem in causa: si enim intensior quali
+            <lb ed="#F" n="27"/>tas esset in ferro, ex qua proveniret illa attractio versorij, quae fit pręsente ma
+            <lb ed="#F" n="28"/>gnete; duraret ille effectus etiam ablato magnete. Cum enim ferrum sit 
+            su<lb ed="#F" n="29" break="no"/>biectum proportionatum, non est ratio, cur debeat recedere illa intensio 
+            qua<lb ed="#F" n="30" break="no"/>litatis, si aliquando fuisset in ferro; provenit ergo ille effectus ex eo, quod
+            <lb ed="#F" n="31"/>duo agentia etiam eiusdem intensionis maiorem habeant efficaciam, quam
+            <lb ed="#F" n="32"/>unicum agens, idest magis extensam, &amp; esse in pari distantia magis intensam.
+         <lb ed="#F" n="33" type="fixed=396"/>
+               <figure xml:id="p9i7y5-e42106-Fd1e340">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870139/628,755,1620,649/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">C B A</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375964-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e42106-d1e359">
+            <!--415.xml-->
+
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

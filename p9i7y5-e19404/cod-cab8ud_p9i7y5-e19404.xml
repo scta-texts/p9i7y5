@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 18</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 18</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="182"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e19404"> <!-- l2c18 -->
+            <head xml:id="p9i7y5-e19404-Hd1e107">Caput 18</head>
+            <p xml:id="p9i7y5-e19404-d1e109">
+               <lb ed="#F" n="15"/>Quia ratione propriè electrica trahat ad se alia corpora Cap. 18.
+        </p>
+            <p xml:id="p9i7y5-e19404-d1e114">
+               <lb ed="#F" n="16"/>Tertium discrimen inter has attractiones electricas, &amp; 
+            magneti<lb ed="#F" n="17" break="no"/>cas est in modo attrahendi. Hoc autem discrimen multiplex
+            <lb ed="#F" n="18"/>est: multa enim sunt, in quibus differunt, quod admodum 
+            at<lb ed="#F" n="19" break="no"/>trahendi, magnetica, &amp; electrica. Primo differunt, quod 
+            ma<lb ed="#F" n="20" break="no"/>gnes, ut trahat ferrum, nullam requirit praeparationem, nullam
+            <lb ed="#F" n="21"/>tersionem, aut calefactionem, sed ubi positum sit ferrum in debita distantia,
+            <lb ed="#F" n="22"/>&amp; magnitudo non repugnet, statim nullo alio expectato subsidio ferrum
+            <lb ed="#F" n="23"/>ad magnetem accurri; at vero electra debent preparari calefactione ut
+            <lb ed="#F" n="24"/>communiter dicitur, &amp; quidem non quacunque, ut videtur ostendere
+            <lb ed="#F" n="25"/>experientia, sed calefactione, quae oriatur ex tersione. Si enim calefiat 
+            e<lb ed="#F" n="26" break="no"/>lectrum aut manù, aut aqua calida, aut igne, seù flamma, aut etiam solari
+            <lb ed="#F" n="27"/>radio; ità ut non solum repescat, sed etiam ferveat, nihil tamen trahet:
+            <lb ed="#F" n="28"/>contra vero etiam si prius fuerit in nive, si incitata fricatione, vel 
+            tantil<lb ed="#F" n="29" break="no"/>lum incalverit, trahet ad se paleas, &amp; leviora corpuscula. Verum quidem
+            <lb ed="#F" n="30"/>est, ut mihi etiam experimentum ostendit, electrum, si fuerit satis 
+            ma<lb ed="#F" n="31" break="no"/>gnum, perfectum, validum, trahere ad se versorium, nulla praevia 
+            prae<lb ed="#F" n="32" break="no"/>paratione, nulla ex fricatu calefactione, vel certè ad summum satis 
+            es<lb ed="#F" n="33" break="no"/>se, si semel tantum tergatur panno sicco: tunc enim valdè sensibiliter
+            <lb ed="#F" n="34"/>trahet. Nihilominus, sicut; &amp; electrum illud robustius trahet 
+            praepara<lb ed="#F" n="35" break="no"/>tum per calorem ex fricatione conceptum, ita multa alia sic 
+            praepara<lb ed="#F" n="36" break="no"/>ta trahent electricè, quae si non praeparentur, nullo modo trahent: 
+            ma<lb ed="#F" n="37" break="no"/>gnetica autem nulla tali praeparatione indigent, aut iuvantur.
+        </p>
+            <p xml:id="p9i7y5-e19404-d1e164">
+               <lb ed="#F" n="38"/>Secundo differunt in modo attractionis haec duo trahentia; quod
+            <lb ed="#F" n="39"/>magnetica quodcunque tandem corpus interponas, nunquam tamen
+            <!--201.xml-->
+            <pb ed="#F" n="182"/>
+               <lb ed="#F" n="1"/>impeditur attractio, quin advocet cognata corpora, convertitque 
+            ma<lb ed="#F" n="2" break="no"/>gnes ad se versorium, sive inter magnetem, &amp; versorium interponas 
+            char<lb ed="#F" n="3" break="no"/>tam, sive lignum, sive lapidem, sive aliud quodcunque, omnino
+            <lb ed="#F" n="4"/>nihil interposito corpore impeditur eius actio; at vero electrica 
+            im<lb ed="#F" n="5" break="no"/>pediuntur à sua attractione quocunque interposito corpore, vel 
+            tenuis<lb ed="#F" n="6" break="no"/>simo; si enim habeas electri frustum maximum, &amp; perfectissimum, &amp;
+            <lb ed="#F" n="7"/>excitaveris perfecta praeparatione, quacunque superposita tenuissima
+            <lb ed="#F" n="8"/>charta nihil prorsus trahet ultra chartam, nec versorium ulla ratione
+            <lb ed="#F" n="9"/>commovebit; neque, si obvolvas tenuissimo serico, imò nec si aqua 
+            a<lb ed="#F" n="10" break="no"/>spergas, vel spiritu aut halitu obnubiles trahet minimum quid. Vides
+            <lb ed="#F" n="11"/>quomodo electrica quocunque interposito crassiore corpore 
+            impedian<lb ed="#F" n="12" break="no"/>tur, magnetica autem nullo poenitus retardentur. Observavit autem
+            <lb ed="#F" n="13"/>Gilbertus, quod si tegas electrum tenuissimo serico panno, quem nos
+            <lb ed="#F" n="14"/>Itali velum appellamus consueta nostri idiomatis ratione, qua nomen
+            <lb ed="#F" n="15"/>generis tribuimus infimae speciei, si inquam immediate velum, 
+            super<lb ed="#F" n="16" break="no"/>ponas non trahit amplius, at vero si interponas quidem velum, nou
+            <lb ed="#F" n="17"/>tamen electro adhaerear, non impeditur attractio, licet retardetur, &amp;
+            <lb ed="#F" n="18"/>imminuatur, dummodo tergatur bene prius electrum.
+        </p>
+            <p xml:id="p9i7y5-e19404-d1e215">
+               <lb ed="#F" n="19"/>Illud etiam verum est, &amp; sane mirum, quod si electrum praeparatum
+            <lb ed="#F" n="20"/>egregia fricantione, tenui halitu obnubiles, impditur attractio, si autem
+            <lb ed="#F" n="21"/>oleo prorsus madefacias, non impeditur ullo modo, sed eodem modo
+            <lb ed="#F" n="22"/>trahit, quo prius.
+        </p>
+            <p xml:id="p9i7y5-e19404-d1e226">
+               <lb ed="#F" n="23"/>Tertia differentia quoad modum attractionis inter istas attractiones
+            <lb ed="#F" n="24"/>est, quod magnetica attrahunt cum differentia: neque enim una facies
+            <lb ed="#F" n="25"/>magnetis sponte sua trahit quamcunque versorij partem, &amp; quamcunque
+            <lb ed="#F" n="26"/>eius extremitatem, nec unus magnes trahit ad se quacunque ratione 
+            al<lb ed="#F" n="27" break="no"/>terum magnetem, sed solum facies dissimiles se trahunt, &amp; facies 
+            se<lb ed="#F" n="28" break="no"/>ptentrionalis unius trahit faciem australem alterius, nunquam vero aliam;
+            <lb ed="#F" n="29"/>at vero electrica nullam facierum servant differentiam, &amp; aequaliter 
+            ele<lb ed="#F" n="30" break="no"/>ctrum praeparatum ad se provocat utrumque versorij extremum; nec 
+            so<lb ed="#F" n="31" break="no"/>lum illam, quam semel tetigit, partem trahit, sed advocat etiam 
+            oppo<lb ed="#F" n="32" break="no"/>sitam; nec solum adiungit sibi per extremitatem corpuscula, ut ferrum
+            <lb ed="#F" n="33"/>accurrit ad magnetem, sed quacunque ratione. Praeterea ferrum 
+            oblon<lb ed="#F" n="34" break="no"/>gum disponit se supra magnetem non vagè, &amp; inconstanter, sed solum
+            <lb ed="#F" n="35"/>determinata positione, at vero electro adiacent corpora nulla servata 
+            le<lb ed="#F" n="36" break="no"/>ge, nullo ordine aut positione, sed prout sors tulerit.
+        </p>
+            <p xml:id="p9i7y5-e19404-d1e259">
+               <lb ed="#F" n="37"/>Quarta denique differentia in modo attrahendi est, quod magnes
+            <lb ed="#F" n="38"/>trahit ita, ut partem oppositam ei, quam trahit directe, &amp; perse fuget, &amp; 
+            re<lb ed="#F" n="39" break="no"/>pellat, at vero electrica, ut nihil fugant, sed nullo discrimine omnia
+            <lb ed="#F" n="40"/>ad se provocant, ita etiam illud, quod trahunt, sic demum 
+            advo<lb ed="#F" n="41" break="no"/>cant, ut aequaliter quamcunque extremitatem sibi coniungant.
+            <!--202.xml-->
+            <pb ed="#F" n="183"/>
+               <lb ed="#F" n="1"/>Ex his differentijs, quae patentes sunt, &amp; satis insignes, &amp; obviae, satis 
+            con<lb ed="#F" n="2" break="no"/>stat quam ineptè à multis passim, quasi pro eodem, nominentur magneticae,
+            <lb ed="#F" n="3"/>&amp; electricae attractiones, &amp; vulgo iactetur sicut, magnes trahit ferrum, aut
+            <lb ed="#F" n="4"/>electrum paleas, quasi haec duo idem essent, cum tamen tam multis differant
+            <lb ed="#F" n="5"/>inter se. Verùm, cum hactenus explicaverim, qua ratione fiant attractiones
+            <lb ed="#F" n="6"/>electricae, causas etiam illarum conabor hic, pro meo modulo, explicare.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

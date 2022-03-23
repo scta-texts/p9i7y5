@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 16</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 16</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="321"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e34315"> <!-- l4c16 -->
+            <head xml:id="p9i7y5-e34315-Hd1e107">Caput 16</head>
+            <p xml:id="p9i7y5-e34315-d1e109">
+               <lb ed="#F" n="4"/>Si supra magnetis polum gladium à manu
+            <lb ed="#F" n="5"/>brio ad cuspidem ductando frices, virtus
+            <lb ed="#F" n="6"/>communicatur gladio: Si vero à cuspidi
+            <lb ed="#F" n="7"/>ad manubrium fricationem deducas, 
+            vi<lb ed="#F" n="8" break="no"/>detur auferri, non tamen aufertur.
+            <lb ed="#F" n="9"/>Cap. XVI.
+        </p>
+            <p xml:id="p9i7y5-e34315-d1e125">
+               <lb ed="#F" n="10"/>Nunquam adeo à periculis 
+            cau<lb ed="#F" n="11" break="no"/>tum videtur, quin aliqua 
+            erro<lb ed="#F" n="12" break="no"/>ri via aperta relinquatur. Erant,
+            <lb ed="#F" n="13"/>qui mihi suadere volebant. posse 
+            eo<lb ed="#F" n="14" break="no"/>dem magnetis polo eidem ferro virtu
+            <lb ed="#F" n="15"/>tem magneticam communicari, &amp;
+            <lb ed="#F" n="16"/>eodem etiam ipso magnetis polo 
+            au<lb ed="#F" n="17" break="no"/>ferri, &amp; tale ostendebant 
+            experimen<lb ed="#F" n="18" break="no"/>tum. Sit magnes A. B. &amp; supra polum
+            <lb ed="#F" n="19"/>A. fricetur gladius tali pacto, ut 
+            inci<lb ed="#F" n="20" break="no"/>piatur à manubrio D, &amp; ductetur 
+            per<lb ed="#F" n="21" break="no"/>petuo gladius supra magnetem usque
+            <lb ed="#F" n="22"/>ad apicem C. quo facto cultrum illud ex sua cuspide suspendet alium 
+            gla<lb ed="#F" n="23" break="no"/>dium per manubrium appensum. Si vero iterum applicando gladium D,
+            <lb ed="#F" n="24"/>C. ad polum A. applicetur prius cuspis C. &amp; deinde impellendo antrorsum
+            <lb ed="#F" n="25"/>gladium ductetur magnes usque ad manubrium gladijs iam gladius C. D. non
+            <lb ed="#F" n="26"/>suspendet amplius ex sua cuspide alterum gladium eadem ratione, qua prius
+            <lb ed="#F" n="27"/>suspendebat. Ex quo videtur clare inferri, quod fricando gladium C. D, 
+            su<lb ed="#F" n="28" break="no"/>pra eundem polum A. modo conferatur virtus magnetica, modo auferatur
+            <lb ed="#F" n="29"/>solum ex diversa fricatione. Si enim fricetur à manubrio ad cuspidem 
+            du<lb ed="#F" n="30" break="no"/>ctando, cuspis suspendit alium gladium. ergo sic illi communicatur virtus: si
+            <lb ed="#F" n="31"/>autem fricetur ductando à cuspide ad manubrium, non amplius suspendit
+            <lb ed="#F" n="32"/>gladium ut prius. ergo ablata est illi vis magnetica. Quis sequelam non 
+            cla<lb ed="#F" n="33" break="no"/>rissimam putaret? Verum vel ex hoc intelligat lector, quam operosum sit bo
+            <lb ed="#F" n="34"/>nis experimentis viam sibi ad rerum notitiam assequendam aperire; &amp; quam
+            <lb ed="#F" n="35"/>coniunctae sint in experimentis, hoc est in initijs philosophiae veritatis, &amp;
+            <lb ed="#F" n="36"/>erroris viae.
+         <lb ed="#F" n="40" type="fixed=320"/>
+               <figure xml:id="p9i7y5-e34315-Fd1e188">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870063/1457,443,841,1473/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text"/>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375846-r4</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e34315-d1e205">
+               <lb ed="#F" n="37" type="fixed=320"/>Nulla est magnetis pars, ut supra demonstratum est, quae magnetice 
+            fer<lb ed="#F" n="38" break="no"/>rum non excitet, ne dum ulla, quae auferat collatam virtutem: multo minus
+            <lb ed="#F" n="39"/>eodem magnetis extremo ex sola diversa ferri super illud ductatione potest,
+            <!--339.xml-->
+
+         <!--340.xml-->
+         <pb ed="#F" n="321"/>
+               <lb ed="#F" n="1"/>&amp; conferri, &amp; auferri virtus 
+            ma<lb ed="#F" n="2" break="no"/>gnetica. atqui non suspendit
+            <lb ed="#F" n="3"/>cuspis amplius, quod 
+            suspende<lb ed="#F" n="4" break="no"/>bat? admitto. ergo virtutem 
+            ami<lb ed="#F" n="5" break="no"/>sit? non hoc conficiet benè in
+            <lb ed="#F" n="6"/>magnetica philosophia 
+            exerci<lb ed="#F" n="7" break="no"/>tatus. Dictum est supra per 
+            di<lb ed="#F" n="8" break="no"/>versum magnetis contactum
+            <lb ed="#F" n="9"/>posse in ferro verticitatem 
+            im<lb ed="#F" n="10" break="no"/>mutari, nec solum dictum, sed
+            <lb ed="#F" n="11"/>etiam probatum est. Dictum est
+            <lb ed="#F" n="12"/>etiam facies similes se invicem
+            <lb ed="#F" n="13"/>fugere, quantum possunt, &amp; 
+            so<lb ed="#F" n="14" break="no"/>lum dissimiles coniungi. His
+            <lb ed="#F" n="15"/>duobus quasi iactis 
+            fundamen<lb ed="#F" n="16" break="no"/>tis, sint duo obeli ferrei A. B: C.
+            <lb ed="#F" n="17"/>D. qui fuerint ita magneticè 
+            ex<lb ed="#F" n="18" break="no"/>citati, ut A convertatur in 
+            Au<lb ed="#F" n="19" break="no"/>strum B. in Septentrionem; in altero vero C in Austrum D. in Septentrionem
+            <lb ed="#F" n="20"/>excurrat, ex B. pendebit C. illae enim
+            <lb ed="#F" n="21"/>facies dissimiles optimè 
+            coniungen<lb ed="#F" n="22" break="no"/>tur; at immuteturiam, cum hoc 
+            pos<lb ed="#F" n="23" break="no"/>sit fieri, verticitas in obelo A. B. ita ut
+            <lb ed="#F" n="24"/>A. convertatur in Septenttionem, B.
+            <lb ed="#F" n="25"/>in Austrum; si iterum applices B. ad
+            <lb ed="#F" n="26"/>C. non amplius suspendet obelum
+            <lb ed="#F" n="27"/>nec adhaerescent: cum enim 
+            utrun<lb ed="#F" n="28" break="no"/>que extremum tam B. quam C. 
+            con<lb ed="#F" n="29" break="no"/>vertatur in Austrum, non coniungen
+            <lb ed="#F" n="30"/>tur simul; immo, si possent, fugarent se, &amp; tamen non potest nisi falso 
+            infer<lb ed="#F" n="31" break="no"/>ri, ergo ablata simpliciter est vis magnetica ab A. B. cum solum sit per novum
+            <lb ed="#F" n="32"/>contactum immutata verticitas, priori quidem ablata, sed altera inducta, &amp;
+            <lb ed="#F" n="33"/>fortasse robustiore; quae quo erit maior, eo minus suspendet ex B. obelum C.
+            <lb ed="#F" n="34"/>O pari ergo ratione non licet inferre per novum illum contactum, cuspis
+            <lb ed="#F" n="35"/>gladij non suspendit amplius alium gladium, ut prius; ergo ablata est ab 
+            il<lb ed="#F" n="36" break="no"/>lo vis magnetica ex tali contactu: satis enim est quod fuerit immutata 
+            ver<lb ed="#F" n="37" break="no"/>ticitas.
+         <lb ed="#F" n="43" type="fixed=321"/>
+               <figure xml:id="p9i7y5-e34315-Fd1e303">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870064/978,441,993,1158/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">D C A B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375847-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="44" type="fixed=321"/>
+               <figure xml:id="p9i7y5-e34315-Fd1e323">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870064/1163,1802,763,585/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">C D B A</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375847-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e34315-d1e342">
+               <lb ed="#F" n="38" type="fixed=321"/>Sed dices ad hoc, ut verticitas in ferro immutetur debet ferrum ad 
+            oppo<lb ed="#F" n="39" break="no"/>sitos magnetis polos applicari, ut, quae prius pars ferri tetigit polum 
+            Au<lb ed="#F" n="40" break="no"/>stralem, iam tangat Septentrionalem; hic vero supra eundem magnetis po
+            <lb ed="#F" n="41"/>tum ducitur, &amp; reducitur gladius: non ergo per istos duos contactus potuit
+            <lb ed="#F" n="42"/>verticitas mmutari. ergo, cum non suspendat amplius, quod prius suspen¬
+         <!--341.xml-->
+         <pb ed="#F" n="322"/>
+               <lb ed="#F" n="1"/>debat, rectè potest inferri verticitatem esse ablatam. Respondeo ferrum, ut
+            <lb ed="#F" n="2"/>saepe dictum est, verticitatem concipere, dum ad magnetem accedit, 
+            como<lb ed="#F" n="3" break="no"/>do, quo qualitas est per medium diffusa in ultimo contactu, si praesertim 
+            ali<lb ed="#F" n="4" break="no"/>quanto temporis intervallo haereat in contactu; dum ergo ducis gladium supra ma
+            <lb ed="#F" n="5"/>gnetem à manubrio ad cuspidem ductando, ita ut ultimo haereat in contactu poli A.
+            <!--341.xml-->
+            <pb ed="#F" n="322"/>
+               <lb ed="#F" n="6"/>ita accommodabit se ad radium ex A. diffusum ut haereat in radio E. A. qui radius
+            <lb ed="#F" n="7"/>ab E. ad A, exempli causa, aspicit Austrum, &amp; ab A. ad E. Septentrionem, &amp; ita
+            <lb ed="#F" n="8"/>radius ille in A. habet faciem Australem, in E. Septentrionalem. cum ergo
+            <lb ed="#F" n="9"/>gladius acquiescit ultimo in illo contactu, acquiret eandem verticitatem, ut
+            <lb ed="#F" n="10"/>in C. cuspis habeat faciem Australem, in D. manubrium habeat 
+            Septentrio<lb ed="#F" n="11" break="no"/>nalem. Verum si iterum ductetur gladius supra polum A. incipiendo à 
+            cus<lb ed="#F" n="12" break="no"/>pide, &amp; perducendo contactum ad manubrium ita, ut gladius tandem 
+            hae<lb ed="#F" n="13" break="no"/>reat in radio A. F. quia radius A.F. similiter in A. habet faciem Australem, in
+            <lb ed="#F" n="14"/>F. vero Septentrionalem ex alibi dictis, cum ex puncto A. radij circumquaque
+            <lb ed="#F" n="15"/>diffundantur, qui in puncto A. habent omnes eandem faciem, in alio 
+            extre<lb ed="#F" n="16" break="no"/>mo, omnes oppositam: concipiet ergo gladius, dum haeret in illo radio, 
+            co<lb ed="#F" n="17" break="no"/>dem modo verticitatem, ita ut in manubrio D. habeat faciem Australem, in
+            <lb ed="#F" n="18"/>C. cuspide Septentrionalem. ergo ex isto diverso contactu, &amp; diversa 
+            ducta<lb ed="#F" n="19" break="no"/>tione supra eundem polum, immutata est verticitas in gladio; Cum enim
+            <lb ed="#F" n="20"/>prius in cuspide facies esset Australis, iam in eadem est facies 
+            Septentriona<lb ed="#F" n="21" break="no"/>lis. si ergo immutata est verticitas in gladio, non est mirum, quod non 
+            sus<lb ed="#F" n="22" break="no"/>pendat amplius apex alium gladium eadem, qua prius suspendebat 
+            ratio<lb ed="#F" n="23" break="no"/>ne. non igitur ex illo diverso ductu aufertur ex gladio verticitas, sed solum
+            <lb ed="#F" n="24"/>immutatur. quod erat demonstrandum.
+         <lb ed="#F" n="25" type="fixed=322"/>
+               <figure xml:id="p9i7y5-e34315-Fd1e418">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870065/459,788,1928,1227/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">E D C A D C F</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375849-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e34315-d1e436">
+            <!--341.xml-->
+
+         <!--342.xml-->
+               <pb ed="#F" n="323"/>
+               <lb ed="#F" n="1"/>Verum, si tibi evidentissima haec ratio rem non suadet, dò experimentum;
+            <lb ed="#F" n="2"/>si enim ita ductes gladium à cuspide ad manubrium, ut non absoluas 
+            con<lb ed="#F" n="3" break="no"/>tactum, donec extremum manubrij D haereat in A. sicuti prius extremum
+            <lb ed="#F" n="4"/>apicis C. ductabas ad A. si manubrium sit ex ferro ita perfecto, &amp; temperato,
+            <lb ed="#F" n="5"/>sicut est apex, quemadmodum ex primo contactu pendebat alter gladius ex
+            <lb ed="#F" n="6"/>apice, &amp; non pendebat ex manubrio, ita post secundum contactum ex 
+            ma<lb ed="#F" n="7" break="no"/>nubrio ille idem gladius eodem modo pendebit, &amp; non ex apice. ergo per
+            <lb ed="#F" n="8"/>novum istum contactum non est ablata vis magnetica, sed solum 
+            immuta<lb ed="#F" n="9" break="no"/>ta, &amp; quasi translata a cuspide ad manubrium. Cur autem illas exigam 
+            con<lb ed="#F" n="10" break="no"/>ditiones, ut non absolvatur contactus, nisi in extremo D. &amp; ut totus gladius
+            <lb ed="#F" n="11"/>sit ex ferro aequè perfecto, rationes non addo; quia puto constare ex alibi
+            <lb ed="#F" n="12"/>dictis.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

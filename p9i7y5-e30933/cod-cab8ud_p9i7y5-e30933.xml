@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="289"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e30933"> <!-- l4c3 -->
+            <head xml:id="p9i7y5-e30933-Hd1e107">Caput 3</head>
+            <p xml:id="p9i7y5-e30933-d1e109">
+               <lb ed="#F" n="31"/>Si magnes secetur secundum longitudinem, partes, si suspendantur, non cohaerent amplius
+            <lb ed="#F" n="32"/>eadem ratione, qua prius erant coniunctae; sed solum contrario situ
+            <lb ed="#F" n="33"/>coniunguntur. Cap. III.
+        </p>
+            <p xml:id="p9i7y5-e30933-d1e118">
+               <lb ed="#F" n="34"/>Haec prima sit propositio ex illis, quas ex pręcedenti fluere 
+            dixi<lb ed="#F" n="35" break="no"/>mus, quę si ulla alia, mira videbitur, &amp; inaudita, &amp; etiam si 
+            ali<lb ed="#F" n="36" break="no"/>qui alij oculatiores in hac philosophia illam observarint, 
+            ni<lb ed="#F" n="37" break="no"/>hilo tamen minus stupenda est, &amp; suspicienda. Sit magnes to
+            <lb ed="#F" n="38"/>tus A. B. C. D. cuius poli sint A. B. dividatur lapis secundum hanc
+            <lb ed="#F" n="39"/>longitudinem, ut divisio excurrat ab A. ad B. &amp; utraque, vel altera pars 
+            suspen<lb ed="#F" n="40" break="no"/>datur, puta C. D. &amp; admoveatur ad A. B. prorsus ad illam ipsam foucam, à
+            <!--308.xml-->
+            <pb ed="#F" n="289"/>
+               <lb ed="#F" n="1"/>qua pars illa fuit revulsa, mirum sanè portentum, non vult amplius coniugi
+            <lb ed="#F" n="2"/>antiqua ratione, sed omnino
+            <lb ed="#F" n="3"/>contrarium arripit situm, &amp;
+            <lb ed="#F" n="4"/>pertinaciter oppositam quaerit
+            <lb ed="#F" n="5"/>positionem; &amp; pars C. quae fuit
+            <lb ed="#F" n="6"/>revulsa ex parte B. nunquam
+            <lb ed="#F" n="7"/>amplius redibit ad B. sed 
+            sem<lb ed="#F" n="8" break="no"/>per ad oppositam partem 
+            con<lb ed="#F" n="9" break="no"/>fluet, &amp; pars D quae prius 
+            con<lb ed="#F" n="10" break="no"/>iuncta fuerat cum A. 
+            constan<lb ed="#F" n="11" break="no"/>tissimè confluet ad B. nunquam
+            <lb ed="#F" n="12"/>variata directione. Hoc ut 
+            iu<lb ed="#F" n="13" break="no"/>cundum est, &amp; mirum, ita in
+            <lb ed="#F" n="14"/>hac philosophia nunquam 
+            sa<lb ed="#F" n="15" break="no"/>tis vi debitur inculcatum. quod
+            <lb ed="#F" n="16"/>ut melius intelligatur subdo.
+         <lb ed="#F" n="41" type="fixed=289"/>
+               <figure xml:id="p9i7y5-e30933-Fd1e177">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870032/917,481,1065,913/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">C A D B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375798-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

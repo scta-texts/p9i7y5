@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 12</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 12</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="222"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e23629"> <!-- l3c12 -->
+            <head xml:id="p9i7y5-e23629-Hd1e107">Caput 12</head>
+            <p xml:id="p9i7y5-e23629-d1e109">
+               <lb ed="#F" n="29"/>Longitudo Terrestris inveniri non potest per magneticam directionem
+            <lb ed="#F" n="30"/>ad polos.
+            <lb ed="#F" n="31"/>Caput XII.
+        </p>
+            <p xml:id="p9i7y5-e23629-d1e118">
+               <lb ed="#F" n="32"/>Nunc ex supra dictis errorem nonnullorum iam confutavi: ex
+            <lb ed="#F" n="33"/>eo enim quod magnetica deviarent à vero meridiano, &amp; in 
+            di<lb ed="#F" n="34" break="no"/>versis locis nunc magis, nunc minus, in eam devenere spem, ut
+            <lb ed="#F" n="35"/>putarent se posse per magneticam directionem expedire ab im
+            <lb ed="#F" n="36"/>plicatissimo illo problemate Geographico, quo quaeritur, quae sit longitudo
+            <!--241.xml-->
+            <pb ed="#F" n="222"/>
+               <lb ed="#F" n="1"/>cuiusque regionis: &amp; certò existimarunt hanc sibi posse longitudinem 
+            de<lb ed="#F" n="2" break="no"/>viatione praemonstrare. Credebant enim esse unum aliquem meridianum,
+            <lb ed="#F" n="3"/>in cuius quolibet puncto congruerent magnetica prorsus cum illo; quia
+            <lb ed="#F" n="4"/>scilicet in eo esset verus magneticus terminus, ad quem dirigerentur 
+            verso<lb ed="#F" n="5" break="no"/>ria: quanto autem quisque elongaretur ab illo sive ad dexteram, sive ad 
+            si<lb ed="#F" n="6" break="no"/>nistram, tanto magis ab eodem deflecteret versorium. Si hoc verum esset
+            <lb ed="#F" n="7"/>posset quisque per magneticam directionem suae regionis elongationem, 
+            si<lb ed="#F" n="8" break="no"/>ve distantiam ab illo meridiano deprehendere, &amp; consequenter veram suam
+            <lb ed="#F" n="9"/>longitudinem definire: at cum hoc sit falsum, corruit tota haec longitudinum
+            <lb ed="#F" n="10"/>strues, &amp; certe elongantur à vero, qui sic falso longitudines quaerunt.
+        </p>
+            <p xml:id="p9i7y5-e23629-d1e157">
+               <lb ed="#F" n="11"/>Dico ergo non posse longitudinem alicuius regionis inveniri per 
+            dire<lb ed="#F" n="12" break="no"/>ctionem, magneticam. Probatur primo, neque enim verum est, quod, 
+            quan<lb ed="#F" n="13" break="no"/>to magis elongatur aliqua regio à meridiano, in cuius aliqua latitudine 
+            con<lb ed="#F" n="14" break="no"/>gruunt magnetica, tanto plus varient versoria: nam Anglia parum distat
+            <lb ed="#F" n="15"/>à meridiano Azorico, in quo congruunt magnetica, at vero Italia longè
+            <lb ed="#F" n="16"/>magis ab illo eodem meridiano discedit ad eandem partem Orientalem,
+            <lb ed="#F" n="17"/>ad quam iacet Anglia respectu illius meridiani, &amp; tamen longè magis 
+            va<lb ed="#F" n="18" break="no"/>riant magnetica Londini, &amp; declinant Septentrionali cuspide ad Orientem,
+            <lb ed="#F" n="19"/>quam varient hic in Italia. non igitur illa varietate ad longitudinis certam
+            <lb ed="#F" n="20"/>notitiam possumus devenire: quia non possumus per hanc, elongationem à
+            <lb ed="#F" n="21"/>meridiano Azorico determinare.
+        </p>
+            <p xml:id="p9i7y5-e23629-d1e184">
+               <lb ed="#F" n="22"/>Deinde huius rei ratio haec est, quia cum haec deviatio magneticorum non
+            <lb ed="#F" n="23"/>pendeat ab elongatione ab aliquo meridiano fixo, à quo regula deviationis
+            <lb ed="#F" n="24"/>sumatur, sed pendeat ex eo, quod ad hanc vel illam partem maiora Terrarum
+            <lb ed="#F" n="25"/>spatia excurrant, quod omnino contingenter se habet ad longitudinem,
+            <lb ed="#F" n="26"/>&amp; ad elongationem à toto aliquo meridiano; hinc est, ut non possimus ex
+            <lb ed="#F" n="27"/>hoc colligere longitudinem, hoc est distantiam ab illo meridiano, quia cum
+            <lb ed="#F" n="28"/>hac effectus iste non habet convenientiam, &amp; connexionem, sed solum 
+            pos<lb ed="#F" n="29" break="no"/>sumus inferre ad hanc, vel illam partem esse maiora, aut minora Terrarum
+            <lb ed="#F" n="30"/>spatia: quia, cum isto tanquam cum propria, &amp; immediata causa effectus iste
+            <lb ed="#F" n="31"/>consentit: ab effectu autem non nisi proximam causam, &amp; quae cum illa 
+            ne<lb ed="#F" n="32" break="no"/>cessariam habent coniunctionem, tuto possumus conficere. Non ergo per
+            <lb ed="#F" n="33"/>deviationem magneticam longitudo regionis potest inveniri; quod hic
+            <lb ed="#F" n="34"/>contendo.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

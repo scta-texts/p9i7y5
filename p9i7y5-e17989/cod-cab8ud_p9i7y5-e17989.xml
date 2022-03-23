@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 15</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 15</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="168"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e17989"> <!-- l2c15 -->
+            <head xml:id="p9i7y5-e17989-Hd1e107">Caput 15</head>
+            <p xml:id="p9i7y5-e17989-d1e109">
+            <!--187.xml-->
+               <pb ed="#F" n="168"/>
+               <lb ed="#F" n="1"/>De causa cur, magnes nunc ferrum attrahat, nunc repellat. Cap. XV.
+        </p>
+            <p xml:id="p9i7y5-e17989-d1e118">
+               <lb ed="#F" n="2"/>Hactenus disputatum est praecedenti capite de causa, cur 
+            ma<lb ed="#F" n="3" break="no"/>gnes magnetem sequatur, &amp; instrumenta huius motus sunt
+            <lb ed="#F" n="4"/>exposita, &amp; qua ratione cum magnetica conversione in 
+            po<lb ed="#F" n="5" break="no"/>los consentiat, &amp; eodem à principio oriatur. Ex quo etiam
+            <lb ed="#F" n="6"/>conficitur non esse violentam actionem, sed naturalem 
+            seque<lb ed="#F" n="7" break="no"/>lam, &amp; fugam. Nunc demum devolvitur quaestio ad illud, quod initio 
+            hu<lb ed="#F" n="8" break="no"/>ius libri propositum fuerat, &amp; quod videtur praecipuum in hac 
+            tractatio<lb ed="#F" n="9" break="no"/>ne: quid scilicet causae sit, cur magnes nunc ferrum trahat, nunc repellat.
+            <lb ed="#F" n="10"/>ad quod intelligendum omnia hactenus dicta viam sternunt.
+        </p>
+            <p xml:id="p9i7y5-e17989-d1e140">
+               <lb ed="#F" n="11"/>Illud igitur revocandum est ad animum: hunc ferri, &amp; magnetis 
+            concur<lb ed="#F" n="12" break="no"/>sum, aliquo saltem modo, in similitudinem, quae inter ferrum, &amp; magnetem
+            <lb ed="#F" n="13"/>intercedit, reijciendum. Agnoscunt hoc omnes, quos supra 
+            commemora<lb ed="#F" n="14" break="no"/>vimus; qui similitudinem hanc praedicant inter magnetem, &amp; ferrum: licet
+            <lb ed="#F" n="15"/>unus in uno illam collocet, alius in alio; omnes tamen conveniunt naturas
+            <lb ed="#F" n="16"/>istas consentire, quem consensum non solum indicant accidentia quaedam,
+            <lb ed="#F" n="17"/>ut coloris, ponderis, quod utrumque rubiginem contrahat, quod 
+            humidita<lb ed="#F" n="18" break="no"/>te marcescant similiter, &amp; alia huiusmodi plurima: &amp; ut aliquid de 
+            chimi<lb ed="#F" n="19" break="no"/>corum dicamus disciplina, quod utrumque eodem ferè constet sulphure, &amp;
+            <lb ed="#F" n="20"/>mercurio. Sed longè vehementius hoc idem exaggerat, quod utrunque 
+            so<lb ed="#F" n="21" break="no"/>lum sit subiectum idoneum qualitatis duarum facierum, &amp; quod 
+            magneti<lb ed="#F" n="22" break="no"/>cam virturem in se possit ferrum derivare, &amp; magneticè excitati; quod nulli
+            <lb ed="#F" n="23"/>alij, nisi ferro ferreisque corporibus contingere videmus.
+        </p>
+            <p xml:id="p9i7y5-e17989-d1e172">
+               <lb ed="#F" n="24"/>Secundo ergo loco revocandum est in mentem fertum, non solum dum
+            <lb ed="#F" n="25"/>magnetem tangit, à virtute magnetica excitari, idest produci in ferro 
+            qua<lb ed="#F" n="26" break="no"/>litatem duarum facierum eiusdem rationis cum illa, quae est in magnete.
+            <lb ed="#F" n="27"/>verum etiam, ubi primum inter orbem magneticae virtutis devenerit, 
+            ali<lb ed="#F" n="28" break="no"/>quid huius virtutis, si nihil prius habuit, acquirere, &amp; ita ex qualitate duarum
+            <lb ed="#F" n="29"/>facierum intentionali, quae medium pervadit, magneticè excitari, ut in se
+            <lb ed="#F" n="30"/>qualitatem duarum facierum acquirat, ut supra dixi. Ex quo illud oritur, ut
+            <lb ed="#F" n="31"/>ferrum magneticè excitatum illa omnia praestet, huiusce qualitatis 
+            benefi<lb ed="#F" n="32" break="no"/>cio, quae praestantur à magnete, non solum quia iam permanenter in se 
+            ha<lb ed="#F" n="33" break="no"/>bet qualitatem duarum facierum, sed etiam quia per orbem diffundit 
+            inten<lb ed="#F" n="34" break="no"/>tionaliter, &amp; in circumiecta corpora, &amp; agit ratione, qua magnes agere 
+            de<lb ed="#F" n="35" break="no"/>prehenditur; &amp; hoc, ut dicebam, acquirit ferrum, ubi primum intra orbem
+            <lb ed="#F" n="36"/>magneticae virtutis devenerit, neque expectat, dum magnetem tangat, ut
+            <lb ed="#F" n="37"/>quotidiana docet experientia, praesertim si nullam prius habeat in se 
+            sensibi<lb ed="#F" n="38" break="no"/>lem magneticam qualitatem. Nam si sumas filum ferreum, vel acum; &amp;
+            <lb ed="#F" n="39"/>ponas in distantia palmari, vel semipalmari à robusto, &amp; valido magnete;
+            <lb ed="#F" n="40"/>videbis, etiam si non propius accedat, sed in ea maneat distantia, iuxta leges
+            <!--188.xml-->
+            <pb ed="#F" n="169"/>
+               <lb ed="#F" n="1"/>magneticas alterari, et excitari magneticè. alteratur igitur ferrum, ubi 
+            pri<lb ed="#F" n="2" break="no"/>mum intra vires magneticas devenerit, &amp; ex hac alteratione magneticam
+            <lb ed="#F" n="3"/>qualitatem permanenter accipit, &amp; fit quasi alter magnes. Hoc posito.
+        </p>
+            <p xml:id="p9i7y5-e17989-d1e222">
+               <lb ed="#F" n="4"/>Causa, cur magnes ferrum attrahat, seu cur magnes, &amp; ferrum 
+            ferrumi<lb ed="#F" n="5" break="no"/>nentur, eadem prorsus est cum ea, cur magnes magnetem trahat, seu 
+            repel<lb ed="#F" n="6" break="no"/>lat, &amp; pari passu de utraque attractione, &amp; fuga philosophandum est. Et
+            <lb ed="#F" n="7"/>hoc implicitè saltem si non explicitè dixerunt graviores philosophi, qui de
+            <lb ed="#F" n="8"/>magnete, &amp; ferro prudentius disputarunt, ut <name xml:id="p9i7y5-e17989-Nd1e235">Galenus</name>, <name xml:id="p9i7y5-e17989-Nd1e237">Albertus Magnus</name>, &amp;
+            <lb ed="#F" n="9"/>expressius Sanctus Thomas; cuius illud est; ferrum à magnete trahi, non
+            <lb ed="#F" n="10"/>quia propriè trahatur, sed quia in eo producitur qualitas, cuius beneficio
+            <lb ed="#F" n="11"/>deinde ad magnetem contendit: unde nec propriè tractio, aut expulsio, sed
+            <lb ed="#F" n="12"/>sequela, &amp; fuga dici debet: movetur igitur ferrum ad magnetem, eo quod à
+            <lb ed="#F" n="13"/>magnete in ferrum, ubi primum intra orbem suae virtutis illud habuerit,
+            <lb ed="#F" n="14"/>duarum facierum magnetica qualitas producitur; &amp; quidem producitur
+            <lb ed="#F" n="15"/>illa ratione, &amp; via seu statu, quo supra ostendi magnetem circa se effundere
+            <lb ed="#F" n="16"/>radios suae virtutis; qua qualitate producta fit ferrum illud veluti alter 
+            ma<lb ed="#F" n="17" break="no"/>gnes: illa enim omnia praestabit proportionaliter, quae praestaret, si esset vere
+            <lb ed="#F" n="18"/>alter magnes. diriget se ad polos, excitabit alia ferramenta magneticè, &amp; cae
+            <lb ed="#F" n="19"/>tera huiusmodi. Accedit etiam ad alium magnetem, quia habet in se 
+            per<lb ed="#F" n="20" break="no"/>manenter qualitatem realem duarum facierum, &amp; magnes, qui in proximo
+            <lb ed="#F" n="21"/>est, qualitatem intentionalem in ferrum producit in eodem situ, in quo est
+            <lb ed="#F" n="22"/>illa qualitas, quae iam in ferro residet. luvatur ergo, &amp; roboratur simili 
+            in<lb ed="#F" n="23" break="no"/>tentionali actione, ac proinde ex vi huius qualitatis, quae iam in ferro est, 
+            tan<lb ed="#F" n="24" break="no"/>quam ex vi proprij principij, &amp; virtutis motivae movet se ferrum ad 
+            magne<lb ed="#F" n="25" break="no"/>tem, ut magis, ac magis iuvetur, &amp; accedat quasi ad locum, in quo qualitas
+            <lb ed="#F" n="26"/>intentionalis à magnete diffusa vehementius iuvare potest, ac fovere 
+            quali<lb ed="#F" n="27" break="no"/>tatem realem, quam iam ferrum in se habet intensiorem.
+        </p>
+            <p xml:id="p9i7y5-e17989-d1e281">
+               <lb ed="#F" n="44" type="fixed=169"/>
+               <figure xml:id="p9i7y5-e17989-Fd1e288">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869912/801,2945,1183,339/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">B A D C</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375613-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="28" type="fixed=169"/>Quod si illa qualitas intentionalis ad ferrum, ita appellat, ut afficiat illud
+            <lb ed="#F" n="29"/>in contrario situ, ac positione, atque sit qualitas illa duarum facierum, quam
+            <lb ed="#F" n="30"/>iam ferrum acquisivit ex primo concursu cum magnete, seu occursu, &amp; à
+            <lb ed="#F" n="31"/>qua fuit quasi donatum magnetica natura, si qualitas, inquam, 
+            intentiona<lb ed="#F" n="32" break="no"/>lis afficiat ferrum huiusmodi contraria ratione, tunc ne amittat talem 
+            qua<lb ed="#F" n="33" break="no"/>litatem, quam iam habet ex vi huius qualitatis, tanquam virtutis motivae,
+            <lb ed="#F" n="34"/>subducit se se, e eximit ab actione huiusce qualitatis intentionalis. Et hinc
+            <lb ed="#F" n="35"/>est, quod magnes ferrum propulsare, &amp; fugare videatur: non enim propriè
+            <lb ed="#F" n="36"/>est impetuosa profligatio, sed, quia, verbi gratia, dum facies septentrionalis
+            <lb ed="#F" n="37"/>magnetis. A. partem
+            <lb ed="#F" n="38"/>D. ferri vel tetigit, vel
+            <lb ed="#F" n="39"/>respexit, produxit in fer
+            <lb ed="#F" n="40"/>rum qualitatem duarum
+            <lb ed="#F" n="41"/>facierum in quadam posi
+            <lb ed="#F" n="42"/>tione, &amp; situ, ut scilicet
+            <lb ed="#F" n="43"/>à D. ad C. respiciat sep¬
+            <!--188.xml-->
+
+         <!--189.xml-->
+         <pb ed="#F" n="170"/>
+               <lb ed="#F" n="1"/>tentrionem, &amp; à C. ad D. respiciat austrum, si eadem facies septentrionalis
+            <lb ed="#F" n="2"/>magnetis A. opponatur parti C. quia iam intentionali actione in ferrum
+            <lb ed="#F" n="3"/>agit contrario situ, &amp; contraria ratione, &amp; in illud realem qualitatem duarum
+            <lb ed="#F" n="4"/>facierum producere contendit contraria ratione, atque sit illa iam 
+            produ<lb ed="#F" n="5" break="no"/>cta ex primo congressu; &amp; consequenter illam antiquam destruere tentat:
+            <lb ed="#F" n="6"/>Hinc fit, ut, si libere ferrum se possit, aut subducere, aut contorquere, ubi
+            <lb ed="#F" n="7"/>primum pars magnetis A, obvertitur parti ipsius ferri C. ex vi prioris 
+            quali<lb ed="#F" n="8" break="no"/>tatis, quae naturaliter refugit sui destructionem, ferrum se subducit, ne 
+            de<lb ed="#F" n="9" break="no"/>struatur qualitas ab illa intentionali qualitate, quae contraria ratione à 
+            ma<lb ed="#F" n="10" break="no"/>gnete in ferrum immittitur.
+        </p>
+            <p xml:id="p9i7y5-e17989-d1e367">
+               <lb ed="#F" n="11"/>Quod autem illa qualitas ex isto secundo congressu destruatur, &amp; 
+            conse<lb ed="#F" n="12" break="no"/>quenter, quod causa fugae sit illa interna qualitas iam producta, quae refugit
+            <lb ed="#F" n="13"/>sui destructionem; probatur, quia, quamvis ferrum possit diversas habere
+            <lb ed="#F" n="14"/>qualitates duarum facierum, &amp; quacunque ratione excurrentes, tamen hoc
+            <lb ed="#F" n="15"/>solum successivè potest, non simul. Sicuti enim materia prima dicitur 
+            qui<lb ed="#F" n="16" break="no"/>dem apta ad omnes formas recipiendas, hoc tamen solum obtinet successu
+            <lb ed="#F" n="17"/>temporis, nec unquam nisi unam formam substantialem praecipuam, &amp; 
+            con<lb ed="#F" n="18" break="no"/>pletam admittit. &amp; si alia advenire velit, prior est excludenda; ita etiam ma
+            <lb ed="#F" n="19"/>gnetica corpora à magnete quocunque situ qualitatem duarum facierum
+            <lb ed="#F" n="20"/>recipere valent, sed singula singulis temporibus: nam ut cecinit ille.
+        </p>
+            <p xml:id="p9i7y5-e17989-d1e391">
+               <lb ed="#F" n="21"/>Regnum non capit duos. Quod autem hoc verum sit, sic suadeo. Quod
+            <lb ed="#F" n="22"/>nova qualitas producatur per novum, &amp; oppositum contactum, ostendit 
+            no<lb ed="#F" n="23" break="no"/>vus effectus, si fiat novus contactus, ut A. tangat C. cum enim prius amoto
+            <lb ed="#F" n="24"/>magnete pars ferri C. converteretur in septentrionem D. in austrum, nunc
+            <lb ed="#F" n="25"/>D. convertitur in septentrionem C. in austrum. vel ergo illa nova qualitas,
+            <lb ed="#F" n="26"/>quae de novo producitur in eodem situ immittitur, in quo erat antiqua, ita
+            <lb ed="#F" n="27"/>ut eandem ferri partem in septentrionem dirigat, quam prior pariter in 
+            sep<lb ed="#F" n="28" break="no"/>tentrionem dirigebat, vel producitur in contrario situ: Si producitur nova
+            <lb ed="#F" n="29"/>in contrario situ, cum ista ultimo loco producta sit, illa, quae se se effectu 
+            pro<lb ed="#F" n="30" break="no"/>dit, &amp; ferrum ex magneticis legibus dirigit, deberet ista esse efficacior, &amp; ma
+            <lb ed="#F" n="31"/>gis intensa. si antiqua illa remaneret, ut posset eius vim directivam 
+            supera<lb ed="#F" n="32" break="no"/>re, ut dicebamus accidere, cum magnes infirmus novam à robustiore 
+            ma<lb ed="#F" n="33" break="no"/>gnete verticitatem acquirit, sed hoc experientia falsum esse demonstratur;
+            <lb ed="#F" n="34"/>nam alioquin verticitas non posset immutari, nisi à magnete robustiore,
+            <lb ed="#F" n="35"/>quam sit ille, à quo prima qualitas fuit producta; vel certè ferrum propius
+            <lb ed="#F" n="36"/>ad magnetem applicando, quam fuerit primo applicatum. Cum enim 
+            ma<lb ed="#F" n="37" break="no"/>gnes sit agens necessarium, quod natura solum iubente vires erexit, ubi 
+            pri<lb ed="#F" n="38" break="no"/>mum ad agendum accedit, qualitatem, quàm maxima potest intensione
+            <lb ed="#F" n="39"/>producit. Cum ergo secunda vice idem magnes contraria ratione ad 
+            agen<lb ed="#F" n="40" break="no"/>dum se accingit, non poterit qualitatem in maiori intensione producere,
+            <lb ed="#F" n="41"/>atque produxerit prima vice. ergo haec secunda qualitas non poterit primę,
+            <lb ed="#F" n="42"/>si prima remaneat in subiecto intacta, quasi compedes inijcere, &amp; eam velu¬
+            <!--190.xml-->
+            <pb ed="#F" n="171"/>
+               <lb ed="#F" n="1"/>ti fraenare, ne ferrum dirigat, cum illa non sit robustior: atqui contrarium
+            <lb ed="#F" n="2"/>accidere videmus: nam, si magnes prius una ratione ferrum tangendo 
+            ver<lb ed="#F" n="3" break="no"/>ticitatem immiserit, &amp; deinde contraria ratione, vel tangat, vel etiam 
+            pro<lb ed="#F" n="4" break="no"/>pius accedat, vel per tantillum temporis, statim ille idem magnes, qui priman
+            <lb ed="#F" n="5"/>dederat verticitatem tangendo, nunc contrariam immittit, etiam si non 
+            tan<lb ed="#F" n="6" break="no"/>gat, imo etiam si robusto magnete, &amp; magno ferrum excitaveris, ut unam
+            <lb ed="#F" n="7"/>determinatam partem in austrum vertat; si postea minori, &amp; imbecilliori
+            <lb ed="#F" n="8"/>magnete contraria ratione tangas, idem ferrum, novam, &amp; contrariam 
+            in<lb ed="#F" n="9" break="no"/>ducet verticitatem, ut eandem extremitatem iam in septentrionem dirigat,
+            <lb ed="#F" n="10"/>quam prius dirigebat in austrum. ergo antiqua non remanet qualitas, quae
+            <lb ed="#F" n="11"/>sola dominari deberet, ut potè robustior; sed solum nova, quam ferri 
+            dire<lb ed="#F" n="12" break="no"/>ctio palam facit. Et licet haec res difficilis videatur, nec ita promptam 
+            ha<lb ed="#F" n="13" break="no"/>bere explicationem, quomodo qualitas duarum facierum minus intensa
+            <lb ed="#F" n="14"/>possit antiquam expellere, quae magis erat intensa, &amp; parta victoria sola cam
+            <lb ed="#F" n="15"/>pum occupare; cum id tamen experientia convincat verum esse, non 
+            debe<lb ed="#F" n="16" break="no"/>mus rem in dubium revocare, sed causam potius pervestigare; quod alibi 
+            in<lb ed="#F" n="17" break="no"/>ferius faciam Deo duce. Non igitur remanent duae qualitates duarum 
+            fa<lb ed="#F" n="18" break="no"/>cierum, quae contrarium obtineant situm.
+        </p>
+            <p xml:id="p9i7y5-e17989-d1e485">
+               <lb ed="#F" n="19"/>Quod vero neque, si applicetur magnes secunda vice eodem omnino mo
+            <lb ed="#F" n="20"/>do ad ferrum, producatur alia nova qualitas, &amp; maneant duae ambae in 
+            eo<lb ed="#F" n="21" break="no"/>dem situ, &amp; positione, sic ostendo. Vel enim illae duae qualitates, quae duae 
+            di<lb ed="#F" n="22" break="no"/>cuntur esse, ita subiectum disponunt, ut vehementius, &amp; efficacius simul fer
+            <lb ed="#F" n="23"/>rum addestinatas impellant partes, ac si esset unica tantum qualitas, vel non;
+            <lb ed="#F" n="24"/>sivehementius, &amp; firmius contorquent magneticum, hoc est, quod dico,
+            <lb ed="#F" n="25"/>unam reperiri qualitatem in ferro intensiorem, non duas aequè intensas. Cum
+            <lb ed="#F" n="26"/>enim unus existit actus robustior, &amp; efficacior, illa plura unum complere 
+            a<lb ed="#F" n="27" break="no"/>gens dicuntur, quae plura cum eodem sint inclusa subiecto, non est cur 
+            plu<lb ed="#F" n="28" break="no"/>ra dicantur ex illis similibus qualitatibus. Sicuti, cum aquam subcalidam
+            <lb ed="#F" n="29"/>sentimus, si eadem ad calefaciendum evadat robustior, non in ea 
+            multipli<lb ed="#F" n="30" break="no"/>catos calores dicimus, sed priorem qualitatem factam fuisse intensiorem, sic
+            <lb ed="#F" n="31"/>etiam, cum magneticum istud prius egrè se dirigeret, nunc &amp; novo 
+            magne<lb ed="#F" n="32" break="no"/>tis contactu firmius, &amp; vehementius id praestet, non novam inductam esse
+            <lb ed="#F" n="33"/>qualitatem duarum facierum, sed illam, quae prius inerat intensiorem 
+            effe<lb ed="#F" n="34" break="no"/>ctam debemus asserere; cum praesertim haec etiam ex philosopho sit 
+            inten<lb ed="#F" n="35" break="no"/>sionis ratio, cum producitur qualitas magnetica, &amp; nullum sit factum in
+            <lb ed="#F" n="36"/>subiecto magneticum, quod non esset antea magneticum ex magnetica 
+            a<lb ed="#F" n="37" break="no"/>ctione. Vel ex nova duarum facierum qualitate, quae ex novo contactu m 
+            a<lb ed="#F" n="38" break="no"/>gnetis produci dicitur, non redditur ferrum robustius ad se dirigendum, &amp;
+            <lb ed="#F" n="39"/>tunc nulla apparet ratio, cur dicamus duas ibi esse qualitates duarum 
+            facie<lb ed="#F" n="40" break="no"/>tum eiusdem rationis; nisi dicere velimus eiusdem effectus dari duas causas
+            <lb ed="#F" n="41"/>totales actu naturaliter, cui rei philosophorum communis repugnat 
+            senten<lb ed="#F" n="42" break="no"/>tia. Quid enim praestat nova illa qualitas, quae otiosè inducitur, si pari passu
+            <!--191.xml-->
+            <pb ed="#F" n="172"/>
+               <lb ed="#F" n="1"/>polos contendit magneticum? si aequali nisu magneticis se conformat, si
+            <lb ed="#F" n="2"/>aequali robore magnetica omnia praestat? Commune illud est, &amp; 
+            philoso<lb ed="#F" n="3" break="no"/>phorum calculis confirmatum, naturam nihil frustra producere, nihil 
+            otio<lb ed="#F" n="4" break="no"/>sè moliri. Cum igitur omnia illa, quae se produnt, unica solum qualitas 
+            prae<lb ed="#F" n="5" break="no"/>stare possit, iniuriam inferat naturae, qui hanc secundam qualitatem otiosè
+            <lb ed="#F" n="6"/>elaborare contendat. Illud accedit, quod inductione fidem habet; 
+            quoties<lb ed="#F" n="7" break="no"/>cunque duae eiusdem rationis qualitates in unum congeruntur subiectum;
+            <lb ed="#F" n="8"/>non duas remanere, sed in unam coalescere. Quemadmodum (ut rem 
+            sensi<lb ed="#F" n="9" break="no"/>bili argumento comprobemus) aquae gutta, guttae addita, excrescit, &amp; unum
+            <lb ed="#F" n="10"/>efficit corpus majus. non igitur manent duae ibi qualitates distinctae in 
+            fer<lb ed="#F" n="11" break="no"/>ro. Sed fit una maior.
+        </p>
+            <p xml:id="p9i7y5-e17989-d1e569">
+               <lb ed="#F" n="12"/>At, dicet aliquis, non ne duae vel tres, &amp; plures qualitates duarum facierum
+            <lb ed="#F" n="13"/>simul in eodem subiecto esse possunt distinctae, &amp; diversae, tertia existendi 
+            ra<lb ed="#F" n="14" break="no"/>tione, hoc est, ut dicebatur, intentionaliter certè hoc constat. sit ferreus 
+            glo<lb ed="#F" n="15" break="no"/>bus A. B. in medio constitutus, &amp;
+            <lb ed="#F" n="16"/>circumponantur magnetes 
+            un<lb ed="#F" n="17" break="no"/>dique M. N. O. P. ita tamen ut partes
+            <lb ed="#F" n="18"/>illae magnetis, quae ferream pilam
+            <lb ed="#F" n="19"/>espiciunt, sint omnes 
+            septentrio<lb ed="#F" n="20" break="no"/>nales, nonne omnes, si intra suam
+            <lb ed="#F" n="21"/>activitatis sphaeram habeant 
+            fer<lb ed="#F" n="22" break="no"/>reum globum, in illum actionem
+            <lb ed="#F" n="23"/>immittent, &amp; qualitatem dissemi
+            <lb ed="#F" n="24"/>nabunt per ferreum corpus saltem
+            <lb ed="#F" n="25"/>intentionaliter? ergo in illo 
+            glo<lb ed="#F" n="26" break="no"/>bo quattuor erunt qualitates 
+            dua<lb ed="#F" n="27" break="no"/>rum facierum ab illis quattuor
+            <lb ed="#F" n="28"/>magneticis corporibus immissae
+            <lb ed="#F" n="29"/>quarum singulae opposita ratione
+            <lb ed="#F" n="30"/>excurrent ex supradictis. Cum 
+            igi<lb ed="#F" n="31" break="no"/>tur qualitas duarum facierum per medium intentionaliter diffusa hanc à
+            <lb ed="#F" n="32"/>natura vim habeat, ut si ad corpus magneticum impellat, puta ad ferrum,
+            <lb ed="#F" n="33"/>in eo producat qualitatem duarum facierum pariter in eodem situ, &amp; 
+            posi<lb ed="#F" n="34" break="no"/>tione, in quo ipsa est, ex vi sui principij, à quo fluit; &amp; cum illae qualitates 
+            in<lb ed="#F" n="35" break="no"/>tentionales sint agentia necessaria, non poterunt non emergere quattuor
+            <lb ed="#F" n="36"/>qualitates duarum facierum secunda existendi forma, quae sibi sint è 
+            regio<lb ed="#F" n="37" break="no"/>ne oppositae, &amp; in contrario situ.
+         <lb ed="#F" n="43" type="fixed=172"/>
+               <figure xml:id="p9i7y5-e17989-Fd1e632">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869915/1404,1460,874,881/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">M N O F A E B P</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375618-r4</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e17989-d1e648">
+               <lb ed="#F" n="38" type="fixed=172"/>Haec difficultas non mediocris alicui videbitur; re tamen vera nihil 
+            con<lb ed="#F" n="39" break="no"/>cludit. Admitto igitur in eodem medio posse plures existere qualitates 
+            dua<lb ed="#F" n="40" break="no"/>rum facierum tertia existendi forma, nimirum intentionaliter, quae etiam
+            <lb ed="#F" n="41"/>oppositum habeat situm, &amp; tot posse esse distinctas qualitates in eodem 
+            me<lb ed="#F" n="42" break="no"/>dio numero diversas, quot possunt distincta in illud medium conspirare a¬
+            <!--191.xml-->
+
+         <!--192.xml-->
+         <pb ed="#F" n="173"/>
+               <lb ed="#F" n="1"/>gentia. sicut etiam puto magis physicum esse, si plura constituantur 
+            distin<lb ed="#F" n="2" break="no"/>cta luminosa, lumina multiplicari numero in medio eodem, ad 
+            multiplica<lb ed="#F" n="3" break="no"/>tionem luminosorum. Haec est enim natura qualitatum, quae 
+            intentiona<lb ed="#F" n="4" break="no"/>les à plurimis dicuntur, ut, sicuti in suo esse, &amp; conservari magis dependere
+            <lb ed="#F" n="5"/>videntur ab efficiente, quam à subiecto, sic ad multiplicationem efficientis
+            <lb ed="#F" n="6"/>multiplicentur etiam in eodem subiecto.
+        </p>
+            <p xml:id="p9i7y5-e17989-d1e681">
+               <lb ed="#F" n="7"/>Quod enim philosophorum gravis schola sustinuit; accidentia habere
+            <lb ed="#F" n="8"/>unitatem numericam à subiecto (qua potius utor loquendi forma quam 
+            ha<lb ed="#F" n="9" break="no"/>bere individuationem à subiecto: sic enim cum Aristotele loquuntur 
+            sapien<lb ed="#F" n="10" break="no"/>tissimi) id verissimum est, ut alius esset ostendendi locus, de accidentibus,
+            <lb ed="#F" n="11"/>quae primario pendent à subiecto, &amp; pendent solum ab extrinseco 
+            efficien<lb ed="#F" n="12" break="no"/>te, ut primum emergant; uon vero de illis, quae perpetuo à principio 
+            effecti<lb ed="#F" n="13" break="no"/>vo dependent, tam in fieri, quam in conservari, &amp; magis quodammodo 
+            e<lb ed="#F" n="14" break="no"/>tiam, quam à subiecto: unde ab aliquibus philosophorum spirituales formę
+            <lb ed="#F" n="15"/>appellantur; quasi à materiae concretione seiunctae. huiusmodi est lumen, &amp;
+            <lb ed="#F" n="16"/>huiusmodi essent species visibiles, si distinctam haberent à lumine naturam;
+            <lb ed="#F" n="17"/>&amp; talis est haec qualitas duarum facierum in tertia existendi ratione 
+            supra<lb ed="#F" n="18" break="no"/>posita. Quare sicut aliae similes qualitates multiplicari possunt in eodem 
+            me<lb ed="#F" n="19" break="no"/>dio, multiplicatis agentibus, non est hoc idem huic qualitati denegandum
+            <lb ed="#F" n="20"/>in illa existendi forma.
+        </p>
+            <p xml:id="p9i7y5-e17989-d1e714">
+               <lb ed="#F" n="21"/>Admitto etiam, quod secundo loco dicebatur, hanc qualitatem duarum
+            <lb ed="#F" n="22"/>facierum, cum intentionaliter existit, hoc proprium habere, ut ubi ad 
+            ma<lb ed="#F" n="23" break="no"/>gneticum corpus appulerit, in illud producere possit, &amp; de facto producat
+            <lb ed="#F" n="24"/>qualitatem duarum facierum secunda existendi forma. Verè enim hoc illi
+            <lb ed="#F" n="25"/>denegari non potest, cum sit agens necessarium. Adhuc tamen pernego 
+            il<lb ed="#F" n="26" break="no"/>lud, quod existis sequi, videtur, in globo illo sphaerico quattuor produci
+            <lb ed="#F" n="27"/>qualitates duarum facietum, quae contrariam obtineant positionem: nam
+            <lb ed="#F" n="28"/>tunc demum illa qualitas intentionalis qualitatem producit permanentem,
+            <lb ed="#F" n="29"/>cum subiectum nanciscitur idoneum; idoneum vero tunc est subiectum, non
+            <lb ed="#F" n="30"/>solum cum materiam habet susceptivam illius formae, sed cum alias omnes
+            <lb ed="#F" n="31"/>habet qualitates, &amp; conditiones requisitas ad excipiendam actionem; 
+            qua<lb ed="#F" n="32" break="no"/>rum una est, ut nullum tunc sit agens, quod in contrarium nitatur, cuius 
+            vi<lb ed="#F" n="33" break="no"/>res aequales sint, vel robustiores. Istud accidere videbis, si sit aliquis qui 
+            sur<lb ed="#F" n="34" break="no"/>sum impellat lapidem, &amp; alius deorsum praemat, &amp; aequa utriusque sit vis:
+            <lb ed="#F" n="35"/>sistet enim lapis utriusque conatum, neque ascendet, neque descendet? 
+            quam<lb ed="#F" n="36" break="no"/>vis utrunque agens esset necessarium, &amp; sufficientem haberet vim ad 
+            mo<lb ed="#F" n="37" break="no"/>vendum lapidem. Sic etiam dico in ferreo globo, transcurrere quattuor
+            <lb ed="#F" n="38"/>qualitates intentionales contraria ratione positas; alioquin, si in eodem 
+            me<lb ed="#F" n="39" break="no"/>dio non possent esse plures qualitates, &amp; etiam variae, non possent ad se 
+            invi<lb ed="#F" n="40" break="no"/>cem contraria ratione agere magnetica agentia, nullum tamen quasi sui ve
+            <lb ed="#F" n="41"/>stigium relinquerent in ferreo globo per qualitatem permanentem: quia
+            <lb ed="#F" n="42"/>quantum una producit, tantum altera demolitur, vel potius una obsistit 
+            a<lb ed="#F" n="43" break="no"/>ctionibus.
+        </p>
+            <p xml:id="p9i7y5-e17989-d1e766">
+            <!--193.xml-->
+               <pb ed="#F" n="174"/>
+               <lb ed="#F" n="1"/>Motum igitur, ut tandem concludam, efficiunt aversum ferramenta 
+            ex<lb ed="#F" n="2" break="no"/>cita à magnete; quia actio magnetis destruere nititur qualitatem, quae iam
+            <lb ed="#F" n="3"/>est in ferro, &amp; illa, ut fugiat sui destructionem, si non possit ferrum 
+            contor<lb ed="#F" n="4" break="no"/>quere, illud subducit. Hinc vides motum ferri magneticum non esse propriè
+            <lb ed="#F" n="5"/>attractionem, aut expulsionem; sed esse sequelam, aut fugam, fierique à prin
+            <lb ed="#F" n="6"/>cipio interno in ipso ferro constituto, nimirum ab illa qualitate duarum 
+            fa<lb ed="#F" n="7" break="no"/>cierum, quae iam realiter in ferto residet à magnete producta; vel ut firmius
+            <lb ed="#F" n="8"/>illam acquirat, dum eo se confert, ubi intentionalis qualitas per medium 
+            dif<lb ed="#F" n="9" break="no"/>fusa ad agendum est valentior, vel ne illa qualitas, quae iam producta est, 
+            de<lb ed="#F" n="10" break="no"/>struatur, &amp; pereat. Unde motus iste à numero naturalium motuum non 
+            ex<lb ed="#F" n="11" break="no"/>cluditur: quia non sit à principio intrinseco ei, quod movetur; sed quia prin
+            <lb ed="#F" n="12"/>cipium illud à quo provenit talis motus, non est nec ipsa ferri natura, nec
+            <lb ed="#F" n="13"/>aliquid ab ipsa ferri natura dimanans, sed aliunde nimirum à magnete in 
+            fer<lb ed="#F" n="14" break="no"/>rum derivatum.
+        </p>
+            <p xml:id="p9i7y5-e17989-d1e803">
+               <lb ed="#F" n="15"/>Hinc iterum habes, cur solum ferrum, &amp; ferrea corpora ad magnetem
+            <lb ed="#F" n="16"/>accurrant; quamvis magnes in omnia omnino corpora intentionalem 
+            qua<lb ed="#F" n="17" break="no"/>litatem duarum facierum immittat: id enim est, quia solum ferrum; &amp; 
+            fer<lb ed="#F" n="18" break="no"/>rea, seu magnetica corpora qualitatem duarum facierum realem, &amp; 
+            perma<lb ed="#F" n="19" break="no"/>nentem in se habent: &amp; hinc fit, ut actio per intentionalem actionem immis
+            <lb ed="#F" n="20"/>sa possit illis accidere corporibus, vel hostili, vel amica ratione, idest vel in
+            <lb ed="#F" n="21"/>eodem, vel in contrario situ. Unde si in eodem accidat situ, movent se ad 
+            ma<lb ed="#F" n="22" break="no"/>gnetem, ut melius iuventur, &amp; conserventur; si in contrario, subducunt se se,
+            <lb ed="#F" n="23"/>ne perdant aut lędatur. Hinc denique habes, cur, ubi primum ferrum 
+            ma<lb ed="#F" n="24" break="no"/>gneti obijciatur, semper illud sibi coniungat amico nexu, at vero; si semel
+            <lb ed="#F" n="25"/>pars magnetis A, tetigit partem ferri B. nunquam eadem pars A. trahet aliam
+            <lb ed="#F" n="26"/>partem ferri, quam B. &amp; quamcunque aliam fugabit; nec ferrum obvertet
+            <lb ed="#F" n="27"/>ipsi A. aliam sui partem, quam B. quia sic qualitas semel acquisita roboratur;
+            <lb ed="#F" n="28"/>alias destrueretur.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

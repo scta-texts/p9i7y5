@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 21</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 21</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="192"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e20530"> <!-- l2c21 -->
+            <head xml:id="p9i7y5-e20530-Hd1e107">Caput 21</head>
+            <p xml:id="p9i7y5-e20530-d1e109">
+               <lb ed="#F" n="34"/>Explicatur ratio electricae atractionis. Cap. XXI.
+        </p>
+            <p xml:id="p9i7y5-e20530-d1e114">
+               <lb ed="#F" n="35"/>Suppono, quod dicebam, attractionem electricam non posse
+            <lb ed="#F" n="36"/>esse propter conformitatem naturae, aut sympatiam. Cum
+            <lb ed="#F" n="37"/>enim electrica, omnia omnino aequaliter trahant, manifestum
+            <lb ed="#F" n="38"/>est non posse esse attractionem propter similitudinem naturae,
+            <lb ed="#F" n="39"/>&amp; consequenter non videtur posse esse talis attractio, qua
+            <lb ed="#F" n="40"/>ipsum corpus attractum spontè moveatur ad electricum propter aliquam
+            <lb ed="#F" n="41"/>qualitatem in se acquisitam, ut dicebam de magneticis attractionibus, quia
+            <!--211.xml-->
+            <pb ed="#F" n="192"/>
+               <lb ed="#F" n="1"/>a nulla qualitate potest per se iuvari, &amp; perfici omne corpus, in quibus 
+            tan<lb ed="#F" n="2" break="no"/>ta est diversitas. Cum igitur omnis attractio, quae communiter sic solet 
+            ap<lb ed="#F" n="3" break="no"/>pellari, usu iam recepto vocabulo, fiat uno ex his modis.
+        </p>
+            <p xml:id="p9i7y5-e20530-d1e143">
+               <lb ed="#F" n="4"/>Primo fit à tota forma, propter similitudinem naturae, eo quod 
+            transmit<lb ed="#F" n="5" break="no"/>tatur qualitas, quę afficiat amicè cognata corpora quę sic affecta ex vi 
+            quali<lb ed="#F" n="6" break="no"/>tatis iam receptae fluant ad principium, à quo qualitas dimanat, ut illam 
+            me<lb ed="#F" n="7" break="no"/>lius habeat; &amp; hoc modo, ut probavimus, fiunt magneticae attractiones, &amp;
+            <lb ed="#F" n="8"/>non fiunt electricae. Secundo fit attractio ex vi qualitatis elementaris 
+            gra<lb ed="#F" n="9" break="no"/>vitatis, aut levitatis, eo quod corpus per suam qualitatem motivam 
+            ten<lb ed="#F" n="10" break="no"/>dat ad proprium locum, &amp; consequenter secum trahat sibi coniunctum 
+            cor<lb ed="#F" n="11" break="no"/>pus; &amp; hoc modo, ut dixi, fit attractio illorum bacillorum in aqua, &amp; 
+            bul<lb ed="#F" n="12" break="no"/>larum supra aquam. Nego tamen sic fieri attractiones electricas. Cum enim
+            <lb ed="#F" n="13"/>videamus ab electro sublevari, &amp; attolli corpuscula in altum, &amp; etiam 
+            de<lb ed="#F" n="14" break="no"/>scendere immoto electro, non potest dici talem motum esse attractionem à
+            <lb ed="#F" n="15"/>gravitate attrahentis. Quae enim sic trahunt, non possunt id praestare sine
+            <lb ed="#F" n="16"/>suo proprio motu, quod tamen facit electrum. Pręterea videmus electrum
+            <lb ed="#F" n="17"/>pręparatum tam trahere res, quae sunt sursum deorsum ad se, quàm 
+            attolle<lb ed="#F" n="18" break="no"/>re quae sunt deorsum. Si enim electrum praeparatum applices ad versorium
+            <lb ed="#F" n="19"/>suprapositum, ęquali vi trahet, ac suspendet si applices superne, quà 
+            depri<lb ed="#F" n="20" break="no"/>met, si applices infervè, &amp; aequaliter trahet ad latera omnia. Non ergo est 
+            at<lb ed="#F" n="21" break="no"/>tractio per gravitatem. Tertio fit attractio ratione vacui; quia nimirum
+            <lb ed="#F" n="22"/>aliquis condenset, vel exsugat medium, vel attollat aliquod corpus; &amp; ne
+            <lb ed="#F" n="23"/>detur vacuum, vicina corpora accurrant ad replendum locum relictum, sic
+            <lb ed="#F" n="24"/>cucurbitulae attrahunt carnem, &amp; sanguinem, dum aer, qui fuit rare factus
+            <lb ed="#F" n="25"/>ab igne, iterum densatur. Quarto denique sit attractio per attractionem 
+            u<lb ed="#F" n="26" break="no"/>nius corporis, &amp; sequelam adiuncti, vel adnexi; ut cum quis trahit funem,
+            <lb ed="#F" n="27"/>&amp; sequitur navis funi alligata; quae propriè dicitur attractio. Aliae 
+            attra<lb ed="#F" n="28" break="no"/>ctionum rationes non mihi occurrunt in praesentia. Qua ratione igitur ex
+            <lb ed="#F" n="29"/>his duabus postremis fiant attractiones electricae, poterit quisque definire
+            <lb ed="#F" n="30"/>ubi rem ipsam explicavero, quantum in praesentia occurrit; posset .n. 
+            for<lb ed="#F" n="31" break="no"/>tasse ad utranque sub diversa ratione revocari.
+        </p>
+            <p xml:id="p9i7y5-e20530-d1e207">
+               <lb ed="#F" n="32"/>Dico igitur ex electro, seu ex quolibet corpore attrahente electricè, 
+            quan<lb ed="#F" n="33" break="no"/>do sic attrahit, effluere effluvium tenuissimum, quod aerem attenuat, &amp; 
+            di<lb ed="#F" n="34" break="no"/>sijcit, imo, &amp; incitatissimè impellit, sed tenuiter; tum vero attenuatus, &amp; im
+            <lb ed="#F" n="35"/>pulsus aer revertitur ad corpus electricum, secunque una rapit paleas, &amp; 
+            quae<lb ed="#F" n="36" break="no"/>cunque obvia corpuscupula. Ad hoc autem ut corpus electricum emittat
+            <lb ed="#F" n="37"/>huiusmodi effluvium, debet, si non sit valde efficaciter transpirativum, 
+            ali<lb ed="#F" n="38" break="no"/>quantulum primo incalescere, praesertim in extima superficie, qui calor 
+            ex<lb ed="#F" n="39" break="no"/>citatur per incitatam fricationem, &amp; hinc est quod debeat electricum 
+            prae<lb ed="#F" n="40" break="no"/>parari ad hoc, ut trahat, per istam fricationem. Dixi, si non sit valde 
+            tran<lb ed="#F" n="41" break="no"/>spirativum, quia, si habes electrum valde perfectum, &amp; nitidum trahet ad
+            <!--212.xml-->
+            <pb ed="#F" n="193"/>
+               <lb ed="#F" n="1"/>se saltem versorium nulla praevia fricatione, aut calefactione. debet 
+            secun<lb ed="#F" n="2" break="no"/>do corpus esse tersum, &amp; nitidum, nulla ratione obnubilatum, &amp;, ut 
+            dici<lb ed="#F" n="3" break="no"/>mus Italicè appannato, aut aqua, aut halitu humido. Sicut enim per 
+            mo<lb ed="#F" n="4" break="no"/>deratum illum calorem aperiuntur pori, ut exire possit illud effluvium, ita
+            <lb ed="#F" n="5"/>per humidum halitum obturantur statim, &amp; impeditur transpiratio. Hinc
+            <lb ed="#F" n="6"/>est, ut opus sit experimentum attractionum electricarum fieri Cęlo sereno,
+            <lb ed="#F" n="7"/>&amp; puro non humido, aut nubiloso: humido enim aere statim obnubilatur
+            <lb ed="#F" n="8"/>corpus, quod debet esse nitidissimum, &amp; impeditur transpiratio effluvij,
+            <lb ed="#F" n="9"/>Imo ex hac praecipuè causa oritur, ut electrum non trahat nisi praeparatum
+            <lb ed="#F" n="10"/>fricatione. Haec enim fricatio non tam requiritur ad excitandum calorem,
+            <lb ed="#F" n="11"/>quam ad detergendum; &amp; ideo quodlibet electri frustum competentis ma
+            <lb ed="#F" n="12"/>gnitudinis unica solum tersione efficaciori sufficienter praeparatur ad 
+            tra<lb ed="#F" n="13" break="no"/>hendum, ut saepe sum expertus; &amp; si bene tersum electrum custodiatur, ne
+            <lb ed="#F" n="14"/>aut pulvere, aut humido halitù inficiatur, post duodocim, aut quindecim
+            <lb ed="#F" n="15"/>horas trahet adhuc efficaciter.
+        </p>
+            <p xml:id="p9i7y5-e20530-d1e268">
+               <lb ed="#F" n="16"/>Ex quo vides non nihil fortasse falsum Gilbertum, qui dixit electrica
+            <lb ed="#F" n="17"/>non praeparari alio calore, quam excitato per fricationem. Si enim 
+            incale<lb ed="#F" n="18" break="no"/>scat electrum, vel per solem, vel per ignem non trahit quidem saepe; non 
+            ta<lb ed="#F" n="19" break="no"/>men ex defectu caloris, sed quia non est tersum, ut oportet. Quod si 
+            terga<lb ed="#F" n="20" break="no"/>tur, statim trahet efficaciter, etiamsi calefacias sole, aut igne. Quod si 
+            me<lb ed="#F" n="21" break="no"/>lius videtur praeparari per calorem excitatum fricatione; id non provenit,
+            <lb ed="#F" n="22"/>quia ille calor sit diversus; sed quia dum illo modo incalescit, 
+            exquisitissi<lb ed="#F" n="23" break="no"/>mè tergitur ab humida nubecula. Quantum enim spectat ad calorem 
+            prae<lb ed="#F" n="24" break="no"/>cisè. perinde est sive illi adveniat affricatione, sive lumine, aut igne. 
+            Ve<lb ed="#F" n="25" break="no"/>rum quidem est aliqua non posse nisi fricatione incalescere aptè: mollesce
+            <lb ed="#F" n="26"/>rent.n. igne, aut sole, vel liquescerent, non praepararentur ad attractionem,
+            <lb ed="#F" n="27"/>ut cera, &amp; alia huiusmodi. Dixi detergendum electrum à nubecula, &amp; 
+            sordi<lb ed="#F" n="28" break="no"/>bus aqueis; nam, ut dictum est supra, pingues, &amp; oleaceę non inficiunt,
+            <lb ed="#F" n="29"/>nec impediunt electricum effluvium.
+        </p>
+            <p xml:id="p9i7y5-e20530-d1e301">
+               <lb ed="#F" n="30"/>Quod igitur fiat illo modo, attractio electrica per transmissionem 
+            efflu<lb ed="#F" n="31" break="no"/>vij, quo incitetur aer, qui aer impulsus revertatur quasi in gyrum versus 
+            ele<lb ed="#F" n="32" break="no"/>ctrum, &amp; secum rapiat corpuscula, probatur; &amp; quidem primo, quod sic
+            <lb ed="#F" n="33"/>impulsus aer tenuiter revertatur in gyrum versus impellens etiam absque
+            <lb ed="#F" n="34"/>eo, quod impellat ad aliud corpus solidum, probatur evidenter: siquis, dum
+            <lb ed="#F" n="35"/>sol ingrediatur per fenestram, &amp; aerem sic illuminat, ut atomos cernere 
+            pos<lb ed="#F" n="36" break="no"/>sit sufflet tenuiter in aerem; videbit enim aromos in gyrum agitari, &amp; 
+            re<lb ed="#F" n="37" break="no"/>verti ad impellentem. Ergo verè aer impulsus tenui spiritu sic agitatur. 
+            Ne<lb ed="#F" n="38" break="no"/>quis igitur miretur si dico electricum effluvium sic aerem exsufflare, ut aer
+            <lb ed="#F" n="39"/>agitatus dum revertitur ad electricum, secum corpuscula rapiat; cum hoc
+            <lb ed="#F" n="40"/>oculorum iudicio verum sit in atomis. Quod vero transmittatur huiusmodi
+            <lb ed="#F" n="41"/>effluvium, patet primo ex eo, quod non trahit nisi incalverit aliquantulum,
+            <lb ed="#F" n="42"/>si corpus non sit valde transpirativum: secundo, quia non trahit, nisi tersum,
+            <!--213.xml-->
+            <pb ed="#F" n="194"/>
+               <lb ed="#F" n="1"/>&amp; qualibet obnubilatione impediente effluvium, impeditur attractio. Tertio
+            <lb ed="#F" n="2"/>quia non trahit ullo modo, si tegatur, aut quidlibet interponatur, quod 
+            ef<lb ed="#F" n="3" break="no"/>fluvium possit impedire.
+        </p>
+            <p xml:id="p9i7y5-e20530-d1e343">
+               <lb ed="#F" n="4"/>Quod autem effluutum illud sic trahat commovendo aerem, &amp; aer in 
+            gy<lb ed="#F" n="5" break="no"/>rum actus rapiat corpuscula modo explicato, suadetur mihi. Primo, quia
+            <lb ed="#F" n="6"/>si sit electrum planum, quod pręparetur in facie aliqua plana, &amp; bene tergatur
+            <lb ed="#F" n="7"/>tota illa facies, deinde applicetur ad trahendum super plano corpuscula prę
+            <lb ed="#F" n="8"/>parata facies, versorium, &amp; corpuscupula non confluent ad medium, sed
+            <lb ed="#F" n="9"/>ad omnes extremitates circum quaque, &amp; ferè semper paleae, &amp; 
+            corpuscu<lb ed="#F" n="10" break="no"/>la longiora, si applicant unam extremitatem ad marginem aliquam, 
+            alte<lb ed="#F" n="11" break="no"/>ram extremitatem non vertent versus medium, sed ad aliàs partes: ergo 
+            si<lb ed="#F" n="12" break="no"/>gnum est aerem commotum ex plano reverti quasi in gyrum ad margines,
+            <lb ed="#F" n="13"/>&amp; secum rapere corpuscula, ut dicebam. Neque est necesse, ut in ista 
+            commo<lb ed="#F" n="14" break="no"/>tione, &amp; gyro aeris intercedat multum temporis, quod obijciebat 
+            Gilber<lb ed="#F" n="15" break="no"/>tus. Secundo si bene praeparetur facies electri, deinde applicetur ad 
+            trahen<lb ed="#F" n="16" break="no"/>dum ferri ramenta, aut ligni, vel similia corpuscula aliqua, ita 
+            vehemen<lb ed="#F" n="17" break="no"/>ter accurrent ad electrum, ut, dum ad illud perveniunt, resiliant, &amp; non 
+            de<lb ed="#F" n="18" break="no"/>cidant recta deorsum, sed repellantur procul ad distantiam trium, aut
+            <lb ed="#F" n="19"/>quattuor digitorum: ergo signum est motum illum corpusculorum esse ex
+            <lb ed="#F" n="20"/>commotione aeris, quae oritur ex effluvio illo, à quo etiam proijciuntur 
+            pro<lb ed="#F" n="21" break="no"/>cul illa corpuscula: si enim esset appulsus corpusculorum, ut loquitur 
+            Gil<lb ed="#F" n="22" break="no"/>bertus, invalescentibus effluvijs prope electrum, resilirent impellente 
+            im<lb ed="#F" n="23" break="no"/>petu ad electrum, nec proijcerentur, sicuti, quia sic trahit magnes, 
+            quan<lb ed="#F" n="24" break="no"/>tum vis trahat impetu nunquam resilit ferrum, nec repellitur perveniens ad
+            <lb ed="#F" n="25"/>magnetem: hic vero cum appulsum corpus, resiliat etiam, signum est 
+            mo<lb ed="#F" n="26" break="no"/>veri ab externo impellente, nimirum ab aere.
+        </p>
+            <p xml:id="p9i7y5-e20530-d1e395">
+               <lb ed="#F" n="27"/>Tertio non semel, neque iterum, sed saepe, quod dicam, sum expertus prę
+            <lb ed="#F" n="28"/>paravi faciem electri, &amp; applicavi ad trahendam ligni scobem seu 
+            limatu<lb ed="#F" n="29" break="no"/>ram, ita autem adhaerebant ligneę particulae, ut efformarent quosdam 
+            ve<lb ed="#F" n="30" break="no"/>dutti pilos. Observavi autem semper fere extremitates illorum pilorum 
+            flu<lb ed="#F" n="31" break="no"/>ctuare, nutare, &amp; subinde non tam decidebant extremitates illorum 
+            pilo<lb ed="#F" n="32" break="no"/>rum quam proijciebantur procul, ut manifesto observavi alijs etiam 
+            spe<lb ed="#F" n="33" break="no"/>ctantibus; post aliqualem enim nutationem videbamus aliquas ligni 
+            par<lb ed="#F" n="34" break="no"/>ticulas proijci: ergo signum est expirare effluvium, quo propellitur aer,
+            <lb ed="#F" n="35"/>&amp; si corpora adelectrum accurrunt, est quia revertens aer secum illa 
+            de<lb ed="#F" n="36" break="no"/>fert. Quod sedicas cum Gilberto, si fieret ista aeris commotio bene 
+            prae<lb ed="#F" n="37" break="no"/>parato electro, &amp; ad candelae flamulam applicato, commoveretur illa
+            <lb ed="#F" n="38"/>flammula, quae quolibet levi flatu agitatur. Respondeo hoc provenire ex
+            <lb ed="#F" n="39"/>eo quod flamma effluvium illud electricum discipat, &amp; alio avertit sua
+            <lb ed="#F" n="40"/>vi, &amp; directione seu ascensu; nec permittit; ut aerem in gyrum agat.
+            <lb ed="#F" n="41"/>Unde non solum flammam non trahit electrum, sed nec 
+            perme<lb ed="#F" n="42" break="no"/>diam flammam ad se trahit aliud. Si addas, quomodo potest ex chrystal¬
+            <!--214.xml-->
+            <pb ed="#F" n="195"/>
+               <lb ed="#F" n="1"/>lo, ex vitro, ex adamante effluvium promanare, corpora cum sint illa 
+            du<lb ed="#F" n="2" break="no"/>195
+            <lb ed="#F" n="3"/>rissima, &amp; valde concreta? Respondet idem Gilbertus, &amp; bene, ut fiat tale
+            <lb ed="#F" n="4"/>effluvium, non opus esse insigni substantię aliquo fluore, non ut 
+            abrada<lb ed="#F" n="5" break="no"/>tur, aut atteratur, aut deformetur electricum. Odorata quaedam per 
+            mul<lb ed="#F" n="6" break="no"/>tos annos flagrant, &amp; perpetuo expirant, non tamen cito absumuntur: 
+            ele<lb ed="#F" n="7" break="no"/>ctricum etiam potest vires sic emittere supra odores omnes subtiliores 
+            ten<lb ed="#F" n="8" break="no"/>vioresque, nec tamen sensibiliter ulla ratione minui cum praesertim, ut 
+            plu<lb ed="#F" n="9" break="no"/>rimum non traspirent nisi praeparatum.
+        </p>
+            <p xml:id="p9i7y5-e20530-d1e456">
+               <lb ed="#F" n="10"/>Haec sunt, quae mihi hac in re in mentem venere; in quibus sentio, etiam
+            <lb ed="#F" n="11"/>ego nonnullas posse obijci difficultates. Sed si quis prius meliora, &amp; magis
+            <lb ed="#F" n="12"/>experimentis congruentia attullerit; etiam ego libenter sententiam 
+            muta<lb ed="#F" n="13" break="no"/>bo: nec enim ista, ut mathematice demonstrata profero, sed quae in re 
+            diffi<lb ed="#F" n="14" break="no"/>cillima mihi in mentem venire potuerent, promo libenter ad symbolum. satis
+            <lb ed="#F" n="15"/>sit tibi, lector, si non abhorreant ab experimentis, dum ego abs te 
+            libentissi<lb ed="#F" n="16" break="no"/>mo animo verioria, &amp; clariora excipiam.
+        </p>
+            <p xml:id="p9i7y5-e20530-d1e475">
+               <lb ed="#F" n="17"/>Finis Libri Secundi.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

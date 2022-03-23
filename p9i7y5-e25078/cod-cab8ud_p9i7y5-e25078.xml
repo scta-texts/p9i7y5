@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 16</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 16</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="235"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e25078"> <!-- l3c16 -->
+            <head xml:id="p9i7y5-e25078-Hd1e107">Caput 16</head>
+            <p xml:id="p9i7y5-e25078-d1e109">
+               <lb ed="#F" n="36"/>Pyxis alicubi Terrarum etiam bene excitata non dirigitur ad polum, aut ad
+            <lb ed="#F" n="37"/>ullam partem. Cap. XVI.
+        </p>
+            <p xml:id="p9i7y5-e25078-d1e116">
+               <lb ed="#F" n="38"/>Videbitur monstro simile prima facie, quod hic dicitur; versorium
+            <lb ed="#F" n="39"/>nimirum, quod semper determinata ratione plus minus ad 
+            meri<lb ed="#F" n="40" break="no"/>dianum se accommodat, &amp; pyxidem, quam ubique nautae respiciunt tan¬
+            <!--254.xml-->
+            <pb ed="#F" n="235"/>
+               <lb ed="#F" n="1"/>quam terrenum, sed clarissimum sydus, ut illo dirigantur aliquando, ut sic
+            <lb ed="#F" n="2"/>dixerim, eclipsari posse, nec certam suo radio viam indicare, &amp; tamen non
+            <lb ed="#F" n="3"/>solum verum est, sed etiam promptissimum. &amp; obvium. Dico igitur locum
+            <lb ed="#F" n="4"/>esse in Terrarum globo, in quo pyxis, &amp; versorium, etiam si fuerint egregiè
+            <lb ed="#F" n="5"/>elaborata, &amp; optimè excitata magneticè, ad nullam partem extrema
+            <lb ed="#F" n="6"/>convertant: locus autem iste est praecisè sub utroque polorum. Si enim 
+            po<lb ed="#F" n="7" break="no"/>natur versorium supra polum terrae, idest in illa regione, quae praecisè 
+            sub<lb ed="#F" n="8" break="no"/>iacet polo Cęli, ad nullam se partem diriget, sed in situ consistet, quem 
+            ca<lb ed="#F" n="9" break="no"/>sus fortè obijciet; nihilque repugnabit, quacunque tandem ratione 
+            dispo<lb ed="#F" n="10" break="no"/>nas. Probatur experimento, &amp; ratione.
+        </p>
+            <p xml:id="p9i7y5-e25078-d1e151">
+               <lb ed="#F" n="43" type="fixed=235"/>
+               <figure xml:id="p9i7y5-e25078-Fd1e156">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869978/963,1672,1074,994/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A D C B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375715-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="11" type="fixed=235"/>Experimentum sit in magnete ipso: Sicut enim ferrum ad magnetem
+            <lb ed="#F" n="12"/>fertur certis legibus; &amp; determinata ratione, ita etiam feruntur magnetica
+            <lb ed="#F" n="13"/>ad Terram, &amp; ad telluris polos, ut saepè monui; ex quo fit, ut oculatam 
+            ha<lb ed="#F" n="14" break="no"/>beamus philosophandi rationem in directione magneticorum ad Terram,
+            <lb ed="#F" n="15"/>ex eo scilicet, quod conspicimus in magnete. Si ergo versorium seu 
+            obe<lb ed="#F" n="16" break="no"/>lum oblique colloces supra rotundum magnetem, in quolibet puncto 
+            ex<lb ed="#F" n="17" break="no"/>tra polos illius magnetis ad illos polos dirigit extrema, &amp; quodammodo
+            <lb ed="#F" n="18"/>ad meridianum illius globi se accommodat. Sit globus magneticus A. B.
+            <lb ed="#F" n="19"/>C. D. in quo sint poli A. &amp; B. si supra puncta extra polos, ut in C. D. 
+            collo<lb ed="#F" n="20" break="no"/>cetur obelus, diriget 
+            extre<lb ed="#F" n="21" break="no"/>ma ad puncta A. &amp; B. &amp; si
+            <lb ed="#F" n="22"/>quis tentet obelum 
+            dimo<lb ed="#F" n="23" break="no"/>vere ab illa positione, recur
+            <lb ed="#F" n="24"/>ret ad eundem situm, &amp; 
+            con<lb ed="#F" n="25" break="no"/>stanter eadem quaeret 
+            pun<lb ed="#F" n="26" break="no"/>cta. at vero si collocetur in
+            <lb ed="#F" n="27"/>Auel B. ita ut versorij 
+            cen<lb ed="#F" n="28" break="no"/>trum sit in A. non dirigetur
+            <lb ed="#F" n="29"/>ullo pacto ex vi 
+            magneti<lb ed="#F" n="30" break="no"/>ca, sed dominabitur casus.
+            <lb ed="#F" n="31"/>lam finge animo A. B. C.
+            <lb ed="#F" n="32"/>D. esse Terram, in alijspun
+            <lb ed="#F" n="33"/>ctis à polaribus semper ad
+            <lb ed="#F" n="34"/>meridianum 
+            accommoda<lb ed="#F" n="35" break="no"/>tur versorium, atque ita 
+            de<lb ed="#F" n="36" break="no"/>terminata ratione consistit,
+            <lb ed="#F" n="37"/>ut si ab illa dimoveas, ad eandem revertatur constantissimè; at ubi ad 
+            po<lb ed="#F" n="38" break="no"/>los ventum fuerit, iam nullam amplius respicit partem; quasi vero commu
+            <lb ed="#F" n="39"/>nem rerum humanarum experiretur fortunam, qua scilicet quandiu non
+            <lb ed="#F" n="40"/>habemus rem aliquam, summopere concupiscimus, habitam nauseamus:
+            <lb ed="#F" n="41"/>sic dum extra polum est versorium, ad polum anhelat, tenditque velis, ut
+            <lb ed="#F" n="42"/>aiunt temisque, &amp; in solo poli respectu conquiescit; ubi vero ad polum de¬
+            <!--254.xml-->
+
+         <!--255.xml-->
+         <pb ed="#F" n="236"/>
+               <lb ed="#F" n="1"/>venerit, non amplectitur, non stringit, non amat.
+        </p>
+            <p xml:id="p9i7y5-e25078-d1e253">
+               <lb ed="#F" n="2"/>Huius tamen rei illa est causa, primum quidem, dum extra polum 
+            ma<lb ed="#F" n="3" break="no"/>gneticum collocatui, sua extrema ita dirigit, ut illa collocet in plano, in
+            <lb ed="#F" n="4"/>quo essent poli terrae; si terra per tale planum media secaretur. vult igitur
+            <lb ed="#F" n="5"/>versorium, &amp; quodlibet magneticum corpus habere extrema sua puncta
+            <lb ed="#F" n="6"/>in plano transeunte per polos terrae per se loquendo, &amp; praescindendo ab 
+            il<lb ed="#F" n="7" break="no"/>la parva deviatione, quae est per accidens. at vero, dum suo centro in ipso
+            <lb ed="#F" n="8"/>terrae polo constituitur versorium, etiam si retineat hanc eandem 
+            inclina<lb ed="#F" n="9" break="no"/>tionem, &amp; ad idem conetur, poterit se quomodocunque dirigere: 
+            quacun<lb ed="#F" n="10" break="no"/>que enim ratione collocetur, semper erit suis extremis in plano 
+            transeun<lb ed="#F" n="11" break="no"/>te per polos, ut consideranti patebit, &amp; quacunque ratione extrema dirigat,
+            <lb ed="#F" n="12"/>semper iacebit sua longitudine in meridiano: infinita enim sunt 
+            huiusmo<lb ed="#F" n="13" break="no"/>di plana, quae se omnia intersecant in puncto polari. Ex quo constat quod
+            <lb ed="#F" n="14"/>quamvis versorium in polo nulla amplius certa lege videatur dirigi, &amp; ita
+            <lb ed="#F" n="15"/>suam oblitum dixeris naturam, re tamen vera hoc non est: nam, sicuti prius
+            <lb ed="#F" n="16"/>extra polum volebat, si aliud non posset saltem suis extremis esse in plano
+            <lb ed="#F" n="17"/>polari, ita &amp; nunc hoc idem ex optat, &amp; ad idem conatur; sed ibi non 
+            pote<lb ed="#F" n="18" break="no"/>rat hoc obtinere, nisi determinata ratione consisteret; hic vero hoc illi 
+            ob<lb ed="#F" n="19" break="no"/>vium fit, ubicunque constiterit.
+        </p>
+            <p xml:id="p9i7y5-e25078-d1e295">
+               <lb ed="#F" n="20"/>Deinde, ut supra dicebam, in puncto aequinoctiali praecisè solum 
+            meri<lb ed="#F" n="21" break="no"/>diat versorium, &amp; hoc solum ibi quaerit, neque ullo modo descendere 
+            co<lb ed="#F" n="22" break="no"/>natur infra Orizontem magnetica vi; at vero extra aequinoctium non solum
+            <lb ed="#F" n="23"/>quaerit esse in meridiano, sed etiam infra Orizontem descendere; &amp; quo 
+            ma<lb ed="#F" n="24" break="no"/>gis appropinquat polo, eo minus meridianum amare, &amp; ad erectionem, ut
+            <lb ed="#F" n="25"/>ita dicam, aspitare videtur; &amp; cum ad polum omnino devenerit, exuit 
+            peni<lb ed="#F" n="26" break="no"/>tus amotem meridiani, &amp; in sola erectione conquiescit, ut patet ex globo
+            <lb ed="#F" n="27"/>magnetico, &amp; ex conformatione obeli supra globum positi; ita ut puncti
+            <lb ed="#F" n="28"/>aequinoctialis sit sola directio, polaris sola erectio. inter media vero puncta
+            <lb ed="#F" n="29"/>ita permixtam habent erectionem, cum directione; ut quo magis polo 
+            ap<lb ed="#F" n="30" break="no"/>propinquant, minus habeant de directione, magis de erectione: contra 
+            ve<lb ed="#F" n="31" break="no"/>ro, quò magis appropinquant aequatori, maiorem habent directionem, 
+            mi<lb ed="#F" n="32" break="no"/>norem erectionem. Cum igitur in polo nulla sit directio, sed sola erectio
+            <lb ed="#F" n="33"/>ex magnetica vi iam explicata; non debet mirum videri, si, dum ibi iacet,
+            <lb ed="#F" n="34"/>incerta lege vagatur, quod ad directionem; quod tamen per supradicta 
+            in<lb ed="#F" n="35" break="no"/>tellecta vellem.
+        </p>
+            <p xml:id="p9i7y5-e25078-d1e332">
+               <lb ed="#F" n="36"/>Horum tamen omnium ratio ex propagatione desumitur virtutis 
+            ma<lb ed="#F" n="37" break="no"/>gneticae, quę ex polis quaquà ursus diffunditur, quia scilicet versorium ad 
+            hu<lb ed="#F" n="38" break="no"/>iusmodi per medium diffusam vim magneticam se conformare vult; &amp; ideo
+            <lb ed="#F" n="39"/>in alijs punctis extra polum dirigitur ad meridianum; at vero, quia ex polo
+            <lb ed="#F" n="40"/>in gyrum effunditur aequali circunquaque positione, ideo non laborat, ut 
+            si<lb ed="#F" n="41" break="no"/>bi conformem virtutem offendat: ubique enim obviam habet eiusdem 
+            ra<lb ed="#F" n="42" break="no"/>tionis, Verum quia hoc idem explicandi commodior est alibi occasio, 
+            mis<lb ed="#F" n="43" break="no"/>sum facio in praesentia.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

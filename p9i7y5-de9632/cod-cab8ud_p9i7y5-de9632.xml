@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 22</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 22</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="87"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-de9632"> <!-- l1c22 -->
+            <head xml:id="p9i7y5-de9632-Hd1e107">Caput 22</head>
+            <p xml:id="p9i7y5-de9632-d1e109">
+              <!--106.xml-->
+              <pb ed="#F" n="87"/>
+               <lb ed="#F" n="1"/>Qua ratione corrigenda videatur ista regula directionum magneticarum ex aliquo
+            <lb ed="#F" n="2"/>phisico experimento. Caput XXII.
+        </p>
+            <p xml:id="p9i7y5-de9632-d1e116">
+               <lb ed="#F" n="3"/>Quia igitur modus iste Gilberti, licet fortasse proximè 
+            acce<lb ed="#F" n="4" break="no"/>dat, tamen praecisus non est, &amp; omnino exquisitus; quod 
+            po<lb ed="#F" n="5" break="no"/>teris etiam cognoscere, si notes puncta in circulo supraposito
+            <lb ed="#F" n="6"/>ex eius tabella: videbis enim intervalla illa non ordinate 
+            de<lb ed="#F" n="7" break="no"/>crescere semper, ut ratio videtur postulare, aliam ego 
+            adhi<lb ed="#F" n="8" break="no"/>berem potius rationem physicam, qua inveniatur huiusmodi inclinatio, &amp;
+            <lb ed="#F" n="9"/>nova constituatur tabella, vel praecedens corrigatur; quae ratio, si non erit
+            <lb ed="#F" n="10"/>exactissima, erit saltem magis physica, &amp; ad magneticas rationes 
+            accom<lb ed="#F" n="11" break="no"/>modata; praesertim positis his, quae supra diximus, de virtute magnetica,
+            <lb ed="#F" n="12"/>quam terra universa possidet, propter quam terrae virtutem, ut magis etiam
+            <lb ed="#F" n="13"/>constabit ex alibi dicendis, magnetica ferramenta in aequilibrio posita 
+            de<lb ed="#F" n="14" break="no"/>scendunt infra horizontem.
+        </p>
+            <p xml:id="p9i7y5-de9632-d1e145">
+               <lb ed="#F" n="16" type="fixed=87"/>
+               <figure xml:id="p9i7y5-de9632-Fd1e150">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869830/441,1523,1465,1667/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">B G F M</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375487-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="15" type="fixed=87"/>Sume igitur globum magneticum convenientis magnitudinis: immo
+         <!--107.xml-->
+         <pb ed="#F" n="88"/>
+               <lb ed="#F" n="1"/>quò magnitudo erit maior, eo cognoscere poteris rem, quam quaeris, 
+            accu<lb ed="#F" n="2" break="no"/>ratius: sed illud diligenter cura, ut totus globus sit omnino homogeneus.
+            <lb ed="#F" n="3"/>hunc exactè ad sphaericam reducas figuram; in ista invenias diligenter 
+            po<lb ed="#F" n="4" break="no"/>los virtutis, sintque puncta C. D. tum circulum aeneum compone in quo 
+            in<lb ed="#F" n="5" break="no"/>seratur globus exactè, ita tamen ut, si velis, possis etiam rotare illum supra
+            <lb ed="#F" n="6"/>suos polos meridiano infixos: huius meridiani singulos quadrantes in 
+            no<lb ed="#F" n="7" break="no"/>naginta partes de more distribue. tum confice tibi instrumentum quale
+            <lb ed="#F" n="8"/>depictum vides, quadrantem scilicet parvum ex aere F. E. G. cum sua basi F.
+            <lb ed="#F" n="9"/>G. H quae sit ita constituta, &amp; efformata, ut, quomodocunque collocetur 
+            su<lb ed="#F" n="10" break="no"/>pra meridianum globi, quadrantem sustineat verticaliter erectum, hoc est
+            <lb ed="#F" n="11"/>ut latus E. F. semper maneat perpendiculariter erectum ad centrum globi,
+            <lb ed="#F" n="12"/>distet autem centrum quadrantis F. tantum à globo, quanta est longitudo
+            <lb ed="#F" n="13"/>media versorij: quod conficere debes pro isto instrumento, parvo scilicet,
+            <lb ed="#F" n="14"/>unius digiti, vel paulo majus, pro vi globi gnetici, et exactissime libra.
+            <lb ed="#F" n="15"/>Collocandum est autem versorium, ut suo axiculo sit in centro quadrantis,
+            <lb ed="#F" n="16"/>&amp; possit supra illud centrum libere se disponere, &amp; inclinare, &amp; nunc crucem
+            <lb ed="#F" n="17"/>hunc cuspidem deprimere, facile autem possit se rotare; tum dirige 
+            quadran<lb ed="#F" n="18" break="no"/>tem centro F. supra punctum aequinoctij A. &amp; videbis versorium ibi dirigi
+            <lb ed="#F" n="19"/>parallelum ad axem, &amp; ad horizontem: promoveas paulatim quadrantem
+            <lb ed="#F" n="20"/>cum versorio, ut centrum immineat singulis gradibus, qui notati sunt in
+            <lb ed="#F" n="21"/>quadrante meridiani A. C. &amp; dum singulis gradibus insistit, observa quem
+            <lb ed="#F" n="22"/>gradum versorium designet in suo parvo quadrante. quod si accurate 
+            ob<lb ed="#F" n="23" break="no"/>serves, in singulis gradibus, habebis tabellam inclinationis magneticae, pro
+            <lb ed="#F" n="24"/>quacunque poli altitudine, &amp; quantum in quacunque locorum latitudine
+            <lb ed="#F" n="25"/>descendant magnetica infra horizontem, &amp; sane, nisi accidentia 
+            interve<lb ed="#F" n="26" break="no"/>niant, quae perturbent, &amp; anomalias causent, debebunt sic descendere 
+            ver<lb ed="#F" n="27" break="no"/>soria ubique. Sicut enim toto promovente illo globo dirigitur parvum
+            <lb ed="#F" n="28"/>versorium, quod ex se non habet nisi stare in aequilibrio, ita etiam tota 
+            pro<lb ed="#F" n="29" break="no"/>movente tellure disponitur, &amp; descendit versorium in instrumento 
+            inclina<lb ed="#F" n="30" break="no"/>tionis, quod alioquin staret in aequilibrio, &amp; sicut totus ille globus 
+            magne<lb ed="#F" n="31" break="no"/>ticus est, talis est etiam tota terra; ac proinde videtur conveniens ratio, ut
+            <lb ed="#F" n="32"/>easdem servet in dirigendo se leges, &amp; quantum in parvo globo pro 
+            singu<lb ed="#F" n="33" break="no"/>lis gradibus elevatur, tantundem in terrestri globo assurgat versorium 
+            in<lb ed="#F" n="34" break="no"/>clinationis. Et haec via videtur mihi magis virtuti magneticae 
+            consenta<lb ed="#F" n="35" break="no"/>nea, physica, &amp; experimentis accommodata: est enim aequalitas per se in
+            <lb ed="#F" n="36"/>casu proposito, inter globum magnetis, &amp; versorium parvum, &amp; globum
+            <lb ed="#F" n="37"/>telluris, cum instrumento inclinationis, &amp; regula videtur petita ex natura
+            <lb ed="#F" n="38"/>ipsius rei, non gratis excogitata. non habui ego magnetem competentis
+            <lb ed="#F" n="39"/>magnitudinis perfectè homogeneum, ut optabam, &amp; ideo hanc tabellam,
+            <lb ed="#F" n="40"/>ita ut mihi satisfacerem, conficere non potui, ac proinde non illam tibi 
+            le<lb ed="#F" n="41" break="no"/>ctor exhibeo: tù te tibi illam poteris efformare, si unquam in talem incidas
+            <lb ed="#F" n="42"/>magnetem. interim illud ingenuè moneo quantum ego videre potui, hanc
+            <!--108.xml-->
+            <pb ed="#F" n="89"/>
+               <lb ed="#F" n="1"/>ratione à supraposita Gilberti tabella aberrare quidem, &amp; quidem per 
+            gra<lb ed="#F" n="2" break="no"/>dus, non tamen longissime aberrare.
+        </p>
+            <p xml:id="p9i7y5-de9632-d1e275">
+               <lb ed="#F" n="3"/>Confecta iam tabella, licebit ad mathematicum pulverem accedere, &amp;
+            <lb ed="#F" n="4"/>videre, quam propoitionem servent anguli illi inclinationis, utrum ita se
+            <lb ed="#F" n="5"/>habeat angulus B. A. C, quem facit versorium in horizonte in puncto A, ad
+            <lb ed="#F" n="6"/>angulum B. A. D. vel B. A. I sicut se habet portio sphaerae A. E. H. ad 
+            portio<lb ed="#F" n="7" break="no"/>nem A. H. G. vel ut se habent lineae A. E. ad A. G. vel aliam similem 
+            quam<lb ed="#F" n="8" break="no"/>piam servent rationem, quam servent sinus versi, vel recti illorum arcuum,
+            <lb ed="#F" n="9"/>ad invicem, vel anguli A. E. G. &amp; A. G. E. inter se.
+        </p>
+            <p xml:id="p9i7y5-de9632-d1e293">
+               <lb ed="#F" n="10"/>Non dubito illum angulum
+            <lb ed="#F" n="11"/>servare in suo incremento aliquam
+            <lb ed="#F" n="12"/>mirabilem rationem, quam 
+            exhi<lb ed="#F" n="13" break="no"/>beant aliquae lineae, vel magnitu
+            <lb ed="#F" n="14"/>dines corporum, vel axis, aut 
+            an<lb ed="#F" n="15" break="no"/>guli in eodem corpore: quae ratio
+            <lb ed="#F" n="16"/>physicam etiam possit ostendere
+            <lb ed="#F" n="17"/>rationem. qua de re aliquid infra
+            <lb ed="#F" n="18"/>dicere tentabo. Sed sumus adhuc
+            <lb ed="#F" n="19"/>in initijs cognitionis huius rei, in
+            <lb ed="#F" n="20"/>quibus non potest perfecta 
+            habe<lb ed="#F" n="21" break="no"/>ri: neque enim ad huius 
+            cognitio<lb ed="#F" n="22" break="no"/>nem devenire possemus, nisi 
+            insi<lb ed="#F" n="23" break="no"/>stendo prius experientijs. quod si
+            <lb ed="#F" n="24"/>mihi talis fuisset magnetis copia,
+            <lb ed="#F" n="25"/>qualem optassem, ingenioli vires
+            <lb ed="#F" n="26"/>accuratius essem expertus: video
+            <lb ed="#F" n="27"/>enim necessario aliquid mirabile delitescere, sed nunquam magnetem 
+            com<lb ed="#F" n="28" break="no"/>petentis magnitudinis perfectè homogeneum, ut optassem, habui, ut 
+            dice<lb ed="#F" n="29" break="no"/>bam, &amp; pugnix eius durities saepe etiam imperium detrectavit.
+         <lb ed="#F" n="43" type="fixed=89"/>
+               <figure xml:id="p9i7y5-de9632-Fd1e341">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869832/1011,1107,971,940/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">D C I A B H E G</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375490-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-de9632-d1e359">
+               <lb ed="#F" n="30" type="fixed=89"/>Illud saltem optandum esset, quod etiam optavit Odoardus in 
+            paraeneti<lb ed="#F" n="31" break="no"/>ca citata, multos dari navos, &amp; industrios, qui in longissimis 
+            navigationi<lb ed="#F" n="32" break="no"/>bus Indicis, dum ferè totum peragrant Orbem, observent quantum in 
+            una<lb ed="#F" n="33" break="no"/>quaque poli elevatione inclinent magnetica, &amp; adnotent etiam, si qua est
+            <lb ed="#F" n="34"/>variatio, in eodem parallelo, quod me facturum esse, quantum per me 
+            lice<lb ed="#F" n="35" break="no"/>bit, polliceor, &amp; iam uni, qui ad Sinas anno 1617. discessit, id muneris pro
+            <lb ed="#F" n="36"/>amicitia iniunxi, &amp; ei instrumentum ad id paratum dedi ea ratione, quam
+            <lb ed="#F" n="37"/>Gilbertus praescribit, tunc enim nihil melius excogitaveram. Et quamvis
+            <lb ed="#F" n="38"/>ipse in itinere mortuus sit, habui tamen ex alijs responsum re vera 
+            magne<lb ed="#F" n="39" break="no"/>tica inclinasse parte, quae vergit in septentrionem semper minus, &amp; minus,
+            <lb ed="#F" n="40"/>quo magis accedebant ad aequinoctium, ea ferè ratione, quam perscribit
+            <lb ed="#F" n="41"/>Gilbertus in aequinoctio mansisse versorium horizonti parallelum, ultra 
+            ae<lb ed="#F" n="42" break="no"/>quatorem descendisse partem, quae vergit ad austrum, semper magis, &amp; ma¬
+            <!--108.xml-->
+
+         <!--109.xml-->
+         <pb ed="#F" n="90"/>
+               <lb ed="#F" n="1"/>gis, dum pergerent ad Caput Bonae Spei, quae inclinatio minuebatur 
+            rever<lb ed="#F" n="2" break="no"/>tentibus aequinoctium versus ad partes orientales Africae. Haec mihi 
+            re<lb ed="#F" n="3" break="no"/>scripserunt Patres illi; quae prorsus consentiunt cum doctrina supratradita.
+            <lb ed="#F" n="4"/>Alteri hoc idem iniunxi, qui ad Philippinas proficescebatur anno 1619. per
+            <lb ed="#F" n="5"/>Oceanum del Sur, &amp; responsum adhuc expecto, quòd scripsit ex illis 
+            Philip<lb ed="#F" n="6" break="no"/>pinis se facturum accuratè. Haec habui, quae de hac mira, &amp; suspicienda 
+            in<lb ed="#F" n="7" break="no"/>clinatione magnetica dicerem. Cur autem fiat huiusmodi inclinatio, &amp; cur
+            <lb ed="#F" n="8"/>potius cuspis, quam crux descendat in nostro hemisphaerio, in altero 
+            descen<lb ed="#F" n="9" break="no"/>dat crux (per cuspidem intelligo hic, &amp; etiam infra, cum nominabo, partem
+            <lb ed="#F" n="10"/>llam versorij, quae vergit ad septentrionem: per crucem intelligo partem,
+            <lb ed="#F" n="11"/>quae vergit ad austrum, seu ad polum oppositum) cum haec ad attractionem
+            <lb ed="#F" n="12"/>spectent, ex dicendis suo loco patebunt. hic solum de directione est sermo.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

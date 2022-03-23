@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 19</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 19</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="72"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-de8149"> <!-- l1c19 -->
+            <head xml:id="p9i7y5-de8149-Hd1e107">Caput 19</head>
+            <p xml:id="p9i7y5-de8149-d1e109">
+              <!--91.xml-->
+              <pb ed="#F" n="72"/>
+               <lb ed="#F" n="1"/>Confutatur Gilberti opinio terram esse magnum magnetem.
+              <lb ed="#F" n="2"/>Caput XIX.
+            </p>
+            <p xml:id="p9i7y5-de8149-d1e116">
+               <lb ed="#F" n="3"/>Illud unum reliquum est, ut ea, quae contra Gilbertum habeo,
+            <lb ed="#F" n="4"/>ostendam: videntur enim mihi animosè aliqua dicta. 
+            Con<lb ed="#F" n="5" break="no"/>tendit igitur ille ex illis, quae ponit experimentis, quae tamen,
+            <lb ed="#F" n="6"/>ut dixi, nec summam vim habent, neque etiam evincunt 
+            il<lb ed="#F" n="7" break="no"/>lud, quod hactenus probavimus clarissimè, terram nimirum
+            <lb ed="#F" n="8"/>vim magneticam in tota sua mole habere; ita ut haec sit qualitas totius 
+            glo<lb ed="#F" n="9" break="no"/>bi; contendit, inquam, conficere totam terram magnum esse magnetem,
+            <lb ed="#F" n="10"/>&amp; esse verum magnetem in suis veris atque homogeneis partibus, non 
+            ali<lb ed="#F" n="11" break="no"/>quo externo malo corruptis, ac foedatis. Ex quo etiam spetioso illo titulo
+            <lb ed="#F" n="12"/>opus inscripsit. DE MAGNO MAGNETE TELLURE.
+        </p>
+            <p xml:id="p9i7y5-de8149-d1e140">
+               <lb ed="#F" n="13"/>Imo videtur velle terram ad se omnia trahere sua magnetica vi, quasi 
+            gra<lb ed="#F" n="14" break="no"/>via non deorsum ferantur, quia suomet impetu ad centrum tendant, sed
+            <lb ed="#F" n="15"/>quia magneticè à terra attrahantur. Sic inter magnetis proprietates, 
+            qui<lb ed="#F" n="16" break="no"/>bus similes se ostendunt, &amp; eiusdem naturae terra, &amp; magnes; ea etiam est
+            <lb ed="#F" n="17"/>libro primo, capite ultimo, quod ad eius corpus, quemadmodum ad terram
+            <lb ed="#F" n="18"/>ferri videmus, magnetica corpora confluunt undique, &amp; illi adhaerent. &amp; 
+            li<lb ed="#F" n="19" break="no"/>bro secundo, capite secundo, dum de electricis attractionibus disputat, 
+            di<lb ed="#F" n="20" break="no"/>cit ex electricis effluvium promanare, quo res omnes leviores ad se 
+            tra<lb ed="#F" n="21" break="no"/>hant; aërem terrae effluvium esse, quo omnia sibi adiungat: aër, inquit, 
+            com<lb ed="#F" n="22" break="no"/>mune effluvium telluris, &amp; partes difiunctas unit, &amp; tellus mediante aëre
+            <lb ed="#F" n="23"/>ad se evocat corpora, aliter, quae in superioribus locis essent corpora, ad 
+            ter<lb ed="#F" n="24" break="no"/>ram non ita avide appellerent.
+            <lb ed="#F" n="25"/>Haec non solum falsa sunt, sed etiam cum doctrina eiusdem met auctoris
+            <lb ed="#F" n="26"/>non consentiunt. Quare in eam fere veni sententiam, ut putarim virum
+            <lb ed="#F" n="27"/>eloquentem, &amp; eruditum ad speciem magis, quam ex animo ea, quae 
+            recita<lb ed="#F" n="28" break="no"/>vi, protulisse. Quis enim non videt gravia ad terram non ideo ferri, quia
+            <lb ed="#F" n="29"/>ab ea magnetica vi trahantur? primo enim non omnia gravia à magnete
+            <lb ed="#F" n="30"/>trahuntur, sed solum ferrea; at omnia gravia ad terras ruunt: Deinde 
+            fer<lb ed="#F" n="31" break="no"/>rum incitatissimè ferretur ad terram, &amp; ideo gravissimum videretur; 
+            trahe<lb ed="#F" n="32" break="no"/>retur enim vehementissimè, atqui gravitate vincitur ab auro, plumbo, 
+            mer<lb ed="#F" n="33" break="no"/>curio, in paritate molis quare si ex edito loco globulos alterum ex plumbo,
+            <lb ed="#F" n="34"/>alterum ex ferro eiusdem magnitudinis deijcias simul, citius ad terram
+            <lb ed="#F" n="35"/>plombeus appellet. at contrarium deberet accidere; ferreus enim 
+            vehemen<lb ed="#F" n="36" break="no"/>tius traheretur à magnete tellure. Sed non immoror, quamvis videam 
+            re<lb ed="#F" n="37" break="no"/>centiores aliquos ex hoc ad firmandam suam de terrae mobilitate sententiam
+            <lb ed="#F" n="38"/>suffragium sumere. longiori si vita erit superstes, confutatione alias reijciam.
+            <lb ed="#F" n="39"/>Quod vero aër magneticum sit effluvium, portentum videtur, etiam ipso
+            <lb ed="#F" n="40"/>auctore Gilberto; nec enim corporeum est, quod fluit à magnete (verba il¬
+            <!--92.xml-->
+            <pb ed="#F" n="73"/>
+               <lb ed="#F" n="1"/>lius sunt libro secundo, capite quario) aut quod ferrum ingreditur, aut quod
+            <lb ed="#F" n="2"/>à ferro expergefacto refunditur; sed magnes magnetem forma primaria
+            <lb ed="#F" n="3"/>disponit, quod verum esse, scilicet non esse corporeum, seu non esse effluvium
+            <lb ed="#F" n="4"/>corpusculorum, neque substantiam corpoream, quod circumquaque 
+            emit<lb ed="#F" n="5" break="no"/>titur à magnete, inferius suo loco clarius demonstrabo. ergo aër non est 
+            ma<lb ed="#F" n="6" break="no"/>gneticum terrae effluvium; quia aër corpus est. Quare quidquid sit de 
+            ele<lb ed="#F" n="7" break="no"/>ctricis attractionibus, cum certum sit magneticas attractiones non fieri 
+            ef<lb ed="#F" n="8" break="no"/>fluvio aliquo corporeo, ut probabitur, neque terra, si tota esset magnus 
+            ma<lb ed="#F" n="9" break="no"/>gnes, aëtis effluvium emitteret ad magneticas attractiones.
+        </p>
+            <p xml:id="p9i7y5-de8149-d1e228">
+               <lb ed="#F" n="10"/>Ut autem probemus terram falso magnum magnetem &amp; dici, &amp; 
+            nomi<lb ed="#F" n="11" break="no"/>nari, illud primum esto argumentum, quod nusquam quisquam hoc 
+            expe<lb ed="#F" n="12" break="no"/>rimento aliquo didicit. Quod si ipse exsibilat vanissimum, ut loquitur,
+            <lb ed="#F" n="13"/>Peripateticorum tertestre phantasma, quod nusquam appareat, quando nam
+            <lb ed="#F" n="14"/>adeo altè descendit ipse, ut suam magneticam terram extolleret, &amp; in 
+            aper<lb ed="#F" n="15" break="no"/>tum lucemque proferret? sane quidem, si figmentum utrumque dicamus, 
+            mi<lb ed="#F" n="16" break="no"/>nus portentosum est Aristotelicum, quam Gilberticum. At, inquit, 
+            senti<lb ed="#F" n="17" break="no"/>mus in terra magneticam virtutem. Audio: verum hoc non in eam me
+            <lb ed="#F" n="18"/>trahit sententiam, ut dicam totam terram magnum esse magnetem. sed 
+            sub<lb ed="#F" n="19" break="no"/>det, experimento habere ferri venam, &amp; magnetem idem esse; venam autem
+            <lb ed="#F" n="20"/>ferri ubique esse obviam, &amp; ex omni terra ferrum posse ignis vi trahi. 
+            Pri<lb ed="#F" n="21" break="no"/>mum dictum maiori eget probatione; neque enim quamlibet ferri venam
+            <lb ed="#F" n="22"/>magnetis naturam habere ita constat, ut gratis possit assumi esse vere 
+            ma<lb ed="#F" n="23" break="no"/>gnetem; nisi velimus vocabulis aburi: habeo enim ferri venam bonam, &amp;
+            <lb ed="#F" n="24"/>divitem, quae in fodinis Brixianis eruitur, in qua nullum deprehendo 
+            ma<lb ed="#F" n="25" break="no"/>gnetici vigoris vestigium. non nego tamen aliquas ferreas venas posse 
+            ha<lb ed="#F" n="26" break="no"/>bere magneticam verticitatem. Sed hoc aliàs subibit disputationis aleam:
+            <lb ed="#F" n="27"/>neque enim absolurè hic nego venam ferri, &amp; magnetem idem esse. 
+            Secun<lb ed="#F" n="28" break="no"/>dum sane pernego, venam ferri ubique esse obviam: quamvis enim ex 
+            qua<lb ed="#F" n="29" break="no"/>libet terra argillosa ferrum excoqueretur vi ignis, non verè tamen dixerim
+            <lb ed="#F" n="30"/>terram argillosam venam ferri, nisi nomina rebus velis commutare. Sicut
+            <lb ed="#F" n="31"/>enim Chimici putant se in suis furnulis posse aurum producere, ita assero
+            <lb ed="#F" n="32"/>vi ignis, &amp; vehementi illa alteratione ferrum generari, non quasi 
+            percole<lb ed="#F" n="33" break="no"/>tur, &amp; praeexistat in metallica vena. Ferrum faciliorem habet 
+            generatio<lb ed="#F" n="34" break="no"/>nem quam aurum, &amp; terra magis fortasse disposita est, ut in ferrum transeat
+            <lb ed="#F" n="35"/>quam chimica mistura in aurum: non tamen ideo argilla est vena ferri; &amp;
+            <lb ed="#F" n="36"/>multo minus est magnes, quamvis ex omni terra extraheretur fertum. cum
+            <lb ed="#F" n="37"/>igitur nullus unquam, aut viderit, aut oculatum proferat testem, ut probet
+            <lb ed="#F" n="38"/>internas magis, &amp; minus externo malo foedatas terrae partes verum esse 
+            ma<lb ed="#F" n="39" break="no"/>gnetem eiusdem rationis cum nostrate robustissimo, poeticum est id 
+            assere<lb ed="#F" n="40" break="no"/>re: saltem enim, quo quis magis descendet, eò robustiorem proferet 
+            magne<lb ed="#F" n="41" break="no"/>tem; quod non habemus, &amp; sicut ipse negat, terram frigidam, &amp; siccam, quia
+            <lb ed="#F" n="42"/>nunquam descendendo invenitur, sic nec invenitur magnetica.
+            <!--93.xml-->
+            <pb ed="#F" n="74"/>
+               <lb ed="#F" n="1"/>Deinde si tota terra esset magnes, esset utique perfectissimus, &amp; excelsae
+            <lb ed="#F" n="2"/>cuiusdam, &amp; inclitae virtutis; ergo, cum tanta sit eius moles, tam 
+            exaggera<lb ed="#F" n="3" break="no"/>ta virtus, non posset non maximos effectus praestare, &amp; tanta dignos 
+            excel<lb ed="#F" n="4" break="no"/>lentia, ac magnitudine; quamvis aliqua ex parte quasi contectus sit 
+            perfe<lb ed="#F" n="5" break="no"/>ctus ille magnes, &amp; in extrema ista superficie foedatus, tanta tamen est illius
+            <lb ed="#F" n="6"/>magnitudo tanta virtus, ut nullum possemus ferrum detinere, nec manu,
+            <lb ed="#F" n="7"/>nec alia ratione, quin statim à tellure, magno scilicet magnete, traheretur.
+            <lb ed="#F" n="8"/>Si enim magnes unius librae acum satis magnum in distantia ferè palmari
+            <lb ed="#F" n="9"/>dirigit, &amp; ad se trahit, quid faceret tam ingens magnes, tantaeque virtutis, etsi
+            <lb ed="#F" n="10"/>multum distaret? Certè si ille in distantia palinari attollit acum, iste in 
+            di<lb ed="#F" n="11" break="no"/>stantia viginti milliariorum raperet palum ferreum. Ut enim se habet 
+            li<lb ed="#F" n="12" break="no"/>bralis magnes nec robustissimus ad magnum magnetem tellurem, ita se 
+            ha<lb ed="#F" n="13" break="no"/>bet palmus ad viginti imo ad centum milliaria, cum terrae diameter sit
+            <lb ed="#F" n="14"/>6872. milliaria, ut nonnulli volunt, &amp; ut se habet acus ad magnetem, ita
+            <lb ed="#F" n="15"/>quodlibet magnum ferramentum ad terram. Si enim, ut Gilbertus fatetur,
+            <lb ed="#F" n="16"/>rationem magnitudinis sequitur virtus in magnete, quam exaggerata erit
+            <lb ed="#F" n="17"/>imperfectissimo magno magnete? &amp; ut in extrema superficie, etiam ad 
+            ma<lb ed="#F" n="18" break="no"/>gnam altitudinem terra extremo malo sit foedata, &amp; magneticè non agat,
+            <lb ed="#F" n="19"/>certè actionem reliqui corporis non impedit, cum nihil magneticam 
+            actio<lb ed="#F" n="20" break="no"/>nem impediat, ut postea dicetur. Et sane verissimum esset, quod fabulosè
+            <lb ed="#F" n="21"/>narratur de illis magneticis scopulis, ubi naves sine clavis construendae
+            <lb ed="#F" n="22"/>sunt; ne, dum scopulos praetervehuntur, extractis clavis disolvantur: illa 
+            e<lb ed="#F" n="23" break="no"/>nim fabula est falso rumore sparsa, etiam inter sapientes; at vero tellus 
+            ma<lb ed="#F" n="24" break="no"/>gnus magnes extraheret clavos, &amp; alia ferramenta, etiam à 
+            contignationi<lb ed="#F" n="25" break="no"/>bus, &amp; omnia disolveret.
+        </p>
+            <p xml:id="p9i7y5-de8149-d1e361">
+               <lb ed="#F" n="26"/>Praeterea nosteris, quem habemus, magnes non posset ad se ferrum 
+            tra<lb ed="#F" n="27" break="no"/>here, neque versorium pyxidis ad se convertere, nisi fortasse quis 
+            conscen<lb ed="#F" n="28" break="no"/>deret ad concavum Lunae. Patet hoc evidenter. Sume magnetem libralem
+            <lb ed="#F" n="29"/>satis robustum, &amp; hunc ponito in distantia palmari à versorio pyxidis, cui
+            <lb ed="#F" n="30"/>obverte polum australem lapidis, videbis statim versorium dirigi à 
+            magne<lb ed="#F" n="31" break="no"/>te; &amp; convertere ad eius polum, quo respicitur, cuspidem, qua solet 
+            collima<lb ed="#F" n="32" break="no"/>re in septentrionem. tunc sume particulam lapidis eiusdem virtutis, vel
+            <lb ed="#F" n="33"/>paulo minotis tantam, quantum est granum milij, &amp; minorem, si potes, &amp;
+            <lb ed="#F" n="34"/>illam minimam particulam versorio admoveas, ingeras, frices, obvertas, ut
+            <lb ed="#F" n="35"/>libet, versorium à magnete illo librali deflectere non facies, ne tantillum
+            <lb ed="#F" n="36"/>quidem, ut se ad exiguum illud magnetis accommodet; esto illud exiguum
+            <lb ed="#F" n="37"/>versorium tangat, &amp; magnes libralis distet per palmum. ergo pari ratione
+            <lb ed="#F" n="38"/>si terra esset magnus magnes tantae perfectionis, &amp; virtutis, ut dicitur à 
+            Gil<lb ed="#F" n="39" break="no"/>perto, conformaret ita, &amp; dirigeret versoria ad se, ut nullus ex nostris 
+            ma<lb ed="#F" n="40" break="no"/>gnetibus, vel robustissimus, quantumvis admoveretur, &amp; tangeret, nedum
+            <lb ed="#F" n="41"/>in aliqua distantia posset deducere à directione telluris versorium: 
+            immen<lb ed="#F" n="42" break="no"/>sis enim partibus propemodum minus est, exiguissimum magnetis illud
+            <!--94.xml-->
+            <pb ed="#F" n="75"/>
+               <lb ed="#F" n="1"/>frustum librale, respectu totius terrae, quàm sit granum milij respectu 
+            lapi<lb ed="#F" n="2" break="no"/>dis libralis; &amp; maior est distantia palmaris respectu illius exiguae virtutis,
+            <lb ed="#F" n="3"/>quae potest esse in lapide librali, quam sit distantia viginti, imo centum 
+            mil<lb ed="#F" n="4" break="no"/>liariorum, si cum immensa virtute totius terrae conferas: quater enim haec
+            <lb ed="#F" n="5"/>distantia superat diametrum lapidis circiter. at quid sunt centum milliaria
+            <lb ed="#F" n="6"/>ad diametrum terrae? cum praesertim nec homogeneae terrae partes perfectè
+            <lb ed="#F" n="7"/>magneticè distare credendae sint à nostra superficie per centum milliaria,
+            <lb ed="#F" n="8"/>unde nec tanta erit hic distantia cęteris paribus. Nec magnes ille libralis 
+            so<lb ed="#F" n="9" break="no"/>lum in distantia palmari convertit ad se versorium, sed ad distantiam sex
+            <lb ed="#F" n="10"/>palmorum, &amp; eo amplius, quod nulla ratione, ut probavi, praestare posset, si
+            <lb ed="#F" n="11"/>tam ingenti vi à toto magno magnete tellure detineretur.
+        </p>
+            <p xml:id="p9i7y5-de8149-d1e428">
+               <lb ed="#F" n="12"/>Tum si tota terra esset magnus magnes, &amp; adeo exaltatae virtutis, ut de
+            <lb ed="#F" n="13"/>tanto corpore putandum est, non posset non summam habere activitatem,
+            <lb ed="#F" n="14"/>&amp; vim magneticè ferramenta excitandi: quare sicuti exiguus magnes 
+            libra<lb ed="#F" n="15" break="no"/>lis potest verticitatem momento temporis ferro inspirare, &amp; immutare, ut
+            <lb ed="#F" n="16"/>libuerit, ut diverso modo illi applicatur, &amp; modo hac, modo contraria 
+            ra<lb ed="#F" n="17" break="no"/>tione ingerere, etiam si ferrum magnetem non tangat, dummodo sit intra
+            <lb ed="#F" n="18"/>eius sphaeram; &amp; nullus est magnes, nisi sit omnino prostratae virtutis, qui
+            <lb ed="#F" n="19"/>non possit hanc ferro virtutem communicare valde insignem in tanta 
+            di<lb ed="#F" n="20" break="no"/>stantia à se, quanta est sui semidiametri medietas, etiam non tangendo, &amp;
+            <lb ed="#F" n="21"/>ferro communicet vim etiam alia ferramenta suspendendi, ita etiam terra
+            <lb ed="#F" n="22"/>ferramenta omnia efficaciter magneticè excitabit, priorem verticitatem
+            <lb ed="#F" n="23"/>immutabit, &amp; novam subinde inspirabit, etiam si non tangantur ferro eius
+            <lb ed="#F" n="24"/>partes homogeneae, quae verè, &amp; propriè magneticae sunt: nunquam enim
+            <lb ed="#F" n="25"/>nostra ferramenta distant ab illis veris partibus per semidiametrum terrae:
+            <lb ed="#F" n="26"/>sed neque per trigesimam partem huius semidiametri. quod si terra videtur
+            <lb ed="#F" n="27"/>verticitatem ferro immutare ex eo, quod supra indicatum est, quod ferrum
+            <lb ed="#F" n="28"/>supra, &amp; infra versorium erigendo diversas trahat versorij partes, cur tamen
+            <lb ed="#F" n="29"/>illa diversa verticitas non perdurat? ferrum enim istam qualitatis, &amp; 
+            facie<lb ed="#F" n="30" break="no"/>rum vicissitudinem, non respuit, ut patet, in magnete ferri verticitatem 
+            im<lb ed="#F" n="31" break="no"/>mutante. Si ergo exiguus ille magnes in distantia sui semidiametri ferrum
+            <lb ed="#F" n="32"/>efficaciter excitat, &amp; verticitatem immutat, cur non poterit hoc idem terra
+            <lb ed="#F" n="33"/>in distantia longè minori? Ferramenta igitur omnia apud nos ferrum 
+            su<lb ed="#F" n="34" break="no"/>spendent, &amp; magneticè erunt, excitata efficacissime; quod tamen fieri non
+            <lb ed="#F" n="35"/>videmus, nisi longo annorum decursu, quo solum ingenti spatio à terra 
+            ver<lb ed="#F" n="36" break="no"/>ticitatem acquirunt, &amp; quam semel conceperunt vim, non possunt per 
+            a<lb ed="#F" n="37" break="no"/>ctionem terrae contrariam amittere, nisi longissimo tempore, cum tamen
+            <lb ed="#F" n="38"/>noster magnes inconvenienti distantia etiam momento immutet. ergo non
+            <lb ed="#F" n="39"/>est terra magnus magnes, ut dicitur. Neque illud effugium satis est, terram,
+            <lb ed="#F" n="40"/>quae verè magnes sit, procul in illis visceribus delitescere: nam distantia non
+            <lb ed="#F" n="41"/>est talis, ut impediret actionem tantae virtutis.
+        </p>
+            <p xml:id="p9i7y5-de8149-d1e496">
+               <lb ed="#F" n="42"/>Denique si tota terra magnus esset magnes, &amp; ea, quae à nobis hic in su¬
+            <!--95.xml-->
+            <pb ed="#F" n="76"/>
+               <lb ed="#F" n="1"/>perficie reperitur, aut etiam altissimè defoditur, eflorescentis extremitatis
+            <lb ed="#F" n="2"/>corruptela quaedam esset, externis malis, &amp; astrorum influentijs 
+            deforma<lb ed="#F" n="3" break="no"/>tae, non posset hac terrae magnetica natura salvari variatio, &amp; declinatio,
+            <lb ed="#F" n="4"/>quam à vero meridiano magnetica faciunt, propter quam tamen solam 
+            di<lb ed="#F" n="5" break="no"/>xerim ego auctorem hanc opinionem invexisse: nam, si dicas ideo variari
+            <lb ed="#F" n="6"/>magnetica, quia continentes magnae terrae tanquam vi magnetica magis
+            <lb ed="#F" n="7"/>insignes trahunt ad se versorium, contra verò ingentia illa maria, quia 
+            ma<lb ed="#F" n="8" break="no"/>gnetica non sunt, non trahunt, &amp; hinc esse, quod ad unam magis partem,
+            <lb ed="#F" n="9"/>quam ad alteram inclinent versoria, ut infra explicabitur; quia terrenus glo
+            <lb ed="#F" n="10"/>bus ad illam partem, ad quam versorium vergit, defflectendo, à verò 
+            meri<lb ed="#F" n="11" break="no"/>diano magis eminentem habet virtutem, quae altera ex parte in mari quasi 
+            se<lb ed="#F" n="12" break="no"/>pulta iacet, quod etiam ego pluribus infra explicabo; contra est, quia, si in
+            <lb ed="#F" n="13"/>mari est sepulta virtus sub aquis, ut verae terreni globi partes aquis 
+            praefo<lb ed="#F" n="14" break="no"/>centur, ita etiam continentibus corruptis illis, ac depravatis partibus non
+            <lb ed="#F" n="15"/>magneticis conteguntur verae, quae imis delitescunt inclusae visceribus 
+            qua<lb ed="#F" n="16" break="no"/>re quantum ab externa superficie amovent maria nativam terreni globi
+            <lb ed="#F" n="17"/>substantiam, tantum in continentibus procul arcent depravatae 
+            corrupte<lb ed="#F" n="18" break="no"/>lae: etsi quid est discriminis, ut fingi posse non nego, non illud tale est in
+            <lb ed="#F" n="19"/>tanto corpore, ut tantam possit varietatem efficere. Quod ut videas esse
+            <lb ed="#F" n="20"/>verum,
+        </p>
+            <p xml:id="p9i7y5-de8149-d1e548">
+               <lb ed="#F" n="21"/>Finge tibi, quaeso, terram quantumvis in continentibus ab hac nostra 
+            su<lb ed="#F" n="22" break="no"/>perficie distare decem, vel viginti milliaria, at verò ab extrema superficie
+            <lb ed="#F" n="23"/>magni Oceani quantum eaedem verae partes, quęso te, distabunt? sit, ut lubet
+            <lb ed="#F" n="24"/>duplo maior distantia. iam vero globum sume magneticum perfectè, cuius
+            <lb ed="#F" n="25"/>lineam diametralem divide in sexies mille octingentas partes, si potes, 
+            qua<lb ed="#F" n="26" break="no"/>rum singulae milliare referant: deinde super globum describe arte 
+            geogra<lb ed="#F" n="27" break="no"/>phica maria; &amp; ubi descripseris, rade lapidem in loco maris ad tantam 
+            pro<lb ed="#F" n="28" break="no"/>funditatem, quanta est profunditas decem partium ex illis, in quas 
+            diame<lb ed="#F" n="29" break="no"/>trum divisisti, &amp; aliquid amplius: tum vero caera, aut alia simili re reple 
+            ca<lb ed="#F" n="30" break="no"/>vitates, quas fecisti: licet futurae sint insensibiles, &amp; restituè, si potes globum
+            <lb ed="#F" n="31"/>in pristinam rotunditatem, sit autem de caetero globus perfectè 
+            homoge<lb ed="#F" n="32" break="no"/>neus; senties exiguissimum illud cerae, quod apposuisti, si tamen aliquid 
+            in<lb ed="#F" n="33" break="no"/>ducere potuisti, nullam inducere sensibilem variationem, &amp; ita ferrum 
+            con<lb ed="#F" n="34" break="no"/>formabit se ad meridianum illius terrae, perinde ac si nihil corrasisses, 
+            nihil<lb ed="#F" n="35" break="no"/>que cerae esset superinductum: &amp; tamen induxisti ad altitudinem 
+            propor<lb ed="#F" n="36" break="no"/>tionatam ei, quae dicitur esse in tota terra: &amp; quia non solum ubi maria sunt,
+            <lb ed="#F" n="37"/>sed etiam in continentibus extrema terrae superficies dicitur externis malis
+            <lb ed="#F" n="38"/>foedata, tege iterum totum globum terrae caera ad tantam crassitiem, 
+            quan<lb ed="#F" n="39" break="no"/>tumvis constituere terram esse externis vitiatam malis. ergo, si illud exiguum
+            <lb ed="#F" n="40"/>maioris altitudinis cerae non variat versorium, nec deturbat à proprio statu,
+            <lb ed="#F" n="41"/>&amp; pręvalet tota virtus totius globi; sic etiam si tota terra esset magnetica 
+            ho<lb ed="#F" n="42" break="no"/>mogenea praestantissimae cuiusdam virtutis, maria, quę sua altitudine exi¬
+            <!--96.xml-->
+            <pb ed="#F" n="77"/>
+               <lb ed="#F" n="1"/>guam habent rationem ad totum globum, nullam in directione inducerent
+            <lb ed="#F" n="2"/>variationem. Minus autem ad rem arbitror ad hanc sententiam 
+            compro<lb ed="#F" n="3" break="no"/>bandam illud, quod habet idem auctor, libro quarto, capite secundo, se 
+            ter<lb ed="#F" n="4" break="no"/>rellam habuisse, globum scilicet magnetis, cuius cum nonnulla pars esset
+            <lb ed="#F" n="5"/>cariosa, illa cariositas efficiebat, ut versorium positum supra terrellam non
+            <lb ed="#F" n="6"/>directè polos illius respiceret, sed ab illis declinaret. Non valet, inquam,
+            <lb ed="#F" n="7"/>quia illa cariositas longè maior est respectu illius parvi globi magnetis,
+            <lb ed="#F" n="8"/>quam sint quęlibet maria respectu terrę universae; ac proinde possunt in 
+            ver<lb ed="#F" n="9" break="no"/>sorijs inducere varietatem, quod pręstare nequaquam valent maria, si terra
+            <lb ed="#F" n="10"/>sit perfectus magnus magnes.
+        </p>
+            <p xml:id="p9i7y5-de8149-d1e624">
+               <lb ed="#F" n="11"/>Idem dico de eminentijs, quae eodem capite ponuntur. dicit enim, si sint
+            <lb ed="#F" n="12"/>in eadem terrella eminentiae aliquae satis magnae, futurum, ut hae versorium
+            <lb ed="#F" n="13"/>deturbent à recta in polos collimatione, &amp; ad se convertant. Quis enim 
+            un<lb ed="#F" n="14" break="no"/>quam ausus est affirmare montes, aut alias continentes terras tantam 
+            habe<lb ed="#F" n="15" break="no"/>re molem prae universa terra, quanta ibi in eminentijs fingitur? Illud ego
+            <lb ed="#F" n="16"/>sanè semper audivi, &amp; verò etiam ex mathematicis didici, atque adeo ex 
+            phy<lb ed="#F" n="17" break="no"/>sicis terram rotundam esse, non mathematicè quidem, sed physicè, idest illam
+            <lb ed="#F" n="18"/>diversitatem, &amp; cavitates respectu terrenae molis, non esse sensibiles. Facito
+            <lb ed="#F" n="19"/>igitur huiusmodi etiam eminentias in terrella proportionales illis, quę sunt
+            <lb ed="#F" n="20"/>in terra, &amp; consequenter insensibiles, &amp; videbis nullam efficere 
+            variatio<lb ed="#F" n="21" break="no"/>nem. sicut non facit illa eminentia, quam insularem ipse reputat.
+        </p>
+            <p xml:id="p9i7y5-de8149-d1e651">
+               <lb ed="#F" n="22"/>In summam ergo redigendo totam horum capitum doctrinam, ne quod
+            <lb ed="#F" n="23"/>supra confecimus tot experimentis, hoc postremo discursu evertisse 
+            videa<lb ed="#F" n="24" break="no"/>mur, dico terram vim quidem habere magneticam in tota sua substantia,
+            <lb ed="#F" n="25"/>non solum in aliqua sui parte, praecipua, quam aliquis putat in eius 
+            visceri<lb ed="#F" n="26" break="no"/>bus delitescere, sed totam illam etiam, quae nobis apparet, etiam quae 
+            effodi<lb ed="#F" n="27" break="no"/>tur, quae astrorum concipit caelestes spiritus ad foecunditatem, vim 
+            magne<lb ed="#F" n="28" break="no"/>ticam possidere, simul cum reliquo terreno globo, unius ad instar corporis,
+            <lb ed="#F" n="29"/>ut sit virtus totius globi infirma quidem, &amp; imbecilla, sed tamen vera, &amp;
+            <lb ed="#F" n="30"/>realis, &amp; ita, ut tota telluris moles non maiorem possideat magneticam
+            <lb ed="#F" n="31"/>vim in imis, &amp; repositis suis partibus, quam in externis eminentijs immo, si
+            <lb ed="#F" n="32"/>aliqua sit ponenda diversitas, ista sit, ut fortasse maiorem habeat vim in 
+            su<lb ed="#F" n="33" break="no"/>premis partibus, quam in imis: supremae enim partes sunt praecipuè illę, quę
+            <lb ed="#F" n="34"/>vim debent possidere se conservandi in eodem situ, ut se possint in illo statu
+            <lb ed="#F" n="35"/>conservare, in quo caelorum influentijs positae sunt, &amp; illas conservare 
+            vir<lb ed="#F" n="36" break="no"/>tutes, quibus ab astris ditatae sunt, hac autem vi non indigere videntur ex
+            <lb ed="#F" n="37"/>hoc capite partes internae, ad quas astrorum beneficia non perveniunt 
+            for<lb ed="#F" n="38" break="no"/>tasse ita efficaciter, &amp; propter hoc dixi maiorem esse rationem, cur haec vis
+            <lb ed="#F" n="39"/>magnetica sit in supremis quam in imis terrae partibus. Possidet ergo 
+            tel<lb ed="#F" n="40" break="no"/>lus vim disponendi se ad polos, &amp; suas partes omnes ad meridianum 
+            con<lb ed="#F" n="41" break="no"/>formandi, ut determinatas partes polis subijciat, quam, si placet, ut 
+            hacte<lb ed="#F" n="42" break="no"/>nus fecimus, virtutem magneticam appellemus; si non placet, rem tenes,
+            <!--97.xml-->
+            <pb ed="#F" n="78"/>
+               <lb ed="#F" n="1"/>iam, ut saepe dicam, non multum de nomine laboro, dummodo intelligas
+            <lb ed="#F" n="2"/>me terrae globum non facere totum magnum magnetem, non solum quia
+            <lb ed="#F" n="3"/>nolo lapidosum facere, sed etiam, quia non deprehendo in terrena mole
+            <lb ed="#F" n="4"/>virturem illam eximiam, quam tantus magnes sibi depoposceret, sed solum
+            <lb ed="#F" n="5"/>dicere, illi verticitatem quandam inesse, ut explicatum est. quando verò
+            <lb ed="#F" n="6"/>Gilbertus terram magnum esse magnetem pronunciat, &amp; nostratem 
+            ma<lb ed="#F" n="7" break="no"/>gnetem robustissimum eius praecipuam partem homogeneam contendit;
+            <lb ed="#F" n="8"/>venam vero ferri, &amp; imbecilliorem magnetem magis recedere vult ab illa
+            <lb ed="#F" n="9"/>homogenea terrae substantia, vel vult ista sulum differre secundum aliqua
+            <lb ed="#F" n="10"/>accidentia, vel in ipsa substantia discrimen agnoscit: si discrimen est in 
+            sub<lb ed="#F" n="11" break="no"/>stantia, non erit pars homogenea teriae robustus magnes, sed quid 
+            diver<lb ed="#F" n="12" break="no"/>sum: si est solum in accidente, lapidosa erit terra. Quod si diversitatem
+            <lb ed="#F" n="13"/>substantiae agnoscat, vel miscentur ut arena alba nigrae, &amp; hoc non puto
+            <lb ed="#F" n="14"/>verum, ex rationibus supra dictis, vel fit mistibilium alteratorum unio, &amp;
+            <lb ed="#F" n="15"/>transit in aliam naturam.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

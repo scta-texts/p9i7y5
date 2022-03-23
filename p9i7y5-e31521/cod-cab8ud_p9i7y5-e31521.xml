@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 7</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 7</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="295"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e31521"> <!-- l4c7 -->
+            <head xml:id="p9i7y5-e31521-Hd1e107">Caput 7</head>
+            <p xml:id="p9i7y5-e31521-d1e109">
+               <lb ed="#F" n="3"/>Si collocentur prope duo versoria, vel suspendantur duo magnetes ita, ut ab invicem 
+            rece<lb ed="#F" n="4" break="no"/>dere non possint, collocabunt se in situ parallelo magneticorum
+            <lb ed="#F" n="5"/>longitudines. Cap. VII.
+        </p>
+            <p xml:id="p9i7y5-e31521-d1e118">
+               <lb ed="#F" n="6"/>Dixi supra contrarias facies invicem confluere, &amp; similes se 
+            invi<lb ed="#F" n="7" break="no"/>cem propulsare. Occurret fortasse aliquis hac, quam hic 
+            po<lb ed="#F" n="8" break="no"/>no, propositione: si enim duo versoria collocentur in eodem
+            <lb ed="#F" n="9"/>Horizontis plano in proximo, habentia cuspides ad eandem
+            <lb ed="#F" n="10"/>partem, cur non dissimiles partes statim confluunt ad invicem,
+            <lb ed="#F" n="11"/>ita ut cuspis unius connectatur cum cruce alterius? &amp; cur hoc idem non 
+            ac<lb ed="#F" n="12" break="no"/>cidit, si duo magnetici lapides suspendantur, &amp; facies Septentrionales stant
+            <lb ed="#F" n="13"/>ad eandem partem? non igitur verum est, quod facies oppositae 
+            connectan<lb ed="#F" n="14" break="no"/>tur, &amp; naturali vi ad invicem confluant. Hoc idem alibi posui, dum de 
+            dire<lb ed="#F" n="15" break="no"/>ctione esset sermo; immo ex ipsa vi directiva rationem tradidi, cur sic se 
+            con<lb ed="#F" n="16" break="no"/>forment ad eandem partem cuspides: hic verò, ubi loquor de attractione,
+            <lb ed="#F" n="17"/>hoc idem ex attractionis lege pendere ostendendum est.
+            <lb ed="#F" n="18"/>Rem sic se habere, ut dico, potest quisque sibi probare experientia &amp; 
+            Ad<lb ed="#F" n="19" break="no"/>vertat autem lector, si experimentum sumete velit, ne unum magnetem, aut
+            <lb ed="#F" n="20"/>versorium paulatim ad alterum adducat; neque ex unò capite unum alteri
+            <lb ed="#F" n="21"/>coniungat, praesertim si sit magnum discrimen unius ad alterum, vel 
+            pro<lb ed="#F" n="22" break="no"/>pter virtutis excessum, vel propter inaequalem magnitudinem; 
+            converte<lb ed="#F" n="23" break="no"/>rent enim se tunc magnetica, &amp; versoria, &amp; opposita ratione se invicem 
+            con<lb ed="#F" n="24" break="no"/>iungerent, &amp; cuspis unius ad crucem alterius coniungeretur. Debent igitur
+            <lb ed="#F" n="25"/>ita subito, vel vi tali ita componi, ut centra singulorum sint in eadem recta
+            <lb ed="#F" n="26"/>linea, &amp; sint iam parallela secundum longitudinem, cuspides'que amborum
+            <lb ed="#F" n="27"/>sint ad eandem partem, nec debent posse libere se centra movere, ita ut 
+            rece<lb ed="#F" n="28" break="no"/>dant ab illa recta linea: sic enim converterent se facies oppositae, nec 
+            cuspi<lb ed="#F" n="29" break="no"/>des manerent ad eandem partem. Ex quo vides quantum studij 
+            adhiben<lb ed="#F" n="30" break="no"/>dum sit in experimentis capiendis, antequam absolutè pronuncietur rem, sic
+            <lb ed="#F" n="31"/>se habere. Incredibile enim est quam multa contingere possint, ex quibus
+            <lb ed="#F" n="32"/>effectus diversus appareat, atque re ipsa est. dico ergo, si ponantur versoria
+            <lb ed="#F" n="33"/>sic parallela futurum, ut conquiescant in illo situ, nec contrarias partes ad 
+            in<lb ed="#F" n="34" break="no"/>vicem confluere, sed perpetuo sustinere situm parallelum, cum aliqua tamen
+            <lb ed="#F" n="35"/>violentia, &amp; virtutis detrimento. Ex quo vides, quam in hac philosophia 
+            to<lb ed="#F" n="36" break="no"/>tius ferè alterius doctrinae iura infringantur, cum hic violentum perpetuum
+            <lb ed="#F" n="37"/>constituatur, sustineat tamen violentiam illam natura, ne deterius aliquid
+            <lb ed="#F" n="38"/>contingat.
+            <lb ed="#F" n="39"/>lucunda igitur erit huius rei ratio, ne iura communia videantur 
+            immi<lb ed="#F" n="40" break="no"/>nuta. Sint duo versoria A. B. C. D. constituta, ut ambo cuspides habeant ad
+            <!--314.xml-->
+            <pb ed="#F" n="295"/>
+               <lb ed="#F" n="1"/>eandem partem, &amp; sint ita propè, ut sibi invicem sint intra sphęram 
+            activi<lb ed="#F" n="2" break="no"/>tatis; dico futurum, ut non se convertant
+            <lb ed="#F" n="3"/>nec B. confluat ad C. si hoc deberet 
+            contin<lb ed="#F" n="4" break="no"/>gere D. deberet recipere se ad F. &amp; eodem mo
+            <lb ed="#F" n="5"/>mento A. divertere ad partes G. &amp; tunc 
+            fie<lb ed="#F" n="6" break="no"/>ret illa conformatio, quę dicebatur, &amp; B. 
+            con<lb ed="#F" n="7" break="no"/>iungeretur cum C. alia ratione hoc non 
+            po<lb ed="#F" n="8" break="no"/>test accidere. Verum hoc fieri nequit: si enim
+            <lb ed="#F" n="9"/>contingere deberet, deberet utique D. ad hoc inclinari, ut refugeret à B: B. 
+            au<lb ed="#F" n="10" break="no"/>tem non deberet inclinari à natura, ut fugeret à D. similiter A. deberet 
+            natu<lb ed="#F" n="11" break="no"/>ra moderante declinare à C: at vero C. non deberet incitari ab innata vi, ut
+            <lb ed="#F" n="12"/>fugeret ipsum A. quando enim hoc esset, sequeretur quod dicitur: at vero
+            <lb ed="#F" n="13"/>hoc non contingit, neque natura sic diversas imponit leges: eodem enim co
+            <lb ed="#F" n="14"/>natu, &amp; eodem tempore, quo D, contendit se recipere E versus, ut fugiat à B.
+            <lb ed="#F" n="15"/>etiam ipsum B. se recipit E. versus, ut fugiat à D. &amp; ęqualiter alterum ab 
+            alte<lb ed="#F" n="16" break="no"/>ro divertere tentat; quia ęqualiter alter ab altero male accipitur, dum est in
+            <lb ed="#F" n="17"/>illo statu, &amp; aequales sunt utriusque vires; Suppono enim hic versoria esse ę¬
+            <lb ed="#F" n="18"/>qualia. Verum istos motus, &amp; istam fugam B. non ferunt aliae duae partes
+            <lb ed="#F" n="19"/>oppositae C. &amp; A. quia illo posito nimis malè se haberent; immo quantum
+            <lb ed="#F" n="20"/>commodi accederet ex illa fuga partibus B. D. tantum adveniret incommo
+            <lb ed="#F" n="21"/>di alijs extremitatibus A. C. ac proinde cum etiam ista duo extrema eandem
+            <lb ed="#F" n="22"/>habeant repugnantiam, quam habent alia duo, eodem etiam conatu A, 
+            con<lb ed="#F" n="23" break="no"/>tendit divertere ad G, ut fugiat à C. &amp; C. recedere vult ab A. &amp; accedere ad
+            <lb ed="#F" n="24"/>H. Cum igitur aequalis sit utriusque extremi conatus, ut ab invicem recedat,
+            <lb ed="#F" n="25"/>&amp; aequalis repugnantia, ut coniungatur, constituent se parallela versoria. In
+            <lb ed="#F" n="26"/>quo casu utrique conceditur aequalis victoria; immo, si aut A. C. aut B. D. 
+            com<lb ed="#F" n="27" break="no"/>ponantur, statim recurrent ad situm parallelum; quia in illo statu extrema,
+            <lb ed="#F" n="28"/>quae se tangunt maiorem habent vim ad recedendum; sibi enim invicem sunt
+            <lb ed="#F" n="29"/>intra vires efficaciores; quia propius accedunt quam alia duo extrema. quo
+            <lb ed="#F" n="30"/>fit, ut efficacius recedant, &amp; pro ut in malis minus incommodè se habent, dum
+            <lb ed="#F" n="31"/>sunt in illo statu parallelo.
+         <lb ed="#F" n="43" type="fixed=295"/>
+               <figure xml:id="p9i7y5-e31521-Fd1e270">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870038/1252,451,879,474/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">G E A B C D H F</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375809-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e31521-d1e288">
+               <lb ed="#F" n="32" type="fixed=295"/>Verum si quis poneret versoria inaequalia, &amp; in quibus vires non essent
+            <lb ed="#F" n="33"/>aequales, adhuc futurum dico, ut maneant in situ parallelo. Ratio autem non
+            <lb ed="#F" n="34"/>nihil videtur immutanda: quam, quia non minus est iucunda, sic habeto.
+            <lb ed="#F" n="35"/>Sint duo versoria inaequalia A. B. C. D. quae pariter ponantur in eodem plano
+            <lb ed="#F" n="36"/>Horizontis, centro in eadem linea, &amp; cuspide ad eandem partem; dico 
+            futu<lb ed="#F" n="37" break="no"/>rum, ut se conforment situ parallelo, &amp; cuspidem retineant ad eandem 
+            par<lb ed="#F" n="38" break="no"/>tem, res constat experientia, sed ut non appareat, &amp; probo, vel enim 
+            verso<lb ed="#F" n="39" break="no"/>rium A. B. maius licet ponatur, quam C. D. sentit nihiloninus etiam ipsum
+            <lb ed="#F" n="40"/>actionem, sive contrariam, sive amicam ipsius C. D. quae quamvis minor sit,
+            <lb ed="#F" n="41"/>aliqua tamen est, &amp; ab illa, si sibi adversetur timet: &amp; in illo casu durat 
+            ra<lb ed="#F" n="42" break="no"/>tio superius posita, prout ibi est exposita; nam pariter licet non aequali vi B.
+            <!--314.xml-->
+
+         <!--315.xml-->
+         <pb ed="#F" n="296"/>
+               <lb ed="#F" n="1"/>refugiat à D. &amp; D: à B fugiunt tamen ad oppositas partes. sic pariter A, &amp; C.
+            <lb ed="#F" n="2"/>conantur ab invicem discedere. Ita ex ra
+            <lb ed="#F" n="3"/>tione supra posita ad situm parallelum com
+            <lb ed="#F" n="4"/>ponunt se se, vel certè ita magnum ponitur
+            <lb ed="#F" n="5"/>versorium A. B. &amp; prae illo ita parvum C. D.
+            <lb ed="#F" n="6"/>&amp; infirmum, ut magnum nihil sibi timeat
+            <lb ed="#F" n="7"/>à parvo, sed nec quidquam speret. 
+            Quo<lb ed="#F" n="8" break="no"/>tiescunque enim duo magnetica, ita se 
+            ha<lb ed="#F" n="9" break="no"/>bent, ut unum non fugiat ab actione contrarij alterius, quasi sibi sit 
+            inimi<lb ed="#F" n="10" break="no"/>ca, neque movebitur, ut se accommodet ad actionem illius sibi conformem.
+            <lb ed="#F" n="11"/>Eiusdem enim rationis sunt, &amp; ab eodem principio hiduo motus sequelae,
+            <lb ed="#F" n="12"/>&amp; fugae, &amp; ad eundem finem diriguntur. Unde quod non sufficit ad unum
+            <lb ed="#F" n="13"/>motum efficiendum, nec sufficiet ad alterum. Si igitur ponatur B. non 
+            re<lb ed="#F" n="14" break="no"/>fugere à D. neque A. fugiet à C. immo neque B. movebitur, ut accedat ad C.
+            <lb ed="#F" n="15"/>Si enim nullum damnum potest D. inferre ipsi B. sua contraria actione 
+            pro<lb ed="#F" n="16" break="no"/>pter exiguam vim parvi versorij, neque C. poterit ullam utilitatem afferre
+            <lb ed="#F" n="17"/>eidem B. cum praesertim in universum videatur maleficorum quasi efficacior,
+            <lb ed="#F" n="18"/>ut ita dixerim, natura, quàm sint benefica, &amp; inimica videantur promptiora
+            <lb ed="#F" n="19"/>ad nocendum, quam amica adiuvandum, quia ad destruendum sufficit unum,
+            <lb ed="#F" n="20"/>ad construendum requiruntur omnia, ideo dico malefica esse efficaciora.
+            <lb ed="#F" n="21"/>Cum igitur versorium magnum à parvo nec timeat sibi, nec speret aliquid,
+            <lb ed="#F" n="22"/>sive sibi conformiter iaceat, sive non, non movebitur ex illius praesentia, nec
+            <lb ed="#F" n="23"/>ad hanc, neque ad aliam partem. stabit igitur versorium A. B. quidquid fiat
+            <lb ed="#F" n="24"/>de parvo versorio. Probo iam futurum, ut nec versorium C. D. se moveat ab
+            <lb ed="#F" n="25"/>illa directione parallela; nam si D. deberet recedere à B. C. accederet ad A. &amp;
+            <lb ed="#F" n="26"/>quantum unum extremorum recederet a sibi inimico, tantum alterum 
+            ac<lb ed="#F" n="27" break="no"/>cederet pariter ad inimicum. Sed eodem modo conatur C. recedere ab A.
+            <lb ed="#F" n="28"/>quo D. ab E. ergo non est maior ratio, cur unius potius quam alterius sit 
+            vi<lb ed="#F" n="29" break="no"/>ctoria in aequali conatu, cum praesertim ex illo motu quantum uni 
+            commo<lb ed="#F" n="30" break="no"/>di, tantum alteri incommodi accedat. Quod enim uni prodest, alteri 
+            no<lb ed="#F" n="31" break="no"/>cet, nec unum extremum potest recedere, quin alterum accedat, cum centra
+            <lb ed="#F" n="32"/>ponantur immobilia. manebit igitur etiam parvum versorium, &amp; cuspides
+            <lb ed="#F" n="33"/>manebunt ad eandem partem, si sint versoria in eodem plano Horizontis:
+            <lb ed="#F" n="34"/>quod erat demonstrandum.
+         <lb ed="#F" n="42" type="fixed=296"/>
+               <figure xml:id="p9i7y5-e31521-Fd1e397">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870039/1657,474,707,350/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A B C D</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375810-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e31521-d1e416">
+               <lb ed="#F" n="35" type="fixed=296"/>Hoc idem de duplici magnete suspenso, aut aquis imposito dicendum 
+            e<lb ed="#F" n="36" break="no"/>rit: eadem enim, ut consideranti patebit, militat ratio in magnete, &amp; in 
+            ver<lb ed="#F" n="37" break="no"/>sorio, nisi quod in magnete periculum est ne centra, seu medietates axium
+            <lb ed="#F" n="38"/>ab invicem recedant, &amp; unum se post alterum retrahat; quod si fiat, tunc,
+            <lb ed="#F" n="39"/>quia maior est ratio unius partis quàm alterius, vertent se lapides contrario
+            <lb ed="#F" n="40"/>situ, uti supra explicatum est, nec facies similes ad eandem partem 
+            dirigen<lb ed="#F" n="41" break="no"/>tur. at vero versoria, quia habent centrum immobile, &amp; solum moveri pos¬
+            <!--315.xml-->
+
+         <!--316.xml-->
+         <pb ed="#F" n="297"/>
+               <lb ed="#F" n="1"/>sunt motu gyrationis, nullo vero modo motu recto, ideo ratio supra 
+            posi<lb ed="#F" n="2" break="no"/>ta vim suam obtinet, &amp; manent directa modo explicato.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

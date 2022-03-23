@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 14</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 14</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="233"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e24829"> <!-- l3c14 -->
+            <head xml:id="p9i7y5-e24829-Hd1e107">Caput 14</head>
+            <p xml:id="p9i7y5-e24829-d1e109">
+               <lb ed="#F" n="20"/>Bilances exactissimae non fiant ex ferro, sed ex quolibet alio metallo.
+            <lb ed="#F" n="21"/>Caput XIV.
+        </p>
+            <p xml:id="p9i7y5-e24829-d1e116">
+               <lb ed="#F" n="22"/>Loquor hic non de bilance communi, qua pondera ingentia, &amp;
+            <lb ed="#F" n="23"/>vulgaria examinantur, sed de bilance perfectissima, qua aurum,
+            <lb ed="#F" n="24"/>aut gemmae trutinantur, &amp; quibus cognoscere volumus non so
+            <lb ed="#F" n="25"/>lum scrupulos, sed scrupulorum scrupulos secundos, tertios, &amp;
+            <lb ed="#F" n="26"/>quartos, &amp; etiam eo amplius, qualem ego habui, quae centesimam unius gra
+            <lb ed="#F" n="27"/>ni partem sentit, &amp; ostendit; &amp; de hac pronuncio hastam illius non debere
+            <lb ed="#F" n="28"/>fieri ex ferro, aut chalybe, sed ex quolibet alio potius metallo. Si enim hasta
+            <lb ed="#F" n="29"/>fiat ex ferro, quamvis artifex omni adhibita diligentia libret exacte 
+            truti<lb ed="#F" n="30" break="no"/>nae partes, quamvis ex ipso artifice prodeat perfectissima, quae scrupulorum
+            <lb ed="#F" n="31"/>scrupulos ostendat; tamen facilè potest etiam nihil abradendo, nihil 
+            infle<lb ed="#F" n="32" break="no"/>ctendo depravari, ut amplius ponderibus exactè non respondeat. ergo si
+            <lb ed="#F" n="33"/>debeat talis fieri, ut non depravetur, non debet fieri ex ferro.
+        </p>
+            <p xml:id="p9i7y5-e24829-d1e145">
+               <lb ed="#F" n="34"/>Quod autem sic depravationi subiaceat ferrea bilanx, ostendo. Vel enim
+            <lb ed="#F" n="35"/>ita est elaborata, ut ad quamlibet maiorem vim, quae sit in una parte, pars
+            <lb ed="#F" n="36"/>illa inclinetur, quaecunque tandem sit illa inaequalitas, etiam si sit minima,
+            <lb ed="#F" n="37"/>vel non est ita facile mobilis, ut ad minimam inaequalitatem descendat. Si
+            <lb ed="#F" n="38"/>non est ita facilè mobilis, de ista non loquor, fiat haec ex ferro, fiat ex 
+            quoli<lb ed="#F" n="39" break="no"/>bet alio; loquor de bilance subtilissima, quae quam minimam etiam inaequa
+            <lb ed="#F" n="40"/>litatem ostendit. Si autem sit talis, probo non debere esse ex ferro. Ostendi
+            <!--252.xml-->
+            <pb ed="#F" n="233"/>
+               <lb ed="#F" n="1"/>enim supra, quod ferrum aequilibratum perfectissimè ex axe, ex magnetica
+            <lb ed="#F" n="2"/>vi, quam concipit à tellure, vel à magnete descendit altera extremitate, 
+            al<lb ed="#F" n="3" break="no"/>tera sursum erigitur. ergo etiam si bilancem exactissimè libres, &amp; 
+            facilli<lb ed="#F" n="4" break="no"/>mum habeat motum, ut requiro, descendet stante etiam illa aequali 
+            libra<lb ed="#F" n="5" break="no"/>tione una extremitate deorsum, altera ascendet sursum, dum erit in 
+            meridia<lb ed="#F" n="6" break="no"/>no. Quod si forte contingat, ut nostro magnete tangatur, vel prope 
+            acce<lb ed="#F" n="7" break="no"/>dat, statim turbata erit aequalitas: pars enim illa, quae vim acquisivit 
+            conver<lb ed="#F" n="8" break="no"/>tendi se ad Septentrionem, descendet nullo illi adito pondere. Quod si in
+            <lb ed="#F" n="9"/>quocunque situ, &amp; positione pars illa descenderet, posset ex illa abradi 
+            ali<lb ed="#F" n="10" break="no"/>quid, ut iterum staret aequilibrata; sed non descendet, nisi cum fuerit in 
+            me<lb ed="#F" n="11" break="no"/>ridiano magnetico, &amp; pars illa respexerit Septentrionem. Ne igitur 
+            subia<lb ed="#F" n="12" break="no"/>ceat huiusmodi periculo, quo omnino absque ulla remedij spe tollitur 
+            per<lb ed="#F" n="13" break="no"/>fecta illa Orizontalis aequilibratio, non debet fieri bilanx ex ferro, quod erat
+            <lb ed="#F" n="14"/>ostendendum. Dixi absque ulla remedij spe; quia si forte, ut dixi, 
+            contin<lb ed="#F" n="15" break="no"/>gat, ut magnetem tangat, non poterit contracta virtus magnetica 
+            extermi<lb ed="#F" n="16" break="no"/>nari, nisi aut igne, aut longissimis temporum iniurijs, quibus prorsus bilanx
+            <lb ed="#F" n="17"/>tota corrumpitur.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

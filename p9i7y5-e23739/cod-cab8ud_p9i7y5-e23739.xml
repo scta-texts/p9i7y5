@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 12b</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 12b</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="223"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e23739"> <!-- l3c12b -->
+            <head xml:id="p9i7y5-e23739-Hd1e107">Caput 12b</head>
+            <p xml:id="p9i7y5-e23739-d1e109">
+               <lb ed="#F" n="35"/>Deviationes caeteris partibus maiores sunt in polaribus regionibus, quàm in
+            <lb ed="#F" n="36"/>aequinoctialibus. Cap. XII.
+        </p>
+            <p xml:id="p9i7y5-e23739-d1e116">
+               <lb ed="#F" n="37"/>Sit telluris globus A. B. cuius poli sint A. &amp; B. aequinoctialis sectio C.
+            <lb ed="#F" n="38"/>D. dico caeteris paribus maiores esse deviationes prope polum, &amp; in
+            <lb ed="#F" n="39"/>puncto E. quam remotius ab illo, ut in F. si enim aequalia sint spatia
+            <lb ed="#F" n="40"/>exempli gratia ad Orientem existenti in E. ac sint ad eandem partem existenti
+            <!--242.xml-->
+            <pb ed="#F" n="223"/>
+               <lb ed="#F" n="1"/>in eodem meridiano, sed in F. dico futurum, ut magis versorium declinet,
+            <lb ed="#F" n="2"/>si constituatur in puncto 
+            E<lb ed="#F" n="3" break="no"/>quam si ponatur in F. hoc 
+            u<lb ed="#F" n="4" break="no"/>num est ex illis, in quibus
+            <lb ed="#F" n="5"/>ego alijs fidem praestare 
+            co<lb ed="#F" n="6" break="no"/>gor, quantum spectat ad 
+            ef<lb ed="#F" n="7" break="no"/>fectus veritatem, nec possum
+            <lb ed="#F" n="8"/>ipse met mihi experimentum
+            <lb ed="#F" n="9"/>praebere, habeo tamen aucto
+            <lb ed="#F" n="10"/>res probatissimos viros, 
+            qui<lb ed="#F" n="11" break="no"/>bus ferè tantum credo, quan
+            <lb ed="#F" n="12"/>tum si ego ipse experirer. Sit
+            <lb ed="#F" n="13"/>tibi instar omnium 
+            Gilber<lb ed="#F" n="14" break="no"/>tus lib. 4. cap. 10. ubi hoc 
+            as<lb ed="#F" n="15" break="no"/>serit, ubi etiam, causam, licet
+            <lb ed="#F" n="16"/>previter, subtiliter tamen, &amp;
+            <lb ed="#F" n="17"/>ex intimis huiusce 
+            philoso<lb ed="#F" n="18" break="no"/>phiae penetralibus indicat. ea autem duplex mihi videtur esse.
+         <lb ed="#F" n="43" type="fixed=223"/>
+               <figure xml:id="p9i7y5-e23739-Fd1e173">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869966/1041,481,943,918/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">D A F E C B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375696-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e23739-d1e191">
+               <lb ed="#F" n="19" type="fixed=223"/>Prima est, quia in aequatore firmior est directio magneticorum ad polos,
+            <lb ed="#F" n="20"/>&amp; conformatio cum axe telluris, &amp; vero meridiano; at vero prope polum
+            <lb ed="#F" n="21"/>non tam vehementi nixu ad meridianum se conformant magnetica: hinc
+            <lb ed="#F" n="22"/>fit, ut, cum illud, quod robuste situm aliquem apprehendit, non nisi à robu
+            <lb ed="#F" n="23"/>sta vi possit ab illo dimoveri, ubi vero non ita constanter &amp; valide, totis 
+            vi<lb ed="#F" n="24" break="no"/>ribus conatur ad illam positionem, ab imbecilliori etiam vi possit 
+            dimove<lb ed="#F" n="25" break="no"/>ri, à qua non potuisset in primo casu, cum tota, ut ita dicam, pugnabat 
+            cer<lb ed="#F" n="26" break="no"/>vice, &amp; ab eadem vi minus commoveatur, quod maiori conatu resistit, quam
+            <lb ed="#F" n="27"/>quod minus; hinc, inquam, fit, vt magnetica prope polum caeteris paribus
+            <lb ed="#F" n="28"/>facilius moveantur à vero meridiano, quam ad aequinoctium; quia prope
+            <lb ed="#F" n="29"/>aequinoctium maiori vi nititur ad meridianum, quam prope polum, ubi
+            <lb ed="#F" n="30"/>principaliter infra Orizontem descendit, &amp; ad polum se inclinat.
+        </p>
+            <p xml:id="p9i7y5-e23739-d1e221">
+               <lb ed="#F" n="31"/>Quod autem hoc verum sit, primo probo experientia, deinde exemplo
+            <lb ed="#F" n="32"/>denique ratione. Experientia sit, in quam casu incidi primum; dum enim
+            <lb ed="#F" n="33"/>quaererem rationem conficiendi instrumentum inclinationis, de quo egi su
+            <lb ed="#F" n="34"/>pra libro primo, &amp; in eo studerem, ut vitarem incommodum, quod in 
+            in<lb ed="#F" n="35" break="no"/>strumento Gilberti deprehendebam: in illo enim necesse erat prius 
+            Instru<lb ed="#F" n="36" break="no"/>mentum ipsum suo plano collocare in meridiano magnetico, &amp; tunc demum
+            <lb ed="#F" n="37"/>descendebat acus ad suum locum infra Orizontem, illud vero mihi erat in
+            <lb ed="#F" n="38"/>optatis, ut versorium ipsum per se sibi suum meridianum inveniret, &amp; desce
+            <lb ed="#F" n="39"/>deret infra Orizontem iuxta vires magneticas. naviculam igitur illam, ut sic
+            <lb ed="#F" n="40"/>dixerim, quae media continet axem versorij ita in extremitatibus aptavi 
+            lae<lb ed="#F" n="41" break="no"/>nigatissimis apicibus, quos inforaminibus arte exquisita efformatis 
+            insere<lb ed="#F" n="42" break="no"/>tem; sic enim versorium poterat, ut ipse putabam, facillimè circumagere
+            <!--242.xml-->
+
+         <!--243.xml-->
+         <pb ed="#F" n="224"/>
+               <lb ed="#F" n="1"/>naviculam, ut modo contorquet capillum, &amp; se ad meridianum 
+            conforma<lb ed="#F" n="2" break="no"/>re; simul etiam poterat se in suo axe ad punctum infra Orizontem 
+            inclina<lb ed="#F" n="3" break="no"/>re; atqui, quamvis pro meo artificio exquisitè omnia essent efformata, non
+            <lb ed="#F" n="4"/>habebat versorium tantam vim dirigendi se ad meridianum, ut posset 
+            su<lb ed="#F" n="5" break="no"/>pra axes illos contorquere naviculam. Cum igitur rem non succedere 
+            a<lb ed="#F" n="6" break="no"/>nimadverterem, meridianum, in quo erat infixa navicula, ad planum 
+            O<lb ed="#F" n="7" break="no"/>rizantis demisi, ita ut non amplius vices meridiani gereret, sed Orizontis,
+            <lb ed="#F" n="8"/>&amp; sic duplicem etiam tunc habebat motum versorium Orizontalem, &amp; ver
+            <lb ed="#F" n="9"/>ticalem, quod quaerebam. Atque illa ratione constituto opificio, illam 
+            ean<lb ed="#F" n="10" break="no"/>dem naviculam supra suos axes sic iam contorquebat versorium, &amp; 
+            inclina<lb ed="#F" n="11" break="no"/>bat se infra Orizontem ad sua quaesita puncta, quam tamen naviculam non
+            <lb ed="#F" n="12"/>poterat movere, dum verticaliter erat erecta, ut per illum motum ad suum
+            <lb ed="#F" n="13"/>meridianum magneticum accurreret. Ex hoc experimento talem 
+            confi<lb ed="#F" n="14" break="no"/>cio ratiocinationem. Versorium, dum navicula est verticaliter erecta, non
+            <lb ed="#F" n="15"/>potest illam gyrare, ut ad suum se ferat meridianum, &amp; idem eandem 
+            om<lb ed="#F" n="16" break="no"/>nino versat in nullo melius aptatam, si iaceat Orizontaliter, ut descendat.
+            <lb ed="#F" n="17"/>ad nota puncta infra Orizontem; ergo plus habent magnetica virium ad
+            <lb ed="#F" n="18"/>descendendum infra Orizontem, quam ad collocandum se in suo 
+            meridia<lb ed="#F" n="19" break="no"/>no; cumalla, ut, qua nititur ad meridianum, non possit movere naviculam;
+            <lb ed="#F" n="20"/>at vero illa qua nititur ad descensum infra Orizontem, &amp; possit eandem, &amp;
+            <lb ed="#F" n="21"/>moveat. Quod si quis ex me quaerat, cur sic postea instrumentum 
+            decli<lb ed="#F" n="22" break="no"/>nationis non construxerim, respondeo me id fecisse facilitatem structurae
+            <lb ed="#F" n="23"/>affectantem: illo enim pacto si quis formare vellet, esset impeditum magis
+            <lb ed="#F" n="24"/>opus: tunc enim non solum debet versorium curiosè librare, sed praeterea
+            <lb ed="#F" n="25"/>ipsam naviculam arte exquisita, &amp; supta suos axes ad aequilibrium 
+            collo<lb ed="#F" n="26" break="no"/>care, ut in quolibet situ sit aequilibrata, &amp; foramina, in quibus versorium 
+            in<lb ed="#F" n="27" break="no"/>seritur, omnino in medijs lamellis laevigare; alioquin aut impediretur, aut
+            <lb ed="#F" n="28"/>redderetur incertus descensus magneticorum, si navicula plus ponderis 
+            ha<lb ed="#F" n="29" break="no"/>beret ex una parte, quam ex alia; hoc autem totum praeciditur à capillo 
+            su<lb ed="#F" n="30" break="no"/>spendente, dum Instrumentum constituo, ut feci alias. video unum, quod
+            <lb ed="#F" n="31"/>mihi posset aliquis obijcere, dum erecta perpendiculariter manebat navicu
+            <lb ed="#F" n="32"/>la, sola suo pondere innitebatur supra foramen inferius meridiani; &amp; ideo
+            <lb ed="#F" n="33"/>fricatio ibr erat firmior, qua rotatio impediebatur: at qui etiam dum 
+            iace<lb ed="#F" n="34" break="no"/>bat Orizontaliter supra utrunque foramen, tantundem ponderis premebat,
+            <lb ed="#F" n="35"/>utrunque axiculum, quod ad hoc aequalis erat fricatio, &amp; solum erat divisa,
+            <lb ed="#F" n="36"/>quae prius erat unita.
+        </p>
+            <p xml:id="p9i7y5-e23739-d1e334">
+               <lb ed="#F" n="37"/>Secundo dixi patere exemplo, quod in partibus polaribus minor sit vis
+            <lb ed="#F" n="38"/>directiva, maior inclinativa. Rem ostendo. Ut se habet directio ferri 
+            pro<lb ed="#F" n="39" break="no"/>portionaliter supra globum magneticum, ita se habet conformatio magne
+            <lb ed="#F" n="40"/>tici supra globum telluris. hanc propositionem, quam hic sumo, alibi veram
+            <lb ed="#F" n="41"/>esse ostendi: optima enim proportione respondet telluris globo in 
+            magneti<lb ed="#F" n="42" break="no"/>cis motionibus exigua illa magnetis sphaera, unde nec immerito terrella ap
+            <!--244.xml-->
+            <pb ed="#F" n="225"/>
+               <lb ed="#F" n="1"/>pellatur. Sit ergo magnetis globus A. B. C. D. cuius poli sint A. &amp; B. si 
+            fer<lb ed="#F" n="2" break="no"/>reum obclum 
+            col<lb ed="#F" n="3" break="no"/>loces in C. 
+            confor<lb ed="#F" n="4" break="no"/>mabit se 
+            vehemen<lb ed="#F" n="5" break="no"/>ter ad meridianum,
+            <lb ed="#F" n="6"/>&amp; diriget se ad axem
+            <lb ed="#F" n="7"/>A. B: &amp; sensu ipso per
+            <lb ed="#F" n="8"/>cipies vehementem
+            <lb ed="#F" n="9"/>illam esse directionem:
+            <lb ed="#F" n="10"/>obluctatur enim 
+            co<lb ed="#F" n="11" break="no"/>nanti illum à tali sta
+            <lb ed="#F" n="12"/>tu dimovere; at 
+            ve<lb ed="#F" n="13" break="no"/>ro, ubi ad partes 
+            ma<lb ed="#F" n="14" break="no"/>gis, ac magis 
+            pola<lb ed="#F" n="15" break="no"/>res promoveas ipsum
+            <lb ed="#F" n="16"/>obelum, robustè 
+            qui<lb ed="#F" n="17" break="no"/>dem erigetur, ut 
+            con<lb ed="#F" n="18" break="no"/>spicis ad globum, at
+            <lb ed="#F" n="19"/>facilius à meridiano deturbabitur, ut suadet experientia, ita ut in puncto A.
+            <lb ed="#F" n="20"/>nihil de meridiano videatur solicitùs, solam quaerat directionem ad globum,
+            <lb ed="#F" n="21"/>&amp; quamvis verum sit ibi etiam re ipsi, &amp; in quolibet alio puncto obelum ad
+            <lb ed="#F" n="22"/>meridianum conformari, quia, cum erigitur in A: est etiam in meridiani pla
+            <lb ed="#F" n="23"/>no; tamen re vera experieris facilius alteram extremitatem, quae magnetem
+            <lb ed="#F" n="24"/>non tangit, recedere à plano meridiani, quàm in C. idem igitur contingit
+            <lb ed="#F" n="25"/>in Terra, in qua ad partes polares librata magnetica vehementer quidem
+            <lb ed="#F" n="26"/>descendunt, at à quolibet vel tenui agente à meridiano deturbantur, quod
+            <lb ed="#F" n="27"/>non contingit in aequinoctialibus spacijs, in quibus valide meridiani, nihil
+            <lb ed="#F" n="28"/>descendunt.
+         <lb ed="#F" n="43" type="fixed=225"/>
+               <figure xml:id="p9i7y5-e23739-Fd1e417">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869968/824,504,1120,1006/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A C B D</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375699-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e23739-d1e435">
+               <lb ed="#F" n="29" type="fixed=225"/>Tertio denique ex his huius discriminis ratio affertur, quia cum ibi 
+            ma<lb ed="#F" n="30" break="no"/>ior vis adhibenda sit, si à naturali statu velis rem dimovere, ubi magis 
+            relu<lb ed="#F" n="31" break="no"/>ctatur natura rei: violentum enim est, quod contra naturae impetum tendit,
+            <lb ed="#F" n="32"/>icuti obelus in C. prorsus meridianum quaerit, nec alium habet terminum
+            <lb ed="#F" n="33"/>sui motus; ita in alijs partibus A, versus non solum meridianum quaeret, sed
+            <lb ed="#F" n="34"/>&amp; congruam magneticam positionem ad totum magnetis corpus A. B. &amp;
+            <lb ed="#F" n="35"/>cum magis accedit ad A. minus quaerit meridianam lineam Orizontalem,
+            <lb ed="#F" n="36"/>cum qua semper minorem, &amp; minorem facit angulum descendendo; sic in
+            <lb ed="#F" n="37"/>puncto A. nihil prorsus quaerit. ergo minus contra inclinationem naturae
+            <lb ed="#F" n="38"/>erit, si amoveatur ab illa linea; quia ad illam minori conatu fertur. ergo à
+            <lb ed="#F" n="39"/>vi etiam tenuiori poterit impediri, ne accedat ad meridianum, à qua non po
+            <lb ed="#F" n="40"/>terit impediri, ne descendat, dum est in puncto C. quia tunc toto conatu ad
+            <lb ed="#F" n="41"/>illam tendit, in puncto verò A. nullo conatu ad meridianum tendit, seu 
+            po<lb ed="#F" n="42" break="no"/>tius ubique habet meridianum.
+        </p>
+            <p xml:id="p9i7y5-e23739-d1e468">
+            <!--244.xml-->
+
+         <!--245.xml-->
+               <pb ed="#F" n="226"/>
+               <lb ed="#F" n="43" type="fixed=226"/>
+               <figure xml:id="p9i7y5-e23739-Fd1e479">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869969/1363,1315,1027,667/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">B A H G I F C E D B A</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375701-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="1" type="fixed=226"/>Adde quod ille motus est magis contra inclinationem naturae, in quo mo
+            <lb ed="#F" n="2"/>bile magis removetur à termino natura quaesito; &amp; erit tunc magis 
+            violen<lb ed="#F" n="3" break="no"/>tus, quia fiet magis contra nitente natura, &amp; consequenter ad illum motum
+            <lb ed="#F" n="4"/>efficiendum, seu ad continendum in illo termino tam procul à natura seiun
+            <lb ed="#F" n="5"/>cto mobile, maior requiretur vis, &amp; robustior facultas: sed dum versorium
+            <lb ed="#F" n="6"/>declinat à meridiano in AEquatore per aliquot gradus, magis removetur
+            <lb ed="#F" n="7"/>à suo naturali quaesito termino, quam si idem versorium recedat per totidem
+            <lb ed="#F" n="8"/>gradus ab eodem meridiano prope polum, aut in aliqua minori latitudine.
+            <lb ed="#F" n="9"/>ergo caeteris paribus aequalis vis prope polum magis avocabit versorium
+            <lb ed="#F" n="10"/>à meridiano, quam similis, siue aequalis auocaret idem versorium prope 
+            ae<lb ed="#F" n="11" break="no"/>quatorem, quod est istud, in quo conficiendo hic laboramus. Illud quod
+            <lb ed="#F" n="12"/>in isto argumento assumo. sic ostendo. Versorium in aequinoctiali linea 
+            na<lb ed="#F" n="13" break="no"/>tura etiam librante manet ad Orizontem parallelum, &amp; consequenter, si
+            <lb ed="#F" n="14"/>constituatur ea ratione, quam
+            <lb ed="#F" n="15"/>natura exigit, &amp; deinde circuro
+            <lb ed="#F" n="16"/>tetur, describit circulum, cuius
+            <lb ed="#F" n="17"/>diameter erit longitudo 
+            verso<lb ed="#F" n="18" break="no"/>rij, ut si versorium A. B. ponatur
+            <lb ed="#F" n="19"/>ad Orizontem parallelum 
+            descri<lb ed="#F" n="20" break="no"/>bet, si rotetur circulum C. D. F.
+            <lb ed="#F" n="21"/>E. at vero si idem versorium hic
+            <lb ed="#F" n="22"/>apud nos suspendatur, liberè
+            <lb ed="#F" n="23"/>demittet cuspidem ad B. &amp; sic
+            <lb ed="#F" n="24"/>natura momentum conferente
+            <lb ed="#F" n="25"/>conquiescet; ac proinde, si rotetur in tali situ describet solum circulum 
+            par<lb ed="#F" n="26" break="no"/>vum B. G. H. I. Quia autem longè minor est iste circulus, quam sit ille, qui
+            <lb ed="#F" n="27"/>describitur ab eodem versorio Orizontaliter iacente, ita ut decem gradus
+            <lb ed="#F" n="28"/>istius unicum fere non repleant illius maioris; hinc sit, ut illa vis, quae in 
+            ae<lb ed="#F" n="29" break="no"/>quinoctiali poterat distrahere versorium uno gradu à suo situ naturali, possit
+            <lb ed="#F" n="30"/>hic avocare per decem gradus, quantum dum ibi discedebat per unicum 
+            gra<lb ed="#F" n="31" break="no"/>dum; &amp; ne discedat in isto parvo circulo uno gradu à suo naturali statu, ferè
+            <lb ed="#F" n="32"/>nihil repugnabit; quia, cum ista sit physica, &amp; non mathematica directio, &amp;
+            <lb ed="#F" n="33"/>quaerat physicum non mathematicum situm; quia exiguus est ille gradus,
+            <lb ed="#F" n="34"/>&amp; fere insensibilis, nec sensibiliter mutat physicam actionem dirigentis, 
+            pro<lb ed="#F" n="35" break="no"/>pter quam se versorium conformat ad meridianum; ideo fere non 
+            repu<lb ed="#F" n="36" break="no"/>gnabit hic, ne discedat uno gradu, quod non fecisset in aequinoctiali; quia
+            <lb ed="#F" n="37"/>ibi sensisset vim naturae, &amp; actionem totius terrestris globi, qui sua 
+            magne<lb ed="#F" n="38" break="no"/>tica vi versorium dirigit, cum ibi sinus gradus sit magis sensibilis diversitas.
+            <lb ed="#F" n="39"/>Cum igitur haec non sit directio mathematica, sed physica, physicis 
+            impel<lb ed="#F" n="40" break="no"/>lentibus causis, nisi tantum à convenienti naturae positione removeatur, ut
+            <lb ed="#F" n="41"/>physicam sibi contrariam patiatur actionem ex illa in naturali 
+            collocatio<lb ed="#F" n="42" break="no"/>ne, non repugnabunt avocantia magnetica, vel certè parum repugnabunt.
+            <!--245.xml-->
+
+         <!--246.xml-->
+         <pb ed="#F" n="227"/>
+               <lb ed="#F" n="1"/>Quia vero avocatio per unum, gradum à suo termino in illo parvo circulo
+            <lb ed="#F" n="2"/>talis est, ut ferè sensibilem non possit immutare actionem; quod non fuisset
+            <lb ed="#F" n="3"/>in magno circulo, dum ad Orizontem iacebat versorium natura 
+            disponen<lb ed="#F" n="4" break="no"/>e non arte; ideo non repugnabit, dum movetur versorium supra parvum
+            <lb ed="#F" n="5"/>circulum, vel certè parum repugnabit; repugnabit autem longè magis
+            <lb ed="#F" n="6"/>dum movetur supra magnum circulum, quia illa deviatione sensibiliter 
+            phy<lb ed="#F" n="7" break="no"/>sica variatur actio.
+        </p>
+            <p xml:id="p9i7y5-e23739-d1e610">
+               <lb ed="#F" n="8"/>Duo contra hanc rationem obijci possunt. Primum sit, quod versorium
+            <lb ed="#F" n="9"/>maius, minus declinaret à vero meridiano, quam parvum, cum maius maio
+            <lb ed="#F" n="10"/>rem describat circulum; Unde ex posita doctrina, si quis utrunque velit
+            <lb ed="#F" n="11"/>avocare à proprijs terminis, plus laborabit, si velit avocare magnum, quam
+            <lb ed="#F" n="12"/>si per totidem gradus velit avocare parvum; quia maior futurus est in illo
+            <lb ed="#F" n="13"/>motus, quam in isto in pari graduum declinatione. Verum hoc diceret 
+            ali<lb ed="#F" n="14" break="no"/>quis, qui non sentit hunc magneticum motum non esse violentam 
+            tractio<lb ed="#F" n="15" break="no"/>nem, sed magneticam declinationem.
+        </p>
+            <p xml:id="p9i7y5-e23739-d1e630">
+               <lb ed="#F" n="16"/>Vim patitur versorium, dum discedit à meridiano, si solum telluris globum
+            <lb ed="#F" n="17"/>respicias universum, cuius poli, &amp; axis sunt solemnia puncta, verum 
+            natu<lb ed="#F" n="18" break="no"/>raliter sequitur, si particularem illam causam spectes, nimirum magnam 
+            il<lb ed="#F" n="19" break="no"/>lam continentis partem, ac proinde si ambas istas causas consideres, totum
+            <lb ed="#F" n="20"/>scilicet telluris globum, &amp; magnam illam terrae partem ex illa parte, 
+            quate<lb ed="#F" n="21" break="no"/>nus integrant unicam causam directionum, versorij non erit violenta 
+            di<lb ed="#F" n="22" break="no"/>stractio, sed magnetica dispositio; nec violenter trahetur versorium, sed 
+            na<lb ed="#F" n="23" break="no"/>turaliter sequatur advocantem ipsa sua interna velificante vi, ac proinde to
+            <lb ed="#F" n="24"/>tus telluris globus una cum illa terrae parte unam integrant causam illius
+            <lb ed="#F" n="25"/>naturalis positionis; &amp; ut alibi dictum est, ex interno principio movetur
+            <lb ed="#F" n="26"/>magneticum ad talem sequelam, non vi trahitur. Cum igitur tanta sit vis
+            <lb ed="#F" n="27"/>proportionabiliter in magno versorio, quanta in parvo, ut se ipsum dirigat,
+            <lb ed="#F" n="28"/>aequaliter se conformabunt, &amp; sequentur istam, ut ita dicam, compositam
+            <lb ed="#F" n="29"/>causam parvum versorium, sicut &amp; magnum. &amp; quia aequali conatu 
+            adniti<lb ed="#F" n="30" break="no"/>tur ad verum meridianum magnum, &amp; parvum versorium, &amp; aequalem vim
+            <lb ed="#F" n="31"/>infert contingens illa causa: ex illa parte proportionabiliter, ideo obiectio
+            <lb ed="#F" n="32"/>nihil concludit. solum igitur illud contendo, ut dicebam, illam, ut ita 
+            dixe<lb ed="#F" n="33" break="no"/>conflare causam minoris deviationis; quia ibi tota Terra efficacior est ad
+            <lb ed="#F" n="34"/>rim lateralem Terram in plaga aequinoctiali simul cum toto telluris globo
+            <lb ed="#F" n="35"/>dirigendum, quam conflet tantumdem Terrae in parte polari, causam tamen
+            <lb ed="#F" n="36"/>illam directionis, quae consurgit ex utraque partiali, scilicet ex tota tellure,
+            <lb ed="#F" n="37"/>&amp; ex illa parte, naturaliter, &amp; ex interna vi versorium sequitur, ac proinde
+            <lb ed="#F" n="38"/>aequali vi magnum, &amp; parvum.
+        </p>
+            <p xml:id="p9i7y5-e23739-d1e683">
+               <lb ed="#F" n="39"/>Alterum, quod obijci posset, illud sit. Ratio illa concludit quidem 
+            ver<lb ed="#F" n="40" break="no"/>sorio ita librato, ut se possit inclinare, ut accidit in Instrumento 
+            inclinatio<lb ed="#F" n="41" break="no"/>nis, at non valebit in pyxide, &amp; versorio Orizontaliter constituto, in quo
+            <lb ed="#F" n="42"/>aequalis est motus; cum deviat à vero meridiano, sive sit in aequinoctiali pla¬
+            <!--247.xml-->
+            <pb ed="#F" n="228"/>
+               <lb ed="#F" n="1"/>ga, sive polari. Respondeo primo: verè in eam me venire mentem, ut 
+            suspi<lb ed="#F" n="2" break="no"/>cer versorium in Instrumento declinationis plus declinari sortasse: tamen
+            <lb ed="#F" n="3"/>Respondeo secundo versorium, si vim, &amp; inclinationem magneticam 
+            spe<lb ed="#F" n="4" break="no"/>ctes, violenter hic apud nos librari, neque naturam illud in Orizontis 
+            pla<lb ed="#F" n="5" break="no"/>no continere; quod facit in linea aequinoctiali, sed hoc ex iniqua oritur 
+            li<lb ed="#F" n="6" break="no"/>bratione, &amp; mala conformatione, quod tali impositum stylo, se libere non
+            <lb ed="#F" n="7"/>possit dimittere. Cum igitur natura illi librationi non assentiatur, neque 
+            ea<lb ed="#F" n="8" break="no"/>dem natura, aut immissa magnetica vis laborabit, ut magneticum in illo
+            <lb ed="#F" n="9"/>statu contineat, quem ipsa nec amat, nec causat, ut qui, si non est contra, 
+            cer<lb ed="#F" n="10" break="no"/>te non est secundum eius magneticam naturam. Verum, quia natura amat
+            <lb ed="#F" n="11"/>versorium inclinatum, propterea tantum solum motioni resistet, quantum
+            <lb ed="#F" n="12"/>si versorium esset inclinatum; quia vires naturae ad illum solum statum 
+            con<lb ed="#F" n="13" break="no"/>spirant, &amp; non ad alium, ac proinde repugnabit solum perinde, ac si esset in
+            <lb ed="#F" n="14"/>illo status &amp; quia in illo haberet motum in parvo circulo, intra parvum cir
+            <lb ed="#F" n="15"/>culum quodammodo, ut sic dixerim, suum continet satellitium 
+            magneti<lb ed="#F" n="16" break="no"/>ca vis. Quamvis igitur versorium ad Orizontem maneat, ei perinde 
+            inij<lb ed="#F" n="17" break="no"/>cit magnetica natura compedes, ac si inclinatum maneret; quia ille status
+            <lb ed="#F" n="18"/>magneticus esset, hic vero ferreus est. ideo, quod obijcitur, nihil conficit.
+            <lb ed="#F" n="19"/>imo ex hoc iam clarè conclusionem conficio; ex una parte versorium per
+            <lb ed="#F" n="20"/>magneticam virtutem, quia tantum vellet descendere, habet vim se 
+            continen<lb ed="#F" n="21" break="no"/>di, &amp; resistendi, ac si esset in parvo circulo, exempli causa in versorio D. E. 
+            re<lb ed="#F" n="22" break="no"/>sistit perinde, ac si esset versorium parvum B. C. ne rotetur supra centrum
+            <lb ed="#F" n="23"/>A. at vero, quia vi detinetur 
+            exten<lb ed="#F" n="24" break="no"/>sum, &amp; est totum corpus aptum trahi
+            <lb ed="#F" n="25"/>à magnete; trahtur ergo etiam in pun
+            <lb ed="#F" n="26"/>cto E. &amp; D. cum igitur movens sit in
+            <lb ed="#F" n="27"/>E. &amp; resistens in C. prope centrum A.
+            <lb ed="#F" n="28"/>facilius movebit, quam si idem resistens esset in E. vel D. quod contingit
+            <lb ed="#F" n="29"/>in aequatore, ubi detinetur Orizontaliter versorium, &amp; tota vi magnetica 
+            di<lb ed="#F" n="30" break="no"/>rigente magnum describit circulum, &amp; consequenter idem est, ac si resistens
+            <lb ed="#F" n="31"/>motioni sit in toto versorio. Ab eadem igitur potentia in E. facilius 
+            mo<lb ed="#F" n="32" break="no"/>vebitur versorium, si resistens sit in C. quam si sit pariter idem in E. quanto
+            <lb ed="#F" n="33"/>est maior distantia A. E. quam A. C. ut demonstratur de vecte, atque hoc
+            <lb ed="#F" n="34"/>hic contendo.
+         <lb ed="#F" n="43" type="fixed=228"/>
+               <figure xml:id="p9i7y5-e23739-Fd1e775">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869971/1477,1931,831,271/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">E B C D A</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375704-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e23739-d1e793">
+               <lb ed="#F" n="35" type="fixed=228"/>Hactenus primam posuimus rationem, cur caeteris paribus 
+            declinatio<lb ed="#F" n="36" break="no"/>nes maiores sint in partibus polaribus, quam in aequinoctialibus, quia 
+            ni<lb ed="#F" n="37" break="no"/>mrum magnetica natura in polaribus minus semper, &amp; minus, quo magis
+            <lb ed="#F" n="38"/>ad polum acceditur, resistit, dum à meridiano avocatur, quod solum 
+            con<lb ed="#F" n="39" break="no"/>tendit in aequinoctio; sed contra semper contendit, ut magis magis'que depri
+            <lb ed="#F" n="40"/>mat, ita ut in ipso polo nihil curare de Meridiano videatur, nec dirigat, sed
+            <lb ed="#F" n="41"/>erigat ad axem. Verum non ista solum huius effectus est causa.
+        </p>
+            <p xml:id="p9i7y5-e23739-d1e811">
+               <lb ed="#F" n="42"/>Altera ratio sit, quia, partes Terrae polares in aequali magnitudine maio¬
+            <!--247.xml-->
+
+         <!--248.xml-->
+         <pb ed="#F" n="229"/>
+               <lb ed="#F" n="1"/>rem habent magneticam actionem, quam aequinoctialem, dum in toto 
+            in<lb ed="#F" n="2" break="no"/>sunt globo. Consulto autem non dixi magis esse magneticas, sed maiorem
+            <lb ed="#F" n="3"/>habere magneticam actionem: sicut enim in magnete partes, quae sunt 
+            pro<lb ed="#F" n="4" break="no"/>pe polum, robustius agunt magneticè pręcisè secundum se, dum sunt in 
+            to<lb ed="#F" n="5" break="no"/>to lapide; non tamen propterea secundum se spectatae magis magneticam
+            <lb ed="#F" n="6"/>participant naturam, atque aliae non polares; &amp; tantundem virium habet
+            <lb ed="#F" n="7"/>ad magneticas actiones frustum lapidis, quod praecidatur à parte polari, 
+            at<lb ed="#F" n="8" break="no"/>que pręcisum ab aequinoctio, ut experientia constat; licet, dum in toto 
+            utra<lb ed="#F" n="9" break="no"/>que pars inest lapide, magneticae vires se magis prodant in polaribus, quam
+            <lb ed="#F" n="10"/>in aequinoctialibus. Ita, cum robustiores sint ad agendum partes polares,
+            <lb ed="#F" n="11"/>non est mirum, quod in paritate molis, &amp; amplitudinis, continentia spatia,
+            <lb ed="#F" n="12"/>quae sunt prope polum, magis cogant versorium digredi à vero meridiano,
+            <lb ed="#F" n="13"/>quam cogant aequinoctialia; ac proinde in universum magis aberret à 
+            me<lb ed="#F" n="14" break="no"/>ridiano versorium ad polos, quam ad aequinoctium. Verum, quod in toto
+            <lb ed="#F" n="15"/>telluris globo partes polares plus magneticè possint, ostendo experimento
+            <lb ed="#F" n="16"/>&amp; ratione.
+        </p>
+            <p xml:id="p9i7y5-e23739-d1e857">
+               <lb ed="#F" n="43" type="fixed=229"/>
+               <figure xml:id="p9i7y5-e23739-Fd1e862">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869972/791,1632,1183,1168/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A B C D</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375705-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="17" type="fixed=229"/>Experimentum hoc sit. sumatur magnes C. D. cuius poli sint C. &amp; D. 
+            col<lb ed="#F" n="18" break="no"/>locentur autem poli ad
+            <lb ed="#F" n="19"/>Orizontem paralleli; 
+            de<lb ed="#F" n="20" break="no"/>inde appenso ad filum
+            <lb ed="#F" n="21"/>acu suspendatur supra
+            <lb ed="#F" n="22"/>magnetem, si acus pars
+            <lb ed="#F" n="23"/>A. vel B. magis accedet
+            <lb ed="#F" n="24"/>ad partem C. vel D. non
+            <lb ed="#F" n="25"/>solum illa pars acus 
+            in<lb ed="#F" n="26" break="no"/>clinabitur ad magnetem
+            <lb ed="#F" n="27"/>ut conetur, quantum po
+            <lb ed="#F" n="28"/>test, illi coniungi, sed ita
+            <lb ed="#F" n="29"/>inclinabitur, ut filum non
+            <lb ed="#F" n="30"/>amplius cadat 
+            perpen<lb ed="#F" n="31" break="no"/>diculariter, sed distraha
+            <lb ed="#F" n="32"/>tur à perpendiculo ad 
+            il<lb ed="#F" n="33" break="no"/>lam partem polarem, quae
+            <lb ed="#F" n="34"/>propius accedit ad acum,
+            <lb ed="#F" n="35"/>&amp; ad quam acus 
+            incli<lb ed="#F" n="36" break="no"/>natur; licet haec 
+            devia<lb ed="#F" n="37" break="no"/>tio magna admodum non
+            <lb ed="#F" n="38"/>sit; ex hoc tamen patet
+            <lb ed="#F" n="39"/>partem polarem maiorem aliquam, ut ita dicam, habere attrahendi vim,
+            <lb ed="#F" n="40"/>quam habeant aliae. Si enim vehementius ad illas non ferretur ferrum,
+            <lb ed="#F" n="41"/>inclinaret se quidem acus ex illa parte, quae propius ad lapidem accedit, non
+            <lb ed="#F" n="42"/>vero se à perpendiculo dimoveret, neque, ut ita dicam, se urgeret ad illam
+            <!--248.xml-->
+
+         <!--249.xml-->
+         <pb ed="#F" n="230"/>
+               <lb ed="#F" n="1"/>partem, quod cum contingere videatur, signum est illas partes polares 
+            ali<lb ed="#F" n="2" break="no"/>qua vehementiori vi ad se ferrum provocare. Praeterea, si supra lapidem, 
+            cu<lb ed="#F" n="3" break="no"/>ius poli ad Orizontem maneant, permittas decidere obelum ferreum 
+            exi<lb ed="#F" n="4" break="no"/>guum, decidat autem Orizonti parallelus, non cadet ad perpendiculum,
+            <lb ed="#F" n="5"/>sed propius ad unum, vel alterum polorum declinabit.
+        </p>
+            <p xml:id="p9i7y5-e23739-d1e953">
+               <lb ed="#F" n="6"/>Huius vero rei ea sit ratio ex alibi dictis, quia cum magnes tota sua 
+            sub<lb ed="#F" n="7" break="no"/>stantia ita agat, ut tamen actio per ordinem ad polos profundatur, &amp; 
+            pro<lb ed="#F" n="8" break="no"/>pagetur, &amp; reliquae intermediae partes, quasi suas transmittant vires ad 
+            pola<lb ed="#F" n="9" break="no"/>res, &amp; proprium veluti militem velint sub illarum venire vexillum; hinc fit,
+            <lb ed="#F" n="10"/>ut, quo pars magis fuerit polaris; maiores etiam ostensura sit vires ad 
+            agen<lb ed="#F" n="11" break="no"/>dum; quia plures sunt partes, quae ad illam quasi suppetias transmittunt, &amp;
+            <lb ed="#F" n="12"/>ad illam dirigunt actionis nervum. Cum ergo maior aliqua sit efficacia in
+            <lb ed="#F" n="13"/>parte polari, non est mirum quod caeteris paribus maiorem efficere possit
+            <lb ed="#F" n="14"/>deviationem.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

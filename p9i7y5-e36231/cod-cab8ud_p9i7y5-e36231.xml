@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 20</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 20</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="339"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e36231"> <!-- l4c20 -->
+            <head xml:id="p9i7y5-e36231-Hd1e107">Caput 20</head>
+            <p xml:id="p9i7y5-e36231-d1e109">
+               <lb ed="#F" n="17" type="fixed=338"/>Motus perpetuus non videtur posse fieri per 
+            ma<lb ed="#F" n="18" break="no"/>gneticam attractionem; &amp;, si posset fieri, quae
+            <lb ed="#F" n="19"/>esset tentanda via. Cap. XX.
+        </p>
+            <p xml:id="p9i7y5-e36231-d1e118">
+               <lb ed="#F" n="20"/>Non impugno alibi satis impugnatum, &amp; explosum Petri 
+            Pere<lb ed="#F" n="21" break="no"/>grini globum magneticum, quem supra polos dispositum, &amp;
+            <lb ed="#F" n="22"/>aptè accommodatum putavit posse perpetuò moveri 
+            circula<lb ed="#F" n="23" break="no"/>riter ad motum Caeli, et primi mobilis; sed solum aliquos hic
+            <lb ed="#F" n="24"/>moneo, qui per magneticas attractiones putant se posse 
+            face<lb ed="#F" n="25" break="no"/>re motum perpetuum, ne operam ludant. Putant enim se posse sic 
+            dispone<lb ed="#F" n="26" break="no"/>re magnetem, ut trahat ad se ferrum, quod, dum trahitur, perveniat ad 
+            fo<lb ed="#F" n="27" break="no"/>veam quandam, in qua decidens ferrum recurrat ad primum locum, à quo
+            <lb ed="#F" n="28"/>primo cępit trahi à magnete, unde tursus trahatur, &amp; sic perpetuo res 
+            mo<lb ed="#F" n="29" break="no"/>veatur. In eruditorum hominum scripta irrepsit etiam hic error. Dico igitur
+            <lb ed="#F" n="30"/>hoc, quantum ego cognoscere potui de magnetica natura, fieri non posse,
+            <lb ed="#F" n="31"/>ut placuit Gilberto lib. 2. cap. 4. qui in eandem venit sententiam. Ne igitur
+            <lb ed="#F" n="32"/>principibus viris machinatores isti imponant, dum iactant se motum 
+            per<lb ed="#F" n="33" break="no"/>petuum efficere posse, ubi senseris in huiusmodi machinis magnetem 
+            adhi<lb ed="#F" n="34" break="no"/>beri, imposturam, &amp; fallaciam agnoscas, neque sumptus nisi animo 
+            effun<lb ed="#F" n="35" break="no"/>dendi subministres.
+        </p>
+            <p xml:id="p9i7y5-e36231-d1e155">
+               <lb ed="#F" n="36"/>Ostendo rem breviter ex magneticis principijs. Non potest per magnetem
+            <lb ed="#F" n="37"/>motus perpetuus effici, quocunque tandem artificio machinamenta disponan
+            <lb ed="#F" n="38"/>tur, nisi rem sic componendo, ut magnes ad se ferrum trahat, in medio vero itine
+            <lb ed="#F" n="39"/>re decidat, vel ipse lapis, vel certe ferrum in foveam aliquam, ex quo casu 
+            rever<lb ed="#F" n="40" break="no"/>tatur in locum pristinum, ex quo loco primo incępit motus magneticus.
+            <lb ed="#F" n="41"/>Quomodocunque tandem res disponantur, sive in gyrum, sive alia quapiam rationem,
+            <!--357.xml-->
+
+         <!--358.xml-->
+         <pb ed="#F" n="339"/>
+               <lb ed="#F" n="1"/>&amp; quomodocunque constituatur machina, res tandem in hoc debet 
+            consum<lb ed="#F" n="2" break="no"/>mari, &amp; ad hoc sive directè, sive indirectè reduci. Si enim magnes adhibetur
+            <lb ed="#F" n="3"/>ad motum, id sanè erit, ut ad se ferrum trahat, vel ut ipse magnes ad ferrum
+            <lb ed="#F" n="4"/>se conferat. Quod si ratio, ob quam magnes adhibetur, non est ob talem 
+            at<lb ed="#F" n="5" break="no"/>tractionem, tam poterit magnes adhiberi, quam plumbum, aut quodlibet
+            <lb ed="#F" n="6"/>aliud corpus grave; verum motus iste, in quo adhibeatur magnes, non erit
+            <lb ed="#F" n="7"/>perpetuus per talem attractionem, si magnes ferrum trahat, &amp; sibi 
+            coniun<lb ed="#F" n="8" break="no"/>gat; nec amplius ab illo separetur: tunc enim absolutum erit negotium, cum
+            <lb ed="#F" n="9"/>facta erit ferruminatio, nec ulterius deserviet motus magneticus. debet ergo
+            <lb ed="#F" n="10"/>ita trahi, ut non coniungatur simul magnes, &amp; ferrum, &amp; consequenter 
+            de<lb ed="#F" n="11" break="no"/>bet aliquo artificio decidere alterum illorum, ut iterum incipiat tractio.
+        </p>
+            <p xml:id="p9i7y5-e36231-d1e202">
+               <lb ed="#F" n="12"/>Hoc autem si ponatur, dico poni aliquid, quod magneticis repugnat mo
+            <lb ed="#F" n="13"/>tionibus. Si enim magnes tantum habuit virium, ut potuerit ferrum 
+            pro<lb ed="#F" n="14" break="no"/>cul positum, &amp; consequenter in maxime infirma virtutis sphaera ad se 
+            pro<lb ed="#F" n="15" break="no"/>nocare, &amp; efficere, ut motum inciperet, quando iam deduxerit ad locum 
+            pro<lb ed="#F" n="16" break="no"/>ximiorem, in quo virtus robustior est, &amp; efficacior, certè non dimittet, &amp; vel
+            <lb ed="#F" n="17"/>per subiectam foveam ad se rapiet. Si enim tantum habuit virium, ut 
+            com<lb ed="#F" n="18" break="no"/>moveret etiam procul positum ferrum, robustius retinebit in proximo, nec
+            <lb ed="#F" n="19"/>recedere permittet.
+            <lb ed="#F" n="20"/>Quia autem singulorum commenta nec possum, nec debeo hic 
+            excogi<lb ed="#F" n="21" break="no"/>tare, ideo hoc mihi in universum dixisse satis sit, magnetem non robustius
+            <lb ed="#F" n="22"/>trahere procul, quam proxime, ut attollat ferrum, deinde sublatum in via
+            <lb ed="#F" n="23"/>sibi decidere sinat, nisi omnino ex aliquo accidente id contingat; nec 
+            robu<lb ed="#F" n="24" break="no"/>stiorem esse rractionem quam sit adhaesio. Proinde videat, qui huiusmodi
+            <lb ed="#F" n="25"/>inventa examinanda suscipit, ne aliquid contra hoc supponatur: infirmato
+            <lb ed="#F" n="26"/>enim &amp; everso fundamento, tota aedificij moles ruet.
+        </p>
+            <p xml:id="p9i7y5-e36231-d1e237">
+               <lb ed="#F" n="27"/>Verum posset quispiam magis fortassis eruditus, sed in magneticis 
+            tra<lb ed="#F" n="28" break="no"/>ctionibus non exercitatissimus, sic ratiocinari; ut pondus per planum 
+            Ho<lb ed="#F" n="29" break="no"/>rizontis trahatur, tanta requiritur vis; si per planum inclinatum, quod ad
+            <lb ed="#F" n="30"/>subiectum planum datum angulum efficiat, maior requiritur potentia, 
+            ma<lb ed="#F" n="31" break="no"/>xima, ut arbitror, ad hoc ut perpendiculariter sursum trahatur. Data autem
+            <lb ed="#F" n="32"/>potentia, quae datum pondus in plano Horizonti parallelo trahat, quanto
+            <lb ed="#F" n="33"/>maior requiratur. si trahere debeat in plano Horizonti inclinato, dato 
+            incli<lb ed="#F" n="34" break="no"/>nationis angulo: sic demonstrat Pappus Alexandrinus lib. 8. collectionum,
+            <lb ed="#F" n="35"/>propositione 9.
+        </p>
+            <p xml:id="p9i7y5-e36231-d1e259">
+               <lb ed="#F" n="36"/>Sit subiectum planum per rectam lineam M. N. transiens: M. k. vero planum
+            <lb ed="#F" n="37"/>ad ipsum inclinatum in dato angulo K. M. N. &amp; aliquod pondus A. 
+            movea<lb ed="#F" n="38" break="no"/>tur à potentia C. in subiecto plano. intelligatur circulus circa E. centrum 
+            ae<lb ed="#F" n="39" break="no"/>que gravis atque A. qui ponatur in plano M. K. ipsum contingens in L. 
+            si<lb ed="#F" n="40" break="no"/>cut enim Archimedes de aeque ponderantibus affumpsit figuras planas pon
+            <lb ed="#F" n="41"/>derantes, possum etiam ego hic sumere circulum pro sphaera,) cadat ergo li¬
+            <!--359.xml-->
+            <pb ed="#F" n="340"/>
+               <lb ed="#F" n="1"/>nea E. L. à centro ad tangentem ducta perpendiculariter, perque centrum E.
+            <lb ed="#F" n="2"/>ipsi M. N. parallela ducatur E. H. &amp; a puncto L. ad E. H. ducatur perpendicu¬
+            <!--359.xml-->
+            <pb ed="#F" n="340"/>
+               <lb ed="#F" n="3"/>dato K. M. N. aequalis, erit &amp; E. L. F. angulus datus aequalis scilicet angulo E.
+            <lb ed="#F" n="4"/>H. L. quod triangulum E. L. F. triangulo E. H. L. aequiangulum sit: ergo 
+            trian<lb ed="#F" n="5" break="no"/>gulum E. L. F. specie datur, &amp; data est proportio E. L. hoc est E. G. ad E. F. 
+            qua<lb ed="#F" n="6" break="no"/>re reliquę F. G. ad E. F. proportio data erit, fiat ut G. F ad F. E. ita pondus A. ad
+            <lb ed="#F" n="7"/>pondus B. quod inveniatur. similiter inveniatur potentia D. quae ad potentiam
+            <lb ed="#F" n="8"/>C. habeat eandem proportionem, quam G. F. ad F. E. Quoniam igitur factum
+            <lb ed="#F" n="9"/>est, ut G. F. ad F E. ita pondus A. ad pondus B. si ponatur pondus A. in E. &amp;
+            <lb ed="#F" n="10"/>sustentetur in L. hoc est in F quia cum L. F. cadat perpendiculariter ad planum
+            <lb ed="#F" n="11"/>Horizontis, perinde est sustentari in L. ac sustentari in F. si debeat detineri,
+            <lb ed="#F" n="12"/>ne pondus A. positum in E. deorsum ruat, dum sustentatur in F. debet poni in
+            <lb ed="#F" n="13"/>G. pondus B. tunc enim, quia ita se habet E. F. ad F. G. ut pondus B. ad pondus
+            <lb ed="#F" n="14"/>A. aequiponderabunt ex puncto F. suspensa; &amp; ita sphaera ob plani 
+            inclinatio<lb ed="#F" n="15" break="no"/>nem deorsum non feretur, sed stabilis permanebit, tanquam si in subiecto
+            <lb ed="#F" n="16"/>plano esset. movebatur autem in subiecto plano à potentia G. quare in 
+            pla<lb ed="#F" n="17" break="no"/>no inclinato movebitur à potentia D. sicut enim B. se habet ad sustentandum
+            <lb ed="#F" n="18"/>A. ita se habet D. ad movendum, &amp; haec erit quaesita potentia.
+         <lb ed="#F" n="29" type="fixed=340"/>
+               <figure xml:id="p9i7y5-e36231-Fd1e325">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870083/679,611,1599,816/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">N E O K H L M P G F S R E I T B A C D Q</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375876-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e36231-d1e343">
+               <lb ed="#F" n="19" type="fixed=340"/>Sicut ergo requiritur maior vis ad movendum A. quo maior est angulus
+            <lb ed="#F" n="20"/>inclinationis K. M. N. ita maxima requiretur vis, ut directè 
+            perpendiculari<lb ed="#F" n="21" break="no"/>ter sursum trahatur A. Intelligatur ergo positus magnes in K. &amp; ferrum
+            <lb ed="#F" n="22"/>in M. magnes sit tantae virtutis, ut possit per planum illud inclinatum 
+            tra<lb ed="#F" n="23" break="no"/>here, non vero tantam habeat vim, ut possit perpendiculariter sursum
+            <lb ed="#F" n="24"/>adducere, si alicui plano non innitatur ferrum. trahat igitur ferrum P. 
+            ma<lb ed="#F" n="25" break="no"/>gnes A. B. usque ad O. per planum illud inclinatum, ibi vero interrumpatur planum,
+            <lb ed="#F" n="26"/>ubi pervenerit ferrum P. ad spatium O. non poterit amplius trahi à magnete; quia 
+            sup<lb ed="#F" n="27" break="no"/>ponit non habere vim ductandi, nisi per planum. decidet ergo, &amp; per lineam curvam
+            <lb ed="#F" n="28"/>subie¬
+            <!--359.xml-->
+
+         <!--360.xml-->
+         <pb ed="#F" n="341"/>
+               <lb ed="#F" n="1"/>subiectam, dum impetum, concipit ex motu seu casu perpendiculari, refluet
+            <lb ed="#F" n="2"/>ad M. ubi suppono esse, quasi ostium, quod sibi, dum impetu fluit per curvam
+            <!--360.xml-->
+            <pb ed="#F" n="341"/>
+               <lb ed="#F" n="3"/>lineam, aperiat ferrea pila, &amp; dum refluit, claudat. Sicuri ergo prima vice
+            <lb ed="#F" n="4"/>magnes A. B. ad k. existens traxit ferrum P. in M. positum ita iterumsursum 
+            tra<lb ed="#F" n="5" break="no"/>het, &amp; deducet ad O. ex quo per curvam lineam refluet ad M. ut sursum 
+            tra<lb ed="#F" n="6" break="no"/>hatur. &amp; sic fiet motus perpetuus, cuius artificij in eo vis consistit, quod 
+            ma<lb ed="#F" n="7" break="no"/>ior requiratur vis ad suspendendum ferrum, quam ad trahendum per planum
+            <lb ed="#F" n="8"/>praesertim non inclinatissimum, quale suppono esse planum K. M.
+         <lb ed="#F" n="30" type="fixed=341"/>
+               <figure xml:id="p9i7y5-e36231-Fd1e398">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870084/124,540,1893,831/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">S P M R K B A</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375878-r7</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e36231-d1e416">
+               <lb ed="#F" n="9" type="fixed=341"/>Hoc artificium ad motum perpetuum efficiendum, si ullum aliud, 
+            quan<lb ed="#F" n="10" break="no"/>tum ego videre possum, aptissimum est, &amp; plus, minus, si quid per magntem
+            <lb ed="#F" n="11"/>efficiendum est, in hoc tandem recident inventa, neque alicui simplex nimis
+            <lb ed="#F" n="12"/>videatur hoc artificium; nam, si, quod ego sentio, aperire debeo, quo 
+            artifi<lb ed="#F" n="13" break="no"/>cium magis simplex fuerit, &amp; minus tricis, &amp; involucris stipatum, eo etiam
+            <lb ed="#F" n="14"/>magis erit idoneum: multiplicatis enim organis, nova semper consurgunt
+            <lb ed="#F" n="15"/>eximateria impedimenta, neque enim absolutè fortasse erit impossibile 
+            ma<lb ed="#F" n="16" break="no"/>thematicis demonstrationibus ostendere motum perpetuum aliquo 
+            artifi<lb ed="#F" n="17" break="no"/>cio effici posse, sed id re ipsa exequi difficillimum est, si non impossibile, &amp;
+            <lb ed="#F" n="18"/>hoc, quia materiae resistentia ad mathematicas rationes deduci non potest;
+            <lb ed="#F" n="19"/>neque possunt fieri contactus in puncto, &amp; in linea, sicuti mathematicae sup
+            <lb ed="#F" n="20"/>ponunt demonstrationes. Quo igitur minus cum materia negotium 
+            ha<lb ed="#F" n="21" break="no"/>bebimus, eo magis impedimenta vitabimus, &amp; minus à mathematicis 
+            de<lb ed="#F" n="22" break="no"/>monstrationibus recedemus. Verum, quantum spectat ad propositum 
+            in<lb ed="#F" n="23" break="no"/>ventum de motu perpetuo per magnetem, subdam potius, quod dubitanter
+            <lb ed="#F" n="24"/>occurrit, quam ut rem ipsam definiam.
+        </p>
+            <p xml:id="p9i7y5-e36231-d1e453">
+               <lb ed="#F" n="25"/>Et quidem in universum, quantum spectat ad Pappi demonstrationem,
+            <lb ed="#F" n="26"/>nolo hic illam examinare animo censorio, Erit alias fortasse locus eam cum
+            <lb ed="#F" n="27"/>alijs quibusdam ad mechanicam spectantibus, si per orium licebit, 
+            discutien<lb ed="#F" n="28" break="no"/>di. Hic solum meam potius ingenij tarditatem palam faciam, ut aliquis scru
+            <lb ed="#F" n="29"/>pulum eximat, quam demonstrationem condemnabo. Omissa igitur Geo¬
+            <!--360.xml-->
+
+         <!--361.xml-->
+         <pb ed="#F" n="342"/>
+               <lb ed="#F" n="1"/>metrica ratiocinatione, quam non improbo hic, sit solum ad mechanicum
+            <!--361.xml-->
+            <pb ed="#F" n="342"/>
+               <lb ed="#F" n="2"/>discursum haec dubitatio. Agitur ibi de attollendo pondere supra planum
+            <lb ed="#F" n="3"/>inclinatum, seu de trahendo per planum inclinatum, motu, non 
+            Horizon<lb ed="#F" n="4" break="no"/>tali, sed mixto ex Horizontali, &amp; sublevativo, seu verticali, &amp; de potentia,
+            <lb ed="#F" n="5"/>quae hoc praestare possit. Ad quod illud tanquam certum suppono; dum 
+            pon<lb ed="#F" n="6" break="no"/>dus perpendiculariter attollitur, maximam requiri potentiam, minimam,
+            <lb ed="#F" n="7"/>dum trahitur per planum Horizontis, mediam dum trahitur per planum
+            <lb ed="#F" n="8"/>inclinatum. neque, aut Pappus, aut quilibet alius huic dicto repugnabit,
+            <lb ed="#F" n="9"/>quod ostendit experientia. Suppono secundo ad hoc, ut pondus 
+            perpen<lb ed="#F" n="10" break="no"/>diculariter attollatur, non requiri potentiam, nisi paulo maiorem, quam sit
+            <lb ed="#F" n="11"/>pondus. Quilibet enim excessus potentiae supra pondus, pondus attollere
+            <lb ed="#F" n="12"/>poterit. patet hoc evidenter in bilance: si enim in una parte ponatur pondus
+            <lb ed="#F" n="13"/>aliquanto maius, quilibet excessus efficiet, ut sua gravitate, &amp; depressione
+            <lb ed="#F" n="14"/>attollat pondus in alia lance positum: patet etiam in scyphone inverso: si n.
+            <lb ed="#F" n="15"/>in una parte ponatur pondus gravius specie aqua, deprimet aquam, &amp; assur
+            <lb ed="#F" n="16"/>gere faciet in alia parte scyphonis. Omnino neque in hoc supposito puto me
+            <lb ed="#F" n="17"/>litem cum aliquo habituum. Cum igitur Pappus ad sustinendum pondus
+            <lb ed="#F" n="18"/>E. in L. requirat longè maiorem potentiam, quam sit ipsum pondus, &amp; 
+            cor<lb ed="#F" n="19" break="no"/>pus longè gravius, ut sua aequiponderatione detineat ibi corpus, ex hoc 
+            ip<lb ed="#F" n="20" break="no"/>so mihi dubia redditur vis illius demonstrationis.
+         <lb ed="#F" n="30" type="fixed=342"/>
+               <figure xml:id="p9i7y5-e36231-Fd1e523">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870085/704,479,1632,818/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">N E M L H K P C R F S E I T B A C D Q</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375879-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e36231-d1e542">
+               <lb ed="#F" n="21" type="fixed=342"/>Praeterea, quo planum k. M. cum plano M. N. facit maiorem angulum, eo
+            <lb ed="#F" n="22"/>linea F. G. brevior evadit, quia linea perpendicularis F. L. cadit in G. E. 
+            ma<lb ed="#F" n="23" break="no"/>gis prope G. si igitur ita se debet habere pondus aequè ponderans, seu 
+            po<lb ed="#F" n="24" break="no"/>tentia sustinens E. ad E. sicut se habet E. F. ad F. G. si K. M. accedat ad 
+            perpen<lb ed="#F" n="25" break="no"/>dicularem, requiretur potentia maxima, &amp; si sit omnino perpendicularis,
+            <lb ed="#F" n="26"/>nulla erit potentia omnino, quae possit sustinere E. sicut nulla remanet linea
+            <lb ed="#F" n="27"/>inter F. &amp; G. quia F. cadet in periphęria, &amp; erit punctum contactus circuli.
+            <lb ed="#F" n="28"/>requiretur ergo tunc vis infinita ad sustinendum E. quod est impossibile, vel
+            <lb ed="#F" n="29"/>cartè minor requiretur vis ad sustinendum pondus E. in plano perpendicu¬
+            <!--361.xml-->
+
+         <!--362.xml-->
+         <pb ed="#F" n="343"/>
+               <lb ed="#F" n="1"/>lari, quam in K. M. inclinato; quod videtur absurdum. si enim dicas non 
+            re<lb ed="#F" n="2" break="no"/>viri tantam vim, tunc, quia cessat ratio vectis, nec amplius sustinetur à 
+            po<lb ed="#F" n="3" break="no"/>tentia per vectem, sed alia ratione, &amp; ideo fit transitus ad aliud genus 
+            susten<lb ed="#F" n="4" break="no"/>tationis, hoc est unum ex quo infirmo discursum Pappi: cum enim 
+            requira<lb ed="#F" n="5" break="no"/>tur maior vis ad sustentandum pondus pendulum, ne perpendiculariter 
+            de<lb ed="#F" n="6" break="no"/>cidat, quam ad retinendum ne ruat per planum inclinatum, ex illo discursit
+            <lb ed="#F" n="7"/>inferretur hoc esse manifestè falsum: longè enim maior vis requiritur ad reti
+            <lb ed="#F" n="8"/>nendum, ne rueret per planum inclinatum, quam ad librandum, quod 
+            expe<lb ed="#F" n="9" break="no"/>rimentum ostendit esse falsum: si enim supponas ponderi fulcimentum, quod
+            <lb ed="#F" n="10"/>sua duritie debeat pondus sustentare, si ponatur tale fulcimentum ad planum
+            <lb ed="#F" n="11"/>inclinatum in R. sustentabit, nec frangetur, &amp; forte, si pondus totum 
+            perpen<lb ed="#F" n="12" break="no"/>diculariter immineat, &amp; innitatur fulcimento, frangetur fulcimentum, nec
+            <lb ed="#F" n="13"/>sustentabit. ergo maior ad sensum requiritur vis ad sustentandum 
+            perpen<lb ed="#F" n="14" break="no"/>diculariter, quam ad sustentandum in plano inclinato. quaerimus autem,
+            <lb ed="#F" n="15"/>quae vis absolutè sustentet in plano inclinato, non si applicetur ad tale, vel ta
+            <lb ed="#F" n="16"/>le punctum; Insuper illa demonstratio concludit, quod, si sit fulcimentum
+            <lb ed="#F" n="17"/>ponderis E. seu A. in F. &amp; ponatur pondus, seu potentia B. in G. quod 
+            detine<lb ed="#F" n="18" break="no"/>bitur in aequilibrio. si ergo paululum crescat potentia B. durante 
+            fulcimen<lb ed="#F" n="19" break="no"/>to in F. attollet recta sursum E, centrum ponderis. primo ergo non est 
+            neces<lb ed="#F" n="20" break="no"/>se, ut crescat tantum potentia B. ut perveniat ad D. sed satis est quodlibet eius
+            <lb ed="#F" n="21"/>minimum incrementum. Si ipsum. B. sustinet, in aequilibrio: potentia enim,
+            <lb ed="#F" n="22"/>quae sustinet, aucta, attollet; deinde illa potentia maior B. sublevabit recta:
+            <lb ed="#F" n="23"/>nos autem quaerimus potentiam, quętrahat per planum inclinatum, non quam
+            <lb ed="#F" n="24"/>attollat: ergo minorem, ergo tanto maior D. non est potentia quaesita. Non
+            <lb ed="#F" n="25"/>igitur illa Pappi demonstratio rectè concludere videtur, quod ad 
+            mechani<lb ed="#F" n="26" break="no"/>cum discursum, cum ex illa videantur hęc sequi absurda, &amp;, ut sub 
+            dubitatio<lb ed="#F" n="27" break="no"/>nis forma fallaciae fontem indicem, non video, cur Pappus velit ponendam
+            <lb ed="#F" n="28"/>esse potentiam trahentem pondus supra planum inclinatum in G. ex quo
+            <lb ed="#F" n="29"/>solo oriuntur illę difficultates: quis enim trahentem cogit, ut adhaereat 
+            pun<lb ed="#F" n="30" break="no"/>cto G. ut trahat pondus E?
+        </p>
+            <p xml:id="p9i7y5-e36231-d1e636">
+               <lb ed="#F" n="31"/>Duo igitur proponerem ego, ut iam saepe monui, potius dubitando, quam
+            <lb ed="#F" n="32"/>asserendo, ut ingeniosior aliquis certiorem viam inveniat: duo, inquam, 
+            pro<lb ed="#F" n="33" break="no"/>ponerem, quibus videtur posse inveniri potentia, quę trahat pondus supra
+            <lb ed="#F" n="34"/>planum inclinatum habita illa potentia, quę trahebat in plano Horizontis.
+            <lb ed="#F" n="35"/>Sit igitur pondus E. quod debeat trahi per planum K. M. totam admitto Pap
+            <lb ed="#F" n="36"/>pi constructionem, &amp; geometricam demonstrationem nunc; sed dico 
+            poten<lb ed="#F" n="37" break="no"/>tiam ponendam esse in I. quia ibi potentia quasi artollit, &amp; rotat, seu 
+            con<lb ed="#F" n="38" break="no"/>voluit pondus: loquimur enim hic de sursum attrahente per planum 
+            incli<lb ed="#F" n="39" break="no"/>natum. Quia igitur data est proportio L. E. seu G. E. hoc est E. I. ad F. E. data
+            <lb ed="#F" n="40"/>etiam erit proportio totius I. F. ad F. E. Fiat igitur, ut F. E. ad F. I. ita A. ad aliud
+            <lb ed="#F" n="41"/>Q dico Q si paulum crescat, esse potentiam attollentem pondus in L. Quia
+            <lb ed="#F" n="42"/>enim vectis F. L. sustentatur in F. seu in L. pondus est in E. potentia in I. si sit
+            <!--363.xml-->
+            <pb ed="#F" n="344"/>
+               <lb ed="#F" n="1"/>uti l. F. ad F. E. ita potentia ad pondus, potentia sustentabit, paulo maior mo¬
+            <!--363.xml-->
+            <pb ed="#F" n="344"/>
+               <lb ed="#F" n="2"/>vebit pondus in plano dato, &amp; semper sustentaculum erit proportionaliter
+            <lb ed="#F" n="3"/>in F. durante illo plano. vel, si ista ratio non placet (quae tamen satis 
+            con<lb ed="#F" n="4" break="no"/>grua videtur, vel ex eo, quia semper punctum F. quo magis planum est 
+            incli<lb ed="#F" n="5" break="no"/>natum, cadit prope E. &amp; ita semper minor requiretur potentia, &amp; quae magis
+            <lb ed="#F" n="6"/>accedit ad C.) si, inquam, ista ratio non placet; quia verè etiam ipsa suas 
+            ha<lb ed="#F" n="7" break="no"/>bet difficultates, donec exactius examinetur, hanc aliam habeto. Si pondus
+            <lb ed="#F" n="8"/>E. sit in plano Horizontis M N. sustentatur in linea O. E. tanquam basi 
+            inni<lb ed="#F" n="9" break="no"/>xum; &amp; quia utrinque sunt aequalia corporis gravis momenta, potentia, quae
+            <lb ed="#F" n="10"/>movere debet, nihil debet attollere; quia semper res est in aequilibrio, neque
+            <lb ed="#F" n="11"/>attollitur eius centrum gravitatis, dum solum urgetur per planum 
+            Horizon<lb ed="#F" n="12" break="no"/>tis circulus ille. requiritur ergo tota illa vis C. ad movendum, vel propter
+            <lb ed="#F" n="13"/>resistentiam materiae, vel ex alio capite. iam vero posito pondere in plano 
+            in<lb ed="#F" n="14" break="no"/>clinato in L. sustentatur pondus linea F. L. quasi in basi. non remanet ergo ex
+            <lb ed="#F" n="15"/>parte G. nisi portio circuli suae sphaerae L. G. P. ex paree vero altera remanet P.
+            <lb ed="#F" n="16"/>L. I. Sumantur ergo P. S. R. L. eiusdem quantitatis cum P. L. G. istae duae partes
+            <lb ed="#F" n="17"/>aequiponderabunt invixę lineae L. F. sicuti aequiponderabat totum corpus in
+            <lb ed="#F" n="18"/>E. O. in planum Horizontis. Fiat igitur ut totum corpus E. ad partem R. G. S.
+            <lb ed="#F" n="19"/>ita C. ad T. tunc enim sicuti C. poterat movere corpus aequilibratum in E.O.
+            <lb ed="#F" n="20"/>ita T. poterit movere partem aequilibratam in F. istam enim aequilibrationem
+            <lb ed="#F" n="21"/>semper habet pars illa quocunque in puncto plani considerata, &amp; ita 
+            quam<lb ed="#F" n="22" break="no"/>vis moveatur pondus per planum inclinatum, respectu huius partis, perinde
+            <lb ed="#F" n="23"/>est, ac si moveretur in plano Horizontis, quia semper &amp; in quolibet puncto
+            <lb ed="#F" n="24"/>habet aequilibrationem.
+         <lb ed="#F" n="29" type="fixed=344"/>
+               <figure xml:id="p9i7y5-e36231-Fd1e728">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870087/177,884,1878,880/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">S P M R K B A</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375882-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e36231-d1e746">
+         Quia autem notum est pondus totius E. &amp; nota etiam
+         <lb ed="#F" n="25" type="fixed=344"/>est pars R. G. S. nota etiam erit reliqua pars R. S. I. Inveniatur igitur pondus
+            <lb ed="#F" n="26"/>aequale huic parti, seu paulo maius, seu potentia, quae possit attollere illam
+            <lb ed="#F" n="27"/>partem perpendiculariter, &amp; sit V. haec addatur ipsi T. quae intelligi poterit ap
+            <lb ed="#F" n="28"/>plicata ad centrum gravitatis illius partis; dico hanc totam esse potentiam,
+            <!--363.xml-->
+
+         <!--364.xml-->
+         <pb ed="#F" n="345"/>
+               <lb ed="#F" n="1"/>quae potest trahere per planum inclinatum in illo dato angulo K. M.N. pon
+            <lb ed="#F" n="2"/>dus E. pars enim S. G. R. suam habet aequilibrationem in F. sicuti totum E. in
+            <lb ed="#F" n="3"/>E. O. pars reliqua nullam habet aequilibrationem; propterea simpliciter 
+            de<lb ed="#F" n="4" break="no"/>bet extolli; respectu enim huius partis motus ille in plano inclinato est 
+            mo<lb ed="#F" n="5" break="no"/>tus suspensionis, seu attollens absolutè, quia non habet sustentationem ullam,
+            <lb ed="#F" n="6"/>nec librationem. si ergo istae duae potentiae simul componantur, fiet 
+            poten<lb ed="#F" n="7" break="no"/>tia motiva illius E. quod erat propositum, sed haec alias fortasse uberius.
+         <lb ed="#F" n="30" type="fixed=345"/>
+               <figure xml:id="p9i7y5-e36231-Fd1e781">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870088/70,349,741,347/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">S P M R K B A S P M R K B A</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375884-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e36231-d1e799">
+            <!--364.xml-->
+               <pb ed="#F" n="345"/>
+               <lb ed="#F" n="8" type="fixed=345"/>Verum ad rem magneticam ostendo difficultates, quae possent esse in illo
+            <lb ed="#F" n="9"/>motu perpetuo modo etiam supraposito, &amp; iterum assumpta eadem figura,
+            <lb ed="#F" n="10"/>dico magnetem A. B. non posse ad se trahere ferrum P. positum in M. nisi prius
+            <lb ed="#F" n="11"/>in illo producat qualitatem magneticam, quae producetur consequenter
+            <lb ed="#F" n="12"/>similiter, atque sit in A. B. ac proinde excurret secundum longitudinem R
+            <lb ed="#F" n="13"/>S. &amp; in R. erit polus A. in S. polus B. si ergo debet trahi per planum M. k. opor
+            <lb ed="#F" n="14"/>tebit servate semper illam positionem, ut R. S. dirigantur ad A. B. non ergo
+            <lb ed="#F" n="15"/>debet rotari per planum, sed trahi in eadem directione; Et hic erit prima
+            <lb ed="#F" n="16"/>difficultas. Deinde cum ad foveam O. decidet, &amp; devolvetur iterum ad M.
+            <lb ed="#F" n="17"/>totabitur necessario; quia ruit deorsum motu elementari, non magnetico.
+            <lb ed="#F" n="18"/>cum igitur iterum constituetur ad M. non habebit puncta R. S. in 
+            directio<lb ed="#F" n="19" break="no"/>ne ad A. B. nisi omnino contingenter, &amp; fortuito, quod si contingat aliquan
+            <lb ed="#F" n="20"/>do S. in isto refluxu inveniri directum ad B. iam non trahetur à magnete A
+            <lb ed="#F" n="21"/>B. seu non ascendet; quia potius refugiet, &amp; hic erit nova difficultas, quae ad
+            <lb ed="#F" n="22"/>magneticam philosophiam examinata gravissima est. Licet aliquod 
+            fortas<lb ed="#F" n="23" break="no"/>se effugium possit excogitari: sed non omnia persequar. Tertia denique &amp; 
+            ma<lb ed="#F" n="24" break="no"/>xima difficultas illa est, quam facilè omnes agnoscent, qui in magneticis 
+            at<lb ed="#F" n="25" break="no"/>tractionibus fuerint mediocriter exercitati. Si enim magnes A. B. positus ad
+            <lb ed="#F" n="26"/>k. tantam habet activitatem, ut possit commovere, &amp; provocare ad se ferrum
+            <lb ed="#F" n="27"/>in M. etiam per planum inclinatum motu illo tractionis, quo non debet 
+            con<lb ed="#F" n="28" break="no"/>volvi globus ferreus, sed fricari per planum sursum, dum à sua gravitate 
+            ro<lb ed="#F" n="29" break="no"/>tatur deorsum: sphaera activitatis magnetis ita crescit, dum acceditur ad ma¬
+            <!--364.xml-->
+
+         <!--365.xml-->
+         <pb ed="#F" n="346"/>
+               <lb ed="#F" n="1"/>gnetem, ut si in M. potest movere per planum inclinatum necessario in O.
+            <lb ed="#F" n="2"/>Magnet. Philos.
+            <lb ed="#F" n="3"/>possit recta sursum trahere, atque ita ferrum non decidet in foveam, sed 
+            ad<lb ed="#F" n="4" break="no"/>haerebit magneti in B. &amp; ita motus perpetuus erit absolutus. Quod si quis
+            <lb ed="#F" n="5"/>velit rationem excogitare, qua globus, seu ferrum, dum pervenit prope 
+            ma<lb ed="#F" n="6" break="no"/>gnetem convertat se à directione R. S. quae sit in directum cum A. B. ut non
+            <lb ed="#F" n="7"/>iam B.retineat R. sed potius repellat, &amp; ita ferrum in foveam possit 
+            decide<lb ed="#F" n="8" break="no"/>re, talie artificium ut arbitror non poterit excogitari, quin robustius à 
+            proxi<lb ed="#F" n="9" break="no"/>ma virtute magnetis non retineatur in illa directione, quam à tali artificio
+            <lb ed="#F" n="10"/>otetur. si enim fingas punctum R. aliqua eminente sui particula offendere
+            <lb ed="#F" n="11"/>aliquod impedimentum prope B. à quo retardetur accessus; &amp; ita, dum 
+            ma<lb ed="#F" n="12" break="no"/>gnes pergens trahit ferrum, contorqueat illud, non perget trahere, &amp; sibi co
+            <lb ed="#F" n="13"/>pulare, dum offendit impedimentum, nisi immutata prius verticitate ferri,
+            <lb ed="#F" n="14"/>vel omnino, vel ex parte; qua immutata nihil iam efficitur: non enim 
+            am<lb ed="#F" n="15" break="no"/>plius permittet sibi elabi è manibus. Haec sunt, quae mihi occurrunt hac in
+            <lb ed="#F" n="16"/>re de motu perpetuo per magnetem effecto. Siquis tamen his non 
+            obstan<lb ed="#F" n="17" break="no"/>tibus velit proprio experimento rei difficultatem sentire, non repugno.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

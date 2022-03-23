@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 12</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 12</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="153"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e16349"> <!-- l2c12 -->
+            <head xml:id="p9i7y5-e16349-Hd1e107">Caput 12</head>
+            <p xml:id="p9i7y5-e16349-d1e109">
+               <lb ed="#F" n="8"/>Qua ratione inueniri possint proportiones, quae requiruntur ad determinandam
+            <lb ed="#F" n="9"/>inclinationem magneticorum supra magnetem, &amp; ad causam
+            <lb ed="#F" n="10"/>explicandam. Cap. XII.
+        </p>
+            <p xml:id="p9i7y5-e16349-d1e118">
+               <lb ed="#F" n="11"/>Ouod si illa tria sive quatuor superius posita ita cognoscere optet
+            <lb ed="#F" n="12"/>quis, ut possit illos proportionis terminos ex illis simul 
+            com<lb ed="#F" n="13" break="no"/>positis sibi constituere, in eius gratiam addam hìc, qua 
+            ra<lb ed="#F" n="14" break="no"/>tione illa possint in numeris innotescere. Dato igitur 
+            quoli<lb ed="#F" n="15" break="no"/>bet puncto nominato in quadrante A. E. C. sic cognosci 
+            po<lb ed="#F" n="16" break="no"/>terunt quaesita, &amp; illorum quantitas numeris exprimi. Et primo de 
+            an<lb ed="#F" n="17" break="no"/>gulo.
+        </p>
+            <p xml:id="p9i7y5-e16349-d1e136">
+               <lb ed="#F" n="18"/>Sit datum punctum E. quod distet à puncto C. per 40. gradus. notus 
+            er<lb ed="#F" n="19" break="no"/>go erit arcus E. A. quinquaginta graduum. ducatur ergo E. T. ad centrum,
+            <lb ed="#F" n="20"/>sicut ducti sunt M E. B. O. E. A. A. B. erit angulus E. T. A. ad centrum 
+            du<lb ed="#F" n="21" break="no"/>plus angulo E. B. A. ad circumferentiam: Cum igitur angulus E. T. A.
+            <lb ed="#F" n="22"/>sit grad. 50. E. B. A. erit grad. 25. &amp; quia angulus A. E. B. in semicirculo est
+            <lb ed="#F" n="23"/>rectus; in triangulo A. E. B. erunt noti duo anguli A. E. B. qui est rectus
+            <lb ed="#F" n="24"/>E. B A. grad. 25. ergo erit &amp; notus angulus E. A. B. grad. 65. cognita est 
+            er<lb ed="#F" n="25" break="no"/>go proportio in numeris anguli E. A. B. &amp; E. B. A. 25. ad 65. quod erat 
+            fa<lb ed="#F" n="26" break="no"/>ciendum.
+        </p>
+            <p xml:id="p9i7y5-e16349-d1e159">
+               <lb ed="#F" n="27"/>Linea A. R. &amp; R. B. facilè cognoscetur in numeris ex tabulis sinuum: si
+            <lb ed="#F" n="28"/>enim habeatur sinus totus T. B. seù T. A. habebitur in ijsdem partibus 
+            quan<lb ed="#F" n="29" break="no"/>titas lineae A. R. quae est sinus versus arcus A. E. 50. grad. &amp; habebitur pariter
+            <lb ed="#F" n="30"/>R. T. quae est complementum sinus totius. si ergo hoc complementum R.
+            <lb ed="#F" n="31"/>T. addatur ad sinum totum T. B. habebitur tota linea R. B. habebitur 
+            igi<lb ed="#F" n="32" break="no"/>tur in numeris, &amp; similibus partibus longitudo axium A. R. &amp; R. B. quod, &amp;c
+            <lb ed="#F" n="33"/>Portio lineae A. E. &amp; E. B. in numeris ijsdem cognoscetur: cum enim 
+            co<lb ed="#F" n="34" break="no"/>gnoscatur arcus A. I E. 60. grad. dividatur bifariam 30. &amp; quaeratur sinus
+            <lb ed="#F" n="35"/>rectus 30. grad. in partibus duplicati sinus totius 200000. &amp; habebitur tota
+            <lb ed="#F" n="36"/>chorda A. E. grad. 60. quae est duplex sinus rectus 30. similiter cognoscitur
+            <lb ed="#F" n="37"/>arcus E. C. B. grad. 130. dividatur bifariam 65. cuius quaeratur sinus tectus in
+            <lb ed="#F" n="38"/>ijsdem partibus qui duplicatus dabit chordam E. B. &amp; ita in ijsdem partibus
+            <lb ed="#F" n="39"/>&amp; numeris habebitur proportio lineae A. E. &amp; E. B.
+        </p>
+            <p xml:id="p9i7y5-e16349-d1e190">
+               <lb ed="#F" n="40"/>Proportio portionum sphaerae E. A. H. &amp; E. B. H. pariter in numeris sic
+            <!--172.xml-->
+            <pb ed="#F" n="153"/>
+               <lb ed="#F" n="1"/>Lib. II. Cap. XII.
+            <lb ed="#F" n="2"/>153
+ <!--            line error-->           
+            <lb ed="#F" n="3"/>indagabitur. sit circulus maximus sphaerae A. E. B. H. sitque E. H. sectio 
+            su<lb ed="#F" n="4" break="no"/>praposita, inveniendaque sit proportio partis sphaerae E. A. H. ad partem B.
+            <lb ed="#F" n="5"/>E. H. in ijsdem numeris: ducatur per centrum T. linea B. T. A. utrinque 
+            in<lb ed="#F" n="6" break="no"/>finita, quę cadat perpendiculariter ad planum E. H. &amp; consequenter lineam,
+            <lb ed="#F" n="7"/>lineam biffariam secabit in R. similiter biffariam dividet arcus E. A. H. &amp;
+            <lb ed="#F" n="8"/>E. B. H. in A. &amp; B. quae puncta erunt vertices portionum sphaerae, quas 
+            in<lb ed="#F" n="9" break="no"/>quirimus. &amp; quoniam notus est arcus E. A. grad. 50. &amp; nota est linea R. T.
+            <lb ed="#F" n="10"/>64279 complementum sinus versi R. A. 35721. arcus E. A. &amp; nota est linea
+            <lb ed="#F" n="11"/>T. 100000. sinus totus, fiat ut tota R. B. ad lineam compositam ex B. T. &amp;
+            <lb ed="#F" n="12"/>B. R. ita R. A. sinus versus ad aliam quartam proportinalem, quae 
+            invenia<lb ed="#F" n="13" break="no"/>tur &amp; sit C. R. quae sumatur in B. C. ex puncto R. Iam igitur nota erit haec 
+            li<lb ed="#F" n="14" break="no"/>nea C. R. in partibus sinuum, similiter fiat, ut A. R. sinus versus ad lineam
+            <lb ed="#F" n="15"/>conflatam ex sinu toto A. T. &amp; sinu verso A. R. quae lineae omnes notae sunt
+            <lb ed="#F" n="16"/>in partibus sinuum. ita linea R. B. quae constat ex sinu toto, &amp; 
+            complemen<lb ed="#F" n="17" break="no"/>to ad aliam quartam lineam, quae pariter inveniatur, &amp; sit R. D. sumaturque
+            <lb ed="#F" n="18"/>pariter in linea C. D. ex puncto R. Iam si intelligantur duo coni descripti
+            <lb ed="#F" n="19"/>supra eundem circulum sectionis sphaerae, cuius circuli diameter est E. H.
+            <lb ed="#F" n="20"/>quorum unus verticem habeat in D. alter in C. per secundam, secundi 
+            Ar<lb ed="#F" n="21" break="no"/>chimedis de sphaera, &amp; cylindro, conus E. D. H aequalis est partioni maiori
+            <lb ed="#F" n="22"/>E. B. H. sectae sphaerae, &amp; conus E. C. H aequalis erit minori portioni E. A. H.
+            <lb ed="#F" n="23"/>eiusdem sphaerae; cum fiant super illum sectionis circulum in tali 
+            proportio<lb ed="#F" n="24" break="no"/>nata altitudine, ut dictum est.
+        </p>
+            <p xml:id="p9i7y5-e16349-d1e253">
+               <lb ed="#F" n="31" type="fixed=153"/>
+               <figure xml:id="p9i7y5-e16349-Fd1e258">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869896/177,2151,1802,743/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">C A E R H T B D</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375588-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="25" type="fixed=153"/>Hoc iam habito ad cognoscendam in numeris magnitudinem harum
+            <lb ed="#F" n="26"/>portionum sphaerae, investigetur proportio horum conorum; &amp; quoniam
+            <!--172.xml-->
+            <pb ed="#F" n="153"/>
+               <lb ed="#F" n="27"/>nota est tota linea R. D. &amp; similiter cognoscitur linea E. H. 35208. in 
+            par<lb ed="#F" n="28" break="no"/>tibus sinuum; quia E. R. 76604. dimidia ipsius E. A. est sinus arcus E. A.
+            <lb ed="#F" n="29"/>grad. 50. nota erit diameter basis horum conorum; nota etiam erit in numeris
+            <lb ed="#F" n="30"/>tota basis cognita diametro ex Archimede, de dimensionibus circuli. ha¬
+            <!--172.xml-->
+
+         <!--173.xml-->
+         <pb ed="#F" n="154"/>
+               <lb ed="#F" n="1"/>bet enim circulus ille ad quadratum diametri. E. H. notę magnitudinis 
+            pro<lb ed="#F" n="2" break="no"/>portionem, quam habet 11. ad 14. proximè sumatur igitur ista basis seù 
+            quan<lb ed="#F" n="3" break="no"/>titas huius circuli in numeris, &amp; ducatur in tertiam partem altitudinis R. D;
+            <lb ed="#F" n="4"/>quae altitudo est iam nota in ijsdem numeris, &amp; prodibit praecisa 
+            magnitu<lb ed="#F" n="5" break="no"/>do coni pariter in numeris. similiter eadem basis circuli E. H. multiplicetur
+            <lb ed="#F" n="6"/>cum tertia parte altitudinis alterius coni R. C. quae pariter nota est ijsdem
+            <lb ed="#F" n="7"/>partibus, &amp; prodibit quantitas alterius coni in ijsdem numeris: nam, cum
+            <lb ed="#F" n="8"/>ex multiplicatione basis in totam altitudinem fiat cylindrus, qui cylindius
+            <lb ed="#F" n="9"/>est triplo maior cono eiusdem altitudinis, &amp; basis, consequenter ex 
+            multi<lb ed="#F" n="10" break="no"/>plicatione basis in tertiam partem altitudinis habebitur, ut terria pars 
+            cy<lb ed="#F" n="11" break="no"/>lindri, ita praecisa quantitas coni. Invenimus ergo in numeris 
+            proportio<lb ed="#F" n="12" break="no"/>nem partium sphaerae, quae secta fuit in dato puncto, quod erat faciendum.
+            <lb ed="#F" n="13"/>Linea denique A. E. &amp; E. B. facile cognoscetur in partibus lineae A. B.
+            <lb ed="#F" n="14"/>quae duplicatum refert sinum totum (iam enim angulos E. A. B. &amp; E. B. A.
+            <lb ed="#F" n="15"/>in numeris supra innotuerunt) cum in triangulo A. E. B. cogniti sint omnes
+            <lb ed="#F" n="16"/>anguli A. E. &amp; B. &amp; cognita sit etiam linea A. B. in numeris facile ex 
+            trigo<lb ed="#F" n="17" break="no"/>nometria cognoscuntur in ijsdem numeris reliqua latera: cognita ergo
+            <lb ed="#F" n="18"/>erunt omnia illa quatuor, quod erat faciendum.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

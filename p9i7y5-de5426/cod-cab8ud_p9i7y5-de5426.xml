@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 15</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 15</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="47"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-de5426"> <!-- l1c15 -->
+            <head xml:id="p9i7y5-de5426-Hd1e107">Caput 15</head>
+            <p xml:id="p9i7y5-de5426-d1e109">
+              <!--66.xml-->
+              <pb ed="#F" n="47"/>
+               <lb ed="#F" n="1"/>Terminus magnetici motus non est in Coelo, quocunque in puncto deinde
+            
+            <lb ed="#F" n="2"/>ponatur. Caput XV.
+        </p>
+            <p xml:id="p9i7y5-de5426-d1e116">
+               <lb ed="#F" n="3"/>Hactenus qui sibi melius de magnete philosophari visi sunt, 
+            ter<lb ed="#F" n="4" break="no"/>minos illius motus, &amp; directionis in Coelo statuerunt; adeo
+            <lb ed="#F" n="5"/>semper erectus animus, ac sublimis ad altiora evolat, atque
+            <lb ed="#F" n="6"/>omnia eò tendere suspicatur, quo ipse suas dirigit, sublimis
+            <lb ed="#F" n="7"/>naturae imperio, cogitationes, vehementer'que satyricum 
+            il<lb ed="#F" n="8" break="no"/>lud perhorrescit: O' curuae in terras animae. Verum quae ante pedes posita
+            <lb ed="#F" n="9"/>sunt, terramque communem matrem haud quaquam iuvit in praesentia 
+            con<lb ed="#F" n="10" break="no"/>tempsisse.
+        </p>
+            <p xml:id="p9i7y5-de5426-d1e136">
+               <lb ed="#F" n="11"/>Primo igitur loco multum illi erraverunt, qui, ut supra etiam recitavi, &amp;
+            <lb ed="#F" n="12"/>reieci, terminos magnetici motus, in quos magnetica diriguntur, &amp; quas
+            <lb ed="#F" n="13"/>praecise semper respicere velint, mobilem aliquam fecerunt Coeli partem,
+            <lb ed="#F" n="14"/>vel singulare aliquod sydus: Erroris autem manifesta illa fuit redargutio,
+            <lb ed="#F" n="15"/>quia sic pyxide immota in eodem loco, versorium tamen perpetuo 
+            move<lb ed="#F" n="16" break="no"/>retur, &amp; quotidie bis cum vero meridiano coniungeretur, quando scilicet
+            <lb ed="#F" n="17"/>diurna volutatione punctum, ad quem eius dirigitur motus, sub meridiano
+            <lb ed="#F" n="18"/>esset; &amp; semel maximè ad occidentem, semel ad orientem diverteretur, 
+            ho<lb ed="#F" n="19" break="no"/>rasque commodè nimis ostenderet. Sed rem fusius supra.
+        </p>
+            <p xml:id="p9i7y5-de5426-d1e159">
+               <lb ed="#F" n="41" type="fixed=47"/>
+               <figure xml:id="p9i7y5-de5426-Fd1e164">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869790/1244,2212,811,1054/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">B A</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375425-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="20" type="fixed=47"/>Secundo non minus errarunt, qui dixerunt terminum magnetici 
+            mo<lb ed="#F" n="21" break="no"/>tus, punctum aliquem immobilem, sive in Coelo, sive supra Coelum 
+            proxi<lb ed="#F" n="22" break="no"/>mum polo, ex quo fiat, ut magnetica declinent à meridiano in eodem loco
+            <lb ed="#F" n="23"/>semper eadem declinatione, diversa tamen, in diversis, nunc plus, nunc 
+            mi<lb ed="#F" n="24" break="no"/>nus, nunc etiam prorsus congruat. Evidenter enim hoc constat primo non
+            <lb ed="#F" n="25"/>aliquam polarem Coeli partem versus 
+            di<lb ed="#F" n="26" break="no"/>rigi, sed terrestrem partem aliquam 
+            ver<lb ed="#F" n="27" break="no"/>sus, ex declinatione, quam faciunt 
+            ma<lb ed="#F" n="28" break="no"/>gnetica exactè librata; quo praeclarissimo
+            <lb ed="#F" n="29"/>experimento primus magneticam 
+            phi<lb ed="#F" n="30" break="no"/>losophiam ditavit numquam satis, vel ex
+            <lb ed="#F" n="31"/>hoc solo capite, &amp; unico experimento
+            <lb ed="#F" n="32"/>laudatus Robertus ille Normannus apud
+            <lb ed="#F" n="33"/>Gilbertum libro primo capite primo. 
+            Su<lb ed="#F" n="34" break="no"/>me lamellam tenuem ex calybe, si potes,
+            <lb ed="#F" n="35"/>cuiusmodi debent esse omnes lamellae, ex
+            <lb ed="#F" n="36"/>quibus versoria conficiuntur; atque ex ea
+            <lb ed="#F" n="37"/>fac regulam longitudinis sex, aut octo 
+            di<lb ed="#F" n="38" break="no"/>gitorum: latitudo sit exigua verbi gratia
+            <lb ed="#F" n="39"/>quanta est crassities gladij: lamellae 
+            cras<lb ed="#F" n="40" break="no"/>sities sit quam tenuissima, fac in eius me¬
+            <!--66.xml-->
+            <!--67.xml-->
+         <pb ed="#F" n="48"/>
+               <lb ed="#F" n="1"/>ditullio foramen exiguum egregiè levigatum, tum filo serico non contorto
+            <lb ed="#F" n="2"/>per foramen traiecto suspendito, &amp; regulam ex foramine exactissimè libra,
+            <lb ed="#F" n="3"/>arte curiosa, tum excita magneticè, idest tange uno magnetis polo partem
+            <lb ed="#F" n="4"/>A. altero partem B. ut robustius, &amp; melius excitetur, &amp; vim magneticam
+            <lb ed="#F" n="5"/>concipiat; videbis enim, si foramen sit benè levigatum, &amp; regula exactè 
+            li<lb ed="#F" n="6" break="no"/>brata, partem B. quae ad polum nostrum arcticum convertitur, qui polus
+            <lb ed="#F" n="7"/>Coelestis hic elevatus est supra finitorem, non sursum elevari, ut illum 
+            po<lb ed="#F" n="8" break="no"/>lum respiciat, aut Coeli partem aliquam illi proximam, sed videbis deprimi
+            <lb ed="#F" n="9"/>terras versus, &amp; quidem maximè deprimi; &amp; quo magis regio, in qua tale
+            <lb ed="#F" n="10"/>facis experimentum, polum habebit elevatum supra finitorem, eo magis
+            <lb ed="#F" n="11"/>deprimetur pars illa lamellae, quae ad illum polum convertitur. Et ut 
+            sen<lb ed="#F" n="12" break="no"/>tias partem B. non deprimi terras versus, quia non fuerit bene librata 
+            la<lb ed="#F" n="13" break="no"/>mella, &amp; quia fortasse gravior sit ex illa parte, ut suo pondere deorsum 
+            fera<lb ed="#F" n="14" break="no"/>tur, non magnetica virtute; excita regulam illam contrario modo, atque
+            <lb ed="#F" n="15"/>excitaveras prius; idest eo polo magnetis, quo prius tetigeras partem A.
+            <lb ed="#F" n="16"/>non amplius eandem tangas partem, sed oppositam, &amp; altero polo 
+            magne<lb ed="#F" n="17" break="no"/>tis tangatur A. sic enim, ut infra dicetur fusius, prior virtus destruitur, &amp;
+            <lb ed="#F" n="18"/>nova inducitur contrario situ. videbis, si iterum regulam suspendas, partem
+            <lb ed="#F" n="19"/>A. quae sursum elevabatur, iam deprimi, &amp; converti ad pattes meridiani
+            <lb ed="#F" n="20"/>septentrionales, ut prius faciebat pars B. quae nunc ascendit supra 
+            finito<lb ed="#F" n="21" break="no"/>rem ad partes australes.
+        </p>
+            <p xml:id="p9i7y5-de5426-d1e279">
+               <lb ed="#F" n="22"/>Ex quo sentias magnetem conferre vim, non solum se dirigendi, ad 
+            me<lb ed="#F" n="23" break="no"/>ridianum, sed etiam descendendi infra finitorem determinata parte, hoc est
+            <lb ed="#F" n="24"/>illa, quae respicit ad nostrum polum, &amp; determinata descendendi ratione;
+            <lb ed="#F" n="25"/>quamvis noster hic polus sit sursum elevatus; nec tunc sic depressa 
+            mane<lb ed="#F" n="26" break="no"/>bat pars B. quia gravior esset, sed quia in septentrionem dirigebatur, &amp; 
+            ma<lb ed="#F" n="27" break="no"/>gnetica gravabatur vi. Quod experimentum saepissimè sumpsi multis 
+            iu<lb ed="#F" n="28" break="no"/>cundissimè spectantibus, atque admirantibus, quod cum nihil ferri, aut 
+            gra<lb ed="#F" n="29" break="no"/>vitatis ablatum esset ex parte B. tamen iam ascenderet, cum prius deorsum
+            <lb ed="#F" n="30"/>premeretur, nihilque addendo parti A. iam descenderet, quae prius 
+            erigeba<lb ed="#F" n="31" break="no"/>tur. ergo vis magnetica se convertendi in septentrionem, quae sola addita est
+            <lb ed="#F" n="32"/>parti A. in nostro emispherio deorsum premit infra finitorem; cum tamen
+            <lb ed="#F" n="33"/>polus Caelestis sit sursum. ergo pars magnetica quae dirigitur in 
+            septentrio<lb ed="#F" n="34" break="no"/>nem, non tendit ad polum Coelestem, aut partem polarem, ut evidenter 
+            e<lb ed="#F" n="35" break="no"/>vincit hoc experimentum. Poteris autem ita vittutem magneticam 
+            la<lb ed="#F" n="36" break="no"/>mellae invertere, quoties libuerit, &amp; efficere, ut pars, quae prius 
+            deprimeba<lb ed="#F" n="37" break="no"/>tur assurgat, &amp; quę sublimis fuerat deprimatur: nihil, aut detrahendo, aut
+            <lb ed="#F" n="38"/>addendo ipsis partibus de gravitate: quod toties specta, donec sentias 
+            obli<lb ed="#F" n="39" break="no"/>quitatem non ex inaequali libratione, sed ex virtute magnetica provenire.
+            <lb ed="#F" n="40"/>Aliud experimentum ponit Gilbertus libro 5. capite 9. iucundum sanè,
+            <lb ed="#F" n="41"/>sed operosum, &amp; quod non nisi exquisita possis diligentia obtinere. Filum
+            <lb ed="#F" n="42"/>ferreum trium digitorum transeat per suberis corticem rotundum, ita, ut
+            <!--68.xml-->
+            <pb ed="#F" n="49"/>
+               <lb ed="#F" n="1"/>possit cortex ferrum in aqua sustinere. sit aqua illa in vase aut scypho vitreo
+            <lb ed="#F" n="2"/>satis amplo: corticem rotundum paulatim acutissimo cultello, ita ut 
+            ma<lb ed="#F" n="3" break="no"/>neat rotundus, quantum fieri potest, imminue, donec sub aquae superficie
+            <lb ed="#F" n="4"/>uno, aut altero digito maneat immobile, filum sit aequilibratum exquisitè.
+            <lb ed="#F" n="5"/>Sic praeparati fili finem alterum frica super magnetis finem borealem, 
+            alte<lb ed="#F" n="6" break="no"/>rum super meridionalem lapidis partem artificiosè admotum, ne cortex
+            <lb ed="#F" n="7"/>vel tantillum de loco 
+            movea<lb ed="#F" n="8" break="no"/>tur, &amp; rursum in aqua 
+            imponi<lb ed="#F" n="9" break="no"/>to: declinabit filum circulari
+            <lb ed="#F" n="10"/>motu circa centrum suum 
+            in<lb ed="#F" n="11" break="no"/>fra planum horizontis pro 
+            ra<lb ed="#F" n="12" break="no"/>tione latitudinis regionis. Haec
+            <lb ed="#F" n="13"/>ille.
+        </p>
+            <p xml:id="p9i7y5-de5426-d1e360">
+               <lb ed="#F" n="43" type="fixed=49"/>
+               <figure xml:id="p9i7y5-de5426-Fd1e365">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869792/1029,841,998,1419/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">C F E B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375428-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="14" type="fixed=49"/>Quibus ego duo addam ad
+            <lb ed="#F" n="15"/>experimentum facilius 
+            haben<lb ed="#F" n="16" break="no"/>dum, quod ego meo malo 
+            di<lb ed="#F" n="17" break="no"/>dici, dum in hoc laboro. 
+            Pri<lb ed="#F" n="18" break="no"/>mum est diligenter cavendum,
+            <lb ed="#F" n="19"/>ne dum ferrum libras ex 
+            ro<lb ed="#F" n="20" break="no"/>tundo cortice, ulla ratione ne
+            <lb ed="#F" n="21"/>procul quidem magnetem 
+            o<lb ed="#F" n="22" break="no"/>doretur; si enim aliquo modo
+            <lb ed="#F" n="23"/>magneticam contraheret 
+            virtu<lb ed="#F" n="24" break="no"/>tem, non verè posses librare;
+            <lb ed="#F" n="25"/>imo, cum tibi videbitur 
+            aequili<lb ed="#F" n="26" break="no"/>bratum ex corticè aequaliter,
+            <lb ed="#F" n="27"/>pars, quae in septentrionem 
+            ver<lb ed="#F" n="28" break="no"/>git, levior erit non nihil. 
+            Erro<lb ed="#F" n="29" break="no"/>rem autem huius aequilibrationis sic senties. maneat ferrum E. F. in 
+            aequili<lb ed="#F" n="30" break="no"/>brio, &amp; F. respiciat septentrionem E. austrum. tange magnete ferrum, &amp; 
+            ex<lb ed="#F" n="31" break="no"/>cita contraria ratione, ita, ut per novum hunc contactum F. convertatur ad
+            <lb ed="#F" n="32"/>partes B. E. autem ad C. quod assequeris, si F. tangat contrarium magnetis
+            <lb ed="#F" n="33"/>polum, atque tetigerat prius; &amp; videbis non amplius ferrum manere in 
+            ae<lb ed="#F" n="34" break="no"/>quilibrio, sed F. praecipitabitur deorsum, &amp; perpendiculariter ferrum
+            <lb ed="#F" n="35"/>erigetur, etiam si diligenter caveas, ne corticem, vel tantillum è loco 
+            dimo<lb ed="#F" n="36" break="no"/>veas. Ex quo cognosces ferrum prius non fuisse aequilibratum exactè ex
+            <lb ed="#F" n="37"/>cortice. Si igitur fortasse contingat, ut ante aequilibrationem ferrum 
+            ma<lb ed="#F" n="38" break="no"/>gneticam conceperit virtutem; tunc retrahe tantillum corticem, ut pars F.
+            <lb ed="#F" n="39"/>non descendat perpendiculariter, sed maneat ferrum obliquatum, ut vides;
+            <lb ed="#F" n="40"/>tunc rursum vim magneticam in ferro immuta, per novum magnetis 
+            con<lb ed="#F" n="41" break="no"/>tactum contraria ratione factum, &amp; videbis partem E, quae sursum 
+            eleva<lb ed="#F" n="42" break="no"/>batur, deprimi, &amp; partem quae deprimebatur, erigi eandemque servare obli¬
+            <!--68.xml-->
+            
+         <!--69.xml-->
+         <pb ed="#F" n="50"/>
+               <lb ed="#F" n="1"/>quitatem, atque hac ratione virtutem immutando iterum, ac tertio specta,
+            <lb ed="#F" n="2"/>donec sentias hoc, quod est, alteram partem descendere, alteram assurgere,
+            <lb ed="#F" n="3"/>non provenire nisi ex virtute magnetica: pars enim ferri magneticè 
+            exci<lb ed="#F" n="4" break="no"/>tati, quae in septentrionem vertitur perpetuo deprimitur, pars austrina 
+            as<lb ed="#F" n="5" break="no"/>surgit, ergo magnetica dum diriguntur ad polum, seu ad meridianum, non
+            <lb ed="#F" n="6"/>respiciunt polos Coeli, nec partem aliquam polarem; quia pars, quae in 
+            sep<lb ed="#F" n="7" break="no"/>tentrionem convertitur, hic apud nos elevaretur, non deprimeretur.
+        </p>
+            <p xml:id="p9i7y5-de5426-d1e467">
+               <lb ed="#F" n="8"/>Alterum quod moneo ad hoc experimentum habendum; quia 
+            difficili<lb ed="#F" n="9" break="no"/>mum est ita corticem minuere, ut descendat infra superficiem, &amp; non ad
+            <lb ed="#F" n="10"/>imum vasis; debet enim ad statum redigi corpus illud, in quo totum 
+            con<lb ed="#F" n="11" break="no"/>flatum ex ferro, &amp; cortice aequet gravitatem aquae, data paritate molis, ut
+            <lb ed="#F" n="12"/>constat ex demonstratis ab Archimede, de his, quae vehuntur in aqua; &amp;
+            <lb ed="#F" n="13"/>quidem hanc aequalitatem exacte omnino debes assequi, si vis illud corpus
+            <lb ed="#F" n="14"/>descendere infra superficiem, atque ibi quiescere in quolibet situ, nec 
+            de<lb ed="#F" n="15" break="no"/>cendere ad imum vasis. ideo ubi fuerit imminutus cortex, ut proximè 
+            vi<lb ed="#F" n="16" break="no"/>deatur descendere, ne libratum ferrum tam saepe tractando, librationem
+            <lb ed="#F" n="17"/>corrumpas, infunde aliquas aceti guttas in aquam; sic enim aquam 
+            levio<lb ed="#F" n="18" break="no"/>rem reddes, &amp; ita ferrum paulatim descendet, nulla facta amplius corticis
+            <lb ed="#F" n="19"/>immutatione. &amp; sane mirùm erit, quod paucis guttis aqua illa levior ita
+            <lb ed="#F" n="20"/>reddatur in specie, ut ferrum iam descendat. Denique addo, si ferrum cum
+            <lb ed="#F" n="21"/>cortice in aqua diù maneat, futurum, ut descendat ex se; quia cortex 
+            paula<lb ed="#F" n="22" break="no"/>tim imbibit aquam, &amp; gravior redditur, &amp; partes aëris inclusae evaporant
+            <lb ed="#F" n="23"/>ita, ut ferrum sustinere non
+            <lb ed="#F" n="24"/>possit.
+        </p>
+            <p xml:id="p9i7y5-de5426-d1e506">
+               <lb ed="#F" n="43" type="fixed=50"/>
+               <figure xml:id="p9i7y5-de5426-Fd1e511">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869793/1259,1933,1141,1039/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">H F A L T G E D C R N Q P S</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375430-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="25" type="fixed=50"/>His positis experimentis
+            <lb ed="#F" n="26"/>dico evidens esse terminos
+            <lb ed="#F" n="27"/>magnetici motus, ad quos
+            <lb ed="#F" n="28"/>magnetica diriguntur, non
+            <lb ed="#F" n="29"/>esse circa Caeli polos, sed 
+            cir<lb ed="#F" n="30" break="no"/>ca terram. hoc autem sic pro
+            <lb ed="#F" n="31"/>batur. Sit circulus Cęli 
+            me<lb ed="#F" n="32" break="no"/>ridianus A. D. F. L. terra O.
+            <lb ed="#F" n="33"/>S. horizon physicus T. B.
+            <lb ed="#F" n="34"/>Astronomicus G. H. axis F,
+            <lb ed="#F" n="35"/>A. S. O. poli terrae L. D. 
+            se<lb ed="#F" n="36" break="no"/>ctio aequinoctialis. 
+            Suspen<lb ed="#F" n="37" break="no"/>datur ferrum N. P. in 
+            verti<lb ed="#F" n="38" break="no"/>cali si, ferrum dirigeretur ad
+            <lb ed="#F" n="39"/>polos Coeli, deberet ferrum dirigi, ut Q. R. ita, ut pars R. quae respicit 
+            sep<lb ed="#F" n="40" break="no"/>tentrionem, elevaretur supra horizontem, &amp; pars Q quae austrum respicit,
+            <lb ed="#F" n="41"/>caderet acute ad horizontem; cum haec sit magneticorum regula, immo
+            <lb ed="#F" n="42"/>omnium mobilium, ut ad terminos, ad quos moventur, proximè accedant,
+            <!--69.xml-->
+
+         <!--70.xml-->
+         <pb ed="#F" n="51"/>
+               <lb ed="#F" n="1"/>&amp; recta illos respiciant. Cum igitur non elevetur pars septentrionalis, sed
+            <lb ed="#F" n="2"/>descendat, nemo, ut arbitror, cum videat ferrum dirigi quasi directè ad 
+            po<lb ed="#F" n="3" break="no"/>los terrae, &amp; apud nos angulum cum horizonte facere graduum circiter 
+            sexa<lb ed="#F" n="4" break="no"/>ginta, dubitare potest, quin in terrae polum collimet. Si enim vellet 
+            termi<lb ed="#F" n="5" break="no"/>nare suum motum ad A. quorsum deprimeretur infra horizontem verum,
+            <lb ed="#F" n="6"/>ut N. R.
+        </p>
+            <p xml:id="p9i7y5-de5426-d1e587">
+               <lb ed="#F" n="41" type="fixed=51"/>
+               <figure xml:id="p9i7y5-de5426-Fd1e592">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869794/1059,783,1052,1171/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">C A D B F E</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375431-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="7" type="fixed=51"/>Hoc idem sic clarius adhuc 
+            o<lb ed="#F" n="8" break="no"/>stendo. Sumatur sphęricus 
+            ma<lb ed="#F" n="9" break="no"/>gnes A. B. C. D. in quo sint A.
+            <lb ed="#F" n="10"/>B. poli, quoties ponentur 
+            ferra<lb ed="#F" n="11" break="no"/>menta ultra C. in quadrante C.
+            <lb ed="#F" n="12"/>A. elevabuntur sursum, ut vides
+            <lb ed="#F" n="13"/>in exemplo, &amp; hoc non nisi quia
+            <lb ed="#F" n="14"/>ferrum dirigitur ad polum A. etsi
+            <lb ed="#F" n="15"/>transeas polum A. in quadrante
+            <lb ed="#F" n="16"/>A. D. obeli diriguntur, ut vides,
+            <lb ed="#F" n="17"/>ad contrariam partem, quoniam
+            <lb ed="#F" n="18"/>ad eundem polum A. collimant.
+            <lb ed="#F" n="19"/>Cuius rei difficilimae rationem
+            <lb ed="#F" n="20"/>reddere tentabo postea. Sicut
+            <lb ed="#F" n="21"/>igitur obelus in gradu proculà
+            <lb ed="#F" n="22"/>polo A. cadit supra tangentem
+            <lb ed="#F" n="23"/>obliquè; quia dirigitur ad polum
+            <lb ed="#F" n="24"/>A. sic etiam, cum videamus 
+            su<lb ed="#F" n="25" break="no"/>pra terram eundem capere situm magneticum ferrum, quem capit supra
+            <lb ed="#F" n="26"/>globum magnetis obelus ferreus, dicendum est dirigi ad polum terrae, sicuti
+            <lb ed="#F" n="27"/>dirigitur ad A. Et haec globi magnetici inspectio videtur mihi clarissimè
+            <lb ed="#F" n="28"/>ostendere hanc magnetis directionem ad polum terrae.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

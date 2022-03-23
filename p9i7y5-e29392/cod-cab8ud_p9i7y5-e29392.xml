@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 33</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 33</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="274"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e29392"> <!-- l3c33 -->
+            <head xml:id="p9i7y5-e29392-Hd1e107">Caput 33</head>
+            <p xml:id="p9i7y5-e29392-d1e109">
+            <!--293.xml-->
+               <pb ed="#F" n="274"/>
+               <lb ed="#F" n="1"/>Duo tantum corpora hanc verticitatem, &amp; habent in se à natura, &amp; alijs tribuunt 
+            corpo<lb ed="#F" n="2" break="no"/>ribus, magnes scilicet, &amp; tota Terra, non adamas, non aliud.
+            <lb ed="#F" n="3"/>Cap. XXXIII.
+        </p>
+            <p xml:id="p9i7y5-e29392-d1e122">
+               <lb ed="#F" n="4"/>Hactenus magnetis verticitatem, &amp; à magnete in ferrum 
+            deri<lb ed="#F" n="5" break="no"/>vatam per suos effectus exposuimus: iam delabitur oratio ad
+            <lb ed="#F" n="6"/>miram, &amp; magna ex parte hactenus inauditam de terrae 
+            ver<lb ed="#F" n="7" break="no"/>ticitate doctrinam; quae suis proditur effectibus, quos, 
+            quam<lb ed="#F" n="8" break="no"/>vis alias posuerim ad probandam in toto telluris globo virtu
+            <lb ed="#F" n="9"/>tem magneticam, tamen non hic omittam, ut eadem exibi dictis reflexo 
+            iti<lb ed="#F" n="10" break="no"/>nere per propriam causam explicentur. Dico igitur hic in primis hanc 
+            ma<lb ed="#F" n="11" break="no"/>gneticam directionem, ut est in solo nostrate magnete, quem omnes ex 
+            pro<lb ed="#F" n="12" break="no"/>brijs accidentibus norunt, &amp; in toto praeterea telluris globo, in quem 
+            dixe<lb ed="#F" n="13" break="no"/>rim ego primario, &amp; principaliter à natura inspirari, seu ab actione Cęli, ut
+            <lb ed="#F" n="14"/>semper in situ polari conservetur, ita non reperiri in ullo alio corpore 
+            ha<lb ed="#F" n="15" break="no"/>ctenus cognito. Quod sit in magnete; constati quod vero sit in toto 
+            tellu<lb ed="#F" n="16" break="no"/>ris globo, res est ex alibi dictis clarissima.
+        </p>
+            <p xml:id="p9i7y5-e29392-d1e153">
+               <lb ed="#F" n="17"/>Quod in alio non reperiatur corpore, nec ferro ab alio quam à magnete
+            <lb ed="#F" n="18"/>possit communicari, aut à tellure, quia quod pronuntio negativum est, non
+            <lb ed="#F" n="19"/>potest alia ratione probari, nisi singula excludendo corpora, quae à quibusdam
+            <lb ed="#F" n="20"/>proferuntur; &amp; quidem si proferantur aliqua, quae ad manus sint, tam obvia
+            <lb ed="#F" n="21"/>erit confutatio, quam ipsummet corpus. Nonnulli hanc virtutem per 
+            con<lb ed="#F" n="22" break="no"/>tactum excitandi ferrum, ut se ad polos convertat, adamanti tribuunt, splen
+            <lb ed="#F" n="23"/>dido commento, sed sanè per quàm pauperes istos dixeris philosophos, qui
+            <lb ed="#F" n="24"/>nunquam adamantes in manu habere potuerint, nedum in censu, ut 
+            facilli<lb ed="#F" n="25" break="no"/>mo experimento errorem dediscerent. Sume adamantem, cuiuscunque 
+            ma<lb ed="#F" n="26" break="no"/>gnitudinis, &amp; perfectionis, frica, ut libet, acum ferreum, vel minimum, tere
+            <lb ed="#F" n="27"/>ad facietatem, operam teres, nec ullam immitter in ferrum verticitatem. Om
+            <lb ed="#F" n="28"/>nino, non ego, sed res ipsa evidentissimè negat adamantem ullam ferro 
+            po<lb ed="#F" n="29" break="no"/>larem conversionem inspirare. Non ex hoc sibi precium adamas conciliat.
+            <lb ed="#F" n="30"/>Sed isti incautè nimis agunt, qui quotidiè in manibus splendescere non 
+            vi<lb ed="#F" n="31" break="no"/>dent, quod illorum detegat, &amp; illustret errorem. Aptius ad fallendum illi
+            <lb ed="#F" n="32"/>mentiuntur, qui ad remotiores sese recipiunt rationes; &amp; quod solemne est
+            <lb ed="#F" n="33"/>illis, qui impostoris notam reformidant, dicunt in India (mendaciorum 
+            a<lb ed="#F" n="34" break="no"/>sylo) reperiri lapidem non solum magneticum, qui ferrum trahat, sed &amp; qui
+            <lb ed="#F" n="35"/>aurum, &amp; qui argentum trahat; cor hominis in huiusmodi lapidem 
+            obdurvis<lb ed="#F" n="36" break="no"/>se dixeris cum nihil, nisi aurum appetere videatur. Plinij fabellas bellas quidem
+            <lb ed="#F" n="37"/>iudico, &amp; lepide narratas, quas, ut dicebat ille, eruditi quidem degustent
+            <lb ed="#F" n="38"/>suavissime, historias tamen non dixerim, sed commenta, hunc vero etiam
+            <lb ed="#F" n="39"/>errorem eleganter confutavit Gilbertus lib. 3. cap. 13.
+        </p>
+            <p xml:id="p9i7y5-e29392-d1e206">
+               <lb ed="#F" n="40"/>Ratio igitur cur nec adamas, nec alius ex preciosis lapillis hanc verticita
+            <!--294.xml-->
+            <pb ed="#F" n="275"/>
+               <lb ed="#F" n="1"/>tem, aut in se habeat, aut ferro possit communicare, ea sit à priori: Haec 
+            verti<lb ed="#F" n="2" break="no"/>citas primario in toto telluris globo reperitur, propter rationem saepius 
+            incul<lb ed="#F" n="3" break="no"/>catam, quia cum circa terram rotentur luminaria, &amp; astra, eam aequali 
+            qua<lb ed="#F" n="4" break="no"/>dam ratione circunquaque afficiunt, &amp; disponunt. Ex quo fit, ut sit 
+            quodam<lb ed="#F" n="5" break="no"/>modo tota terra, quasi coagmentata, &amp; composita per ordinem ad polos: ac
+            <lb ed="#F" n="6"/>proinde consequenter in Terra vis quaedam inesse debuit se continendi in
+            <lb ed="#F" n="7"/>eodem situ, &amp; collocatione, ut sic dixerim, polari. Haec igitur vis in ipsa 
+            ter<lb ed="#F" n="8" break="no"/>ra est ad se ipsam formandam, &amp; stabiliendam; est etiam activa haec 
+            facul<lb ed="#F" n="9" break="no"/>tas ita, ut circunquaque virtutis quaedam effluvia, ut cum Gilberto loquar,
+            <lb ed="#F" n="10"/>emittat, qualitatem scilicet modo alibi explicato, qua illa corpora, quae cum
+            <lb ed="#F" n="11"/>terra peculiarem habent affinitatem ita disponit, ut etiam ipsa se se ad polos
+            <lb ed="#F" n="12"/>convertant, seu ad ipsam terrae actionem disponant: &amp; ut omne agens in 
+            a<lb ed="#F" n="13" break="no"/>gendo quaerit sibi passum assimilare in eo, secundum quod agit, sicut terra
+            <lb ed="#F" n="14"/>in sua ista actione efficit, ut corpus illud disponatur polariter ad se, ut est 
+            di<lb ed="#F" n="15" break="no"/>sposita ipsamet terra, ita illud corpus acquirit vim dispovendi eodem modo
+            <lb ed="#F" n="16"/>aliud corpus. Quia igitur magnes ex peculiari sua forma maximam 
+            om<lb ed="#F" n="17" break="no"/>nium corporum cum telluris globo habet affinitatem, &amp; ferrum maximè ad
+            <lb ed="#F" n="18"/>magnetem accedit, ideo sicuti terra, &amp; habet in se, &amp; potest alijs directivam
+            <lb ed="#F" n="19"/>vim communicare, ita etiam magnes, immo &amp; ferrum hanc eandem, &amp; 
+            re<lb ed="#F" n="20" break="no"/>cipere possunt, &amp; alijs impertiri. Quia ergo adamas hanc cum terra 
+            affini<lb ed="#F" n="21" break="no"/>tatem non habet, imo potius Cęlestem redolet naturam, ut ex splendore, imo
+            <lb ed="#F" n="22"/>&amp; ex immortali illa duritie colligeret aliquis elegans philosophus; ideo nec
+            <lb ed="#F" n="23"/>habet in se, nec potest hanc verticitatem alijs tribuere. Iniuriosi ergo sunt in
+            <lb ed="#F" n="24"/>adamantem; qui magneticam illi affingunt naturam, dum volunt eius 
+            no<lb ed="#F" n="25" break="no"/>bilitatem exaggerare: Terreum enim faciunt &amp; terrae primogenitum; cum
+            <lb ed="#F" n="26"/>potius tantum illi pretium conciliet cęlestis, quam aemulatur, natura. Ratio
+            <lb ed="#F" n="27"/>igitur cur adamas non habeat hanc vim magneticam, illa est, quia non est
+            <lb ed="#F" n="28"/>corpus maximè terrestre. huiusmodi autem sola hanc virtutem, &amp; recipiunt,
+            <lb ed="#F" n="29"/>&amp; retinent, quod quaerebatur.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

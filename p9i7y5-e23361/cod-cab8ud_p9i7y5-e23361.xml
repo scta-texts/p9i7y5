@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 10</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 10</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="219"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e23361"> <!-- l3c10 -->
+            <head xml:id="p9i7y5-e23361-Hd1e107">Caput 10</head>
+            <p xml:id="p9i7y5-e23361-d1e109">
+               <lb ed="#F" n="31"/>Si causam deviationis à vero meridiano cognovißent per hanc potuissent Americam
+            <lb ed="#F" n="32"/>certo signo praecognoscere, &amp; praedicere illius Orbis inventores.
+            <lb ed="#F" n="33"/>Caput X.
+        </p>
+            <p xml:id="p9i7y5-e23361-d1e118">
+               <lb ed="#F" n="34"/>Ex hoc vides, quod si haec magnetica philosophia, &amp; huius
+            <lb ed="#F" n="35"/>deviationis ratio cognita fuisset priscis illis novi orbis 
+            inve<lb ed="#F" n="36" break="no"/>stigatoribus, &amp; hanc novus ille Tiphys observasset, potuisset
+            <lb ed="#F" n="37"/>minori labore, &amp; maiori certitudine ad novas illas terras
+            <lb ed="#F" n="38"/>properare. Quando enim discedendo ex Hispania pervenit
+            <lb ed="#F" n="39"/>ad meridianum fortunatarum, quem vocant Hispani delos Azores, &amp; vidit
+            <lb ed="#F" n="40"/>ibi versorium, &amp; pyxidem nauticam omnino congruere cum meridiano,
+            <!--238.xml-->
+            <pb ed="#F" n="219"/>
+               <lb ed="#F" n="1"/>potuisset illud inferre, quod verum deinde esse comprobavit temporum
+            <lb ed="#F" n="2"/>successio, aequaliter ad Orientem, &amp; ad occidentem distare ab illo 
+            meri<lb ed="#F" n="3" break="no"/>diano Terras, &amp; quidem occidentales, quas inquirebat, Terras vastissimas
+            <lb ed="#F" n="4"/>esse, nec multo minores, quam sint Europa, &amp; Asia simul: quandoquidem
+            <lb ed="#F" n="5"/>aequali vi ad se trahebant versorium, ac traherent Europa, &amp; Asia, ex quo fie
+            <lb ed="#F" n="6"/>bat, ut versorium omnino in vero meridiano consisteret. imo, cum iam 
+            co<lb ed="#F" n="7" break="no"/>gnosceret totum Europae, &amp; Asiae tractum vastissimum esse, &amp; tam longè 
+            ex<lb ed="#F" n="8" break="no"/>currere, ut ferè emisphęrium compleret; poterat iuste inferre, cum iste 
+            tan<lb ed="#F" n="9" break="no"/>tus terrarum tractus, qui mihi notus est, ad se vehementius non trahat 
+            ver<lb ed="#F" n="10" break="no"/>sorium, neque cogat declinare à vero meridiano ad se, sed stet pyxis in vero
+            <lb ed="#F" n="11"/>meridiano. ergo vel ad occidentem in aequali distantia est aequalis terrae 
+            tra<lb ed="#F" n="12" break="no"/>ctus, quod vix contingere potest cum iste, qui mihi notus est orientalis 
+            me<lb ed="#F" n="13" break="no"/>dium compleat ferè orbis, vel certè vicinior est longissima nihilominus ter
+            <lb ed="#F" n="14"/>rae portio. Dum vero pergendo ad occidentem, &amp; institutum 
+            prosequen<lb ed="#F" n="15" break="no"/>do cursum, videt iam versorium incipere declinare à vero meridiano, 
+            occi<lb ed="#F" n="16" break="no"/>dentem versus, quod prius declinabat ad Orientem, potuit certè inferre, se
+            <lb ed="#F" n="17"/>minus distare à novis Terris, quas inquirebat, quam tunc distaret ab 
+            Hi<lb ed="#F" n="18" break="no"/>spania, quam ad Orientem reliquerat. Cum enim isti novi Terrarum 
+            tra<lb ed="#F" n="19" break="no"/>ctus maiore vi ad se vocarent pyxidem, quam Hispania, cum toto suo 
+            va<lb ed="#F" n="20" break="no"/>stissimo continente, necessario inferebatur, illam Terram, &amp; vastissimam es
+            <lb ed="#F" n="21"/>se &amp; propiorem, sicut de facto erat. nec enim versorium à vero meridiano ad
+            <lb ed="#F" n="22"/>illam partem divertere poterat, nisi hac trahente causa.
+        </p>
+            <p xml:id="p9i7y5-e23361-d1e188">
+               <lb ed="#F" n="23"/>Vides quanta haec sit magnetica philosophia, quam digna, ut ad illam
+            <lb ed="#F" n="24"/>animum studia'que convertas, cum ad nouos detegendos orbes, &amp; ad 
+            exi<lb ed="#F" n="25" break="no"/>mendum animum navigantium à tanta perplexitate tam ingens habeat,
+            <lb ed="#F" n="26"/>certumque praesidium. Certè hac dirigente manum, potuisset ille suis 
+            so<lb ed="#F" n="27" break="no"/>cijs novas illas regiones iam tum quasi in charta pictas demonstrare, quas
+            <lb ed="#F" n="28"/>nec ipse met, nec ullus alius ex nostro orbe unquam viderat, &amp; ab ingenti
+            <lb ed="#F" n="29"/>animorum cura illos vendicare. Possent tuto hac eadem philosophia uti
+            <lb ed="#F" n="30"/>navigantes ad novos indagandos Tertarum tractus, si qui sunt in parte Au
+            <lb ed="#F" n="31"/>strali. Quoties enim, ut dixi, versorium divertit à vero meridiano ad aliquam
+            <lb ed="#F" n="32"/>partem, toties certissimum est argumentum ad illam partem magnum esse
+            <lb ed="#F" n="33"/>Terrarum tractum, &amp; longè maiorem, quam sit ex parte opposita, à qua 
+            di<lb ed="#F" n="34" break="no"/>scedit.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

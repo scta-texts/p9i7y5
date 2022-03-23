@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 17</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 17</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="58"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-de6642"> <!-- l1c17 -->
+            <head xml:id="p9i7y5-de6642-Hd1e107">Caput 17</head>
+            <p xml:id="p9i7y5-de6642-d1e109">
+               <lb ed="#F" n="23"/>Universum terrae globum vim magneticam obtinere experimentis probatur.
+            
+            <lb ed="#F" n="24"/>Caput XVII.
+        </p>
+            <p xml:id="p9i7y5-de6642-d1e116">
+               <lb ed="#F" n="25"/>Quaerimus punctum proprium, ad quod magnetica dirigantur, cum
+            <lb ed="#F" n="26"/>subinde cum vero meridiano non congruant, sed ad aliud, &amp;
+            <lb ed="#F" n="27"/>aliud pro locorum diversitate, punctum divertant; in quo 
+            prae<lb ed="#F" n="28" break="no"/>ciso puncto assignando tota difficultas est. Verum antequam
+            <lb ed="#F" n="29"/>id exequamur, nonnulla prius sunt stabilienda.
+        </p>
+            <p xml:id="p9i7y5-de6642-d1e129">
+               <lb ed="#F" n="30"/>Dico igitur primo terrae globum universum vim magneticam obtinere;
+            <lb ed="#F" n="31"/>idest in tota illius mole vim quandam inesse se, &amp; omnes suas partes, 
+            qui<lb ed="#F" n="32" break="no"/>bus physicè integratur, dirigendi ad polos, qui sunt naturales totius globi
+            <lb ed="#F" n="33"/>termini, ita ut tota sit compacta tellus, ac veluti constituta per ordinem ad
+            <lb ed="#F" n="34"/>polos, habeat'que omnes suas partes dispositas ad ea puncta, &amp; ut ità dicam,
+            <lb ed="#F" n="35"/>polariter directa, ut si tota terra moveretur violenter à proprio loco, 
+            natu<lb ed="#F" n="36" break="no"/>raliter rediret ad illum locum, quem habet nunc non solum occupando
+            <lb ed="#F" n="37"/>suo centro centrum universi, quod faceret per gravitatem, sed etiam 
+            dirigen<lb ed="#F" n="38" break="no"/>do se in ordine ad polos; nec partes illae, quae nunc subiacent polis, 
+            naturali<lb ed="#F" n="39" break="no"/>ter essent sub aequatore, sed redirent ad polos; &amp; omnino terra talem habet
+            <lb ed="#F" n="40"/>virtutem magneticam dispositivam ad polos, qualem omnino habet ma¬
+            <!--77.xml-->
+            <pb ed="#F" n="58"/>
+               <lb ed="#F" n="1"/>gnes, loquendo de toto Telluris globo, non de aliqua eius parte solum.
+            <lb ed="#F" n="2"/>Probatur hoc multis argumentis relictis illis ut plurimum, quae 
+            recen<lb ed="#F" n="3" break="no"/>sentur à Gilberto illo capite ultimo primi libri; quia mihi mea sufficere 
+            vi<lb ed="#F" n="4" break="no"/>dentur. Primo observatum est terrae venas, quae in montibus cernuntur,
+            <lb ed="#F" n="5"/>quando aquarum alluvione, &amp; terrae defluxu montium latera exeduntur,
+            <lb ed="#F" n="6"/>observatum, inquam, est venas illas terrae, quae excurrunt per montium 
+            vi<lb ed="#F" n="7" break="no"/>scera, excurrere parallelas ad axem Mundi, loquor physicè, &amp; ad sensum, à
+            <lb ed="#F" n="8"/>polo ad polum, &amp; incidere ad planum horizontale in angulo referente 
+            al<lb ed="#F" n="9" break="no"/>titudinem poli, ut iudicetur illud ipsum, quod contendimus, terram 
+            univer<lb ed="#F" n="10" break="no"/>sam dirigi per ordinem ad polos, &amp; quasi coagmentari ea ratione, qua 
+            co<lb ed="#F" n="11" break="no"/>agmentantur caepe; ita ut per medium excurrat axis, &amp; circa axem 
+            circum<lb ed="#F" n="12" break="no"/>ponantur veluti folia primum minora, deinde maiora, &amp; maiora. Sicuti 
+            e<lb ed="#F" n="13" break="no"/>nim, si scindatur caepa, cernuntur folia illam coagmentantia excurrete 
+            cir<lb ed="#F" n="14" break="no"/>ca polum, seu circa axem. hoc idem etiam dico apparere in terra, sed 
+            pro<lb ed="#F" n="15" break="no"/>pter magnitudinem globi illae venae, quae sic terram coagmentant, &amp; quasi
+            <lb ed="#F" n="16"/>componunt, videntur parallelae axi, quamvis re vera rotunditatem sphaerae
+            <lb ed="#F" n="17"/>terrestris sequantur, &amp; in polis quasi committantur.
+        </p>
+            <p xml:id="p9i7y5-de6642-d1e197">
+               <lb ed="#F" n="23" type="fixed=58"/>
+               <figure xml:id="p9i7y5-de6642-Fd1e202">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869801/573,1933,1685,1333/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">Septentrio Oriens Meridies Oci C E D A F B F C F E E D A F E B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375442-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="18" type="fixed=58"/>Sit mons aliquis A. B. C. D. qui praecisus sit, vel ab aquis corrosus, vel alia
+            <lb ed="#F" n="19"/>ratione in D. C. B. ita ut haec facies corrosa D. C. B. respiciat ortum, vel 
+            occa<lb ed="#F" n="20" break="no"/>sum, quam partem respicere debet talis sectio, ad hoc, ut cernatur, quod 
+            di<lb ed="#F" n="21" break="no"/>to, ita ut sit haec sectio in plano meridiano, tunc videbis omnes terrae venas,
+            <lb ed="#F" n="22"/>quibus Mons conflatur, accedere ab E. ad F. in nostris hisce regionibus, qui
+            <!--77.xml-->
+            
+         <!--78.xml-->
+         <pb ed="#F" n="59"/>
+               <lb ed="#F" n="1"/>polum elevatum habemus in F. ita ut tales venae cum plano horizontis 
+            fa<lb ed="#F" n="2" break="no"/>ciant angulum quadraginta quinque graduum circiter, ut facit axis 
+            pola<lb ed="#F" n="3" break="no"/>ris, &amp; semper huiusmodi venae, quas facile cognosces ex colore, &amp; alijs 
+            acci<lb ed="#F" n="4" break="no"/>dentibus, sic excurrent, observavi hoc non solum in montibus 
+            Longobar<lb ed="#F" n="5" break="no"/>diae, sed in toto ferè Apennino, quo Italia dividitur. Quod accuratè cum
+            <lb ed="#F" n="6"/>ego observarem, nunquam errare vidi. Hoc autem retulisse volui; quia 
+            sum<lb ed="#F" n="7" break="no"/>mopere cuperem istud ipsum ab alijs in varijs orbis regionibus observari;
+            <lb ed="#F" n="8"/>ubi diversae sunt poli altitudines, &amp; notari, an semper huiu modi venae 
+            prae<lb ed="#F" n="9" break="no"/>cisè faciant cum plano horizontis eundem angulum, quem facit axis 
+            Mun<lb ed="#F" n="10" break="no"/>di; quia si id ubique verum esset, ut ego arbitror, posset meo iudicio 
+            eviden<lb ed="#F" n="11" break="no"/>ter colligi hoc, quod intendimus, Terram scilicet universam compactam,
+            <lb ed="#F" n="12"/>&amp; quasi coagmentatam per ordinem ad polos, atque ea via suam universam
+            <lb ed="#F" n="13"/>dirigere vim, quod est magnum indicium terram esse magneticam. 
+            Obser<lb ed="#F" n="14" break="no"/>vabitur hoc autem facilè in montibus, qui huiusmodi sectiones habent ad
+            <lb ed="#F" n="15"/>ortum: &amp; in vallibus, ut est hic picta, quae excurrunt à Meridie ad 
+            Septen<lb ed="#F" n="16" break="no"/>tionem, vel sic fere sunt locatę, videbis enim statim quomodo cadant illae
+            <lb ed="#F" n="17"/>venae ad planum horizontis, an faciant angulum aequalem ei, quem facit
+            <lb ed="#F" n="18"/>axis cum eo plano. Dixi venas terrae observandas, quia de venis metallicis
+            <lb ed="#F" n="19"/>non ita mihi constat. Hoc observaveram ego, &amp; scripseram, quando 
+            inve<lb ed="#F" n="20" break="no"/>ni ab erudito Keplero hoc idem in Germania observatum, &amp; vulgatum, ex
+            <lb ed="#F" n="21"/>quo vehementer gavisus sum, &amp; utinam ab alijs etiam alibi observetur, 
+            si<lb ed="#F" n="22" break="no"/>cuti enixe opto. Indignum enim puto nos inquirere, qua materia sint 
+            com<lb ed="#F" n="23" break="no"/>pacta astra, &amp; Caelum, &amp; hanc, quam quotidie pedibus calcamus, terram
+            <lb ed="#F" n="24"/>non, saltem quantum licet, penitus internoscere; scio etiam alios 
+            observas<lb ed="#F" n="25" break="no"/>se, &amp; consentire. Adverte autem me loqui de re physica, in qua satis est, ad
+            <lb ed="#F" n="26"/>hoc, ut dicere possimus pro re ista rem sic se habere, quod hoc contingat,
+            <lb ed="#F" n="27"/>vel semper, vel ut plurimum.
+        </p>
+            <p xml:id="p9i7y5-de6642-d1e296">
+               <lb ed="#F" n="28"/>Non omittam autem me aut falsum esse dispositione loci, aut 
+            observas<lb ed="#F" n="29" break="no"/>se aliquando venas istas prorsus contraria ratione excurrere; ita ut incedant
+            <lb ed="#F" n="30"/>ad sensum parallelae aequatori, &amp; cadant ad angulos rectos supra axem 
+            Mun<lb ed="#F" n="31" break="no"/>di: in quo casu nihilominus vera manet propositio terram esse 
+            coagmenta<lb ed="#F" n="32" break="no"/>tam, &amp; quasi compactam per ordinem ad polos, &amp; habere ex sua natura, &amp;
+            <lb ed="#F" n="33"/>quasi compositione, dispositionem per ordinem ad polos, ut potius illa, quam
+            <lb ed="#F" n="34"/>alia ratione conformetur, &amp; vim suam sic obtineat. Cum igitur terra sit
+            <lb ed="#F" n="35"/>hoc modo coagmentata per ordinem ad polos, &amp; composita quasi 
+            quibus<lb ed="#F" n="36" break="no"/>dam crustis excurrentibus circa axem, signum est vim habere se dirigendi
+            <lb ed="#F" n="37"/>per ordinem ad polos.
+        </p>
+            <p xml:id="p9i7y5-de6642-d1e320">
+               <lb ed="#F" n="38"/>Secundo terram vim magneticam obtinere, nec solum per ordinem ad
+            <lb ed="#F" n="39"/>polos sic coagmentatam esse, ut hactenus probavi, ostendo. Tellus vim 
+            ma<lb ed="#F" n="40" break="no"/>gneticam potest in ferrum transmittere, ergo illam in se habet. consequens
+            <lb ed="#F" n="41"/>ex eo satis sibi fidem conciliat, quod nullus non admittit, nemo, scilicet,
+            <lb ed="#F" n="42"/>dat, quod non habet. Si ergo communis Mater tantam vim magneticam
+            <!--79.xml-->
+            <pb ed="#F" n="60"/>
+               <lb ed="#F" n="1"/>tribuit ferro, iniuriosus sanè sit, &amp; iniquus, qui hanc illi deneget. 
+            Antece<lb ed="#F" n="2" break="no"/>dens experimenta quaedam evidentissima ab omni eximunt dubitatione;
+            <lb ed="#F" n="3"/>videmus enim aliqua ferramenta vim magneticam obtinere, &amp; expeditè se
+            <lb ed="#F" n="4"/>se in polos convertere, ac si magneticè optimè essent excitata, versoria ad se
+            <lb ed="#F" n="5"/>determinatis partibus provocare, &amp; omnino magneticam vim in se 
+            claris<lb ed="#F" n="6" break="no"/>simè ostendere; quae tamen ferramenta nunquam aliquo ex nostratibus 
+            ma<lb ed="#F" n="7" break="no"/>gnetibus excitata fuere; nec verò etiam saepe propter suam magnitudinem
+            <lb ed="#F" n="8"/>excitari potuerunt ita vehementer, nec tantam concipere vim ab ullo 
+            no<lb ed="#F" n="9" break="no"/>strate magnete, quantam re ipsa ostendunt. Ergo cum nulla alia possit 
+            assi<lb ed="#F" n="10" break="no"/>gnari causa, à qua talem receperint virturem, &amp; iuxta magneticas leges 
+            op<lb ed="#F" n="11" break="no"/>timè possit debeatque huiusmodi effectus in Tellurem referri, dicendum 
+            om<lb ed="#F" n="12" break="no"/>nino est, terrae acceptum referri debere, in qua sit vis magneticè ferrum 
+            ex<lb ed="#F" n="13" break="no"/>citandi.
+        </p>
+            <p xml:id="p9i7y5-de6642-d1e366">
+               <lb ed="#F" n="14"/>Hanc eandem rem posuit Gilbertus libro tertio, capite duodecimo; sed
+            <lb ed="#F" n="15"/>meo iudicio non satis firmis rationibus confirmavit: nam ea, quae ab ipso
+            <lb ed="#F" n="16"/>dicuntur, possent ab aliquo in Caelum, aut Caelorum influentias referri; nec,
+            <lb ed="#F" n="17"/>si quis contentiosè adversaretur, posset adeo facile confutari, &amp; convinci
+            <lb ed="#F" n="18"/>evidenter, provenire à magnetis virtute, si illa solum afferantur, quae ab ipso
+            <lb ed="#F" n="19"/>referuntur: ait enim, si ferrum à fabro ignitum ita procundatur, vel ducatur,
+            <lb ed="#F" n="20"/>ut extendatur per lineam meridianam sua longitudine, &amp; dum procuditur
+            <lb ed="#F" n="21"/>septentrionem versus motum habeat extensionis, manifestum esse 
+            ferramen<lb ed="#F" n="22" break="no"/>ta sic extensa in septentrionem, &amp; sic reposita, dum refrigerantur, converti
+            <lb ed="#F" n="23"/>supra sua centra, &amp; natantia, per idoneos scilicet traiecta cortices, motum
+            <lb ed="#F" n="24"/>facere in aqua destinato fine in septentrionem, sic etiam ferri bacillum 
+            con<lb ed="#F" n="25" break="no"/>flati valido igne, meridionaliter, hoc est secundum meridiani circuli ductum
+            <lb ed="#F" n="26"/>incandescat, &amp; exemptum ab igne refrigeretur, &amp; in pristinam temperiem
+            <lb ed="#F" n="27"/>redeat, in eadem, qua prius positura manens. Hinc nanque evenit, ut 
+            con<lb ed="#F" n="28" break="no"/>versis ad eosdem telluris polos ijsdem finibus verticitatem extendat: 
+            sem<lb ed="#F" n="29" break="no"/>per enim, ubi liberè se supra suum centrum huiusmodi ferrum poterit 
+            mo<lb ed="#F" n="30" break="no"/>vere, ad eundem recurret situm, &amp; easdem partes ijsdem obvertet polis, quas
+            <lb ed="#F" n="31"/>obverterat, dum refrixit, &amp; rursus, si incandescat, &amp; idem contraria 
+            positio<lb ed="#F" n="32" break="no"/>ne ponatur sic candens, donec refrigeretur, ex refrigerationis positione in
+            <lb ed="#F" n="33"/>ferrum nova infunditur verticitas, &amp; convertitur in contrarias priori 
+            ver<lb ed="#F" n="34" break="no"/>ticitati partes. Haec ibi.
+        </p>
+            <p xml:id="p9i7y5-de6642-d1e414">
+               <lb ed="#F" n="35"/>Verum si quis ad haec omnia experimenta obstinatè dicat id ex Caelo 
+            pro<lb ed="#F" n="36" break="no"/>venire, quod sua diurna volutatione ita influat in ferrum ea ratione 
+            dispo<lb ed="#F" n="37" break="no"/>situm, ut cogat perpetuo eundem illum quaerere situm, quasi partes Caeli ma
+            <lb ed="#F" n="38"/>gis septentrionales, dum moventur suprapositum ferrum pariter, magis 
+            sep<lb ed="#F" n="39" break="no"/>tentrionales illas ita efficiant, &amp; disponant, ut dum ferrum liberum est ad
+            <lb ed="#F" n="40"/>illas easdem recurrat, &amp; non ad australes; ac propterea ea ratione ferrum
+            <lb ed="#F" n="41"/>ignitum requirere; ut dum calore, aut igne laxantur partes, via patentior
+            <lb ed="#F" n="42"/>Caelestibus influentijs aperiatur. haec si dicat aliquis, ut solent hisce loquen¬
+            <!--80.xml-->
+            <pb ed="#F" n="61"/>
+               <lb ed="#F" n="1"/>di formulis uti philosophi, nihil fortasse habebit, quo hominem frangat,
+            <lb ed="#F" n="2"/>evidenterque convincat hanc virtutem in ferrum, non à Caelo, sed à terra 
+            de<lb ed="#F" n="3" break="no"/>rivari. Illo enim quod subdit auctor puriore, &amp; frigidiore Caelo melius hoc
+            <lb ed="#F" n="4"/>succedere, belle suam tueri causam contendet adversarius, quod, scilicet, ea
+            <lb ed="#F" n="5"/>aëris puritate commodius suas astra transmittant influentias.
+        </p>
+            <p xml:id="p9i7y5-de6642-d1e449">
+               <lb ed="#F" n="6"/>Illud etiam quod subdit bacilla ferrea, quae diù per viginti, aut amplius
+            <lb ed="#F" n="7"/>annos posita, e fixa fuerunt à meridie in septentrionem, verticitatem 
+            acqui<lb ed="#F" n="8" break="no"/>rere diuturnitate illa tempotis, ut converti possint ad meridianum, 
+            videli<lb ed="#F" n="9" break="no"/>cet in aëra pendula, vel idoneo imposita cortice, &amp; natantia, &amp; dirigere se
+            <lb ed="#F" n="10"/>ad polum, quem respiciebant in diuturna illa positione: &amp; posse etiam 
+            hu<lb ed="#F" n="11" break="no"/>iusmodi bacilla allicere, &amp; fugare magneticè versoria, non equidem 
+            con<lb ed="#F" n="12" break="no"/>temnendum, sicut nec praecedentia experimenta existimo. neque tamen 
+            ve<lb ed="#F" n="13" break="no"/>hementissimum est ad conficiendum, quod intendimus, ut perduratum ad
+            <lb ed="#F" n="14"/>negandum animum evincat. Quid enim? si quis Caelum vellet huius 
+            ver<lb ed="#F" n="15" break="no"/>ticitatis, quae in ferro deprehenditur, si diù iacuerit in linea meridiana, 
+            au<lb ed="#F" n="16" break="no"/>ctorem cognoscere, dicatque ita ferrum converti, quia longo illo tempore, cum
+            <lb ed="#F" n="17"/>in illa positione permanserit, actione Caeli, &amp; astrorum influentijs 
+            disposi<lb ed="#F" n="18" break="no"/>um sit, ut tali pacto se convertat.
+        </p>
+            <p xml:id="p9i7y5-de6642-d1e481">
+               <lb ed="#F" n="19"/>Unum solum ego pro Gilberto subderem, si ferrum illud paucis illis 
+            an<lb ed="#F" n="20" break="no"/>nis potuit à Caelo ita affici, &amp; disponi, ut suae libertati relictum, sese in polos
+            <lb ed="#F" n="21"/>convertat, cur non potuit idem Cęlum tot saeculis, quibus iam circa terram
+            <lb ed="#F" n="22"/>convolvitur, ita terram afficere, ut ordinem habeat ad polos, &amp; in ordine
+            <lb ed="#F" n="23"/>ad illos sit coagmentata? ac proinde si dimoveretur ab illo statu posset sese
+            <lb ed="#F" n="24"/>ad illum eundem revocare, in quo tot lustris permansit, omnesque suas habeat
+            <lb ed="#F" n="25"/>partes illo situ dispositas. &amp; hoc illud ipsum est, quod nunc contendimus,
+            <lb ed="#F" n="26"/>dum in tellure virtutem magneticam inesse demonstramus. Nec enim 
+            di<lb ed="#F" n="27" break="no"/>co terram esse magnum magnetem, sed vim habere se disponendi, &amp; 
+            confe<lb ed="#F" n="28" break="no"/>rendi in meridianum, quam vim possit etiam ferro communicare. Illud so
+            <lb ed="#F" n="29"/>lum superesset ostendendum, terram posse sic polariter affici à Caelo, sicut
+            <lb ed="#F" n="30"/>dicitur affici ferrum: Sicut enim non afficitur aurum, nec aliud metalli
+            <lb ed="#F" n="31"/>genus, quantumvis iaceat in meridiano; sed afficitur, ut dicunt, solum 
+            fer<lb ed="#F" n="32" break="no"/>rum, &amp; ferrea corpora, ostendendum esset terram universam corpus tale 
+            es<lb ed="#F" n="33" break="no"/>se, quod sic affici possit; quod probari fortasse posset ex alchymistarum 
+            pla<lb ed="#F" n="34" break="no"/>citis, qui putant terram, inter omnia metalla, esse maximè terreum, tàm in
+            <lb ed="#F" n="35"/>suo sulphure, quàm in mercurio, &amp; terram esse ferream proximè, seu ad 
+            fer<lb ed="#F" n="36" break="no"/>rum proximè accedere. verum, quia experimenta haec rem non evincunt
+            <lb ed="#F" n="37"/>apud omnes, alia profero, quibus terram vim habere magneticam, &amp; eam
+            <lb ed="#F" n="38"/>ferro communicare demonstro.
+        </p>
+            <p xml:id="p9i7y5-de6642-d1e527">
+               <lb ed="#F" n="39"/>Cancelli ferrei omnes, quibus solent fenestrae muniri, vim magneticam
+            <lb ed="#F" n="40"/>habent evidentissimam, si antiquiores paulo sint, &amp; quidem bacilla ferrea,
+            <lb ed="#F" n="41"/>quae in longum errecta sunt, &amp; manserunt perpendiculariter ad terram,
+            <lb ed="#F" n="42"/>quamcumque tandem Caeli plagam respiciant fenestrae, ut non dicas esse ex
+            <!--81.xml-->
+            <pb ed="#F" n="62"/>
+               <lb ed="#F" n="1"/>prospectu meridiano, si fuerit ibi per quindecim, aut viginti annos, ista, 
+            in<lb ed="#F" n="2" break="no"/>quam, bacilla, non solum illa quae iacuerunt in linea meridiana, vim 
+            ma<lb ed="#F" n="3" break="no"/>gneticam habent, &amp; quidem talem, ut parte inferiori, quae est versus terram
+            <lb ed="#F" n="4"/>trahant partem meridionalem versorij, &amp; fugent cuspidem oppositam, 
+            con<lb ed="#F" n="5" break="no"/>tra verò pars superior, quae erecta mansit Caelum versus cuspide sua partem
+            <lb ed="#F" n="6"/>septentrionalem versorij ad se trahit, &amp; propulsat australem: hoc in 
+            omni<lb ed="#F" n="7" break="no"/>bus omnino ferreis cancellis verum esse deprehendi in tota ferè Italia; &amp;
+            <lb ed="#F" n="8"/>tantam habent vim magneticam, ut si fenestrae sint antiquiores, &amp; ex multo
+            <lb ed="#F" n="9"/>tempore cancellatae, non solum trahant versorium, &amp; procul commoveant,
+            <lb ed="#F" n="10"/>sed suspendant ferri ramenta, &amp; acus non magneticè excitos, semper'que ve
+            <lb ed="#F" n="11"/>rum deprehendes, quamcunque Caeli plagam respiciat fenestra, ut dicebam.
+            <lb ed="#F" n="12"/>Quod si sint antiquiores cancelli, ut nonaginta, aut centum annorum, 
+            tan<lb ed="#F" n="13" break="no"/>tam habent vim magneticam, ut, cum magnes, etiam robustissimus, non 
+            ni<lb ed="#F" n="14" break="no"/>si ad quinque, vel sex palmos versorium commovere deprehendatur, 
+            inve<lb ed="#F" n="15" break="no"/>nerim ego Mantuae fenestras, quae huiusmodi ferreis cancellis ad quattuor,
+            <lb ed="#F" n="16"/>&amp; amplius ulnas procul versorium immutabant, &amp; ad se trahebant, sibi'que
+            <lb ed="#F" n="17"/>famulari cogebant iuxta regulam supra positam, ut scilicet parte inferiori
+            <lb ed="#F" n="18"/>traherent versorij crucem australem, superiori cuspidem septentrionalem.
+            <lb ed="#F" n="19"/>neque solum hoc deprehenditur in huiusmodi fenestrarum bacillis, sed 
+            per<lb ed="#F" n="20" break="no"/>petuo eodem omnino modo in omnibus fertamentis, quae habeant aliquam
+            <lb ed="#F" n="21"/>longitudinem, &amp; manserint ad aliquod tempus erecta perpendiculariter ad
+            <lb ed="#F" n="22"/>terram, vel quasi erecta cuiusmodi sunt ferrea bacillam, quibus illigantur 
+            ca<lb ed="#F" n="23" break="no"/>pita trabium in parietibus, aut fornices constringuntur, aut ad alium usum
+            <lb ed="#F" n="24"/>steterunt diu, aliqua insigni longitudine, erecta: omnia enim ista 
+            ferramen<lb ed="#F" n="25" break="no"/>ta vim concipiunt magneticam maximam, maiorem etiam illa, quam 
+            con<lb ed="#F" n="26" break="no"/>cipiunt, quae iacent in meridiano; At non nisi à terra hoc potuerunt 
+            habe<lb ed="#F" n="27" break="no"/>re, ut mox probabo. ergo tetra vim confert magneticam.
+        </p>
+            <p xml:id="p9i7y5-de6642-d1e601">
+               <lb ed="#F" n="28"/>Hoc sepissimè sum ego expertus diversissimis in locis; nec unquam 
+            fefel<lb ed="#F" n="29" break="no"/>lit eventus: semper enim pars illa, quae terrae proximior fuit, ad se trahit 
+            par<lb ed="#F" n="30" break="no"/>tem versorij australem, superior trahit septentrionalem; Quod si 
+            ferramen<lb ed="#F" n="31" break="no"/>ta huiusmodi librentur suspensa, vel per idoneos traiecta cortices natare 
+            iu<lb ed="#F" n="32" break="no"/>beantur, constantissimè convertunt se supra suum centrum ad polos, &amp; 
+            qui<lb ed="#F" n="33" break="no"/>dem pars illa, quae terram respiciebat, semper in septentrionem 
+            converti<lb ed="#F" n="34" break="no"/>tur, quamvis trahat partem versorij, quae convertitur in austrum, opposita
+            <lb ed="#F" n="35"/>in austrum. Quare non illud solum verum est ferreos bacillos, qui diu 
+            per<lb ed="#F" n="36" break="no"/>manserint in linea meridiana, ex amico meridiani faedere ius hospitij 
+            con<lb ed="#F" n="37" break="no"/>traxisse, ut perpetuo ad meridianum divertant, ubi primum librentur, non
+            <lb ed="#F" n="38"/>solum, inquam, hoc verum est, sed etiam omnes erecti bacilli hanc eandem
+            <lb ed="#F" n="39"/>verticitatem acquirunt, ut dicebam, robustissimam.
+        </p>
+            <p xml:id="p9i7y5-de6642-d1e630">
+               <lb ed="#F" n="40"/>Immo cum subdit Gilbertus ex M. Philippo Costa Mantuano Mantuae
+            <lb ed="#F" n="41"/>repertum esse ferrum quoddam in magnetem conuversum, quod diu 
+            susti<lb ed="#F" n="42" break="no"/>nuerat ornamentum quoddam lateritium supra turrim Templi sancti Au¬
+            <!--82.xml-->
+            <pb ed="#F" n="63"/>
+               <lb ed="#F" n="1"/>gustini in Eriminio, &amp; tandem viventorum fuerat incuruatum, sic'que per
+            <lb ed="#F" n="2"/>decennium remanserat; si putat hanc magneticam vim ferrum illud 
+            con<lb ed="#F" n="3" break="no"/>cepisse illo decennio, quo iacuit incuruatum in linea meridiana, si fortè sic
+            <lb ed="#F" n="4"/>iacuerit, errat meo iudicio toto Caelo. Nec enim illo brevi tempore decem
+            <lb ed="#F" n="5"/>annorum tantam potuit vim concepisse, sed illam concepit toto illo 
+            tem<lb ed="#F" n="6" break="no"/>pore, quo erectum permansit, cum tantam haberet vim, ut effectus omnes
+            <lb ed="#F" n="7"/>ostenderet magneticos, perinde, ac si esset magnes perfectus. Verum hoc
+            <lb ed="#F" n="8"/>Gilbertus non notaverat, huiusmodi bacilla erecta ad terram vim 
+            magneti<lb ed="#F" n="9" break="no"/>cam concipere.
+        </p>
+            <p xml:id="p9i7y5-de6642-d1e663">
+               <lb ed="#F" n="10"/>Deinde ferrum omne ignis instrumentum, ut bidens, batillum, forcipes,
+            <lb ed="#F" n="11"/>&amp; alia omnia instrumenta, quae circa familiares ignes adhibere 
+            consuevi<lb ed="#F" n="12" break="no"/>mus, ex eo quod ferè semper determinatam sui partem, hoc est cuspidem
+            <lb ed="#F" n="13"/>terram versus habeant, &amp; manubrium sursum erectum, vim pariter 
+            magne<lb ed="#F" n="14" break="no"/>ticam concipiunt eodem modo, idest ea parte, qua ignem solicitamus, &amp;
+            <lb ed="#F" n="15"/>asperimus, omnia haec ferramenta trahunt partem versorij, quae ad austrum
+            <lb ed="#F" n="16"/>vergit, &amp; manubrio trahunt cuspidem septentrionalem; etsi suspendantur
+            <lb ed="#F" n="17"/>aëre quieto, in cubiculo clauso, partem inferiorem perpetuo dirigunt in 
+            sep<lb ed="#F" n="18" break="no"/>tentrionem expeditissimè pro sua magnitudine, manubrium in austrum, &amp;
+            <lb ed="#F" n="19"/>sane mirum est in omnibus ignarijs ferramentis hoc contingere, nisi 
+            pror<lb ed="#F" n="20" break="no"/>sus rubigine sint faedata, &amp; confecta, qua valde vis magnetica debilitatur.
+        </p>
+            <p xml:id="p9i7y5-de6642-d1e689">
+               <lb ed="#F" n="43" type="fixed=63"/>
+               <figure xml:id="p9i7y5-de6642-Fd1e694">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869806/1067,2691,1100,492/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A C B D</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375449-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="21" type="fixed=63"/>Tertio quod magis adhuc mirere, nec hactenus, quod sciam, notatum
+            <lb ed="#F" n="22"/>fuit, licet nescio quid Gilberius subindicet, lateres illi, qui nimia ignis 
+            ve<lb ed="#F" n="23" break="no"/>hementia in fornacibus saepè numero ferreum cum duritie induunt 
+            colo<lb ed="#F" n="24" break="no"/>rem, unde etiam ferrei consueverunt à nostratibus appellari, magneticum
+            <lb ed="#F" n="25"/>concipiunt ex terra vigorem. Res tibi fortassè mira videbitur, at obvios
+            <lb ed="#F" n="26"/>habes quotidie huiusmodi lateres, et ante pedes positos; illis enim, ut 
+            pluri<lb ed="#F" n="27" break="no"/>mum, sternuntur viae; unde nullo negotio, si libuerit, experimentum 
+            sume<lb ed="#F" n="28" break="no"/>re poteris. Ego sanè saepissimè id praestiti eodem semper eventu. 
+            Huiusmo<lb ed="#F" n="29" break="no"/>di ergo lateres eadem ratione atque ferramenta concipiunt magneticum
+            <lb ed="#F" n="30"/>vigorem à terra: si enim sumas laterem A. B. C. D. qui per aliquot annos 
+            ia<lb ed="#F" n="31" break="no"/>cuerit in strata via, vel longo annorum decursu in situ erecto permanserit,
+            <lb ed="#F" n="32"/>videbis huiusmodi laterem vim concepisse magneticam, pars enim A, verbi
+            <lb ed="#F" n="33"/>gratia, quae in strata via superior mansit, ad se versorij cuspidem 
+            septentrio<lb ed="#F" n="34" break="no"/>nalem provocabit, fugabit australem, pars vero C. quę deorsum terram 
+            ver<lb ed="#F" n="35" break="no"/>sus erat, eodem modo, atque in
+            <lb ed="#F" n="36"/>bacillis ferreis evenire diximus,
+            <lb ed="#F" n="37"/>trahet partem australem versorij.
+            <lb ed="#F" n="38"/>Quod si huiusmodi laterem 
+            in<lb ed="#F" n="39" break="no"/>venias, qui permanserit sua 
+            lon<lb ed="#F" n="40" break="no"/>gitudine A. B. in linea 
+            meridia<lb ed="#F" n="41" break="no"/>na, tunc certius, &amp; patenter 
+            ma<lb ed="#F" n="42" break="no"/>gis magneticum ostentabit vigo¬
+            <!--82.xml-->
+
+         <!--83.xml-->
+         <pb ed="#F" n="64"/>
+               <lb ed="#F" n="1"/>rem; si vero pars A. C. sursum erecta steterit B. D. deorsum, adhuc maiorem
+            <lb ed="#F" n="2"/>virtutem demonstrabit; si denique suspendantur huiusmodi lateres sereno
+            <lb ed="#F" n="3"/>Caelo, procul à ventorum turbine, vel aquis imponantur, ad meridianum
+            <lb ed="#F" n="4"/>sese accomodabunt magneticis legibus.
+        </p>
+            <p xml:id="p9i7y5-de6642-d1e776">
+               <lb ed="#F" n="5"/>Hinc obiter observa causam illius rei, quę nonnullis maximam 
+            procrea<lb ed="#F" n="6" break="no"/>vit admirationem, cur aliquando si pyxidem, vel horologij versorium 
+            su<lb ed="#F" n="7" break="no"/>pra fenestram, vel supra parietem ponas, non certam ostendat lineam 
+            me<lb ed="#F" n="8" break="no"/>ridianam, valdeque peregrinentur magneticae directiones: huius enim rei
+            <lb ed="#F" n="9"/>causa, ut alibi dicetur, in ferreos lateres reijcienda est, qui in parietibus 
+            deli<lb ed="#F" n="10" break="no"/>tescunt; ac proinde optimum factu dixerim, si in horologijs solaribus 
+            adhi<lb ed="#F" n="11" break="no"/>bendis, non solum procul recedamus à cancellis ferreis, sed etiam à 
+            parieti<lb ed="#F" n="12" break="no"/>bus: imo hanc fortasse dixerim causam, cur variè multi de magnetica 
+            de<lb ed="#F" n="13" break="no"/>viatione à vero meridiano fuerint opinati: quia lineam meridianam supra
+            <lb ed="#F" n="14"/>parietem designarunt, aliquo astronomico artificio, veram, &amp; exactam, cui
+            <lb ed="#F" n="15"/>superponebant versorium, ut viderent quantum ab illa deviaret, &amp; forte
+            <lb ed="#F" n="16"/>delitescebat ferreus lapis in illo pariete, à quo distrahebatur versorium ex
+            <lb ed="#F" n="17"/>ratione alibi dicenda.
+        </p>
+            <p xml:id="p9i7y5-de6642-d1e807">
+               <lb ed="#F" n="18"/>Ex supra positis experimentis talem pro re nostra conficio rationem. non
+            <lb ed="#F" n="19"/>potest alia reddi ratio, cur bacilla ferrea, &amp; alia, quae diximus, magneticam
+            <lb ed="#F" n="20"/>concipiant vim, quam evidenter ex effectu cognoscimus habere, nisi à 
+            tel<lb ed="#F" n="21" break="no"/>luris universo globo illam habere dicantur. ergo tellus vim potest 
+            con<lb ed="#F" n="22" break="no"/>ferre magneticam, &amp; de facto confert. antecedens, in quo tota est 
+            difficul<lb ed="#F" n="23" break="no"/>tas rei posita, sufficienter confirmatum arbitror, si ostendam non posse in
+            <lb ed="#F" n="24"/>Caelum referri. Quod ex eo satis patet; quia alioquin, quidnam esset causę,
+            <lb ed="#F" n="25"/>cur potius pars illa, quae vergit ad terras, librato ferro in septentrionem 
+            di<lb ed="#F" n="26" break="no"/>rigeretur, superior vero pars in austrum? cum enim huiusmodi bacilla 
+            per<lb ed="#F" n="27" break="no"/>pendiculariter maneant erecta, excipiunt Caeli influentias in sua 
+            longitudi<lb ed="#F" n="28" break="no"/>ne; cur ergo à Caelo potius vim concipiunt in superiori parte se ad austrum
+            <lb ed="#F" n="29"/>dirigendi, in inferiori in septentrionem? cum potius si à Caelo vis 
+            huiusmo<lb ed="#F" n="30" break="no"/>di derivaretur, pars superior, utpote cui imminet pars Caeli septentrionalis,
+            <lb ed="#F" n="31"/>vim in septentrionem collimandi acceptura sit. contrarium vero evenire
+            <lb ed="#F" n="32"/>experimenta suadent. Cum igitur non possimus in Caelo talem 
+            deprehen<lb ed="#F" n="33" break="no"/>dere causam magnetici vigoris, necessario ad terras nos convertere 
+            debe<lb ed="#F" n="34" break="no"/>mus; cum praesertim videamus nos posse optimè reddere rationem, &amp; 
+            con<lb ed="#F" n="35" break="no"/>gruentem, cur pars inferior in septentrionem potius se recipiat, quam in 
+            au<lb ed="#F" n="36" break="no"/>strum, &amp; sic se disponat, &amp; non aliter.
+        </p>
+            <p xml:id="p9i7y5-de6642-d1e851">
+               <lb ed="#F" n="37"/>Sit globus magnetis A. B. C. D. cuius poli sint A. B. &amp; C. D. 
+            aequino<lb ed="#F" n="38" break="no"/>ctium referat, quia in toto globo est virtus magnetica, ferramenta, quae
+            <lb ed="#F" n="39"/>tangunt ipsum globum in quadrante A. C. vel A. D. acquirunt vim 
+            con<lb ed="#F" n="40" break="no"/>vertendi pattem illam, quae tangit magnetem ad polum A. ut ferrum dum
+            <lb ed="#F" n="41"/>tangit magnetem in G. acquirit vim, si suspendatur intra orbem virtutis 
+            il<lb ed="#F" n="42" break="no"/>lius magnetis, convertendi suam partem G, ad polum A. &amp; oppositum ad
+            <!--84.xml-->
+            <pb ed="#F" n="65"/>
+               <lb ed="#F" n="1"/>partes B. &amp; hoc 
+            quomodo<lb ed="#F" n="2" break="no"/>cunque ponatur obelus fer
+            <lb ed="#F" n="3"/>reus erectus supra 
+            magne<lb ed="#F" n="4" break="no"/>tem, sive erigatur 
+            perpen<lb ed="#F" n="5" break="no"/>diculariter ad centrum. O
+            <lb ed="#F" n="6"/>sive inflectatur ad unam,
+            <lb ed="#F" n="7"/>aut ad alteram partem, 
+            dum<lb ed="#F" n="8" break="no"/>modo tangat altero 
+            extre<lb ed="#F" n="9" break="no"/>mo magnetem, vel 
+            adia<lb ed="#F" n="10" break="no"/>ceat illi meridionaliter;
+            <lb ed="#F" n="11"/>semper enim pars tangens
+            <lb ed="#F" n="12"/>librato obelo convertetur
+            <lb ed="#F" n="13"/>ad A.
+         <lb ed="#F" n="43" type="fixed=65"/>
+               <figure xml:id="p9i7y5-de6642-Fd1e901">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869808/927,334,1128,1174/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">L I M A C B D G O</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375452-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-de6642-d1e919">
+               <lb ed="#F" n="14" type="fixed=65"/>Sit ergo iam A. C. B. D.
+            <lb ed="#F" n="15"/>globus terrae, ferramenta
+            <lb ed="#F" n="16"/>tangentia ipsam terram in
+            <lb ed="#F" n="17"/>nostro hemisphęrio 
+            septem<lb ed="#F" n="18" break="no"/>trionali, vel erecta ad illam
+            <lb ed="#F" n="19"/>perpendiculariter in G. cum eandem prorsus concipiant magnenticam vim,
+            <lb ed="#F" n="20"/>atque concipiant obeli positi supra globum magnetis, necessario inferre
+            <lb ed="#F" n="21"/>debemus totum telluris globum vim magneticam habere, &amp; illi ferro
+            <lb ed="#F" n="22"/>conferre, cum pars, quae tangit terram in nostro emisphaerio septentrionali;
+            <lb ed="#F" n="23"/>ad septentrionem convertatur, superior ad austrum: quo analytico 
+            argumen<lb ed="#F" n="24" break="no"/>to res mihi videtur demonstrari. Redditur haec ratio ex eo firmior, quia 
+            vi<lb ed="#F" n="25" break="no"/>demus magnetica ex supra demonstratis converti ad polos telluris, non 
+            ve<lb ed="#F" n="26" break="no"/>ro ad polos Caeli: ergo maiorem terra cum magneticis habet affinitatem,
+            <lb ed="#F" n="27"/>quam Caelum. cum igitur videamus aliqua ferramenta magneticam vim
+            <lb ed="#F" n="28"/>acquirere ex diuturna positione in aliquo situ, debemus dicere hanc 
+            virtu<lb ed="#F" n="29" break="no"/>tem in illam derivari ex terra, non ex Caelo.
+        </p>
+            <p xml:id="p9i7y5-de6642-d1e956">
+               <lb ed="#F" n="30"/>Et confirmatur; quia ab illo debemus dicere ferrum aliquod magneticè
+            <lb ed="#F" n="31"/>excitatum, ad quod convertitur, si libretur tanquam in animi grati 
+            signifi<lb ed="#F" n="32" break="no"/>cationem, ut in superiori exemplo, quia obelus G. libratus convertit G. ad
+            <lb ed="#F" n="33"/>polum magnetis A. colligimus excitatum fuisse ab illo magnete, cui se 
+            ac<lb ed="#F" n="34" break="no"/>commodat, cur igitur, si ponamus A. B. C. D. esse tellurem G. bacillum 
+            fer<lb ed="#F" n="35" break="no"/>reum L. M. Caelum, cum bacillus G. erectus perpendiculariter ad centrum
+            <lb ed="#F" n="36"/>terrae O. habuerit partem alteram proximiorem polo Caeli I. 
+            septentriona<lb ed="#F" n="37" break="no"/>li, quam partem G. si suspendatur, ex legibus magneticis non convertit 
+            il<lb ed="#F" n="38" break="no"/>lam ad polum septentrionalem I. sed potius ad illum polum convertit G.
+            <lb ed="#F" n="39"/>ergo signum est partem G. fuisse excitatam à polo A. telluris, non à polo
+            <lb ed="#F" n="40"/>I. Caeli; quia proximior illi fuit; &amp; ideo si suspendatur ad I. non 
+            converti<lb ed="#F" n="41" break="no"/>tur.
+        </p>
+            <p xml:id="p9i7y5-de6642-d1e985">
+               <lb ed="#F" n="42"/>Aliud est etiam mirabile, &amp; maximè novum experimentum, quo hoc idem
+            <!--84.xml-->
+
+         <!--85.xml-->
+         <pb ed="#F" n="66"/>
+               <lb ed="#F" n="1"/>demonstratur in terra magneticum inesse vigorem, &amp; est huiusmodi. Si 
+            su<lb ed="#F" n="2" break="no"/>pra versorium magneticum ponas ferrum quodcunque oblongum, quod
+            <lb ed="#F" n="3"/>nunquam fuerit excitatum ab ullo magnete; ponas autem huiusmodi 
+            fer<lb ed="#F" n="4" break="no"/>ramentum erectum ferè perpendiculariter supra versorium, ut gladium,
+            <lb ed="#F" n="5"/>vel pugionem manubrio erigas supra versorium, pars illa, quae imminet ver
+            <lb ed="#F" n="6"/>sorio trahit semper partem australem versorij; si eandem partem ponas 
+            in<lb ed="#F" n="7" break="no"/>fra subtus versorium, ut tamen pugio ascendat, quasi perpendiculariter ad
+            <lb ed="#F" n="8"/>versorium, eadem parte infra posita trahit partem versorij, quae dirigitur in
+            <lb ed="#F" n="9"/>septentrionem perpetuo; sed mirabilis hic effectus, quòd pugionis 
+            manu<lb ed="#F" n="10" break="no"/>brium erectum supra, trahat ad se australem, supposium infra trahat 
+            septen<lb ed="#F" n="11" break="no"/>trionem, non potest provenire nisi ex magnetica vi totius globi terrestris.
+            <lb ed="#F" n="12"/>ut demonstrabo alibi. ergo in terra est talis vis; verum, quia hoc luculentius
+            <lb ed="#F" n="13"/>debet infra probari, hic solum indicare volui. repete tù hoc Lector infra
+            <lb ed="#F" n="14"/>positum suo loco.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

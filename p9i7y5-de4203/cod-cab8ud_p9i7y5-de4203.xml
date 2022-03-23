@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 10</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 10</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="36"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-de4203"> <!-- l1c10 -->
+            <head xml:id="p9i7y5-de4203-Hd1e107">Caput 10</head>
+            <p xml:id="p9i7y5-de4203-d1e109">
+               <lb ed="#F" n="18"/>Quale sit huiusmodi principium motus Magnetici. Caput X.
+        </p>
+            <p xml:id="p9i7y5-de4203-d1e114">
+               <lb ed="#F" n="19"/>Posito igitur quod detur tale principium in magnete, quo se 
+            mo<lb ed="#F" n="20" break="no"/>veat ad polos Mundi, videndum sequitur, quid sit hoc 
+            princi<lb ed="#F" n="21" break="no"/>pium. In primis illud certum esse debet, non esse animam, &amp;
+            <lb ed="#F" n="22"/>quamvis Gilbertus libro secundo dicat Thaletis Milesij non
+            <lb ed="#F" n="23"/>absurdam admodum opinionem, nec vehemens dilirium Scaligeri 
+            censu<lb ed="#F" n="24" break="no"/>ra, quia animam magneti concessit; tamen prorsus illa opinio explodenda
+            <lb ed="#F" n="25"/>videtur. Anima enim (si de nomine litigandum non sit) dicitur, &amp; bene à
+            <lb ed="#F" n="26"/>philosopho actus corporis organici; hic verò in magnetis corpore etiam
+            <lb ed="#F" n="27"/>ceste sensu, &amp; concedente ipso Gilberto, nulla sunt organa ad vitae munia,
+            <lb ed="#F" n="28"/>&amp; corpus est maximè homogenium. neque verò vis quaelibet movendi sese
+            <lb ed="#F" n="29"/>anima est, nec tali nomine appellanda; alioquin, curlapides non dixeris
+            <lb ed="#F" n="30"/>animatos? quia deorsum feruntur, si impedimenta removeas? cur flumina
+            <lb ed="#F" n="31"/>poetarum more animata non praedicas, &amp; taurino instruis frontem 
+            cor<lb ed="#F" n="32" break="no"/>nu; cum labantur humido pede per alveum, immo ruant in praeceps?
+        </p>
+            <p xml:id="p9i7y5-de4203-d1e147">
+               <lb ed="#F" n="33"/>Illud ergo solum est animae argumentum, si res etiam in proprio loco
+            <lb ed="#F" n="34"/>constituta, possit se nihilominus movere, vel, quod idem est in praesentia,
+            <lb ed="#F" n="35"/>ubi illas omnes receperit perfectiones, quas à generante debuit obtinere,
+            <lb ed="#F" n="36"/>adhuc ulterius potest se perficere, &amp; ad meliorem statum se promovere; &amp;
+            <lb ed="#F" n="37"/>illa solum dicuntur animata, quae ita se movere, &amp; perficere possunt, ut in
+            <lb ed="#F" n="38"/>varia temporum differentia, varias subinde acquirant perfectiones sibi 
+            na<lb ed="#F" n="39" break="no"/>tura debitas; quas tamen omnes simul, nedum in initio suae productionis,
+            <lb ed="#F" n="40"/>habere non potuerunt; quod magneti non accommodabis. Ponc illum in
+            <!--55.xml-->
+            <pb ed="#F" n="36"/>
+               <lb ed="#F" n="1"/>statu, quem eius natura postulat, hoc est in meridiano magnetico 
+            consti<lb ed="#F" n="2" break="no"/>tue eius propriam longitudinem, nusquam motum incitabit, &amp; ubi ad 
+            il<lb ed="#F" n="3" break="no"/>um statum redierit, in quo fuit à generante primo collocatus, ulterius non
+            <lb ed="#F" n="4"/>se perficit, nec movetur. Sicut ergo dum grave deorsum descendit, motus
+            <lb ed="#F" n="5"/>ille non animam infert, sed dicitur à generante per se, à removente 
+            prohi<lb ed="#F" n="6" break="no"/>bente per accidens; quia ad illum statum, quem à generante recipere 
+            de<lb ed="#F" n="7" break="no"/>buit, se restituit; ita nec magnetis vis motiva anima est.
+        </p>
+            <p xml:id="p9i7y5-de4203-d1e187">
+               <lb ed="#F" n="8"/>Neque fortasse cautè loqueretur omnino aliquis, qui absolutè diceret il
+            <lb ed="#F" n="9"/>lud esse animatum, quod in proprio loco constiturum movetur localiter:
+            <lb ed="#F" n="10"/>novissimis enim Rodulphi Imperatoris temporibus quidam Anglus aquam
+            <lb ed="#F" n="11"/>arte quadam sublimasse dicitur, quae vitro inclusa perpetuo fluctuabat, si 
+            ve<lb ed="#F" n="12" break="no"/>rum est, quod ego ex oculato teste viro fide dignissimo audivi; quamvis
+            <lb ed="#F" n="13"/>cum hoc ex alio oculatiore teste quaesierim, inveni in aqua illa nullum 
+            la<lb ed="#F" n="14" break="no"/>tere propemodum artificium, sed solum ex alteratione aeris inconstanti,
+            <lb ed="#F" n="15"/>ascendere, &amp; descendere per fistulam vitream aquam, ea ratione, qua etiam
+            <lb ed="#F" n="16"/>hic in Italia paucis ab hinc annis artificium vulgatum est, quo singulorum
+            <lb ed="#F" n="17"/>cubiculorum in aestate frigoris gradus metiri poterat quisque: quae res 
+            vi<lb ed="#F" n="18" break="no"/>luit, quia facilis erat, non tamen minoris erat ęstimanda.
+        </p>
+            <p xml:id="p9i7y5-de4203-d1e213">
+               <lb ed="#F" n="19"/>Non est igitur anima virtus motiva magnetis, cum in illo nullae vitae
+            <lb ed="#F" n="20"/>operationes deprehendantur, nec supra id, quod à generante acceperit,
+            <lb ed="#F" n="21"/>quicquam sibi possit perfectionis acquirere. videtur tamen haec vis 
+            nonni<lb ed="#F" n="22" break="no"/>lem perfectior ex genere suo illa, qua vocata elementa incitantur, sivè levitas
+            <lb ed="#F" n="23"/>sit, sivè gravitas; &amp; media veluti interiacet inter animali, &amp; elementorum
+            <lb ed="#F" n="24"/>motricem virtutem. Elementorum enim facultas ad unum terminum 
+            di<lb ed="#F" n="25" break="no"/>cta est, &amp; ad unum solum terminum rem motam adducit, sive sit à medio,
+            <lb ed="#F" n="26"/>sivè ad medium; hoc est sive sursum elevet corpora, quod levitatis est 
+            mu<lb ed="#F" n="27" break="no"/>nus; sivè deorsum premat, quod gravitas molitur; &amp; ideo haec cum ad 
+            uni<lb ed="#F" n="28" break="no"/>cum sit terminum, infimum etiam obtinet perfectionis gradum inter 
+            motri<lb ed="#F" n="29" break="no"/>ces virtutes; imo cum nulla possit esse vis motiva, quae vim habeat 
+            deferen<lb ed="#F" n="30" break="no"/>di corpus ad minus, quam ad unum locum, nec poterit dari illa 
+            imperfe<lb ed="#F" n="31" break="no"/>ctior in genere, quae ad unicum solum est terminum: Ex altera verò parte
+            <lb ed="#F" n="32"/>animalis motrix virtus summum inter motrices qualitates possidet 
+            perfe<lb ed="#F" n="33" break="no"/>ctionis apicem; ad omnes enim terminos per illam potest sese promovere
+            <lb ed="#F" n="34"/>corpus, quod illa ditatur.
+        </p>
+            <p xml:id="p9i7y5-de4203-d1e250">
+               <lb ed="#F" n="35"/>Cum igitur tres statui possint motuum localium termini, sicuti tres 
+            om<lb ed="#F" n="36" break="no"/>nino sunt corporis dimensiones, nec plures possint esse, ut demonstrant Ma
+            <lb ed="#F" n="37"/>thematici, &amp;, ex Pythagoreorum doctrina, suadet etiam Aristoteles; primo
+            <lb ed="#F" n="38"/>Caeli, textu 2. quam etiam illationem de triplici motuum differentia intulit
+            <lb ed="#F" n="39"/>omnino idem Aristoteles eodem primo Caeli, textu 6. exeadem terna 
+            cor<lb ed="#F" n="40" break="no"/>porum dimensione, licet aliam ipse conficiat rationem, conficere possumus
+            <lb ed="#F" n="41"/>etiam nos, &amp; fortasse magis congrua illatione, debere dari tres in inferiorib.
+            <lb ed="#F" n="42"/>virtutis motrices: sicuti dantur, gravia, &amp; levia, quae ad unicum terminum
+            <!--56.xml-->
+            <pb ed="#F" n="37"/>
+               <lb ed="#F" n="1"/>moventur, &amp; animalia omnia, ex vi, quam habent se ipsa agendi, ad omnes
+            <lb ed="#F" n="2"/>hos terminos possint se movere, &amp; praeter hos nullus sit alius ultra 
+            termi<lb ed="#F" n="3" break="no"/>nus, nec etiam dari poterit virtus motrix, quae ista sit perfectior genere, cum
+            <lb ed="#F" n="4"/>illud virtutis motivae perfectionem metiatur, si ad plures valeat terminos,
+            <lb ed="#F" n="5"/>suum mobile dirigere; &amp; cum haec ad hos tres, qui soli sunt, possit, 
+            conse<lb ed="#F" n="6" break="no"/>quens erit nullam posse dari perfectiorem. igitur cum huiusmodi quas 
+            om<lb ed="#F" n="7" break="no"/>nes norunt, dentur extremae facultates motivae in inferioribus, 
+            perfectissi<lb ed="#F" n="8" break="no"/>na, &amp; imperfectissima, altera, quae ad omnes terminos sua vi dirigit 
+            mobi<lb ed="#F" n="9" break="no"/>le; altera, quae ad unicum tantum; mediam etiam, quodammodo, dari 
+            vir<lb ed="#F" n="10" break="no"/>tutem motricem pronuncio, &amp; hanc esse magneticam, quae neque ad unicum
+            <lb ed="#F" n="11"/>solum sit terminum, ut postrema, neque ad omnes tres, ut prima, sed ad duos
+            <lb ed="#F" n="12"/>quodammodo sit terminos, ad duos scilicet Mundi polos perse, in quorum
+            <lb ed="#F" n="13"/>singulos iubeat collimare mobile, in quo videas magnetem se supra reliquum
+            <lb ed="#F" n="14"/>elementariorum vulgus extollere, neque tamen ad perfectissimum 
+            anima<lb ed="#F" n="15" break="no"/>lium gradum conscendere, cum vim habeat se movendi non ad unicum
+            <lb ed="#F" n="16"/>tantum terminum, neque ad omnes tres, sed quodammodo ad duos; &amp; hęc
+            <lb ed="#F" n="17"/>ita se habere, &amp; supra posita experimenta, eaque, quae in toto hoc opere 
+            di<lb ed="#F" n="18" break="no"/>centur, demonstrant. Quare non est quod hic immoremur ad hoc 
+            proban<lb ed="#F" n="19" break="no"/>dum. Quod si lubet tantillum excurrere, &amp; quam hoc convenienter, 
+            sa<lb ed="#F" n="20" break="no"/>pienter'que factum sit contemplari, non pigebit haec pauca subdere, ex 
+            Gar<lb ed="#F" n="21" break="no"/>zonio; qui in hoc sapienter, hoc est in ordine ad sapientiam, hanc 
+            philoso<lb ed="#F" n="22" break="no"/>phiam pertractavit.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

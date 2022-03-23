@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 23</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 23</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="253"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e27051"> <!-- l3c23 -->
+            <head xml:id="p9i7y5-e27051-Hd1e107">Caput 23</head>
+            <p xml:id="p9i7y5-e27051-d1e109">
+               <lb ed="#F" n="6"/>Nunquam ita ferrum magneticè excitatur, quin utranque faciem simul acquirat.
+            <lb ed="#F" n="7"/>Cap. XXIII.
+        </p>
+            <p xml:id="p9i7y5-e27051-d1e116">
+               <lb ed="#F" n="8"/>Sit magnes A. B. tangatur filo ferteo, vel acu in altero tantum
+            <lb ed="#F" n="9"/>extremorum A. vel B. dico futurum, ut acus non solum 
+            quali<lb ed="#F" n="10" break="no"/>tatem acquirat, et excitetur magnatice acquirendo virtutem
+            <lb ed="#F" n="11"/>partis tactae, seu quam potest illi communicare pars tacta, sed
+            <lb ed="#F" n="12"/>etiam virtutem 
+            acquire<lb ed="#F" n="13" break="no"/>re, quam posset illi 
+            com<lb ed="#F" n="14" break="no"/>municare altera pars, quę
+            <lb ed="#F" n="15"/>tamen non tangitur, &amp;
+            <lb ed="#F" n="16"/>hanc acquirere in sui 
+            par<lb ed="#F" n="17" break="no"/>te opposita, quae non 
+            tan<lb ed="#F" n="18" break="no"/>gitur. Dico igitur semper
+            <lb ed="#F" n="19"/>ferrum ex contactu 
+            ma<lb ed="#F" n="20" break="no"/>gnetis totam acquirere virtutem magneticam, sive utroque extremo 
+            utrum<lb ed="#F" n="21" break="no"/>que extremum magnetis tangat, sive altero tantum, alterum.
+         <lb ed="#F" n="41" type="fixed=252"/>
+               <figure xml:id="p9i7y5-e27051-Fd1e151">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869995/1249,1366,1156,400/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375740-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e27051-d1e169">
+               <lb ed="#F" n="22" type="fixed=252"/>Probatur hoc primo ex suprapositis: non solum enim excitatur 
+            magne<lb ed="#F" n="23" break="no"/>tice, in parte, quae magnetem tangit, sed etiam in parte opposita, quae non
+            <lb ed="#F" n="24"/>tangit, cum sola sit intra sphaeram activitatis: tota ergo illa acus, etiam si solo
+            <lb ed="#F" n="25"/>apicè tetigerit A. fit magnetica, tam in apice, quam in parte opposita. 
+            Om<lb ed="#F" n="26" break="no"/>nes ergo illae rationes, quas alibi adduxi ad evincendum in magnete non
+            <lb ed="#F" n="27"/>unicam solum esse faciem, sed esse quodammodo duplicem, ita ut magnes
+            <lb ed="#F" n="28"/>A. B. non solam habeat vim in parte A. illam partem dirigendi ad 
+            Septentrio<lb ed="#F" n="29" break="no"/>nem, quasi pars B. per accidens, &amp; ex necessaria consequentia convertatur
+            <lb ed="#F" n="30"/>ad Austrum, non quia ullam habeat vim se dirigendi ad talem polum, 
+            om<lb ed="#F" n="31" break="no"/>nes inquam illae rationes, quae probant hoc esse falsum in magnete, &amp; re ipsa
+            <lb ed="#F" n="32"/>tam in A. esse vim se convertendi ad Septentrionem, quam in B. se dirigendi
+            <lb ed="#F" n="33"/>ad Austrum per se, &amp; sua natura, eaedem probant etiam proportionaliter de
+            <lb ed="#F" n="34"/>illa acu, quòd ex unico illo contactu utramque faciem acquisierit in utrisque
+            <lb ed="#F" n="35"/>extremis.
+        </p>
+            <p xml:id="p9i7y5-e27051-d1e203">
+               <lb ed="#F" n="36"/>Deinde probatur hoc idem ex modo agendi supra explicato. Constat .n.
+            <lb ed="#F" n="37"/>ferrum, dum accedit ad magnetem, quomodocunque id fiat, sive altero, sive
+            <lb ed="#F" n="38"/>utroque fine tangat, contrahere virtutem in se illo eodem modo, quo est in
+            <lb ed="#F" n="39"/>medio disposita virtus, nec enim potest aliter illam acquirere; sed ita virtus
+            <lb ed="#F" n="40"/>ab A. dispergitur per medium, ut virtus ipsius A, hoc est se convertendi ad
+            <!--271.xml-->
+
+         <!--272.xml-->
+         <pb ed="#F" n="253"/>
+               <lb ed="#F" n="1"/>partem, ad quam se convertit A. sit quasi anterior, &amp; procedat, ac pone 
+            tra<lb ed="#F" n="2" break="no"/>hat virtutem se convertendi ad partem, ad quam se convertit B. ac proinde
+            <lb ed="#F" n="3"/>in ipso contactu ipsius A. est vivida virtus B. &amp; proiecta antrorsum virtus
+            <lb ed="#F" n="4"/>A. ergo ex contactu ipsius A. acquiret utranque quasi virtutem, imo si ferrum
+            <lb ed="#F" n="5"/>ex contactu A. vim conciperet convertendi se ad unicam solum partem, 
+            con<lb ed="#F" n="6" break="no"/>traheret potius virtutem B. quam aliam, sed non est ratio ulla, cur ex 
+            conta<lb ed="#F" n="7" break="no"/>ctu A, non contrahat etiam virtutem se convertendi ad eandem partem, ad
+            <lb ed="#F" n="8"/>quam se convertit A, ergo utranque contrahet: adverte tamen me his 
+            loquen<lb ed="#F" n="9" break="no"/>di formulis non duas velle inducere in magnete virtutes, quas alias 
+            confu<lb ed="#F" n="10" break="no"/>tavi, sed unius, &amp; eiusdem situativae qualitatis sic nominatos volo duos 
+            ter<lb ed="#F" n="11" break="no"/>minos, quo tamen doctrinae veritas non destruitur, &amp; ideò
+        </p>
+            <p xml:id="p9i7y5-e27051-d1e246">
+               <lb ed="#F" n="12"/>Tertio non est philosophandum de hac qualitate magnetis, quasi de 
+            du<lb ed="#F" n="13" break="no"/>plici virtute, quarum una convertat ad Austrum, altera ad Septentrionem,
+            <lb ed="#F" n="14"/>sed est unica omnino qualitas, &amp; simplex virtus, cuius est ita dirigere, &amp; 
+            di<lb ed="#F" n="15" break="no"/>sponere subiectum, in quo est, ut uno extremo Austrum, altero 
+            Septentrio<lb ed="#F" n="16" break="no"/>nem respiciat determinata extensione. Cum igitur sit unica simplex 
+            quali<lb ed="#F" n="17" break="no"/>tas sic dispositiva, &amp;, ut sic loquar, situativa subiecti, non erit amplius 
+            dispu<lb ed="#F" n="18" break="no"/>tandi locus, utrum ferrum ex contactu magnetis unicam tantum, an 
+            dupli<lb ed="#F" n="19" break="no"/>cem acquirat faciem: si enim unica est, simplex qualitas, quae utranque hanc
+            <lb ed="#F" n="20"/>faciem possidet, aut tota acquiretur à subiecto, aut nihil, &amp; ita aut utraque 
+            ine<lb ed="#F" n="21" break="no"/>rit facies, aut nulla; cum in qualibet particula qualitatis, &amp; in quolibet 
+            gra<lb ed="#F" n="22" break="no"/>du utraque insit: haec enim est eius essentia; sed constat, quod ex solo 
+            conta<lb ed="#F" n="23" break="no"/>ctu magnetis ex una parte acquiritur à ferro aliquid ex ista qualitate, ergo
+            <lb ed="#F" n="24"/>tota iam eius essentia inerit in ferro; haec autem utraque facies est, ut dixi.
+            <lb ed="#F" n="25"/>ergo, quamvis ferrum magnetem tangat ex unica solum parte, utranque 
+            ta<lb ed="#F" n="26" break="no"/>men acquiret faciem; quod erat propositum.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

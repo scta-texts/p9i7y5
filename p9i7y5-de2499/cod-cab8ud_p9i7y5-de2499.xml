@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 6</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 6</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="20"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-de2499"> <!-- l1c6 -->
+            <head xml:id="p9i7y5-de2499-Hd1e107">Caput 6</head>
+            <p xml:id="p9i7y5-de2499-d1e109">
+               <lb ed="#F" n="12"/>Utrum antiquis nota fuerit haec virtus magnetica dirigendi se ad polos.
+            <lb ed="#F" n="13"/>Caput Sextum.
+        </p>
+            <p xml:id="p9i7y5-de2499-d1e116">
+               <lb ed="#F" n="14"/>Tractat hanc quaestionem Pineda de rebus Salomonis libro
+            <lb ed="#F" n="15"/>quarto capite decimoquinto. §. quarto, &amp; quia praecipua 
+            dif<lb ed="#F" n="16" break="no"/>ficultas ex eo oritur, quod nullus antiquorum de hac virtute
+            <lb ed="#F" n="17"/>mentionem fecerit, ideo dum varios citat authores, qui hanc
+            <lb ed="#F" n="18"/>ipsam quaestionem examinant, citat etiam ex illis locum Plauti, in 
+            Merca<lb ed="#F" n="19" break="no"/>tore, ubi dum esset sermo de navigatione ait,
+        </p>
+            <p xml:id="p9i7y5-de2499-d1e132">
+               <lb ed="#F" n="20"/>Hic secundus ventus nunc est, cape modo versoriam.
+        </p>
+            <p xml:id="p9i7y5-de2499-d1e138">
+               <lb ed="#F" n="21"/>Hic Favonius serenus est, hic auster imbricus.
+        </p>
+            <p xml:id="p9i7y5-de2499-d1e143">
+               <lb ed="#F" n="22"/>Hic facit tranquillitatem, hic omnes fluctus conciet.
+        </p>
+            <p xml:id="p9i7y5-de2499-d1e148">
+               <lb ed="#F" n="23"/>Ubi per versoriam Levinus, Gyraldus, Calcagninus, &amp; alij intelligunt
+            <lb ed="#F" n="24"/>pyxidem nauticam, ergo apud antiquos est mentio de hac viriute 
+            magne<lb ed="#F" n="25" break="no"/>tis convertendi se ad polos. placet tamen mihi expositio ipsius Pinedae; qui
+            <lb ed="#F" n="26"/>nulla ratione vult Plautum intelligere per versoriam, nauticam pyxidem,
+            <lb ed="#F" n="27"/>sed aut funem ad contrahendum velum, quo navis convertatur, sicut 
+            vide<lb ed="#F" n="28" break="no"/>mus saepe accidere in re nautica, aut aliud instrumentum ad navem 
+            conver<lb ed="#F" n="29" break="no"/>tendam; si tamen ullum est, vel certè cape versoriam, est idem, ac verte iter;
+            <lb ed="#F" n="30"/>sic nos dicimus Italice, da volta. Et revera non esset ad rem Poetae pyxis
+            <lb ed="#F" n="31"/>nautica; vult enim poeta ibi celeriter cursum converti ergo vult accipi 
+            ali<lb ed="#F" n="32" break="no"/>quid, quod deserviat ad hoc; pyxis autem non deservit ad convertendam
+            <lb ed="#F" n="33"/>navem, sed ad cognoscendam conversam. Praeterea nautae non aspiciunt
+            <lb ed="#F" n="34"/>ad pyxidem solum urgente tempestate, sed alijs etiam temporibus: neque
+            <lb ed="#F" n="35"/>illa ventorum significatio ex versorij inspectione manavit, sed ex aliquo
+            <lb ed="#F" n="36"/>alio. Cum igitur ex nullo antiquorum extet indicium huius pyxidis, quae
+            <lb ed="#F" n="37"/>tamen propter commodissimum usum maximam habuisset 
+            commemora<lb ed="#F" n="38" break="no"/>tionem, nisi immaginata ex hoc loco Plauti, non est credibile ab illis fuisse
+            <lb ed="#F" n="39"/>cognitam.
+        </p>
+            <p xml:id="p9i7y5-de2499-d1e187">
+               <lb ed="#F" n="40"/>Ineptum autem est argumentum, quod fuerit ab antiquis cognita haec
+            <!--39.xml-->
+            <pb ed="#F" n="20"/>
+               <lb ed="#F" n="1"/>magnetica directio, ex plurimis navigationibus ipsorum, potuit enim 
+            na<lb ed="#F" n="2" break="no"/>vigari non solum per Mediteraneum, sed etiam per Oceanum sine pyxide,
+            <lb ed="#F" n="3"/>per observationem syderum, &amp; praesertim Cynosurae; immo, &amp; per 
+            inspe<lb ed="#F" n="4" break="no"/>ctionem avium, ut testatur Martianus Capella, &amp; pluribus examinat 
+            Pine<lb ed="#F" n="5" break="no"/>da, &amp; sanè antiqui, ubi de gubernatoribus, &amp; navigationibus mentionem
+            <lb ed="#F" n="6"/>faciunt, syderum observationes adducunt; sic Poeta de Palinuro.
+        </p>
+            <p xml:id="p9i7y5-de2499-d1e209">
+               <lb ed="#F" n="7"/>Qui lybico nuper cursu, dum sydera servat,
+        </p>
+            <p xml:id="p9i7y5-de2499-d1e214">
+               <lb ed="#F" n="8"/>Exciderat puppi medijs effusus in undis.
+        </p>
+            <p xml:id="p9i7y5-de2499-d1e220">
+               <lb ed="#F" n="9"/>Et Phaenices, qui in nautica peritissimi commemorantur, polum &amp; 
+            Cy<lb ed="#F" n="10" break="no"/>nosuram observasse perhibentur. sic Cicero de Cynosura,
+        </p>
+            <p xml:id="p9i7y5-de2499-d1e227">
+               <lb ed="#F" n="11"/>Hac fidunt, duce nocturna Phaenices in alto.
+            <lb ed="#F" n="12"/>Et omnino celebre est, non solum apud antiquos, sed durante adhuc
+            <lb ed="#F" n="13"/>fama, apud nostrates, navigantes ad Cynosuram respicere. Vitra vero
+            <lb ed="#F" n="14"/>aequatorem, si fuissent progressi nautae, aut ad avium volatus, aut ad alia
+            <lb ed="#F" n="15"/>sydera aspiciebant.
+        </p>
+            <p xml:id="p9i7y5-de2499-d1e240">
+               <lb ed="#F" n="16"/>Quod si dicas qua ratione in sęculo illo tam faelici tantisque artificibus 
+            in<lb ed="#F" n="17" break="no"/>dustrijs, ac solertibus foecundo, potuit delitescere tam facilis res, tantis 
+            usi<lb ed="#F" n="18" break="no"/>bus accommodata? Respondeo, ea ratione ignoratam hanc rem fuisse,
+            <lb ed="#F" n="19"/>qua ignorata fuerunt alia ab antiquis, quae tamen commodissima sunt, &amp;
+            <lb ed="#F" n="20"/>maximae utilitatis: quandiù enim equitarunt antiqui, &amp; bella gesserunt
+            <lb ed="#F" n="21"/>equites sine stapedibus, qua haud scio, an ulla sit maior commoditas? certè
+            <lb ed="#F" n="22"/>antiquas equitantium imagines, aeque atque historias stapedibus carentes
+            <lb ed="#F" n="23"/>videmus. quot scripsere volumina, &amp; transcripsere, nec unquam typis 
+            ex<lb ed="#F" n="24" break="no"/>cussere qui deinde in lucem prodiere tanto cum litterarum foenore; quam
+            <lb ed="#F" n="25"/>multis oculorum acies hebetata est? &amp; tamen nunquam conspicilia 
+            inve<lb ed="#F" n="26" break="no"/>nerunt, quorum nulla est apud antiquos commemoratio certa; quae tamen
+            <lb ed="#F" n="27"/>res non navigantibus, hoc est alicui hominum generi, sed omnibus 
+            omni<lb ed="#F" n="28" break="no"/>no hominibus tantum affert, praesertim in infirma senectute commodi:
+            <lb ed="#F" n="29"/>Adde in hac ipsa magnetica virtute quantae esset utilitatis in re nautica, si
+            <lb ed="#F" n="30"/>per magnetis directionem possemus, non solum meridianum, sed etiam
+            <lb ed="#F" n="31"/>poli altitudinem cognoscere? &amp; cum haec vis sit in magnete, tamen 
+            hacte<lb ed="#F" n="32" break="no"/>nus est ignorata. Potuit ergo etiam antiquis (qui tam multa alijs in rebus
+            <lb ed="#F" n="33"/>ignorarunt, ea quorum utilitas plures poterat excitare ad inquirendum, quia
+            <lb ed="#F" n="34"/>commodum illorum ad plures extendebatur) etiam haec virtus magnetica
+            <lb ed="#F" n="35"/>gnota esse.
+        </p>
+            <p xml:id="p9i7y5-de2499-d1e286">
+               <lb ed="#F" n="36"/>Quod verò spectat ad Salomonem, nolo quidquam determinare, utrum
+            <lb ed="#F" n="37"/>in illa amplissima, atque perfectissima rerum etiam minutissimarum 
+            sapien<lb ed="#F" n="38" break="no"/>tia, illi divinitus communicata fuerit etiam inclusa haec magnetica virtus,
+            <lb ed="#F" n="39"/>&amp; utrum suas classes, quas per Oceanum transmittebat instruxerit nautica
+            <lb ed="#F" n="40"/>pyxide. Certe nulla est firma necessitas hoc astruendi. Possemus tamen 
+            e<lb ed="#F" n="41" break="no"/>tiam dicere, sicut videmus alios sapientes quaedam naturali magia monstra
+            <lb ed="#F" n="42"/>ostentare, quorum causam ignorantes reliqui suspiciant rem; Salomonem
+            <!--40.xml-->
+            <pb ed="#F" n="21"/>
+               <lb ed="#F" n="1"/>pyxidem suis excitatam manibus dedisse suis nautis, ut illa uterentur ad
+            <lb ed="#F" n="2"/>navigationem, cuius tamen, nec causam, neque rationem conficiendi ipsi
+            <lb ed="#F" n="3"/>haberent, &amp; hoc ad aliorum manus, quod illi pro auri ditissima erat 
+            fodi<lb ed="#F" n="4" break="no"/>na, pervenire noluisse. scrupulum mihi tamen relinquit hac in re, quod ipse
+            <lb ed="#F" n="5"/>asserit: &amp; sine invidia communico: quanquam non ex invidia, sed ex speciali
+            <lb ed="#F" n="6"/>divina providentia factum dixeris non fuisse hoc à Salomone omnibus
+            <lb ed="#F" n="7"/>vulgatum, eo quod perpetuum cum illis regionibus commercium 
+            Evange<lb ed="#F" n="8" break="no"/>licae praedicationi reservaretur, ne Iudaeorum gens tam effusè spargeretur.
+            <lb ed="#F" n="9"/>tum ut certior esset Messiae ortus, qui ex illa gente nasci debebat, si ludeae 
+            fi<lb ed="#F" n="10" break="no"/>nibus includeretur; tum ne gens, quae tam obstinatè perfida futura erat,
+            <lb ed="#F" n="11"/>ubique locorum suam insereret perfidiam.
+        </p>
+            <p xml:id="p9i7y5-de2499-d1e332">
+               <lb ed="#F" n="12"/>llud igitur pro certo statuatur, omnium semper in se oculos magnetem
+            <lb ed="#F" n="13"/>convertisse, nec minori vi ferrum, quam philosophantium animos ad se
+            <lb ed="#F" n="14"/>traxisse; ut nullus ferè antiquorum fuerit, qui naturae arcana perscrutanda
+            <lb ed="#F" n="15"/>susceperit, qui non multus idem fuerit in magnete; sibique praecipuum 
+            du<lb ed="#F" n="16" break="no"/>xerit, admirandam huius lapidis naturam celebrare. verum illud solum
+            <lb ed="#F" n="17"/>de magnete memorabant, quod ferrum ad se trahat, nihilque praeterea 
+            habe<lb ed="#F" n="18" break="no"/>bant, quod proferrent; atque hoc uno tantum sibi nomen conciliarat, ut in
+            <lb ed="#F" n="19"/>huius causa indaganda omnium desudarint ingenia, avideque famosa aliqua
+            <lb ed="#F" n="20"/>transcripserint ex se invicem, ne tantillum quidem sustinentes, dum 
+            illo<lb ed="#F" n="21" break="no"/>rum veritatem obvio, &amp; facillimo subinde tentarent experimento. Neque
+            <lb ed="#F" n="22"/>
+               <name xml:id="p9i7y5-de2499-Nd1e358">Aristoteles</name>, neque <name xml:id="p9i7y5-de2499-Nd1e360">Plato</name> aliud, quam attrahendi vim celebrat, nec Plinius
+            <lb ed="#F" n="23"/>primarius naturae à secretis, ac rerum curiosissimus indagator, qui 
+            admi<lb ed="#F" n="24" break="no"/>randa omnia solertissimè venabatur, immo nec multum laborare 
+            videba<lb ed="#F" n="25" break="no"/>tur, vera ne essent an falsa, quae ad illum rumore deferebantur; dummodo
+            <lb ed="#F" n="26"/>mira essent, &amp; inaudita, inter ea, quae de magnete commemorat, atque adeo
+            <lb ed="#F" n="27"/>etiam fingit, nihil, neque per umbram de conversione illius in polos 
+            cele<lb ed="#F" n="28" break="no"/>brat, quemadmodum nec alij scriptores, qui antiquum magneti nomen 
+            fe<lb ed="#F" n="29" break="no"/>cerunt.
+        </p>
+            <p xml:id="p9i7y5-de2499-d1e378">
+               <lb ed="#F" n="30"/>Primi, quos reperio paucis saltem indicasse hanc magneticam in polos
+            <lb ed="#F" n="31"/>conversionem, sunt <name xml:id="p9i7y5-de2499-Nd1e384" ref="#Albert">Albertus Magnus</name>, &amp; <name xml:id="p9i7y5-de2499-Nd1e387">Vincentius Belluacensis</name>, qui 
+            spe<lb ed="#F" n="32" break="no"/>culatoris nomen est assecutus: Hi librum quendam citant <name xml:id="p9i7y5-de2499-Nd1e392" ref="#Aristotle">Aristotelis</name> de
+            <lb ed="#F" n="33"/>lapidibus, qui ad nostram non pervenit aetatem; ut enim esset de lapidibus,
+            <lb ed="#F" n="34"/>non potuit tamen adeo obdurescere, quin illum edax rerum vetustas 
+            exe<lb ed="#F" n="35" break="no"/>deret; nec adeo materiae pondere praegravari, quin citatis temporum cui 
+            si<lb ed="#F" n="36" break="no"/>bus volventibus annis asportaretur ex oculis. In hoc igitur libro 
+            comme<lb ed="#F" n="37" break="no"/>morant celebrari in magnete lapide partem australem, &amp; septentrionalem.
+            <lb ed="#F" n="38"/>
+               <name xml:id="p9i7y5-de2499-Nd1e408" ref="#Albert">Alberti Magni</name> de mineralibus libro secundo, tractatu tertio, capite sexto
+            <lb ed="#F" n="39"/>verba haec sunt: Angulus magnetis quidam est, cuius virtus 
+            apprehenden<lb ed="#F" n="40" break="no"/>di ferrum est, ad Zorum hoc est ad polum Septentrionalem; &amp; hac utuntur
+            <lb ed="#F" n="41"/>nautae. angulus verò magnetis illi oppositus trahit ad Afrum, idest polum
+            <lb ed="#F" n="42"/>meridionalem; &amp;, si approximes ferrum angulum Afron versus, convertit
+            <!--41.xml-->
+            <pb ed="#F" n="22"/>
+               <lb ed="#F" n="1"/>se ad Zorum, &amp; si ad oppositum approximes angulum, vertit se directè ad
+            <lb ed="#F" n="2"/>Afron. Eadem ferè verba non nihil aucta, &amp; clariora reddita citat 
+            Bellva<lb ed="#F" n="3" break="no"/>censis libro octavo speculi naturalis capite decimonono: Magnes, inquit,
+            <lb ed="#F" n="4"/>uno quidem angulo trahit ferrum, ex opposito autem angulo fugat ipsum.
+            <lb ed="#F" n="5"/>angulus quidem eius, cuius virtus est trahendi ferrum est ad Zorum, idest,
+            <lb ed="#F" n="6"/>Septentrionem; angulus vero oppositus ad Afron, idest meridiem. Itaque
+            <lb ed="#F" n="7"/>proprietatem habet magnes, quod si approximes ei ferrum, qui Zorum,
+            <lb ed="#F" n="8"/>idest Septentrionem respicit, ad Austrum se convertet, si vero ad angulum
+            <lb ed="#F" n="9"/>oppositum ferrum admoveris, ad Zorum, idest Septentrionem se movebit.
+            <lb ed="#F" n="10"/>Haec ille ex quib. verbis, si rectè expendantur, conijcere possumus libellum
+            <lb ed="#F" n="11"/>illum, ex quo haec citantur, non esse <name xml:id="p9i7y5-de2499-Nd1e448">Aristotelis</name>, sed alicuius ex priscis 
+            Ara<lb ed="#F" n="12" break="no"/>bibus, qui, ut illi authoritatem colligeret, specioso <name xml:id="p9i7y5-de2499-Nd1e452" ref="#Aristotle">Aristotelis</name> nomine 
+            in<lb ed="#F" n="13" break="no"/>cripsit: quandoquidem in illo nomina quaedam Arabica, vel potius 
+            He<lb ed="#F" n="14" break="no"/>braica ponuntur, ut sunt illa, Zoron, &amp; Afron, seù Cason, quorum alter 
+            me<lb ed="#F" n="15" break="no"/>ridiem, alter septentrionem significat: licet alij aliter exponant, velintque
+            <lb ed="#F" n="16"/>corruptum esse textum. Sed haec Hebraizantes accuratius.
+        </p>
+            <p xml:id="p9i7y5-de2499-d1e466">
+               <lb ed="#F" n="17"/>Quamvis ergo ea, quae ibi de magnete, ferro'que magneticè excito non
+            <lb ed="#F" n="18"/>omnia veritati consona sint; non enim verum est alterum magnetis 
+            angu<lb ed="#F" n="19" break="no"/>lum ad se ferrum provocare, alterum depellere; tamen ex illis, quae ibi 
+            di<lb ed="#F" n="20" break="no"/>cuntur, saltem constat manifesto ante quingentos annos, &amp; eo amplius has
+            <lb ed="#F" n="21"/>magnetis facies, Septentrionalem, videlicet, &amp; Australem innotuisse 
+            ali<lb ed="#F" n="22" break="no"/>quibus, &amp; has ipsas in ferrum à magnete tactum posse derivari; cum 
+            tem<lb ed="#F" n="23" break="no"/>pore Alberti Magni, qui floruit circa annum 1245. extiterit liber ille de 
+            la<lb ed="#F" n="24" break="no"/>pidibus: qui adeo antiquas putabatur, ut posset Aristotelem saltem 
+            menti<lb ed="#F" n="25" break="no"/>ri authorem, in quo erat harum facierum commemoratio; licet 
+            falsitati<lb ed="#F" n="26" break="no"/>bus, &amp; erroribus permixta, ut rebus solet initio accidere. Non multum 
+            ta<lb ed="#F" n="27" break="no"/>men ante illa tempora scriptum fuisse crediderim librum illum, tempore,
+            <lb ed="#F" n="28"/>scilicet, quo Arabes floruerunt; cum, &amp; in illo libro voces quaedam 
+            Arabi<lb ed="#F" n="29" break="no"/>cae sint commemoratae, nec alius de illis partibus mentionem faciat, nec in
+            <lb ed="#F" n="30"/>antiqua arte nautica de pyxide fiat mentio.
+        </p>
+            <p xml:id="p9i7y5-de2499-d1e499">
+               <lb ed="#F" n="31"/>Plurimi sunt qui mirandum nauticae pyxidis inventum Melphitanis 
+            ad<lb ed="#F" n="32" break="no"/>scribunt (Oppidum, idest in regno Neapolitano non proculà Salerno) 
+            ne<lb ed="#F" n="33" break="no"/>que Gulielmus Gilbertus Melphitanos tanto honore privare voluit. 
+            Pu<lb ed="#F" n="34" break="no"/>tat autem Gilbertus ex China, seù Sinis ad navigasse per Paulum Venetum,
+            <lb ed="#F" n="35"/>circa annum 1260. quod tamen non absolutè de magnetica hac vi, quae
+            <lb ed="#F" n="36"/>prius ab Alberto Magno fuerat commemorata, sed, ad summum, de 
+            abso<lb ed="#F" n="37" break="no"/>luto pyxidis artificio intelligi potest; &amp; cum <name xml:id="p9i7y5-de2499-Nd1e516">Albertus</name> ex antiquiore illo 
+            li<lb ed="#F" n="38" break="no"/>bro, qui in Europa <name xml:id="p9i7y5-de2499-Nd1e520" ref="#Aristotle">Aristotelis</name> nomen obtinverat, quod supra 
+            commemora<lb ed="#F" n="39" break="no"/>vi, transcripserit, debuit in nostra hac regione antiquior esse haec fama. Utrum
+            <lb ed="#F" n="40"/>autem hic apud nos scriptus fuerit liber ille, an ex Asia delatus, non ausim
+            <lb ed="#F" n="41"/>affirmare.
+        </p>
+            <p xml:id="p9i7y5-de2499-d1e531">
+               <lb ed="#F" n="42"/>Verum, quidquid sit hac de re, illud certum est, tempore Alberti Magni
+            <!--42.xml-->
+            <pb ed="#F" n="23"/>
+               <lb ed="#F" n="1"/>nauticae pyxidis qualem usum viguisse: Alberti enim saltem ea sunt 
+            reci<lb ed="#F" n="2" break="no"/>tata verba: &amp; hac utuntur nautae; ergo ad nauticam disciplinam spectabat
+            <lb ed="#F" n="3"/>magnes. Dico autem saltem esse Alberti; quia Belluacensis cum eandem ex
+            <lb ed="#F" n="4"/>libro de lapidibus transcribat sententiam, non ea interponit verba. saltem
+            <lb ed="#F" n="5"/>ergo Alberti tempore, cum magnes ferrum iam edomuissit, caeperat etiam
+            <lb ed="#F" n="6"/>Oceani domare superbiam, &amp; fraena Neptuno tumentibusque fluctibus 
+            inij<lb ed="#F" n="7" break="no"/>cere: quo nihil unquam humanis excogitatum artibus humano generi ma
+            <lb ed="#F" n="8"/>gis profuisse videtur: cum eiusmodi adminiculo fides ad extremas terrarum
+            <lb ed="#F" n="9"/>oras feliciter navigarit, &amp; nostrae fiant alieni orbis opes. Imò illud, ut 
+            con<lb ed="#F" n="10" break="no"/>stet, magnetis naturam penitus fuisse repositam, videtur posse addi, omnes
+            <lb ed="#F" n="11"/>quidem de magnete commemorare quod ferrum trahat, perpaucos tamen
+            <lb ed="#F" n="12"/>observasse magnetis partes ad se invicem confluere: multos item scriptis 
+            ce<lb ed="#F" n="13" break="no"/>lebrassè ferrum à magnete tactum in polos se convertere; ipsum tamen 
+            ma<lb ed="#F" n="14" break="no"/>gnetem hanc etiam habere vim, ut se agat in polos, paucos notasse. Primus,
+            <lb ed="#F" n="15"/>quod sciam, Perrus quidam Peregrinus Gallus id posteritati tradidit, in
+            <lb ed="#F" n="16"/>quodam libello, seù potius epistola, sic enim maluit eam auctor appellare,
+            <lb ed="#F" n="17"/>quam scripsit in infelici illo bonarum litterarum naufragio, altero aut 
+            ter<lb ed="#F" n="18" break="no"/>tio ab hinc sęculo, &amp; testatur Garzonius vidisse se in antiqua membrana
+            <lb ed="#F" n="19"/>conscriptam in bibliotheca Castellana Venetijs: hanc eandem epistolam
+            <lb ed="#F" n="20"/>loannes Taisner deformatam, ac mutilatam, novoque dicendi genere quasi
+            <lb ed="#F" n="21"/>vestitam, tanquam propriam evulgavit, sua quaedam alia, quasi quo 
+            fur<lb ed="#F" n="22" break="no"/>tum obscuraret, opuscula adijciens, nec animadvertit, quam facile posset
+            <lb ed="#F" n="23"/>in illum animadverti ob furtum; cum eadem epistola quattuor ante ipsum
+            <lb ed="#F" n="24"/>annis proprio authoris nomine consignata Typis vulgata fuisset; quod 
+            ip<lb ed="#F" n="25" break="no"/>se fortasse ignorabat. In hac ergo epistola de motu magnetis in polos fit
+            <lb ed="#F" n="26"/>mentio: cuius est illa ratio hoc experiendi, dum in ligneo vase quasi in
+            <lb ed="#F" n="27"/>cymbula aquis imponitur. &amp; hic Peregrinus primus videtur non multum
+            <lb ed="#F" n="28"/>peregrinatus à vero in hac magnetica philosophia.
+        </p>
+            <p xml:id="p9i7y5-de2499-d1e601">
+               <lb ed="#F" n="29"/>Inter caetera autem, quae ibi narrantur de magnete, illud etiam falsum 
+            ir<lb ed="#F" n="30" break="no"/>repsit, nescio quo malo, si sedula, ac diligenti arte elaboraveris 
+            rotundissi<lb ed="#F" n="31" break="no"/>mum magnetem, exacte lęvigatum, in eoque polos invenias exactissime 
+            ali<lb ed="#F" n="32" break="no"/>quo ex suprapositis artificio, &amp; collocetur confectus globus in aeneo 
+            meri<lb ed="#F" n="33" break="no"/>diano, sicuti solent accommodari globi terrestres, vel qui caelum referunt;
+            <lb ed="#F" n="34"/>atque ita accommodetur, ut supra polos in meridiano infixos libretur arte
+            <lb ed="#F" n="35"/>exquisita, ut facilime possit rotari, &amp; supra finitorem polus elevetur tantum,
+            <lb ed="#F" n="36"/>quanta est praecisè poli mundialis altitudo supra eundem finitorem in illa
+            <lb ed="#F" n="37"/>regione, &amp; collocentur poli praecisè in linea meridiana; atque haec omnia
+            <lb ed="#F" n="38"/>si exactè fiant, &amp; magnes sit optimus, futurum, ut perpetuo rotetur globus
+            <lb ed="#F" n="39"/>ille, &amp; diurnum Caeli motum sequatur, ut singulis viginti quattuor horis
+            <lb ed="#F" n="40"/>circulum absolvat.
+        </p>
+            <p xml:id="p9i7y5-de2499-d1e630">
+               <lb ed="#F" n="41"/>Hanc rem ipse certè nunquam experimento didici. Puto autem 
+            Gilber<lb ed="#F" n="42" break="no"/>tum plurimum fuisse in hac tentanda: si enim aliquo felici successu, aliquam
+            <!--43.xml-->
+            <pb ed="#F" n="24"/>
+               <lb ed="#F" n="1"/>saltem rei umbram spectare potuisset, quam libenter, ex hoc saltem, 
+            opi<lb ed="#F" n="2" break="no"/>nionem illam de terrae revolutione diurna confirmare volvisset, quam 
+            se<lb ed="#F" n="3" break="no"/>quitur: Si enim ille parvus magnes, &amp; terrella illa, suis librata ponderibus,
+            <lb ed="#F" n="4"/>revolutionis diurnae motum ciet; ergo etiam terra, magnus scilicet magnes,
+            <lb ed="#F" n="5"/>eundem sequetur motum, dum suis stat innixa momentis. Verum 
+            praeter<lb ed="#F" n="6" break="no"/>quam quod non illum terrae motum conficeret parvus ille globus 
+            incita<lb ed="#F" n="7" break="no"/>tus, sed fortasse potius oppositum; tamen homo ingenuus, &amp; verus 
+            philo<lb ed="#F" n="8" break="no"/>sophus noluit mentitis subsidijs quasi cariosis pedamentis suam doctrinam
+            <lb ed="#F" n="9"/>fulcire. Multi tamen alij transcripserunt haec, &amp; alia magnetis fabulosa
+            <lb ed="#F" n="10"/>portenta, quibus sese nugamentis, ut inquit ille, &amp; fictis fabellis delectant
+            <lb ed="#F" n="11"/>plebei philosophi, &amp; satiant rerum abditarum avidos lectores, &amp; indoctos
+            <lb ed="#F" n="12"/>ineptiarum helvones. Quoties igitur huius rei experimentum quisque 
+            su<lb ed="#F" n="13" break="no"/>mere tentavit, toties immotum torpore lapidem sensit, &amp; se spe frustratum
+            <lb ed="#F" n="14"/>invenit. quae tamen belle sanè illis succederet, qui terrae diurnum motum 
+            a<lb ed="#F" n="15" break="no"/>struere tentarunt, &amp; magnam suae sententiae facere fidem putarunt.
+            <lb ed="#F" n="16"/>Eam autem fortasse secutus est Peregrinus, in hac opinione, rationem, quia
+            <lb ed="#F" n="17"/>putavit magnetis polos caelestes polos adamare, &amp; ad illos, ubi per 
+            gravita<lb ed="#F" n="18" break="no"/>tem liceat, se convertere, &amp;, ut illa puncta in magnete polos respicere 
+            la<lb ed="#F" n="19" break="no"/>borant, ita sibi in animum induxit reliqua eius puncta reliquas Caeli partes
+            <lb ed="#F" n="20"/>ita adamare, ut eas sponte sequantur. Sed illud addere debuisset, ad rei 
+            dif<lb ed="#F" n="21" break="no"/>ficultatem exaggerandam, quo ab experimento deterreret homines, aut
+            <lb ed="#F" n="22"/>saltem ne de fasitate posset redargui (quod faciunt ferè semper navi 
+            mi<lb ed="#F" n="23" break="no"/>raculorum inventores) oportere non solum polos invenire in magnete
+            <lb ed="#F" n="24"/>quos in Mundi polos dirigamus, sed etiam reliquas in eodem partes, 
+            reli<lb ed="#F" n="25" break="no"/>quarum Caeli partium amicas, ut eas in initio quasi consociare possimus,
+            <lb ed="#F" n="26"/>Quod sanè nullo artificio praestari potest, quod si casu semel aliquis in eas
+            <lb ed="#F" n="27"/>incideret, motum, dicat ille, ex se lapis cieret, &amp; sequeretur volens, ac lubens
+            <lb ed="#F" n="28"/>fugientem amicum. Verum nugantium haec sunt, non philosophantium
+            <lb ed="#F" n="29"/>discursus: sisterent enim se, &amp; coniungerentur singulis saltem diebus 
+            ami<lb ed="#F" n="30" break="no"/>cae partes, ac proinde incitarent ex se motum illo momento, quo amicis
+            <lb ed="#F" n="31"/>obijciuntur partibus.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

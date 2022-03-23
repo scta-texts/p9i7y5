@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="205"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e21765"> <!-- l3c4 -->
+            <head xml:id="p9i7y5-e21765-Hd1e107">Caput 4</head>
+            <p xml:id="p9i7y5-e21765-d1e109">
+               <lb ed="#F" n="22"/>Non habet magnes vim se dirigendi ad alias partes, quam ad polares; nec ullam habet
+            <lb ed="#F" n="23"/>faciem Orientalem, aut occidentalem. Cap. IV.
+        </p>
+            <p xml:id="p9i7y5-e21765-d1e116">
+               <lb ed="#F" n="41" type="fixed=204"/>
+               <figure xml:id="p9i7y5-e21765-Fd1e121">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869947/1510,2286,844,813/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A B C D E F</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375666-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="24" type="fixed=204"/>Sit magnetis globus A. B. C. D. impossibile quidem est ut 
+            di<lb ed="#F" n="25" break="no"/>rigatur A. &amp; B. ad polos telluris. Quin etiam pari ratione
+            <lb ed="#F" n="26"/>alia duo posita puncta,
+            <lb ed="#F" n="27"/>ut C. &amp; D. orientem, &amp; oc
+            <lb ed="#F" n="28"/>cidentem respiciant, &amp; 
+            si<lb ed="#F" n="29" break="no"/>militer E &amp; F. verticem, &amp; imum Coeli:
+            <lb ed="#F" n="30"/>tamen assero ista puncta orientalia, &amp;
+            <lb ed="#F" n="31"/>occidentalia, verticalia, &amp; ima non esse
+            <lb ed="#F" n="32"/>in globo magnetico determinata, &amp; 
+            so<lb ed="#F" n="33" break="no"/>lemnia, &amp; omnino ex accidente contin
+            <lb ed="#F" n="34"/>gere, ut haec potius puncta nascentem
+            <lb ed="#F" n="35"/>salutent lucem, illa cadentem despiciant
+            <lb ed="#F" n="36"/>solem, quam alia quaelibet. Fuit quidem
+            <lb ed="#F" n="37"/>in hac re Petri Peregrini error potius
+            <lb ed="#F" n="38"/>quam sententia; qui sicuti putavit esse
+            <lb ed="#F" n="39"/>in magnete duo puncta, quae ad Coeli polos se converterent, ita etiam reliqua
+            <lb ed="#F" n="40"/>huius certa in Cęlo puncta sibi designare, quae libenter respicerent. imo exi¬
+            <!--223.xml-->
+
+         <!--224.xml-->
+         <pb ed="#F" n="205"/>
+               <lb ed="#F" n="1"/>stimavit, si semel contingere posset, ut simul omnia suis subijcerentur 
+            pun<lb ed="#F" n="2" break="no"/>ctis, futurum, ut perpetua vertigine globus ille circumvolveretur, &amp; diurnam
+            <lb ed="#F" n="3"/>imitando revolutionem perpetuum nobis exhiberet horologium nulla um
+            <lb ed="#F" n="4"/>brarum, nulla ponderum vicissitudine. Optanda sanè res, nisi reclamarent
+            <lb ed="#F" n="5"/>philosophi, qui nobis impossibilia prorsus omnino esse in optatis posse 
+            per<lb ed="#F" n="6" break="no"/>negant. Verum quamvis in alijs plurimis Peregrinus ille non se 
+            peregri<lb ed="#F" n="7" break="no"/>num in magnetica Philosophia ostenderit, imo praeclara illa sua 
+            lucubra<lb ed="#F" n="8" break="no"/>iuncula magni magistri nomen in magnetica disciplina sit assecutus, in
+            <lb ed="#F" n="9"/>hoc tamen peregrinatur, &amp; siquidem novit se falsum dicere, de quo 
+            suspi<lb ed="#F" n="10" break="no"/>cari quis forte possit, magnum illum dixeris impostorem, qui dum falsa 
+            pro<lb ed="#F" n="11" break="no"/>ponit, ut nos ab experimento deterreat, quo falsitatis illum convincimus.
+            <lb ed="#F" n="12"/>rei exactè perficiendae exaggerat difficultatem, ut, quod Chymici etiam 
+            qui<lb ed="#F" n="13" break="no"/>dam solent, nos incusemus, non artem, qui rem, ut opus erat, experiri 
+            nescivi<lb ed="#F" n="14" break="no"/>mus. Sicut ergo non sunt in globo magnetico puncta duo, quae Cęli 
+            po<lb ed="#F" n="15" break="no"/>los respiciant, ut dictum est, ita nec sunt distincta puncta, quae ad aliam Cę¬
+            <lb ed="#F" n="16"/>li plagam se convertant.
+        </p>
+            <p xml:id="p9i7y5-e21765-d1e217">
+               <lb ed="#F" n="17"/>Hoc tali pacto videor mihi posse probare. Sume globum magneticum,
+            <lb ed="#F" n="18"/>&amp; quam exactissimè elabora, ut ad perfectam rotunditatem exquisitissima
+            <lb ed="#F" n="19"/>arte perducas; ita ut sphaeram aemuletur mathematicam, quanta maxima
+            <lb ed="#F" n="20"/>fieri potest similitudine; tum curioso ingenio ea, quam alibi posui, ratione
+            <lb ed="#F" n="21"/>polos invenias, quos supra puncta maximè mobilia, ita statuas, ut facillimè
+            <lb ed="#F" n="22"/>possit globus converti ad quam se partem maluerit, vel ita polos statuas 
+            pa<lb ed="#F" n="23" break="no"/>rallelos ad axem Mundi, vel ita dirigas, ut polus, qui in Septentrionem 
+            diri<lb ed="#F" n="24" break="no"/>gitur, deorsum infra horizontem descendat, ea ratione, qua filum ferreum
+            <lb ed="#F" n="25"/>aequilibatum, &amp; magneticè excitatum ex vi magneticae directionis 
+            descen<lb ed="#F" n="26" break="no"/>dit; vel certè ita duobus circulis innecte, ut per se ipse magnes sibi quaerere
+            <lb ed="#F" n="27"/>possit situm, quem maximè amat, ea fere ratione, qua pyxides nauticae 
+            circu<lb ed="#F" n="28" break="no"/>lis aeneis solent adaptari, ut quacunque tandem ratione navis, se se 
+            contor<lb ed="#F" n="29" break="no"/>queat, semper tamen maneat suprema pyxidis pars horizonti aequata. Hac
+            <lb ed="#F" n="30"/>ratione constructo magnetico globo, &amp; magneticè collocato, si alias 
+            habe<lb ed="#F" n="31" break="no"/>ret partes, quae natura inspirante ad diversas telluris, seu Cęli partes se 
+            con<lb ed="#F" n="32" break="no"/>verterent, posset se libere movere, quandoquidem ita à gravitatis 
+            compedi<lb ed="#F" n="33" break="no"/>bus expeditum ponimus per exactam librationem, ut facili possit negotio,
+            <lb ed="#F" n="34"/>quam magis adamaverit, partem respicere. Sed quantum vis pertinaci, &amp;
+            <lb ed="#F" n="35"/>curiosa arte id prestes, nullum habet impetum ad ullam partem, quamvis sit
+            <lb ed="#F" n="36"/>exquisitissimę virtutis magnes, nec unquam alia quam polaria puncta respi
+            <lb ed="#F" n="37"/>cit. ergo haec sola quaerit, non alia.
+        </p>
+            <p xml:id="p9i7y5-e21765-d1e266">
+               <lb ed="#F" n="38"/>Neque vero hic aliquis ad illud se recipiat effugium, ut dicat nos non exa
+            <lb ed="#F" n="39"/>ctè magnetem rotundasse, aut non libratum perfectè collocasse; is enim 
+            re<lb ed="#F" n="40" break="no"/>verteretur ad Chymicorum ingenium, qui quoties vera loquuntur, &amp; 
+            qui<lb ed="#F" n="41" break="no"/>bus fidem experimenta concilient, clarè suos exponunt sensus, &amp; usitatis 
+            u<lb ed="#F" n="42" break="no"/>tuntur verbis, at verò, ubi ad imposturas dilabuntur, verborum portenta
+            <!--225.xml-->
+            <pb ed="#F" n="206"/>
+               <lb ed="#F" n="1"/>promunt, aut innovata, aut ex alieno idiomate petita, ut, quia nihil 
+            signifi<lb ed="#F" n="2" break="no"/>cant, falsitatis non possint redargui; aut impossibilia quaedam exigunt, vel
+            <lb ed="#F" n="3"/>certè talia, quae vix quisquam exequi possit, quo semper effugium habeant,
+            <lb ed="#F" n="4"/>rem non esse ea ratione factam, qua ipsorum ars praecipit. Et sanè ubi talium
+            <lb ed="#F" n="5"/>verborum monstra offendo, aut tot difficultatibus experimentum 
+            praemu<lb ed="#F" n="6" break="no"/>niri video, statim, ut verum fatear, tot veluti admotis machinis meam 
+            sen<lb ed="#F" n="7" break="no"/>tio labefactari fidem; quamvis, quod magis admireris, illud ipsorum sit 
+            pro<lb ed="#F" n="8" break="no"/>nunciatum, Ubi clarè locuti sumus, ibi nihil diximus, ubi obscurum est, ibi aliquid
+            <lb ed="#F" n="9"/>est veritatis; quasi veritas tenebrarum, non lucis filia sit. ideo nunquam ego
+            <lb ed="#F" n="10"/>in meis magneticis experimentis tantam necessariam contendo diligentiam,
+            <lb ed="#F" n="11"/>nec in instrumento declinationis, nec in alia re, ut veritatis argumenta 
+            cer<lb ed="#F" n="12" break="no"/>tissima assequi possis.
+        </p>
+            <p xml:id="p9i7y5-e21765-d1e310">
+               <lb ed="#F" n="13"/>lam verò rationem profero à priori, cur magneticum non habeat alia,
+            <lb ed="#F" n="14"/>&amp; alia puncta, quibus ad diversas se plagas componat, qua ratione ad polos
+            <lb ed="#F" n="15"/>dirigitur. Magnes, ut supra ostensum est, non Cęlum, aut Cęli punctum 
+            res<lb ed="#F" n="16" break="no"/>picit, sed terrae polos, quę terra corpus, quoddam est, si tota spectetur moles,
+            <lb ed="#F" n="17"/>homogeneum, &amp; circumquaque aequali pacto coagmentatum; neque, cum
+            <lb ed="#F" n="18"/>sit corpus sphaericum, aliqua in terra pars est orientalis, vel occidentalis; quod
+            <lb ed="#F" n="19"/>enim nobis ad occidentem iacet, Mexicani ad orientem spectant. nulla est
+            <lb ed="#F" n="20"/>igitur in toto telluris globo aliqua pars, quae ex natura sua, &amp; ubique gentium
+            <lb ed="#F" n="21"/>determinationem habeat, nisi polaris, &amp; per ordinem ad polos. ergo non est
+            <lb ed="#F" n="22"/>aliqua ratio, cur potius ad hoc fixum terrae punctum convertatur haec pars
+            <lb ed="#F" n="23"/>magnetis, quę à toto telluris globo disponitur, quam ad aliud. cum igitur
+            <lb ed="#F" n="24"/>terra magnetica qualitate sit affecta pręcisè per ordinem ad polos, ut in eodem
+            <lb ed="#F" n="25"/>semper situ contineatur, quo praedisposita intelligitur à rotatione Cęlorum,
+            <lb ed="#F" n="26"/>&amp; per hanc qualitatem, quam terra habet in se, quae non potest esse ad alia
+            <lb ed="#F" n="27"/>Coeli puncta, quę omnia circa terram rotantur, magnetem disponat, nec 
+            ma<lb ed="#F" n="28" break="no"/>gnes puncta habebit, nisi quae solos polos respiciat, non aliam plagam. Prae
+            <lb ed="#F" n="29"/>moneo autem, me loqui de tota terrena mole, non de aliqua praecipua 
+            par<lb ed="#F" n="30" break="no"/>te, quae nostris se se obtutibus aperiat. Quod si quis contendat ex eo, quod
+            <lb ed="#F" n="31"/>diversa astra circa terram fotentur ex peripateticorum disciplina, imo ex
+            <lb ed="#F" n="32"/>vera philosophia consequi, ut illam diverso modo afficiant, unde sit potior
+            <lb ed="#F" n="33"/>ratio, cur ad hanc consimilem partem, haec magnetis pars dirigatur: Etiam
+            <lb ed="#F" n="34"/>si hoc concederem, quod tamen tanquam verum non admitto, advertas 
+            a<lb ed="#F" n="35" break="no"/>strum illud circumquaque circa terram rotari. ergo tellurem circulariter
+            <lb ed="#F" n="36"/>in illo parallelo eodem pacto afficiet. non erit ergo in plaga illa, quae nobis
+            <lb ed="#F" n="37"/>orientalis est, aut occidentalis, aliquod punctum, quod peculiari ratione ad
+            <lb ed="#F" n="38"/>se magneticum provocet determinatum punctum; imo cum in toto globo
+            <lb ed="#F" n="39"/>circumquaque in illo parallelo sit consimilis dispositio, solum erit ratio cur
+            <lb ed="#F" n="40"/>dirigatur ad polos: Sic enim dum in meridiano collocatur quam optima
+            <lb ed="#F" n="41"/>potest ratione, suis responderet parallelis quaelibet congenita pars, si 
+            ades<lb ed="#F" n="42" break="no"/>set. ergo magnes se solum ad Austrum vertit, &amp; Septentrionem, &amp; polaria
+            <!--226.xml-->
+            <pb ed="#F" n="207"/>
+               <lb ed="#F" n="1"/>respicit puncta non alia in finitore, nisi ex accidente, cuius ratio 
+            quaereba<lb ed="#F" n="2" break="no"/>tur; nec Peregrini ille magneticus globus fieri potest, qui magneticè colloca
+            <lb ed="#F" n="3"/>tus diurna conversione astrorum sequatur perpetuo motum.
+        </p>
+            <p xml:id="p9i7y5-e21765-d1e388">
+               <lb ed="#F" n="4"/>Non solum inutiliter, sed omnino perniciosè fieret versorium magneticum in
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

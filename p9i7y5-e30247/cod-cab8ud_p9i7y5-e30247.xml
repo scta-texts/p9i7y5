@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 36</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 36</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="283"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e30247"> <!-- l3c36 -->
+            <head xml:id="p9i7y5-e30247-Hd1e107">Caput 36</head>
+            <p xml:id="p9i7y5-e30247-d1e109">
+               <lb ed="#F" n="10"/>Ferramenta igniaria omnia, si librentur ex filo partem infernam convertunt in 
+            Septen<lb ed="#F" n="11" break="no"/>trionem, manubrium in Austrum. Cap. XXXVI.
+        </p>
+            <p xml:id="p9i7y5-e30247-d1e116">
+               <lb ed="#F" n="12"/>Rem novam profero, quam nec Gilbertus, nec alius, quod sciam,
+            <lb ed="#F" n="13"/>observavit. Ferreum omne demestrici ignis instrumentum, 
+            for<lb ed="#F" n="14" break="no"/>cipes, batillum, bidens, &amp; alia omnia, quae ad ignem, vel 
+            ape<lb ed="#F" n="15" break="no"/>riendum, vel excitandum adhibentur, valde efficacem habent
+            <lb ed="#F" n="16"/>magneticam verticitatem, &amp; quo antiquiora fuerint, &amp; 
+            lon<lb ed="#F" n="17" break="no"/>go magis usu protrita, eò certiorem habent, &amp; robustiorem; etiamsi 
+            nun<lb ed="#F" n="18" break="no"/>quam magnetem ullum tetigerint. haec enim omnia, si filo non contorto su
+            <lb ed="#F" n="19"/>spendantur, &amp; liberè se possint collocare, magnetica dirigente virtute, 
+            sta<lb ed="#F" n="20" break="no"/>tim certissima via partem illam, quae in ignem immitti solet, in 
+            Septentrio<lb ed="#F" n="21" break="no"/>nem dirigent, &amp; partem, quae manibus solet attrectari, in Austrum 
+            conver<lb ed="#F" n="22" break="no"/>tent. Simili ratione ex lege magnetica, si ad versorium adhibeantur, pars,
+            <lb ed="#F" n="23"/>quae ad ignem adhibetur, semper constantissimè partem illam versorij ad se
+            <lb ed="#F" n="24"/>trahet, quae in Austrum dirigitur, &amp; manubrium semper provocabit ad se cus
+            <lb ed="#F" n="25"/>pidem versorij, quae in Septentrionem dirigitur. Res sanè mira est, sed certis
+            <lb ed="#F" n="26"/>sima, &amp; frequentissimis experimentis comprobata, nec auderem mentiri in
+            <lb ed="#F" n="27"/>re praesertim, cuius statim falsitas potest à quolibet deprehendi. Huius ergo
+            <lb ed="#F" n="28"/>quaeritur ratio, cur haec tantam prae caeteris ferramentis habeant verticitatem,
+            <lb ed="#F" n="29"/>&amp; cui sic determinatam habeant semper, ut pars inferior in Septentrionem
+            <lb ed="#F" n="30"/>convertatur, superior in Austrum tendat.
+        </p>
+            <p xml:id="p9i7y5-e30247-d1e160">
+               <lb ed="#F" n="31"/>Ratio igitur illa est, quae desumitur ex proximè dictis: quia enim ex una
+            <lb ed="#F" n="32"/>parte ad ignem adhibentur huiusmodi ferramenta, hinc fit, ut illo commer
+            <lb ed="#F" n="33"/>cio cum igne verticitatem omnem diversam amittant, &amp; omnes alias exuant
+            <lb ed="#F" n="34"/>qualitates, si ullas habebant alia ratione immissas, quo efficacius à telluris
+            <lb ed="#F" n="35"/>verticitate possint excitari, e certiorem concipere virtutem. Sicut ergo 
+            su<lb ed="#F" n="36" break="no"/>pra dictum est, quod ferrum, quoties post ignitionem refrigeratur, statim à
+            <lb ed="#F" n="37"/>tellure certam, &amp; efficacem concipit verticitatem, quam alioquin non nisi
+            <lb ed="#F" n="38"/>longo tempore contraxisset, ideo instrumentum illud igniarium, quia ex
+            <lb ed="#F" n="39"/>igne, si minus incandescit, certè incalescit vehementer, ex ratione supra 
+            po<lb ed="#F" n="40" break="no"/>sita sequitur, ut facilius à terra virtutem magneticam possit assumere, &amp; ce¬
+            <!--302.xml-->
+            <pb ed="#F" n="283"/>
+               <lb ed="#F" n="1"/>lerius efficacem. Cur igitur verticitatem concipiant haec ferramenta, ratio
+            <lb ed="#F" n="2"/>est, quia saepe incalescunt ex igne, &amp; ita verticitates exuunt alienas, &amp; à terra
+            <lb ed="#F" n="3"/>novas induunt certiores.
+        </p>
+            <p xml:id="p9i7y5-e30247-d1e196">
+               <lb ed="#F" n="4"/>Cur autem sic semper determinata illa ratione virtutem habeant, ratio etiam
+            <lb ed="#F" n="5"/>in promptu est; quia enim pars illa, quae ad ignem adhibetur, ferè semper 
+            de<lb ed="#F" n="6" break="no"/>pressa versus terram manet, manubrium vero sursum erigitur, ac fere 
+            huius<lb ed="#F" n="7" break="no"/>modi ferramenta erecta manent parte igniaria deorsum, opposita sursum,
+            <lb ed="#F" n="8"/>ideo pars illa, quae ad terram manet, vim concipit se convertendi ad 
+            Septen<lb ed="#F" n="9" break="no"/>trionem, eo quod quasi terram tangat in parte Septentrionali, &amp; ideo 
+            sem<lb ed="#F" n="10" break="no"/>per ad illam librato ferro convertitur, ut mox dicetur; opposita in Austrum.
+            <lb ed="#F" n="11"/>Tali igitur via verticitatem concipiunt, &amp; non alia, quia ferè semper manent
+            <lb ed="#F" n="12"/>erecta ad terram, &amp; pars inferior dirigitur ad Septentrionem, quia terram 
+            tan<lb ed="#F" n="13" break="no"/>git quodammodo in parte Septentrionali.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

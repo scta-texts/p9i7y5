@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 21</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 21</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="83"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-de9157"> <!-- l1c21 -->
+            <head xml:id="p9i7y5-de9157-Hd1e107">Caput 21</head>
+            <p xml:id="p9i7y5-de9157-d1e109">
+               <lb ed="#F" n="12"/>De gradu, ad quem descendunt magnetica infra horizontem per hanc inclinationem,
+            <lb ed="#F" n="13"/>pro varia locorum latitudine. Caput XXI.
+        </p>
+            <p xml:id="p9i7y5-de9157-d1e116">
+               <lb ed="#F" n="14"/>Quamquam ego arbitror non posse omnino certo sciri, ad quem
+            <lb ed="#F" n="15"/>gradum de facto infra horizontem descendant magnetica 
+            li<lb ed="#F" n="16" break="no"/>brata, ratione indicata supra: non enim hactenus certam 
+            ha<lb ed="#F" n="17" break="no"/>beo regulam ad cognoscendam determinatam inclinationem,
+            <lb ed="#F" n="18"/>quocunque in loco, ita ut possit certo affirmari, in tanta latitudine, ad talem
+            <lb ed="#F" n="19"/>gradum descendere: quamquam, inquam, hoc hactenus certo sciri posse non
+            <lb ed="#F" n="20"/>arbitror, quia exactissima experimenta non habentur, tamen placuit hoc
+            <lb ed="#F" n="21"/>caput proponere, &amp;, quid ipse sentiam, aperire. Certum igitur primo est ex
+            <lb ed="#F" n="22"/>experimentis non descendere magnetica aequalibus intervallis infra 
+            hori<lb ed="#F" n="23" break="no"/>zontem, cum discessu ab aequatore, ita ut, si ponas (quod mihi in praesentia
+            <lb ed="#F" n="24"/>sumo) libratum versorium inclinationis in linea aequinoctiali terrae stare
+            <lb ed="#F" n="25"/>parallelum horizonti, nec altero sui polo magis altero inclinare; sic, si 
+            uni<lb ed="#F" n="26" break="no"/>co gradu discedas ab aequatore, unico gradu inclinetur versorium infra 
+            ho<lb ed="#F" n="27" break="no"/>rizontem; si decem gradibus discedas, per decem gradus paribus spacijs
+            <lb ed="#F" n="28"/>inclinetur. Admisso ergo etiam, hoc, quod in aequatore stet in aequilibrio
+            <lb ed="#F" n="29"/>versorium, in loco pręcisè sub polo cadat perpendiculariter ad centrum 
+            ter<lb ed="#F" n="30" break="no"/>rae; non tamen in intermedijs spacijs servat illam ęqualitatis rationem, cum
+            <lb ed="#F" n="31"/>discessu ab aequatore. Patet hoc experientia, si alia desint: nam ego ipse,
+            <lb ed="#F" n="32"/>arte curiosa, sum saepissimè expertus huiusmodi versorium hic in latitudine
+            <lb ed="#F" n="33"/>graduum 45. descendere ad graduum 62. circiter. testatur etiam Edoardus
+            <lb ed="#F" n="34"/>in encomiastica Paraenesi, Londini in latitudine, scilicet graduum 50. 
+            de<lb ed="#F" n="35" break="no"/>scendere ad graduum 72. ex quo evidenter constat nullam aequalitatis 
+            ser<lb ed="#F" n="36" break="no"/>vare rationem.
+        </p>
+            <p xml:id="p9i7y5-de9157-d1e168">
+               <lb ed="#F" n="37"/>Excogitavit <name xml:id="p9i7y5-de9157-Nd1e172">Gilbertus</name> inventum, quo magneticis inclinationibus 
+            nor<lb ed="#F" n="38" break="no"/>mam se praescribere posse putavit; sed haud scio, an faelici eventu. Describit
+            <lb ed="#F" n="39"/>terrae globum A. C. D. L. cuius A. D. sectio fit aequinoctialis C. L. axis 
+            polo<lb ed="#F" n="40" break="no"/>rum A. B. horizon. Ut ergo notetur quantum in unoquoque horizonte ma¬
+            <!--102.xml-->
+            <pb ed="#F" n="83"/>
+               <lb ed="#F" n="1"/>gnetica descendant, quod
+            <lb ed="#F" n="2"/>nunc inquirimus, talem
+            <lb ed="#F" n="3"/>instituit viam facto 
+            cen<lb ed="#F" n="4" break="no"/>tro in centro terrę G. ad
+            <lb ed="#F" n="5"/>intervallum G. E. sumit
+            <lb ed="#F" n="6"/>autem A E. aequalem ipsi
+            <lb ed="#F" n="7"/>A. G describit arcum E.
+            <lb ed="#F" n="8"/>H. ad quem arcum 
+            de<lb ed="#F" n="9" break="no"/>inde terminantur 
+            qua<lb ed="#F" n="10" break="no"/>drantes, qui mensurant
+            <lb ed="#F" n="11"/>inclinationem 
+            magne<lb ed="#F" n="12" break="no"/>ticorum in quolibet 
+            pun<lb ed="#F" n="13" break="no"/>cto elevationis poli. Si
+            <lb ed="#F" n="14"/>enim quadrantem C. A.
+            <lb ed="#F" n="15"/>dividas in nonaginta
+            <lb ed="#F" n="16"/>gradus, &amp; facto centro
+            <lb ed="#F" n="17"/>in gradu elevationis po
+            <lb ed="#F" n="18"/>li verbi gratia in I. 
+            de<lb ed="#F" n="19" break="no"/>scribas ad intervallum
+            <lb ed="#F" n="20"/>I. G. arcum usque ad H.
+            <lb ed="#F" n="21"/>in eo quadrante (erit 
+            e<lb ed="#F" n="22" break="no"/>nim quadrans ille arcus, ut facilè posset demonstrari) notabitur gradus 
+            in<lb ed="#F" n="23" break="no"/>clinationis magneticorum, ad cognoscendam vero praecisè directionem,
+            <lb ed="#F" n="24"/>per quam notantur isti gradus, sumit lineam A. B. in horizontali linea ę
+            qua<lb ed="#F" n="25" break="no"/>lem chordae, quae subtenderetur arcui C. A. &amp; facto centro in centro terrae
+            <lb ed="#F" n="26"/>G. ad intervallum G. B. describit arcum B. M. N. ad quem terminari vult
+            <lb ed="#F" n="27"/>omnes arcus, quibus haec directio mensuratur. describuntur autem arcus
+            <lb ed="#F" n="28"/>isti facto centro in gradu illo arcus C. A. cuius est altitudo poli illius 
+            regio<lb ed="#F" n="29" break="no"/>nis, cuius directionem quaerimus intervallo facto semper usque ad polum
+            <lb ed="#F" n="30"/>oppositum L. &amp; terminato usque ad arcum B. M. N.
+         <lb ed="#F" n="43" type="fixed=83"/>
+               <figure xml:id="p9i7y5-de9157-Fd1e254">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869826/798,428,1242,1262/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">L A C D G O I P E H F B R M S N</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375480-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-de9157-d1e272">
+         Verbi gratia, vult quis
+         <lb ed="#F" n="31" type="fixed=83"/>scire quam inclinationem capiant magnetica in puncto l. facit centrum in
+            <lb ed="#F" n="32"/>I. &amp; dilatat circinum, donec pertingat ad alterum polum L. &amp; ex L. usque
+            <lb ed="#F" n="33"/>ad M. describit arcum L. D. M. Sic si vellet inquirere, quam inelinationem
+            <lb ed="#F" n="34"/>capiat versorium in O. vel in P. facto centro in O. vel P. posito uno pede in
+            <lb ed="#F" n="35"/>D. vel P. dilatat alterum pedem circini usque ad L. &amp; ex L. usque ad R. vel
+            <lb ed="#F" n="36"/>ad S. ducit arcum. Hos igitur arcus semper sive magni sint, sive parvi (
+            vi<lb ed="#F" n="37" break="no"/>des enim illos semper esse maiores, &amp; maiores quo magis receditur à 
+            pun<lb ed="#F" n="38" break="no"/>cto C. idest maiorem continent portionem sui circuli) dividit in 90. 
+            aequa<lb ed="#F" n="39" break="no"/>les partes, ac proinde in magnis, partes resultant maiores, in parvis, 
+            mino<lb ed="#F" n="40" break="no"/>res: tum numerat gradus, qui sunt inter aequatorem, &amp; locum, cuius 
+            inclina<lb ed="#F" n="41" break="no"/>tio inquiritur, &amp; totidem sumit partes in arcu ex illo loco desciipto 
+            inci<lb ed="#F" n="42" break="no"/>piendo à puncto terminato ad arcum B. M. N. &amp; ex puncto cognomine, ad
+            <!--102.xml-->
+
+         <!--103.xml-->
+         <pb ed="#F" n="84"/>
+               <lb ed="#F" n="1"/>locum inclinationis ducit lineam, quae priorem arcum quadrantis 
+            mensu<lb ed="#F" n="2" break="no"/>rantis inclinationem secabit. Exemplo res erit clara. Vult quis scire quam
+            <lb ed="#F" n="3"/>inclinationem in puncto I. faciat versorium, arcum L. D. M. ex puncto l.
+            <lb ed="#F" n="4"/>descriptum dividit in 90. partes aequales, &amp; pariter ex I. describit 
+            quadran<lb ed="#F" n="5" break="no"/>tem G. H. dividendum in nonaginta gradus: tum numerat, quot gradus sint
+            <lb ed="#F" n="6"/>inter I. &amp; A. &amp; invenit esse 45. numerat igitur etiam quadraginta quinque
+            <lb ed="#F" n="7"/>partes in arcu D. M. L. incipiendo ab M. &amp; invenit punctum D. tum ex 
+            pun<lb ed="#F" n="8" break="no"/>cto D. ad T. ducit lineam, &amp; hanc dicit esse inclinationem magneticam 
+            ver<lb ed="#F" n="9" break="no"/>sorij, ac proinde in quo gradu quadrans L. N. G. secabitur à linea D. I. 
+            osten<lb ed="#F" n="10" break="no"/>detur illum esse gradum, ad quem descendant magnetica infra horizontem,
+            <lb ed="#F" n="11"/>si ponantur in puncto I.
+        </p>
+            <p xml:id="p9i7y5-de9157-d1e331">
+               <lb ed="#F" n="12"/>Hoc artificium paucis, &amp; non clarissimè innuit potius, quam exponat,
+            <lb ed="#F" n="13"/>auctor ille. Verum ex illo quaererem primum ego libenter, undenam 
+            ha<lb ed="#F" n="14" break="no"/>beat hoc totum negotium sic esse peragendum: nam, verum quidem est 
+            qua<lb ed="#F" n="15" break="no"/>drantem, quo metiri debemus huiusmodi descensum magneticorum, ut
+            <lb ed="#F" n="16"/>possimus pronunciare descendere tot gradus, contineri tanquam à lateribus
+            <lb ed="#F" n="17"/>à semidiametro terrae, &amp; à tangente horizontali, quae duae lineae, cum faciant
+            <lb ed="#F" n="18"/>angulum rectum, subtendunt verè quadrantem: à directione enim 
+            magne<lb ed="#F" n="19" break="no"/>tici supra istum quadratum cognoscitur directio etiam supra horizontem,
+            <lb ed="#F" n="20"/>seu tangentem terrae, ut consideranti facile patebit. Facile etiam potest 
+            de<lb ed="#F" n="21" break="no"/>monstrari omnes arcus, qui describuntur ex punctis arcus C. I. A. inter G. &amp;
+            <lb ed="#F" n="22"/>arcum E. H. F. esse omnes quadrantes, ac propterea omnes bene posse 
+            desi<lb ed="#F" n="23" break="no"/>gnare arcum inclinationis. Sed puto alia esse demonstranda, ut mox dicam,
+            <lb ed="#F" n="24"/>in isto negotio; ideo nolo in hoc labotare. Quaero enim principaliter, 
+            un<lb ed="#F" n="25" break="no"/>de habeat, describendum esse arcum B. M. N. talem, nec maiorem, nec 
+            mi<lb ed="#F" n="26" break="no"/>norem? cur sumat intervallum A. B. aequale intervallo A. C. &amp; non potius
+            <lb ed="#F" n="27"/>diametro C. L. quod videtur magis congruum; nam, verum quidem est, ut
+            <lb ed="#F" n="28"/>dicebam, non aequalibus spacijs cum discessu ab aequatore descendere infra
+            <lb ed="#F" n="29"/>horizontem, sed in initio multo plus descendere, &amp; maiores partes singulis
+            <lb ed="#F" n="30"/>gradibus respondere, in sine verò minores; nec, ubi per decem gradus 
+            disces<lb ed="#F" n="31" break="no"/>seris ab aequatore, declinat per decem gradus infra horizontem, sed multò
+            <lb ed="#F" n="32"/>plus. non satis tamen fuit excogitare inventum, &amp; mensuram, quae maxima
+            <lb ed="#F" n="33"/>sit prope aequatorem, &amp; minor semper fiat, quo magis acceditur ad polum,
+            <lb ed="#F" n="34"/>sed sumenda est illa ipsa, quam servant magnetica, dum descendunt infra
+            <lb ed="#F" n="35"/>horizontem, &amp; probandum esset inventum, quod praecisè illud ipsum sit,
+            <lb ed="#F" n="36"/>quod proponitur. non satis ergo est illos arcus incipientes ex L. semper esse
+            <lb ed="#F" n="37"/>minores, &amp; minores, qui semper dividantur in 90. partes incipiendo ab L.
+            <lb ed="#F" n="38"/>quo enim argumento probabit versorium dirigi praecisè ad gradum cogno
+            <lb ed="#F" n="39"/>minem in illo arcu? nec consuevere mathematici, nisi illorum velimus 
+            li<lb ed="#F" n="40" break="no"/>neis abuti, solum figuram, ut aiunt, construere; demonstrationem subdunt,
+            <lb ed="#F" n="41"/>qua rem universam probant. Quod si dicam ego, vel illos arcus ita non esse
+            <lb ed="#F" n="42"/>ducendos, vel non semper in 90. pertes describendos, sed certam quandam
+            <!--104.xml-->
+            <pb ed="#F" n="85"/>
+               <!--Table included in original but not in XML-->
+               <lb ed="#F" n="1"/>numerorum seriem ordinatam servantem rationem mihi perscribam, 
+            quo<lb ed="#F" n="2" break="no"/>modo redarguet? Si habuisset Gilbertus observationes iam factas, &amp; sciret
+            <lb ed="#F" n="3"/>ex experientia quantum in quaque poli altitudine descendant magnetica,
+            <lb ed="#F" n="4"/>deinde excogitasset hoc inventum, &amp; linearum ductum, qui pręcisè 
+            respon<lb ed="#F" n="5" break="no"/>deret illis experimentis, dignus sane esset summa laude; si tamen 
+            mathe<lb ed="#F" n="6" break="no"/>maticorum more demonstrasset suum diagramma prorsus illam servare 
+            ra<lb ed="#F" n="7" break="no"/>tionem, quam praebuerunt experimenta, sicuti fecerunt, qui epicis colos, &amp;
+            <lb ed="#F" n="8"/>excentticos induxerunt, ad salvanda Phenomena: hoc tamen non fecit; ego
+            <lb ed="#F" n="9"/>sanè ex una parte vix adduci possum, ut credam virum illum non aliquam
+            <lb ed="#F" n="10"/>sui facti rationem reddere posse; ex altera non video, cur illam tacere 
+            debue<lb ed="#F" n="11" break="no"/>rit, si satisfaciebat, vel saltem, ut alios ad maiora excogitanda provocaret; in
+            <lb ed="#F" n="12"/>re, enim obscutissima, &amp; nova, leviter etiam veritatis signasse vestigia, 
+            ma<lb ed="#F" n="13" break="no"/>ximum ad gloriam iter pandit.
+        </p>
+            <p xml:id="p9i7y5-de9157-d1e435">
+               <lb ed="#F" n="14"/>Verum, quod caput est, mihi saltem, hoc experimentis verum non 
+            depre<lb ed="#F" n="15" break="no"/>henditur, neque tantum inclinare inveni, aut hic in latitudine graduum 45.
+            <lb ed="#F" n="16"/>aut Romae, quantum diagramma illud ostenderet. Quia tamen, ut postea
+            <lb ed="#F" n="17"/>dicam, fortasse non magnopere à vero discedit, ita ut videatur illa regula
+            <lb ed="#F" n="18"/>proxime rem attingere; placuit hic tabellam apponere, quam confeci 
+            quan<lb ed="#F" n="19" break="no"/>ta maxima potui diligentia: quamvis enim, ut dixi, 
+            repere<lb ed="#F" n="20" break="no"/>rim non nihil à vero aberrare, quia tamen ex aliorum etiam
+            <lb ed="#F" n="21"/>observationibus proximè rem tangit, volui ex illa sola 
+            Gil<lb ed="#F" n="22" break="no"/>berti observatione tabellam hanc conficere: quam qua 
+            ra<lb ed="#F" n="23" break="no"/>tione putem ego corrigendam, mox subdam. in qua 
+            tabel<lb ed="#F" n="24" break="no"/>la notantur gradus, ad quos in qualibet poli elevatione 
+            de<lb ed="#F" n="25" break="no"/>scendunt magnetica, ut tali possimus tabella instrumentum
+            <lb ed="#F" n="26"/>inclinationis perficere, ut postea dicam, quo solo, nullo
+            <lb ed="#F" n="27"/>alio auxilium ferente, possimus cuiuscunque loci 
+            elevatio<lb ed="#F" n="28" break="no"/>nem poli cognoscere. Tabellam autem construxi per 
+            sin<lb ed="#F" n="29" break="no"/>gulos quinque gradus: quia hoc satis esse putavi pręsertim
+            <lb ed="#F" n="30"/>in re, quam non ego exactissimam iudico: ex notatis enim
+            <lb ed="#F" n="31"/>punctis poterit quisque facile cognoscere, ad quem 
+            pun<lb ed="#F" n="32" break="no"/>ctum debeat descendere versorium in intermedijs 
+            gradi<lb ed="#F" n="33" break="no"/>bus. Quod si etiam hoc inventum experimento verum
+            <lb ed="#F" n="34"/>comprobaretur, remaneret adhuc indicanda ratio 
+            physi<lb ed="#F" n="35" break="no"/>ca, ex qua nascitur talis regulata inclinatio: res enim est
+            <lb ed="#F" n="36"/>physica, non mathematica, &amp; quae nascitur ex vi actiua
+            <lb ed="#F" n="37"/>corporis, &amp; ex modo agendi physico, non praecisè ex quan
+            <lb ed="#F" n="38"/>titate, aut lineis. virtus ergo physica est explicanda, &amp; 
+            mo<lb ed="#F" n="39" break="no"/>dus agendi (quod ego facere tentabo) tum ad 
+            mathemati<lb ed="#F" n="40" break="no"/>ca recurrendum adminicula, ut certas tabellas habeamus, pro singulis 
+            gra<lb ed="#F" n="41" break="no"/>dibus, ac minutis.
+        </p>
+            <p xml:id="p9i7y5-de9157-d1e498">
+               <lb ed="#F" n="42"/>Huius autem tabellae talis potest esse usus. Construe circulum A. B. C. D.
+            <!--105.xml-->
+            <pb ed="#F" n="86"/>
+               <lb ed="#F" n="1"/>pro magnitudine versorij inclinationis, quod habes, ita ut versorium suo
+            <lb ed="#F" n="2"/>centro possit supra centrum huius circuli intra eius periphęriam praecisè se
+            <lb ed="#F" n="3"/>convettere expedite. Sume puncta A. B. in isto circulo pro punctis 
+            horizon<lb ed="#F" n="4" break="no"/>talibus, &amp; divide circulum incipiendo ab A. vel B. de more in gradus 360.
+            <lb ed="#F" n="5"/>vel, si malis, unicum quadrantem in 90. partes oculte distribuc. tum ex tabel¬
+            <!--105.xml-->
+            <pb ed="#F" n="86"/>
+               <lb ed="#F" n="6"/>la vide ad quem gradum descendat versorium in latitudine graduum quinque,
+            <lb ed="#F" n="7"/>&amp; ibi in circulo punctum nota, &amp; adscribe. 5. vide ad quem gradum 
+            descen<lb ed="#F" n="8" break="no"/>dat in latitudine graduum 10. ibi nota punctum, incipiendo semper ab A.
+            <lb ed="#F" n="9"/>vel B. &amp; adscribe decem, &amp; sic de singulis. quae puncta poteris notare tam
+            <lb ed="#F" n="10"/>ex parte A. quam ex parte B. &amp; tam ex parte inferiori, quam ex superiori: &amp;,
+            <lb ed="#F" n="11"/>ne confundantur puncta melius erit gradus non signasse in isto circulo 
+            ni<lb ed="#F" n="12" break="no"/>si levissime, &amp; obscurè. Haec puncta, si transferas in instrumentum 
+            inclina<lb ed="#F" n="13" break="no"/>tionis, &amp; notes inferiora in circulo aliquo notato in scutella, per quae 
+            pun<lb ed="#F" n="14" break="no"/>cta ex imo centro ducas circulos veluti almicantaracticos, infernos, 
+            supe<lb ed="#F" n="15" break="no"/>riora autem puncta notes in circulo aeneo, habebis completum 
+            instrumen<lb ed="#F" n="16" break="no"/>tum inclinationis: statim enim versorium sua inclinatione, &amp; directione
+            <lb ed="#F" n="17"/>ostendet, quae sit loci latitudo, designando aliquem ex notatis punctis, ex
+            <lb ed="#F" n="18"/>cuius numero habebis altitudinem poli.
+         <lb ed="#F" n="19" type="fixed=86"/>
+               <figure xml:id="p9i7y5-de9157-Fd1e554">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869829/639,801,1576,1523/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">C A B D</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375486-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

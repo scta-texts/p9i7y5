@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 9</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 9</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="136"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e14440"> <!-- l2c9 -->
+            <head xml:id="p9i7y5-e14440-Hd1e107">Caput 9</head>
+            <p xml:id="p9i7y5-e14440-d1e109">
+               <lb ed="#F" n="5"/>De situ, quo haec qualitas duarum facierum est in ipso magnete in ordine
+            <lb ed="#F" n="6"/>ad agendum. Cap. IX.
+        </p>
+            <p xml:id="p9i7y5-e14440-d1e116">
+               <lb ed="#F" n="7"/>Hactenus satis, ut arbitror, exposui essentiam, naturamque huius
+            <lb ed="#F" n="8"/>qualitatis duarum facierum, quo tanquam pręcipuo, &amp; 
+            mo<lb ed="#F" n="9" break="no"/>tus, &amp; alterationis instrumento magnes, magneticaque se 
+            ip<lb ed="#F" n="10" break="no"/>sa dirigunt, caeteraque sibi cognita ad se disponunt, ac trahunt.
+            <lb ed="#F" n="11"/>lam, ut penitus, quantumus fieri potest, hanc qualitatem 
+            in<lb ed="#F" n="12" break="no"/>trospiciamus, univetsam'que eius naturam in apertum proferamus, institutum
+            <lb ed="#F" n="13"/>sequentes iter, hic non amplius de physica eius propagatione, ut ita loquar,
+            <lb ed="#F" n="14"/>qua per orbem diffunditur (de hac enim satis iam disputatum est.) sed de
+            <lb ed="#F" n="15"/>ratione, ut ita dicam, mathematica, qua propagatur, cum certam obtineat
+            <lb ed="#F" n="16"/>dimensionem certamque positionem, accuratius disserendum; ex cuius 
+            co<lb ed="#F" n="17" break="no"/>gnitione, ut apparebit, multarum difficultatum pendet solutio, quae 
+            alio<lb ed="#F" n="18" break="no"/>quin insolubiles videantur.
+        </p>
+            <p xml:id="p9i7y5-e14440-d1e145">
+               <lb ed="#F" n="31" type="fixed=135"/>
+               <figure xml:id="p9i7y5-e14440-Fd1e150">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869878/188,2638,1903,542/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">C Septentrionalis Qualitas in medio Australis. A Septentrionalis Qualitas in magnete Australis. B Septentrionalis Qualitas in medio Australis. D</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375561-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="19" type="fixed=135"/>Primum igitur assero, ut certas statuam hac de re propositiones, quas etiam
+            <lb ed="#F" n="20"/>pro subiecta materia confirmare evidenter tentabo; cum per orbem 
+            virtu<lb ed="#F" n="21" break="no"/>tis qualitas duarum facierum in circumiecta corpora diffunditur 
+            ntentio<lb ed="#F" n="22" break="no"/>naliter (utar hac loquendi forma saepe) ea ratione diffundi, simili'que pacto
+            <lb ed="#F" n="23"/>propagari, ut postulat qualitas ipsa, quae est intus in magnete, seu 
+            magneti<lb ed="#F" n="24" break="no"/>co corpore: sicut ergo in quolibet magnetis frusto qualitas ipsa, talem 
+            pos<lb ed="#F" n="25" break="no"/>fidet fitum, ut distinctas habeat facies, septentrionalem, &amp; australem, 
+            distin<lb ed="#F" n="26" break="no"/>scas'que facultates, ac potentias modo supra explicato, quantum facit ad 
+            si<lb ed="#F" n="27" break="no"/>tuationem, ita, dum intentionaliter in circumiectis corporibus manet, 
+            ean<lb ed="#F" n="28" break="no"/>dem facierum, ac potentiarum distinctionem servat proportionaliter ad
+            <lb ed="#F" n="29"/>qualitatem, quae est in ipso magnete; Et quidem sumendo qualitatem, quę
+            <lb ed="#F" n="30"/>in medio propagatur directè è regione polorum, quia haec facilins explica¬
+            <!--154.xml-->
+
+         <!--155.xml-->
+         <pb ed="#F" n="136"/>
+               <lb ed="#F" n="1"/>tur, sicuti in magnete ab A. ad B. per totum lapidem ita excurrit virtus, ut
+            <lb ed="#F" n="2"/>totus lapis sit septentrionalis. ideo, ut vides, inscripsi partem illam versus, 
+            sep<lb ed="#F" n="3" break="no"/>tentrionalis ex adverso, totus idem lapis quantus quantus est A. versus à B.
+            <lb ed="#F" n="4"/>est australis; &amp; ideo totus inscriptus est ad illam partem australis. sic etiam
+            <lb ed="#F" n="5"/>qualitas, quae est, in aëte, seu medio à C: A. versus, &amp; à B. excurrendo ad D. 
+            to<lb ed="#F" n="6" break="no"/>ta itaque illa qualitas est septentrionalis, idest vim conferi respiciendi ad 
+            il<lb ed="#F" n="7" break="no"/>lam partem ad septentrionem ex adverso vero à D: B. versus, &amp; ab A. ad C.
+            <lb ed="#F" n="8"/>australis est prout inscribitur, &amp; omnino tota qualitas, &amp; quaelibet eius pars
+            <lb ed="#F" n="9"/>sive sit in magnete sive in medio, tota est australis, &amp; septentrionalis; austra.
+            <lb ed="#F" n="10"/>lis, si quasi mensuretur ad unam partem; septentrionalis si respiciatur ad
+            <lb ed="#F" n="11"/>aliam.
+        </p>
+            <p xml:id="p9i7y5-e14440-d1e225">
+               <lb ed="#F" n="12"/>Falsam enim puro 
+            doctri<lb ed="#F" n="13" break="no"/>nam Gilberti; qui sic 
+            dispo<lb ed="#F" n="14" break="no"/>nit vigorem in magnete, ut
+            <lb ed="#F" n="15"/>si sit globus magneticus 
+            A<lb ed="#F" n="16" break="no"/>B quem globum terrellam,
+            <lb ed="#F" n="17"/>ut solet, appellat, in qua A.
+            <lb ed="#F" n="18"/>sit polus septentrionalis B.
+            <lb ed="#F" n="19"/>australis C. D. sectio 
+            aequi<lb ed="#F" n="20" break="no"/>noctialis dicit partem 
+            ter<lb ed="#F" n="21" break="no"/>rellae C. B. D. esse 
+            meridia<lb ed="#F" n="22" break="no"/>nam, ita, ut à quolibet 
+            pun<lb ed="#F" n="23" break="no"/>cto aequatoris I. L. M.N. à
+            <lb ed="#F" n="24"/>quo procedant radij B. 
+            ver<lb ed="#F" n="25" break="no"/>sus, vim solum obtineant 
+            me<lb ed="#F" n="26" break="no"/>ridionalem, &amp; ex ijsdem 
+            pun<lb ed="#F" n="27" break="no"/>ctis si procedant radij ad 
+            par<lb ed="#F" n="28" break="no"/>tem C. A. D. nihil influere, &amp; conferre virium in C. D. B. sed totam 
+            terrel<lb ed="#F" n="29" break="no"/>lam per aequatorem C. D. imperium quasi dividere, nullumque auxiliares 
+            co<lb ed="#F" n="30" break="no"/>pias ab alterius ditione exquirere, &amp; I. E. addere quidem vires parti E. F. &amp;
+            <lb ed="#F" n="31"/>E. F iuvare F. G. &amp; tandem omnes partes ultra C. D. roborare ipsum B. at
+            <lb ed="#F" n="32"/>vero ex altera parte I O. iuvat vicinas partes O. P. &amp; alias deinceps positas
+            <lb ed="#F" n="33"/>ad A. nihil vero confert B. versus.
+         <lb ed="#F" n="43" type="fixed=136"/>
+               <figure xml:id="p9i7y5-e14440-Fd1e278">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869879/1257,1120,1176,1105/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">4 A B C N M R L I D P O E F G V</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375562-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e14440-d1e296">
+               <lb ed="#F" n="34" type="fixed=136"/>Verum hoc non est unam qualitatem duplicem obtinentem potentiam
+            <lb ed="#F" n="35"/>in uno lapide, sed duas qualitates confingere; quod tamen falsum esse sic
+            <lb ed="#F" n="36"/>ostendo. Vel pars lapidis C. B. D. habet vim agendi ad A. &amp; producendi
+            <lb ed="#F" n="37"/>qualitatem quae habeat vim, si consideretur ad unam positionis differentiam,
+            <lb ed="#F" n="38"/>dirgendi ad septentrionem, vel non: si non habet, ergo neque si tota 
+            terrel<lb ed="#F" n="39" break="no"/>la A C. B. D. bifariam per C. D. dividatur, pars C. B. D. poterit in puncto R.
+            <lb ed="#F" n="40"/>agere septentrionaliter; &amp; tamen per ipsum Gilbertum hoc est falsum, &amp;
+            <lb ed="#F" n="41"/>quando hoc ipse pernegaret, evidenter experimento convinceretur. ergo
+            <lb ed="#F" n="42"/>pars R. V. non solum habet vim conferendi qualitatem ad B. sed etiam ha¬
+            <!--155.xml-->
+
+         <!--156.xml-->
+         <pb ed="#F" n="137"/>
+               <lb ed="#F" n="1"/>bet vim agendi A. versus, si enim dividamus lapidem, videbimus R. 
+            produ<lb ed="#F" n="2" break="no"/>cere qualitatem A. versus, quae respicit septentrionem. ergo etiam ante 
+            divi<lb ed="#F" n="3" break="no"/>sionem vim habebat agendi ad easdem partes; nec enim fingi potest 
+            divisio<lb ed="#F" n="4" break="no"/>nem, quae physicè mera negatio est, vim hanc illi contulisse: aliud enim est
+            <lb ed="#F" n="5"/>loqui de facie, quae sit meridionalis, vel australis; hoc enim denominationem
+            <lb ed="#F" n="6"/>infert extrinsecam, quae ex divisione nova potest resultare, ut nova resultat
+            <lb ed="#F" n="7"/>relatio ex nova ratione fundandi: aliud est loqui de vi activa physica 
+            agen<lb ed="#F" n="8" break="no"/>tis necessarij; vis enim haec activa non potest, vel poni, vel auferri ex nova
+            <lb ed="#F" n="9"/>divisione solum. si ergo ante divisionem vim habebat agendi, cum sit agens
+            <lb ed="#F" n="10"/>necessarium, tunc etiam agebat; nec enim ullum potest fingi impedimentum,
+            <lb ed="#F" n="11"/>cur tunc non ageret ad illam partem.
+        </p>
+            <p xml:id="p9i7y5-e14440-d1e348">
+               <lb ed="#F" n="12"/>Nam si quid esset, certe esset pars C. A. B. qua ablata statim V. R. 
+            concedi<lb ed="#F" n="13" break="no"/>tur transmittere actionem A, versus; atqui, cum illa pars agat ad easdem 
+            par<lb ed="#F" n="14" break="no"/>tes, &amp; habeat consimilem actionem, potius iuvabit actionem pariis V.R. ad
+            <lb ed="#F" n="15"/>illam partem, quam impediat. Quis enim dixerit, si sint duo agentia apta
+            <lb ed="#F" n="16"/>sibi invicem vires addere, ex eo, quod unum agat, alterum impediri, 
+            quomi<lb ed="#F" n="17" break="no"/>nus suam possit actionem exercere? cum non simus in agentibus totalibus,
+            <lb ed="#F" n="18"/>sed in illis; in quibus ex consortio actionum fit validioractio, &amp; agentia sint
+            <lb ed="#F" n="19"/>necessaria, non libera: magnetica enim posse se invicem in agendo iuvare
+            <lb ed="#F" n="20"/>ex his, quae suo loco dicentur, manifestum fiet. ergo ex eo quod C. A. B. agat
+            <lb ed="#F" n="21"/>A. versus, non debet dici impediri, quominus pars V. R. quae ex sua natura
+            <lb ed="#F" n="22"/>habet vim agendi ad illam partem, tunc temporis agat ad eandem partem,
+            <lb ed="#F" n="23"/>&amp; iungat actionem cum altero, cum possint iungi, &amp; roborari actiones 
+            il<lb ed="#F" n="24" break="no"/>lorum.
+        </p>
+            <p xml:id="p9i7y5-e14440-d1e379">
+               <lb ed="#F" n="25"/>Praeterea à puncto B. producitur qualitas, quae habet vim respiciendi 
+            sep<lb ed="#F" n="26" break="no"/>tentrionem, &amp; non solum respiciendi austrum. ergo in puncto B. ad illam
+            <lb ed="#F" n="27"/>actionem quae ibi fit conspirat non solum pars australis, sed etiam 
+            septen<lb ed="#F" n="28" break="no"/>trionalis. Antecedens sic demonstro. Appone obelum ferreum puncto B.
+            <lb ed="#F" n="29"/>ita ut tantillum temporis stet ibi, &amp; filo medium postea semotum suspendas,
+            <lb ed="#F" n="30"/>senties obelum concepisse vim magneticam, ita ut pars altera faciem 
+            sep<lb ed="#F" n="31" break="no"/>tentrionalem imbiberit altera australem: &amp; tamen solum tetigit punctum
+            <lb ed="#F" n="32"/>B. ipsius terrellae; &amp; in ferro omnia habebis, quae potuisset ex terrella 
+            susci<lb ed="#F" n="33" break="no"/>pere, etiam si tetigisset utrumque polum A. scilicet, &amp; B. licet fortasse, quod
+            <lb ed="#F" n="34"/>ad intensionem, non ita robustam habeat vim, propter rationem, quam mox
+            <lb ed="#F" n="35"/>reddam; &amp; vis infirmior erit illa, quae respicit septentrionem, quae tamen est
+            <lb ed="#F" n="36"/>in B. parte tacta: ergo totus omnino magnes dirigit suas vires ad partes B.
+            <lb ed="#F" n="37"/>cum ibi rotius effectus appareat, &amp; ea producantur, quae à toto possent 
+            us<lb ed="#F" n="38" break="no"/>quam produci.
+        </p>
+            <p xml:id="p9i7y5-e14440-d1e412">
+               <lb ed="#F" n="39"/>Denique contra Gilbertum, talem conficio rationem. Pars C. B. D. in
+            <lb ed="#F" n="40"/>puncto B. robustius, &amp; vehementius agit, si sibi coniunctam habeat partem
+            <lb ed="#F" n="41"/>C. A. D. quam si sit ab illa talis pars separata; quod experimento doctus 
+            pro<lb ed="#F" n="42" break="no"/>nuntio, nec repugnat Gibertus: vehementius enim integer lapis agit in qua¬
+            <!--157.xml-->
+            <pb ed="#F" n="138"/>
+               <lb ed="#F" n="1"/>vis sui parte, quam dimidiatus; alioquin, si non vehementius ageret integer,
+            <lb ed="#F" n="2"/>quam divisus, tantumdem virium haberet ad agendum tantillum lapidis,
+            <lb ed="#F" n="3"/>ut granum milij, atque mons integer magneticus; non igitur tantum agit
+            <lb ed="#F" n="4"/>lapis magneticus palmaris integer in parte australi, quantum ad easdem
+            <lb ed="#F" n="5"/>partes bifariam divisus agit semipalmaris: alioquin sic semper dividendo
+            <lb ed="#F" n="6"/>pervenies ad minutissimam partem, quae semper tantundem virium ad 
+            il<lb ed="#F" n="7" break="no"/>las partes habeat, quantum habebat prius integer lapis. Si ergo 
+            vehemen<lb ed="#F" n="8" break="no"/>tius agit, dum est integer, illi non solum ex medietate illa vires sufficiuntur,
+            <lb ed="#F" n="9"/>quas etiam habet, dum est divisus, sed etiam ex altera parte, quam aufers 
+            di<lb ed="#F" n="10" break="no"/>videndo. totus ergo lapis ad quamlibet partem agit, &amp; non sola medietas.
+            <lb ed="#F" n="11"/>Si enim pars R V. dicatur transmittere actionem B. versus, dum est integer
+            <lb ed="#F" n="12"/>lapis, quo diviso non amplius agat ad illam partem, sed relinquat solum V.
+            <lb ed="#F" n="13"/>B. quaero ego, quodnam positum sit impedimentum parti R. V. ut non agat
+            <lb ed="#F" n="14"/>amplius ad partem B. ad quam prius agebat? Neque dicas apertum esse 
+            o<lb ed="#F" n="15" break="no"/>stium ad R. non enim videntur haec mihi philosophica, sed animi causa 
+            di<lb ed="#F" n="16" break="no"/>cta, nisi sensum, &amp; libertatem in lapide ponas.
+        </p>
+            <p xml:id="p9i7y5-e14440-d1e462">
+               <lb ed="#F" n="17"/>Hoc, quod dico, plus agere integrum lapidem, quam dimediatum sensit
+            <lb ed="#F" n="18"/>etiam Gilbertus, ut dicebam lib. 2. cap. 29. utrum autem verum sit, quod ibi
+            <lb ed="#F" n="19"/>asserit, decrescere virtutem aequaliter per quantitatis, ac molis decrementum,
+            <lb ed="#F" n="20"/>ita ut lapis unius librae attollat ferri libram, pars untialis eiusdem unciam
+            <lb ed="#F" n="21"/>suspendat, si caetera sint paria, &amp; figura consentiat, non possum hoc 
+            experi<lb ed="#F" n="22" break="no"/>mentis à me factis improbare: quia tum propter penuriam efficatioris 
+            ma<lb ed="#F" n="23" break="no"/>gnetis, tum propter defectum artificum, qui huiusmodi lapides elaborent,
+            <lb ed="#F" n="24"/>non potui hac de re experimentum sumere: non tamen huius auctoris 
+            fi<lb ed="#F" n="25" break="no"/>des penes me nutat, quem ferè semper accuratissimum in experimentis 
+            in<lb ed="#F" n="26" break="no"/>veni. Debet autem hoc intelligi, ut dixi, non solum in lapidibus eiusdem
+            <lb ed="#F" n="27"/>virtutis, sed etiam eiusdem figuiae, ut verbi gratia ambo habeant sphaericam
+            <lb ed="#F" n="28"/>figuram, mihi tamen etiam in hoc dubitationes non leves occurrunt.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

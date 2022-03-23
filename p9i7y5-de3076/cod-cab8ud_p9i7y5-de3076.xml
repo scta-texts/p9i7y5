@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 7</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 7</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="25"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-de3076"> <!-- l1c7 -->
+            <head xml:id="p9i7y5-de3076-Hd1e107">Caput 7</head>
+            <p xml:id="p9i7y5-de3076-d1e109">
+               <lb ed="#F" n="32"/>Aliorum opiniones de causa motus magnetis, &amp; magneticorum, quo moventur,
+            <lb ed="#F" n="33"/>ut sua longitudine meridianum obtineat. Caput VII.
+        </p>
+            <p xml:id="p9i7y5-de3076-d1e116">
+               <lb ed="#F" n="34"/>In eorum sententijs ennumerandis, qui magnetici motus 
+            cau<lb ed="#F" n="35" break="no"/>sas inquirunt, ab illis inchoandum duxi, qui hunc altissimè
+            <lb ed="#F" n="36"/>repetunt, ab ipso nimirum Caelo, Caeli'que influentijs; ut 
+            pau<lb ed="#F" n="37" break="no"/>latim ad veram descendamus; horum choragus est Petrus 
+            il<lb ed="#F" n="38" break="no"/>le Peregrinus, de quo proximè inciderat mentio. Hic in eam
+            <lb ed="#F" n="39"/>abijt sententiam, ut putarit in magnete Caeli expressam imaginem, non 
+            ter<lb ed="#F" n="40" break="no"/>rae, ut postea Gilbertus (adeo ea in quibus toti sumus, adamamus, ut ea veli¬
+            <!--44.xml-->
+            <pb ed="#F" n="25"/>
+               <lb ed="#F" n="1"/>mus, si fieri possit, divinitate donare) &amp;, ut magnes duas obtinet facies,
+            <lb ed="#F" n="2"/>quas per sese in sibi similes dirigit polos, ita etiam alias alijs Caeli partibus
+            <lb ed="#F" n="3"/>respondentes magneti inesse putarit, &amp; avidè easdem sequi. Quod ideo 
+            fie<lb ed="#F" n="4" break="no"/>ri putavit, quia, dum cognatis subiacet Caeli partibus, familiarius 
+            excipia<lb ed="#F" n="5" break="no"/>tur, &amp; luculentiores influentiae, maioresque favores in illo situ in magnetem
+            <lb ed="#F" n="6"/>deriventur; atque ideo, ut haec assequatur magnes, eum quaerit situm. Ideo
+            <lb ed="#F" n="7"/>igitur putat partes polares ad polos dirigi; quia illę partes sint polis Caeli 
+            si<lb ed="#F" n="8" break="no"/>miles; &amp; quia poli Caeli stant, non item aliae partes, ideo magnes expeditè
+            <lb ed="#F" n="9"/>potest suis polis Caeli polos invenire, quia quasi firmam habeat domum, &amp;
+            <lb ed="#F" n="10"/>certam sedem; non item alias Caeli partes, quia vagantur, aliae possunt 
+            ma<lb ed="#F" n="11" break="no"/>gnetis partes invenire. Marsilius Ficinus libro tertio de vita caelitus 
+            com<lb ed="#F" n="12" break="no"/>paranda, etiam ipse Caelum conscendit, secum'que magnetem ad 
+            philoso<lb ed="#F" n="13" break="no"/>phandum traxit, atque à stellis minoris Ursae provocari ad polum 
+            magne<lb ed="#F" n="14" break="no"/>tica opinatur, ea ferè ratione, qua sol in se heliotropij frontem convertit,
+            <lb ed="#F" n="15"/>trahit'que sequentem.
+        </p>
+            <p xml:id="p9i7y5-de3076-d1e171">
+               <lb ed="#F" n="16"/>Georgius Agricola libro quinto de natura fossilium, aliam instituit 
+            ra<lb ed="#F" n="17" break="no"/>tionem, nec Icarios ausus tentavit: magnetem ita se dirigere censuit, non
+            <lb ed="#F" n="18"/>quod polos aliamvè Caeli partem amet, sed ut se ad pristinum statum, quem
+            <lb ed="#F" n="19"/>in fodinis obtinebat, restituat. Et haec fortasse illa sententia est, quam 
+            Sca<lb ed="#F" n="20" break="no"/>liger amplectitur exercitatione 131. in Cardanum; quam deinde vir 
+            eru<lb ed="#F" n="21" break="no"/>ditus plurimis verbis exornat, multis in margine subtilitatibus coronat.
+            <lb ed="#F" n="22"/>Fracastorius de antipathia, &amp; sympathia, ab alijs fortasse fictos adamavit
+            <lb ed="#F" n="23"/>montes magneticos hyperboreos, à quibus magnes magneticaque 
+            dirigan<lb ed="#F" n="24" break="no"/>tur; fabulosa quaedam historicè iterum narrans de montibus magneticis,
+            <lb ed="#F" n="25"/>quos orbis catenas appellat, &amp; tanta vi ferrum ad se trahere dicit, ut 
+            praete<lb ed="#F" n="26" break="no"/>teuntes naves aut sistant, aut vi avulsis ferramentis resolvant. Cui rei 
+            mul<lb ed="#F" n="27" break="no"/>torum etiam gravissimorum authoritas propemodum fidem faceret, si 
+            scri<lb ed="#F" n="28" break="no"/>pta se transcribere non profiterentur: nec Maurolicus, vir alioqui eruditus,
+            <lb ed="#F" n="29"/>ab hac longe discedere videtur. Alia quaedam commenta poetantium 
+            phi<lb ed="#F" n="30" break="no"/>losophorum copiosè refert Gilbertus, quae vide apud illum, libro primo, 
+            ca<lb ed="#F" n="31" break="no"/>pite primo.
+        </p>
+            <p xml:id="p9i7y5-de3076-d1e209">
+               <lb ed="#F" n="43" type="fixed=25"/>
+               <figure xml:id="p9i7y5-de3076-Fd1e214">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869768/1422,2648,681,588/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">C A D B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375392-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="32" type="fixed=25"/>Prima harum opinionum in multis, immo in omnibus displicet. &amp; 
+            qui<lb ed="#F" n="33" break="no"/>dem primo si vera esset, non declinarent magnetica ferramenta versorij à
+            <lb ed="#F" n="34"/>vera meridiana linea; quod tamen videmus 
+            con<lb ed="#F" n="35" break="no"/>tingere: nec enim versorium, dum magneticè 
+            di<lb ed="#F" n="36" break="no"/>rigitur, directè aptatur, &amp; congruit cum linea 
+            me<lb ed="#F" n="37" break="no"/>ridiana vera, sed ab ea multum saepè etiam 
+            diver<lb ed="#F" n="38" break="no"/>tit; &amp; quidem inconstanter, ut postea ostendam;
+            <lb ed="#F" n="39"/>dum in una regione plus, in altera minus 
+            diver<lb ed="#F" n="40" break="no"/>tit à meridiano, &amp; alicubi declinat orientem 
+            ver<lb ed="#F" n="41" break="no"/>sus, alibi ad occidentem. Sit pyxidula A. B. cuius
+            <lb ed="#F" n="42"/>media linea C. D. collocetur directè supra lineam
+            <!--44.xml-->
+           
+         <!--45.xml-->
+         <pb ed="#F" n="26"/>
+               <lb ed="#F" n="1"/>meridianam veram, quam aliquo artificio exquisitè invenias, videbis 
+            verso<lb ed="#F" n="2" break="no"/>rium non directè congruere, &amp; imminere lineae meridianae. C. D. sed, hic
+            <lb ed="#F" n="3"/>apud nos, nec solum apud nos, sed in tota ferè Europa, cuspidem à 
+            septen<lb ed="#F" n="4" break="no"/>trione in Eurum declinare, &amp; constantissimè eodem in loco eundem 
+            sem<lb ed="#F" n="5" break="no"/>per deviationis punctum servare, ut exprimitur in figura. Unde sit, ut qui
+            <lb ed="#F" n="6"/>horologia Solaria componunt dirigenda, &amp; accomodanda per magnetem,
+            <lb ed="#F" n="7"/>lineam, cui imminere debet versorium, non pingant in directum cum 
+            li<lb ed="#F" n="8" break="no"/>nea meridiana, sed non nihil in Eurum deflectentem, ut, dum versorium
+            <lb ed="#F" n="9"/>illi imminet, linea horologij meridiana congruat cum vero meridiano.
+            <lb ed="#F" n="10"/>Quod etiam qui pyxides componunt, solent observare aliquando, ut non
+            <lb ed="#F" n="11"/>ferrum directè ponant sub linea, quae in circulo chartaceo septentrionem
+            <lb ed="#F" n="12"/>indicat, sed non nihil ad latus. &amp; haec magnetica declinatio diligenter 
+            no<lb ed="#F" n="13" break="no"/>tanda est, ne mireris, si copiosius de illa infra disputabitur, ubi causam illius
+            <lb ed="#F" n="14"/>tentabimus explorare. Si igitur ad Meridianum disponit se magneticum,
+            <lb ed="#F" n="15"/>quia à polis Caeli dirigitur, ac fovetur amico influxu, cur non recta in 
+            pun<lb ed="#F" n="16" break="no"/>ctum polare collimat;
+        </p>
+            <p xml:id="p9i7y5-de3076-d1e297">
+               <lb ed="#F" n="17"/>Praeterea si magnes ita Caeli traheretur amore, ut varijs sui partibus 
+            va<lb ed="#F" n="18" break="no"/>rias Caeli partes sequeretur, illud etiam videtur futurum, ut, sicuti ferrum,
+            <lb ed="#F" n="19"/>dum magnetis polos tangit, virtutem acquirit ad polos se convertendi, quam
+            <lb ed="#F" n="20"/>scilicet pars tacta in magnete virtutem habet, ita etiam, si alias magnetis
+            <lb ed="#F" n="21"/>tangat partes, vires illas apprehendat, quas habent magnetis partes tactae,
+            <lb ed="#F" n="22"/>se nimirum dirigendi ad hanc vel ad illam Caeli partem; quod tamen 
+            nun<lb ed="#F" n="23" break="no"/>quam apparet. Tange quacunque magnetis parte versorij extrema, nullam
+            <lb ed="#F" n="24"/>aliam viam addiscet versorium quam se ad polos dirigendi, semper eadem
+            <lb ed="#F" n="25"/>declinationis servata lege. tange versorij extremum polo magnetis, ad 
+            po<lb ed="#F" n="26" break="no"/>lum vertitur; tange parte Orientali, idem extremum non ad Orientem, 
+            dis<lb ed="#F" n="27" break="no"/>ponitur, sed nihilominus ad polos recurrit, &amp; sic de qualibet alia parte: ex
+            <lb ed="#F" n="28"/>quo inferre licet, meo iudicio evidenter in re physica, hunc lapidem non
+            <lb ed="#F" n="29"/>aliam virtutem, quam ad polos se dirigendi in tota sua substantia 
+            obtine<lb ed="#F" n="30" break="no"/>re, nec in alia sui parte aliam vim possidere. Adde commentitium hoc 
+            to<lb ed="#F" n="31" break="no"/>tum esse nulla ratione, nullo experimento innixum, ut supra dicebam.
+            <lb ed="#F" n="32"/>Verum fusius, &amp; clarius etiam haec eadem opinio confutata patebit ex 
+            di<lb ed="#F" n="33" break="no"/>cendis infra.
+        </p>
+            <p xml:id="p9i7y5-de3076-d1e336">
+               <lb ed="#F" n="34"/>Nihilo plus veritatis habet illorum opinio, qui huius motus causam in
+            <lb ed="#F" n="35"/>Ursae quaerunt astro, nec magis certum monstravit iter ad Veritatis portum
+            <lb ed="#F" n="36"/>in obscurissimo magneticae naturae pelago hoc sydus. Quod enim haec 
+            opi<lb ed="#F" n="37" break="no"/>nio asserit magnetica ab astro in Ursa posito dirigi, quod peculiaris ab eo
+            <lb ed="#F" n="38"/>virtus in magnetem derivetur, non potest sustineri; primo, quia non 
+            red<lb ed="#F" n="39" break="no"/>dit rationem in illis praecisè, quae dicit, cur magnes hanc partem potius quam
+            <lb ed="#F" n="40"/>aliam polo obvertat: tam enim, si hanc faciem Ursae ostendat, illius 
+            exci<lb ed="#F" n="41" break="no"/>piet influxus, quam si aliam illi oppositam: cum corpus sit homogenium,
+            <lb ed="#F" n="42"/>&amp; in tota substantia eiusdem rationis. quod si excipere debeat determinata
+            <!--46.xml-->
+            <pb ed="#F" n="27"/>
+               <lb ed="#F" n="1"/>via, huius rei reddenda esset ratio.
+        </p>
+            <p xml:id="p9i7y5-de3076-d1e365">
+               <lb ed="#F" n="2"/>Deinde si hoc verum esset, non semper eandem deviationem à polo, &amp; à
+            <lb ed="#F" n="3"/>vera meridiana linea servarent magnetica, dum stant in eodem loco: cum
+            <lb ed="#F" n="4"/>enim stella illa, quaecunque tandem sit, diurna conversione perpetuo circa
+            <lb ed="#F" n="5"/>verum Mundi polum rotetur, cum nulla sit stella, quae praecise, &amp; exactè 
+            po<lb ed="#F" n="6" break="no"/>lum possideat, &amp; quae maximè accedit, distet per tres gradus circiter, si illam
+            <lb ed="#F" n="7"/>sequi debet magnes, constat perpetuo debere variari declinatione: &amp; 
+            qui<lb ed="#F" n="8" break="no"/>dem, cum bis quotidie stella illa circulum meridianum pertranseat, dum
+            <lb ed="#F" n="9"/>supra polum ascendit, &amp; infra eundem devolvitur; ut constabit sphaeram
+            <lb ed="#F" n="10"/>contemplanti (si enim sumas punctum extra polum in sphaera, unica 
+            sphae<lb ed="#F" n="11" break="no"/>rae rotatione videbis bis punctum illud meridiano subesse) cum, inquam, 
+            il<lb ed="#F" n="12" break="no"/>la stella quotidie bis subeat meridianum, etiam versorium, si illam 
+            respice<lb ed="#F" n="13" break="no"/>ret, &amp; ad illam dirigeretur, bis quotidie meridiano vero congrueret, &amp; 
+            se<lb ed="#F" n="14" break="no"/>mel ad dexeram, semel ad sinistram illud deflectere immota pyxide, atque
+            <lb ed="#F" n="15"/>astri motum sequi cerneres. quod sanè optandum esset: sic enim certum, &amp;
+            <lb ed="#F" n="16"/>perpetuum haberemus horologium, in umbra exigua impensa, &amp; motum
+            <lb ed="#F" n="17"/>perpetuum, quem tandiù inquitimus. falsum tamen esse apparet, cum 
+            de<lb ed="#F" n="18" break="no"/>viationem illam, quam semel à meridiano fecit, perpetuo servet 
+            verso<lb ed="#F" n="19" break="no"/>rium.
+        </p>
+            <p xml:id="p9i7y5-de3076-d1e407">
+               <lb ed="#F" n="20"/>Sed quid moror? ex illis, quae inferius dicemus de inclinatione 
+            magne<lb ed="#F" n="21" break="no"/>tica, planum erit, nullum in Caelo punctum, nedum astrum magnetem 
+            re<lb ed="#F" n="22" break="no"/>spicere: si enim aliquod Caeli punctum sequeretur, in ferro magneticè 
+            ex<lb ed="#F" n="23" break="no"/>cito, pars illa, quae vergit ad nostrum polum Arcticum, aequilibrato ferro
+            <lb ed="#F" n="24"/>elevaretur supra horizontem tantum, quanta est exaltatio poli: atqui 
+            con<lb ed="#F" n="25" break="no"/>trarium constat evenire; pars enim septentrionalis in nostra Europa, si 
+            fer<lb ed="#F" n="26" break="no"/>rum sit exactè libratum, praecisè ex vi, &amp; directione magnetica multum 
+            in<lb ed="#F" n="27" break="no"/>fra horizontem deprimitur, sed haec postea fusius.
+        </p>
+            <p xml:id="p9i7y5-de3076-d1e427">
+               <lb ed="#F" n="28"/>Alia sententia, quae asserit magnetem ad polos converti non propter vim
+            <lb ed="#F" n="29"/>astrorum immediatè, sed quia eundem repetit situm, quem in sua vena 
+            ob<lb ed="#F" n="30" break="no"/>tinebat; ita ut quaerenti, cur libratus magnes ita se convertat, respondeat,
+            <lb ed="#F" n="31"/>quia ita se habebat, dum in sua esset vena, haec, inquam, sententia non 
+            om<lb ed="#F" n="32" break="no"/>nino displiceret, si tamen verum esset magnetem ita se convertere, ut 
+            iace<lb ed="#F" n="33" break="no"/>bat, dum esset in vena, &amp; non potius contraria ratione: plus enim lucis 
+            af<lb ed="#F" n="34" break="no"/>ferret ad magnetis naturam penitus pernoscendam. Sed, quae mea est 
+            for<lb ed="#F" n="35" break="no"/>tasse ingenij tarditas, tantundem ex hac sententia novi de magnetica 
+            na<lb ed="#F" n="36" break="no"/>tura, quantum sciebam prius. Si enim quaeram, cur adeo magnes amet
+            <lb ed="#F" n="37"/>eundem situm, quem in sua fodina habebat, &amp; illum studiosè quaerat, &amp;
+            <lb ed="#F" n="38"/>in eo solo quiescat, immò &amp; hunc eundem amorem alijs inspiret, qui tamen
+            <lb ed="#F" n="39"/>in illo situ nati non sunt? ipsi nihil ad hoc respondent, &amp; illud est, quod
+            <lb ed="#F" n="40"/>ego desiderarem summopere: motus enim localis non est sui gratia. atque
+            <lb ed="#F" n="41"/>hinc est, quod nullum intrinsecum habeat terminum, sed sit ad aliquod
+            <lb ed="#F" n="42"/>aliud bonum adducendum, vel inducendum in rem motam; nec ulli rei
+            <!--47.xml-->
+            <pb ed="#F" n="28"/>
+               <lb ed="#F" n="1"/>natura vim inspiravit ad motum localem, praecisè ut moveatur, sed 
+            anima<lb ed="#F" n="2" break="no"/>libus talem contulit vim, ut possint ad cibum accedere, &amp; ad obiecta 
+            sen<lb ed="#F" n="3" break="no"/>suum, quae nimium saepè procul sunt, quae necessitas nisi adfuisset, non illis
+            <lb ed="#F" n="4"/>natura vim se localiter movendi contulisset, ut factum videmus in plantis;
+            <lb ed="#F" n="5"/>quae quia, ubicunque alimentum habent paratum, non se localiter movent,
+            <lb ed="#F" n="6"/>gravibus, &amp; levibus dedit natura motum localem ex praedominante,
+            <lb ed="#F" n="7"/>ut possint à contrarijs, quae in adversis consistunt locis, recedere, &amp; ad 
+            ami<lb ed="#F" n="8" break="no"/>ca, &amp; sibi cognata accedere, ubi facilius conserventur. Quod si astris, &amp;
+            <lb ed="#F" n="9"/>syderibus motum indidit naturae moderator, idest ut illo (quod 
+            philoso<lb ed="#F" n="10" break="no"/>phus etiam aiebat) perpetuam faceret generationem; non ut aliquod ubi
+            <lb ed="#F" n="11"/>intrinsecum assequeretur; &amp; quamvis illud ubi, quod sit modus intrinsecus,
+            <lb ed="#F" n="12"/>per motum acquireretur, non est in re physica intentus modus ille per se se,
+            <lb ed="#F" n="13"/>sed ad aliud rei motae bonum, quam ad modum vis motiva collata. Nec
+            <lb ed="#F" n="14"/>unquam videbis à natura datam esse alicui vim actiuam se movendi 
+            locali<lb ed="#F" n="15" break="no"/>ter, nisi, aut ut sibi bonum aliquod quaerat, quo caret; aut ut recedat à 
+            con<lb ed="#F" n="16" break="no"/>trarijs, ut melius conservetur. Ex quo aliud observa, ideo naturam saltem,
+            <lb ed="#F" n="17"/>ut ego arbitror, Caelo vim non dedisse activam se circulariter movendi, quia
+            <lb ed="#F" n="18"/>motus ille ad ipsius Caeli conservationem, &amp; bonum intrinsecum, quod per
+            <lb ed="#F" n="19"/>motum acquirat, &amp; sit res physica, nihil conducebat; sed quia est praecisè in
+            <lb ed="#F" n="20"/>bonum Mundi sublunaris, ideo assistentem sibi habet intelligentiam 
+            mo<lb ed="#F" n="21" break="no"/>tricem. quod quidem clarissimè ostenderem, si locus exigeret. Quantum
+            <lb ed="#F" n="22"/>vero est ex se, aequè naturaliter movetur, atque quiesceret; &amp; ideo per totam
+            <lb ed="#F" n="23"/>aeternitatem non violenter cessabit à motu; cum solum motum recipiat in
+            <lb ed="#F" n="24"/>bonum aliorum, &amp; non proprium.
+        </p>
+            <p xml:id="p9i7y5-de3076-d1e519">
+               <lb ed="#F" n="25"/>Ex hoc discursu illud colligo: si natura non solum primo magnetem in
+            <lb ed="#F" n="26"/>tali situ produxit, quod casu aliquo factum fortasse suspicetur aliquis; sicuti
+            <lb ed="#F" n="27"/>de reliquis fossilibus opinabitur; sed etiam vim dedit, ut, quoties deturbatur
+            <lb ed="#F" n="28"/>à tali statu, possit se ad illum restituere; id non frustra fecisse dicendum est,
+            <lb ed="#F" n="29"/>sed ideo, quia, sic melius se habet magnes, &amp; magis, prout eius natura 
+            po<lb ed="#F" n="30" break="no"/>stulat, ac facilius se, suaque omnia potest conservare: alioquin, cur non 
+            de<lb ed="#F" n="31" break="no"/>dit etiam alijs lapidibus ac metallis eandem vim, ut si librentur, &amp; quasi à
+            <lb ed="#F" n="32"/>gravitatis mole expediantur, possint se ad eundem situm restituere, in quo
+            <lb ed="#F" n="33"/>primum producta fuere? Quod si solus magnes magneticaque hoc habent,
+            <lb ed="#F" n="34"/>ut possint redire ad nativam positionem, signum evidens est, id illis 
+            pecu<lb ed="#F" n="35" break="no"/>liari quadam ratione prae alijs omnibus prodesse, &amp; ex prima sui 
+            productio<lb ed="#F" n="36" break="no"/>ne aliquid recepisse, quod requirat, ut in tali situ perseverent; hoc autem
+            <lb ed="#F" n="37"/>quid sit inquirimus, &amp; hoc est, quod ego ab eius sententiae autoribus 
+            exige<lb ed="#F" n="38" break="no"/>rem; quid nimirum sit illud, à quo sibi verbi gratia timet magnes, dum non
+            <lb ed="#F" n="39"/>est in tali situ, in quo fuit productus, à quonam auxilium expectet, ut 
+            resti<lb ed="#F" n="40" break="no"/>tuatur ad illum eundem statum à Caelo, an à terra? à toto, an à parte ipsorum?
+            <lb ed="#F" n="41"/>à se ipso, an ab aliquo alio? ipsi vero nihil horum explicant, sed illud solum
+            <lb ed="#F" n="42"/>inculcant: sic natum esse lapidem, tale illius esse ingenium, sic velle consi¬
+            <!--48.xml-->
+            <pb ed="#F" n="29"/>
+               <lb ed="#F" n="1"/>stere. &amp; enim alij etiam lapides sic determinatè nati sunt; &amp; tamen non 
+            a<lb ed="#F" n="2" break="no"/>deo obstinatè eò revertuntur. aliquid ergo plus habet magnes, quod ipsi
+            <lb ed="#F" n="3"/>non dicunt.
+        </p>
+            <p xml:id="p9i7y5-de3076-d1e571">
+               <lb ed="#F" n="4"/>Non possum ergo, nisi aliud adducatur, acquiescere, si rem ipsam, &amp; non
+            <lb ed="#F" n="5"/>sola verba expiscamur, &amp; investigare debemus respectum, quem magnes
+            <lb ed="#F" n="6"/>habet ad certas orbis partes, &amp; qua causa talem quaerat situm, &amp; quid boni illi
+            <lb ed="#F" n="7"/>ex eo situ nascatur. Praeterea non solum magnes, sed etiam ferrum 
+            magne<lb ed="#F" n="8" break="no"/>ticè excitum sese ad polos Mundi convertit, neque ideo sic se disponit 
+            fer<lb ed="#F" n="9" break="no"/>rum, quia in tali situ se habuerit in vena. quod omnino hanc sententiam 
+            in<lb ed="#F" n="10" break="no"/>firmat.
+        </p>
+            <p xml:id="p9i7y5-de3076-d1e589">
+               <lb ed="#F" n="11"/>Denique, ut dicebam, nondum mihi certo constitit utrum magnes in sua
+            <lb ed="#F" n="12"/>vena etiam quo, ad inclinationem (de qua iterum postea sermo erit) 
+            qua<lb ed="#F" n="13" break="no"/>lem acquirit, dum libratur, eundem situm habuerit, &amp; se restituat ad illum
+            <lb ed="#F" n="14"/>eundem situm, quem habebat in sua minera, an potius contraria ratione.
+            <lb ed="#F" n="15"/>nam ipse quidem per me experimentum facere non potui; sed quidam 
+            ami<lb ed="#F" n="16" break="no"/>cus meus, vir sanè eruditus, ad me scripsit, se experimentum fecisse, cum in
+            <lb ed="#F" n="17"/>Ilva insula esset, &amp; curasse excidi magnetem in magna rupe magnetica, 
+            no<lb ed="#F" n="18" break="no"/>tando prius, quaenam puncta, &amp; partes in septentrionem essent conversae,
+            <lb ed="#F" n="19"/>quae nam in austrum, &amp; postea excisum magnetem procul à rupe 
+            suspendis<lb ed="#F" n="20" break="no"/>se; &amp; pars illa excisi magnetis, quae prius in sua vena erat conversa in Septen
+            <lb ed="#F" n="21"/>trionem, iam convertebatur in austrum prorsus contraria ratione, atque erat
+            <lb ed="#F" n="22"/>in sua vena. non ergo ratio, cur magnes moveatur, est, quia velit se 
+            restitue<lb ed="#F" n="23" break="no"/>re ad illum situm, quem habebat in vena, cum prorsus contraria ratione 
+            di<lb ed="#F" n="24" break="no"/>rigatur. alia ergo quaerenda est causa, quae huius istius effectus rationem
+            <lb ed="#F" n="25"/>reddere possit, cur sic contraria ratione dirigantur, atque essent in vena;
+            <lb ed="#F" n="26"/>quod inferius tentabo.
+        </p>
+            <p xml:id="p9i7y5-de3076-d1e626">
+               <lb ed="#F" n="27"/>Alij consultius oculorum iudicium subterfugiunt, &amp; ad procul in polo
+            <lb ed="#F" n="28"/>positas magneticas rupes se recipiunt, ad quas nemo hactenus penetravit:
+            <lb ed="#F" n="29"/>ibique se muniunt, ubi nulli patet accessus, loci confisi munitione, cui 
+            fos<lb ed="#F" n="30" break="no"/>sam faciunt aeternis frigoribus damnata maria; ac proinde nemo potest 
+            il<lb ed="#F" n="31" break="no"/>los oculatus testis redarguere, &amp; de illis rupibus deturbare. non ideo tamen
+            <lb ed="#F" n="32"/>assentior, nec in illorum venire audeo sententiam: terret enim me horridus
+            <lb ed="#F" n="33"/>rupium aspectus, nec acquiescerem, nisi fortasse illis, quas subdam, 
+            rationi<lb ed="#F" n="34" break="no"/>bus satisfacerent; quod non facerent. Primo, eadem facilitate ingens, &amp;
+            <lb ed="#F" n="35"/>gravissimus magnes in polos convertitur, qua tenuissimum ferri filum; 
+            er<lb ed="#F" n="36" break="no"/>go non ab externo motore ad polos provocatur, sed ab interno; externus
+            <lb ed="#F" n="37"/>enim motor eò facilius, &amp; promptius movet, quò mobile facilius 
+            incita<lb ed="#F" n="38" break="no"/>tur, quomodocunque moveat, sivè per qualitatem, sivè alia ratione. facilius
+            <lb ed="#F" n="39"/>idem venti turbo paleam propellit, quam ingentem onerariam. si ergo illa
+            <lb ed="#F" n="40"/>somniatae rupes traherent magneticum; eo vehementius, &amp; celerius 
+            trahe<lb ed="#F" n="41" break="no"/>ent, quo facilius res sequeretur; verum, cum experimentum contrarium
+            <lb ed="#F" n="42"/>ostendat, conficitur, non ab externis rupibus, sed ab interna vi magneti¬
+            <!--49.xml-->
+            <pb ed="#F" n="30"/>
+               <lb ed="#F" n="1"/>cum dirigi; quae scilicet vis non mole gravatur, nec praepeditur, sed paribus
+            <lb ed="#F" n="2"/>cum corpore crescit incrementis, &amp; in minore minor, in maiore maior etiam
+            <lb ed="#F" n="3"/>existit, non intensione, sed magnitudine. sic videas, quò majus est corpus
+            <lb ed="#F" n="4"/>grave, non ideo lentius descendere, sed aequali velocitate cum parvo 
+            eius<lb ed="#F" n="5" break="no"/>dem speciei, &amp; prorsus eandem servant cum mole virtutes motrices 
+            ratio<lb ed="#F" n="6" break="no"/>nem. Sume pilam plumbeam magnam quattuor, aut sex librarum: sume
+            <lb ed="#F" n="7"/>parvam qualem ordinarij sclopi solent explodere: utramque, magnam 
+            sci<lb ed="#F" n="8" break="no"/>licet, &amp; parvam simul ex edita turri deijce, videbis, quod ipse sum 
+            exper<lb ed="#F" n="9" break="no"/>tus, non unam citius alia descendere, nec magnam parvam praevertere, sed
+            <lb ed="#F" n="10"/>aequali momento ad metam appellere, &amp; eodem temporis articulo ad 
+            ter<lb ed="#F" n="11" break="no"/>ras allidi: quia, quod in magna pila facit magnum pondus, in parva facit
+            <lb ed="#F" n="12"/>exiguum. verum cum externus motor non crescat crescente mole illius,
+            <lb ed="#F" n="13"/>quod movetur, &amp; motor ille ex se determinatam habeat movendi vim, quò
+            <lb ed="#F" n="14"/>minoris erit ponderis mobile, sive magis expeditum ad motum 
+            excipien<lb ed="#F" n="15" break="no"/>dum, magis virtus motoris excedet supra resistentiam, ac proinde facilius,
+            <lb ed="#F" n="16"/>ac velocius incitabit: in hoc enim formaliter, &amp; praecisè, ut alibi 
+            demon<lb ed="#F" n="17" break="no"/>stravi, consistit facilitas, in excessu virtutis agentis supra resistentiam passi.
+            <lb ed="#F" n="18"/>Deinde, nisi aliud esset, quo dirigerentur magnetica, quam rupes illae, &amp;
+            <lb ed="#F" n="19"/>nullum esset in corpore magnetico intrinsecum movens, quo active ipsum
+            <lb ed="#F" n="20"/>se ipsum dirigeret, &amp; tali pacto conformaret, aequaliter propemodum 
+            fer<lb ed="#F" n="21" break="no"/>ramenta magneticè excita, atque non excita dirigerentur: videmus enim
+            <lb ed="#F" n="22"/>hic nos magnetem ferè aequaliter ad se provocare, &amp; dirigere ferrum, &amp; 
+            ex<lb ed="#F" n="23" break="no"/>citum, &amp; non excitum: quamvis enim, ut suo loco dicetur, etiam hic 
+            inter<lb ed="#F" n="24" break="no"/>nus sit in ferro illo motor, &amp; director; tamen, quia externa illa vis 
+            proxi<lb ed="#F" n="25" break="no"/>ma, &amp; efficacissima est, ita ut violenter quasi ferrum rapere videatur, non
+            <lb ed="#F" n="26"/>cernitur illud discrimen, quamvis revera adsit, quod pari ratione fieret, si
+            <lb ed="#F" n="27"/>rupes illae magneticae tanquam extrinsecus solum motor ferrum, &amp; 
+            magne<lb ed="#F" n="28" break="no"/>tem sic dirigeret. Quod si internam, etiam causam motus in corpore 
+            mo<lb ed="#F" n="29" break="no"/>to agnoscit haec opinio, quae provocetur ab illis rupibus, hanc inquirimus,
+            <lb ed="#F" n="30"/>&amp; explicari desideramus, quod tamen, etiam si obtinerem, non 
+            acquiesce<lb ed="#F" n="31" break="no"/>rem: adhuc enim ubique gentium illae rupes aequaliter hanc vim non 
+            ex<lb ed="#F" n="32" break="no"/>pergisci facerent in polis solum constitutae, nec provocarent magnetica;
+            <lb ed="#F" n="33"/>unde sic arguo tertio.
+        </p>
+            <p xml:id="p9i7y5-de3076-d1e739">
+               <lb ed="#F" n="34"/>Si trahuntur magnetica à rupibus Borealibus, quo magis quis ab illis, &amp;
+            <lb ed="#F" n="35"/>à polo Boreali recedit, eo lentius dirigetur, quo enim magis ab agente 
+            mo<lb ed="#F" n="36" break="no"/>vente quis recedit, eò vires ad motum languescunt magis, &amp; concidunt;
+            <lb ed="#F" n="37"/>sphęra enim activitatis uniformiter diformiter decrescit. atqui pariter circa
+            <lb ed="#F" n="38"/>aequatorem moventur pyxides nauticae, nec minori efficacia diriguntur in
+            <lb ed="#F" n="39"/>partibus australibus, seù aequatoris, atque in Borealibus; imo, ut alibi 
+            de<lb ed="#F" n="40" break="no"/>monstrabo, efficacius ad meridianum se disponere videntur magnetica,
+            <lb ed="#F" n="41"/>dum procul sunt à polis, quam prope polum ipsum cernantur. ergo non
+            <lb ed="#F" n="42"/>trahuntur à rupibus existentibus in polis.
+        </p>
+            <p xml:id="p9i7y5-de3076-d1e761">
+            <!--50.xml-->
+               <pb ed="#F" n="31"/>
+               <lb ed="#F" n="1"/>Denique ut magnetica librata dirigerentur in polum arcticum à 
+            confi<lb ed="#F" n="2" break="no"/>ctis rupibus; à quanam vi tot magneticae venae, quae ubique terrarum 
+            exi<lb ed="#F" n="3" break="no"/>stunt, in polos diriguntur? ut enim testatur Gilbertus libro tertio, capite 
+            se<lb ed="#F" n="4" break="no"/>cundo, magnes dum in sua vena est, ita iacet prorsus, ut, dum avulsa vena in
+            <lb ed="#F" n="5"/>cymbula aquis imponitur, iterum se restituat, ut dicit se observasse in 
+            ma<lb ed="#F" n="6" break="no"/>gno magnete viginti librarum pondo, &amp; observasse prius, ac notasse 
+            termi<lb ed="#F" n="7" break="no"/>nos illius, quibus polos respiciebat, dum erat in vena, tum excidi curasse, &amp;
+            <lb ed="#F" n="8"/>erutum in cymbam super aquas collocasse, atque illicò facies, quae 
+            septen<lb ed="#F" n="9" break="no"/>trionem in minera spectabant, in septentrionem se convertisse, &amp; in eo 
+            so<lb ed="#F" n="10" break="no"/>tum puncto conquieuisse. Sic ille; quamvis meus ille amicus, cui multum
+            <lb ed="#F" n="11"/>tribuo, contrarium se expertum dicat, quicquid tamen sit, sive frustum 
+            ma<lb ed="#F" n="12" break="no"/>gnetis excisum à vena collocet se in eodem situ, sive in opposito; semper 
+            ta<lb ed="#F" n="13" break="no"/>men constat eadem longitudine meridianam lineam occupare; si ergo in
+            <lb ed="#F" n="14"/>solis illis rupibus, quae in extremis polis sunt, magnetica vis inest, &amp; illę 
+            so<lb ed="#F" n="15" break="no"/>lum agunt, nec alibi est vis activa, &amp; directiva magneticorum, nisi in illis
+            <lb ed="#F" n="16"/>extremis rupibus, si postquam excisus est magnes, in septentrionem à 
+            rupi<lb ed="#F" n="17" break="no"/>bus dirigitur, à quonam dirigebatur antea in ipsa vena? Enim verò 
+            poten<lb ed="#F" n="18" break="no"/>tes sunt rupes illae, &amp; quolibet conficto Amphione potentiores, si vel ipsos
+            <lb ed="#F" n="19"/>possunt lapidosos montes, &amp; saxeas rupes in sinu Arabico, in media Africa,
+            <lb ed="#F" n="20"/>in Ethiopiae visceribus cogere, ut sibi famulentur, imperiumque ferant. Sed
+            <lb ed="#F" n="21"/>quid pluribus utor, ut fictum subuertam hostem? naestultus ego sim, si 
+            ve<lb ed="#F" n="22" break="no"/>lim cum umbra digladiari. Non possunt istae rupes subverti, quia nusquam
+            <lb ed="#F" n="23"/>ractarit. Huius sententiam cum alijs connumerare nolui,
+            <lb ed="#F" n="24"/>sunt; nec impugnari, quòd opugnationem excipere nequeant.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

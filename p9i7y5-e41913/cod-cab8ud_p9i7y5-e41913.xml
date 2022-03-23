@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 38</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 38</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="394"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e41913"> <!-- l4c38 -->
+            <head xml:id="p9i7y5-e41913-Hd1e107">Caput 38</head>
+            <p xml:id="p9i7y5-e41913-d1e109">
+               <lb ed="#F" n="4"/>Polus magnetis, qui in Septentrionem dirigitur in nostro hemisphaerio, maiorem ferri 
+            quan<lb ed="#F" n="5" break="no"/>titatem suspendit, quam polus ille, qui dirigitur in austrum. Cap. XXXVIII.
+        </p>
+            <p xml:id="p9i7y5-e41913-d1e116">
+               <lb ed="#F" n="6"/>Ex doctrina proxime tradita facile redditur ratio huius, quod
+            <lb ed="#F" n="7"/>hic proponitur; quod sane singulare est, &amp; notatu dignum, ut
+            <lb ed="#F" n="8"/>quod maxime: ex quo fortasse aliqui occasionem sumere potuis
+            <lb ed="#F" n="9"/>sent putandi magnetem solum in polo, qui in Septentrionem
+            <lb ed="#F" n="10"/>convertitur, vim habere magneticam; si tamen haec fuit 
+            erro<lb ed="#F" n="11" break="no"/>ris causa, quia vere subtiliter nimis rem rimati essent. Dico igitur polum
+            <lb ed="#F" n="12"/>illum magnetis, qui suspenso lapide seu aquis imposito ditigitur in 
+            Septen<lb ed="#F" n="13" break="no"/>trionem, maiorem ferri quantitatem ex se suspendere, quam alter polus. Non
+            <lb ed="#F" n="14"/>est hoc discrimen valde exaggeratum, &amp; diligentem requirit observatorem;
+            <lb ed="#F" n="15"/>si quis tamen paulo in hac philosophia sit oculatior, non obscure deprehen
+            <lb ed="#F" n="16"/>det. Ratio vero clarissima ex proxime dictis hoc suadet. Totus telluris 
+            glo<lb ed="#F" n="17" break="no"/>bus, ut alibi demonstratum est, magneticus est, &amp; magneticam habet 
+            actio<lb ed="#F" n="18" break="no"/>nem in proportionata corpora, idem ergo erit magneti magnetem 
+            conve<lb ed="#F" n="19" break="no"/>nienter adiungere, atque adiungere magneti convenienter totum telluris
+            <lb ed="#F" n="20"/>globum, sed cum magnes adiungitur magneti infra ferrum, suspensum 
+            con<lb ed="#F" n="21" break="no"/>venienti polo roboratur magnes, ut efficacius ferrum suspendat, videlicet, ut
+            <lb ed="#F" n="22"/>ferrum illud suspendat, quod prius suspendere non poterat, sicuti quando
+            <lb ed="#F" n="23"/>additur contraria ratione, &amp; inconvenienti polo laeditur: ergo etiam cum
+            <lb ed="#F" n="24"/>totus telluris globus quodammodo magneti adiungitur convenienti polo
+            <lb ed="#F" n="25"/>infra ferrum suspensum ex magnete, roborabitur vis magnetica ad 
+            suspen<lb ed="#F" n="26" break="no"/>dendum ferrum, videlicet illud sustinebit, quod alioquin sustinere non 
+            pos<lb ed="#F" n="27" break="no"/>set: &amp; è contrario, si adiungatur infra ferrum, quod à magnete dependet, 
+            tel<lb ed="#F" n="28" break="no"/>luris globus opposita ratione, atque postulet natura magnetis, lędetur eius
+            <lb ed="#F" n="29"/>actio, &amp; infirmabitur vis ad sustentandum ferrum, sed cum ferrum pendet
+            <lb ed="#F" n="30"/>ex polo magnetis, qui dirigitur in Septentrionem, tunc infra ferrum 
+            intelli<lb ed="#F" n="31" break="no"/>gitur adiuncta telluris moles convenienti ratione ad magnetem, cum vero
+            <lb ed="#F" n="32"/>pendet ferrum ex polo, in austrum se dirigente, hic in nostro hemisphaerio,
+            <lb ed="#F" n="33"/>actio magnetica telluris, intelligitur accidere magneti opposita ratione, 
+            at<lb ed="#F" n="34" break="no"/>que postulet actio ipsius magnetis: ergo in isto secundo casulaeditur vis 
+            ma<lb ed="#F" n="35" break="no"/>gnetica ad sustinendum ferrum, in primo casu iuvatur: ergo magnes ex isto
+            <lb ed="#F" n="36"/>videlicet auxilio, vel damno totius telluris plus suspendet ferri in polo Septen
+            <lb ed="#F" n="37"/>trionem respiciente, quam in australi.
+        </p>
+            <p xml:id="p9i7y5-e41913-d1e188">
+               <lb ed="#F" n="38"/>Quod vero hoc subsumptum verum sit, sic rem oculis quantum possum,
+            <lb ed="#F" n="39"/>subijcio quotiescunque duo corpora magnetica libere aequilibrata, vel
+            <lb ed="#F" n="40"/>saltem alterum illorum liberam habet conversionem, se determinata ratio¬
+            <!--413.xml-->
+            <pb ed="#F" n="394"/>
+               <lb ed="#F" n="1"/>ne convertunt, &amp; determinatis partibus coniunguntur, erunt illa duo 
+            cor<lb ed="#F" n="2" break="no"/>pota convenienter disposita, ut sibi invicem opem ferant, si inter illa duo 
+            cor<lb ed="#F" n="3" break="no"/>pora interponatur ferrum. Si enim illa duo corpora magnetica ea se 
+            ratio<lb ed="#F" n="4" break="no"/>ne disponunt natura moderante, constat quod illorum magnetica actio 
+            u<lb ed="#F" n="5" break="no"/>nius ad alterum conformis est, &amp; conformiter posita ita sit convenienti 
+            tra<lb ed="#F" n="6" break="no"/>ctu fluat virtus ab extremo unius ad extremum alterius oppositum: ergo, si
+            <lb ed="#F" n="7"/>etiam interponatur ferrum, in illo ferro erit actio illorum duorum 
+            magne<lb ed="#F" n="8" break="no"/>ticorum, &amp; quidem conformiter utraque altera ad alteram, itaut conspirent
+            <lb ed="#F" n="9"/>ad eandem vim. Contra vero, si inter illa extrema magneticorum, quae se
+            <lb ed="#F" n="10"/>fugiunt, interponatur ferrum, quia illae actiones illorum extremorum sunt
+            <lb ed="#F" n="11"/>adversa sibi ratione dispositę, &amp; ideo etiam ipsa extrema se fugiunt, si 
+            obver<lb ed="#F" n="12" break="no"/>tantur ad invicem illa extrema, vim inferendo naturae, si interponatur ferrum
+            <lb ed="#F" n="13"/>pariter inter illa extrema sic pugnantia contrarias inspirabunt qualitates, &amp;
+            <lb ed="#F" n="14"/>quod alterum producet, alterum destruet, &amp; ita non solum non sibi opem fe
+            <lb ed="#F" n="15"/>rent, sed invicem pugnabunt. &amp; alterum alterius actionem impediet. Cum
+            <lb ed="#F" n="16"/>ergo inter partem illam magnetis, quae in Septentrionem convertitur, &amp; 
+            in<lb ed="#F" n="17" break="no"/>ter ipsum Septentrionem telluris, ponitur ferrum; quia illae partes natura im
+            <lb ed="#F" n="18"/>perante sic diriguntur, necessario habent ad invicem mutuam, ac iuvantem
+            <lb ed="#F" n="19"/>actionem: iuvabunt ergo etiam, se ad sustinendum ferrum, &amp; telluris globus
+            <lb ed="#F" n="20"/>vires augebit magnetis, dum in illum actionem immittit convenienter, &amp;
+            <lb ed="#F" n="21"/>convenienter positam, ut plus ferri sustineat. Cum vero terram versus 
+            ob<lb ed="#F" n="22" break="no"/>vertitur in hoc eodem nostro hemisphaerio, pars illa magnetis, quae naturae
+            <lb ed="#F" n="23"/>imperio dirigeretur in Austrum, quia tunc habent actiones magnes, &amp; 
+            tel<lb ed="#F" n="24" break="no"/>lus contraria ratione positas, &amp; se mutuo insectantes, hinc enim est, ut si 
+            ma<lb ed="#F" n="25" break="no"/>gnes liberum habeat motum, refugiat ab illo situ, &amp; collocatione, ut quę na
+            <lb ed="#F" n="26"/>turae adversatur, si inter illa duo extrema sic disposita interponatur ferrum,
+            <lb ed="#F" n="27"/>laedetur ab actione telluris actio magnetis, &amp; ita minorem ferri molem 
+            po<lb ed="#F" n="28" break="no"/>terit sustentare.
+        </p>
+            <p xml:id="p9i7y5-e41913-d1e263">
+               <lb ed="#F" n="29"/>Sit magnes A. B. dirigatur B. prius in Septentrionem A. in Austrum: sit tel
+            <lb ed="#F" n="30"/>lus C. D: C. sit polus Septentrionalis D. Australis: si inter A. B. &amp; C. D. 
+            interpo<lb ed="#F" n="31" break="no"/>natur ferrum E. magnes in ferrum ex B:C. versus immittit vim se converten
+            <lb ed="#F" n="32"/>di in Septentrionem, ex dictis supra: similiter globus telluris in toto hemisphę¬
+            <lb ed="#F" n="33"/>rio G. E. F inspirabit in ferrum, quod in eius super ficie erigitur, virtutem ma
+            <lb ed="#F" n="34"/>gneticam, in parte inferiori se convertendi ad Septentrionem in superiori
+            <lb ed="#F" n="35"/>in Austrum ergo in idem ferrum E. &amp; magnes, &amp; tellus simul agunt 
+            magne<lb ed="#F" n="36" break="no"/>tice, eodem modo, &amp; immittunt qualitatem magneticam excurrentem 
+            eo<lb ed="#F" n="37" break="no"/>dem modo, cum sint magnetica corpora convenienter disposita ad idem 
+            fer<lb ed="#F" n="38" break="no"/>rum; ergo tellus iuvabit magnetem ad sustinendum ferrum. Magnes 
+            igi<lb ed="#F" n="39" break="no"/>tur ex polo, qui convertitur in Septentrionem plus ferri sustinebit in nostro
+            <lb ed="#F" n="40"/>hemisphaerio, quod erat demonstrandum. Eodem modo ostendam ex 
+            po<lb ed="#F" n="41" break="no"/>lo B. si sit ille, qui convertitur, in Austrum, &amp; obvertatur terram versus, 
+            mi<lb ed="#F" n="42" break="no"/>norem ferri quantitatem sustineri, &amp; laedi eius actionem magneticam ex 
+            to<lb ed="#F" n="43" break="no"/>to telluris globo.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

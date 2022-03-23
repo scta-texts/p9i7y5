@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 15</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 15</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="319"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e34141"> <!-- l4c15 -->
+            <head xml:id="p9i7y5-e34141-Hd1e107">Caput 15</head>
+            <p xml:id="p9i7y5-e34141-d1e109">
+               <lb ed="#F" n="26"/>Si pendeant ex eodem polo magnetis duo obeli, ex impulsu unius alter etiam impellitur;
+            <lb ed="#F" n="27"/>etiam si non tangatur: &amp; si pendeant ex filo duplici supra eundem
+            <lb ed="#F" n="28"/>polum, ab invicem utroque extremo discedunt.
+            <lb ed="#F" n="29"/>Cap. XV.
+        </p>
+            <p xml:id="p9i7y5-e34141-d1e120">
+               <lb ed="#F" n="41" type="fixed=318"/>
+               <figure xml:id="p9i7y5-e34141-Fd1e125">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870061/1183,2704,1219,628/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">B A C D</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375843-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="30" type="fixed=318"/>Sit magnes A. B. supra cuius polum A, iungantur duo ferrei obeli A. C. A.
+            <lb ed="#F" n="31"/>D. concurrent quidem in A. ibique iungentur duae illae extremitates, dum
+            <lb ed="#F" n="32"/>adhaerent ipsi A. at 
+            ve<lb ed="#F" n="33" break="no"/>ro duo alia extrema C.
+            <lb ed="#F" n="34"/>D. ab invicem 
+            disce<lb ed="#F" n="35" break="no"/>dent, &amp; ita 
+            pertinaci<lb ed="#F" n="36" break="no"/>ter divaricabuntur, ut,
+            <lb ed="#F" n="37"/>si tentes coniungere,
+            <lb ed="#F" n="38"/>omnino repugnent. Si
+            <lb ed="#F" n="39"/>enim partem D. 
+            impel<lb ed="#F" n="40" break="no"/>las C. versus, etiam si so¬
+            <!--337.xml-->
+
+         <!--338.xml-->
+         <pb ed="#F" n="319"/>
+               <lb ed="#F" n="1"/>lum D. impellas, tamen etiam C. refugiet, ac si impelleretur; &amp; si pergas 
+            ur<lb ed="#F" n="2" break="no"/>gere D. ad C. mira corporis declinatione subterfugiet, &amp; furtivè subibit 
+            lo<lb ed="#F" n="3" break="no"/>cum, in quo prius erat ipsum D. Verum quidem est, quod, si obeli sint recti,
+            <lb ed="#F" n="4"/>ut si sint duo acus, si non alteram solam iungas ad alteram, sed utranque 
+            si<lb ed="#F" n="5" break="no"/>mul stringas, &amp; utrunque extremum C. &amp; D. apprehendas, &amp; vim 
+            inferen<lb ed="#F" n="6" break="no"/>do coniungas, tandem coniungentur, atque ita coniungentur, ut non amplius
+            <lb ed="#F" n="7"/>velint ab invicem discedere: &amp;, quidquid dicat Gilbertus, hoc tandem 
+            con<lb ed="#F" n="8" break="no"/>tinget, &amp; in longiori, &amp; in breviori obelo. licet verè difficilius breviores 
+            co<lb ed="#F" n="9" break="no"/>pulentur. Iucundum hoc spectaculum poterit quisque sibi exhibere.
+        </p>
+            <p xml:id="p9i7y5-e34141-d1e193">
+               <lb ed="#F" n="10"/>Ratio etiam in promptu est suppositis ijs, quae supra demonstravimus: 
+            si<lb ed="#F" n="11" break="no"/>cut enim extrema illa, quae iunguntur ad A. ambo eandem acquirunt 
+            verti<lb ed="#F" n="12" break="no"/>citatem, &amp; vim se convertendi ad eandem universi partem, ita etiam facies
+            <lb ed="#F" n="13"/>oppositae C. D eandem acquirunt magnetis faciem. cum autem supra proba
+            <lb ed="#F" n="14"/>tum sit similes facies in magneticis corporibus se devitare ex rationibus 
+            su<lb ed="#F" n="15" break="no"/>pra positis, non est mirum, quod, dum impellitur D ad C. quae sunt facies similes
+            <lb ed="#F" n="16"/>D. fugiat, &amp; quantum potest, ab illo declinet. Quia autem obelus, quantum
+            <lb ed="#F" n="17"/>potest, vult se accommodare ad radium robustissimum, qui ex A. 
+            propaga<lb ed="#F" n="18" break="no"/>tur, ut est ille, qui ex axe B. A. in directum protenditur; ideo si pergas urgere
+            <lb ed="#F" n="19"/>D. ad C. ne cogatur se supra magnetem ad eius longitudinem extendere, 
+            de<lb ed="#F" n="20" break="no"/>clinando occursum divertet ad locum, in quo erat A. D. si autem vi 
+            coniun<lb ed="#F" n="21" break="no"/>gas, coniunguntur, quia non iam amplius habent rationem duorum 
+            ma<lb ed="#F" n="22" break="no"/>gneticorum, quorum unum agat in alterum, sed ex eo, quod nihil inter illos
+            <lb ed="#F" n="23"/>mediet, iam habent rationem unius; &amp; utrunque collatis viribus iam 
+            age<lb ed="#F" n="24" break="no"/>ret in tertium, si adesset, nec amplius ab invicem discedunt cessante priore
+            <lb ed="#F" n="25"/>causa, quae erat ut devitarent actionem unius in alterum. iam vero amplius
+            <lb ed="#F" n="26"/>magnetice non est unum, &amp; alterum.
+        </p>
+            <p xml:id="p9i7y5-e34141-d1e233">
+               <lb ed="#F" n="27"/>Si vero filo appensi obeli supra lapidis polum suspendantur, tunc non ef
+            <lb ed="#F" n="28"/>formantur mihi quidem ea ratione, qua illos exhibet spectandos Gilbertus
+            <lb ed="#F" n="29"/>lib. 3. cap. 8. quasi vero ex parte superiori, qua ex filo dependent, coeant, &amp;
+            <lb ed="#F" n="30"/>in inferiori, quae ad lapidem est, discedant ab invicem, sed totis discedunt
+            <lb ed="#F" n="31"/>limitibus, ut vides; immo, si qua extremitas magis coniungitur, ea est 
+            infe<lb ed="#F" n="32" break="no"/>rior potius, quam superior; quia alibi, ut dictum est, inferiora extrema 
+            cogun<lb ed="#F" n="33" break="no"/>tur, ut ab eodem puncto verticitatem eandem excipiant. &amp; quia efficacior
+            <lb ed="#F" n="34"/>est illa magnetis actio ibi in illo extremo, quam mutua obelorum pugna,
+            <lb ed="#F" n="35"/>ideo potius in illa extremitate iunguntur, quam in opposita: utraque tamen
+            <lb ed="#F" n="36"/>extrema, ut dixi, dissentiunt, quod hic exprimo; illud solum non admitto
+            <lb ed="#F" n="37"/>in parte superiori convenire, nisi sorte ex accidente si filum ex quo pendent
+            <lb ed="#F" n="38"/>esset nimis breve. Hoc autem ex eo contingit, quia utrunque extremum
+            <lb ed="#F" n="39"/>tunc liberum habet motum; quia nec magneti adhaerent, ex cuius 
+            adhae<lb ed="#F" n="40" break="no"/>rentia in priori casu retinebantur; nec mole alia extrema à motu 
+            retardan<lb ed="#F" n="41" break="no"/>tur: pendent enim liberè ex filo: ex quo fit ut quolibet vel minimo impel¬
+            <!--339.xml-->
+            <pb ed="#F" n="320"/>
+               <lb ed="#F" n="1"/>lente possint agitari. utrunque 
+            igi<lb ed="#F" n="2" break="no"/>tur extremum ex eadem ratione ab 
+            in<lb ed="#F" n="3" break="no"/>vicem divertit.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

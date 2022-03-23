@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="6"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-d1e866"> <!-- l1c3 -->
+            <head xml:id="p9i7y5-d1e866-Hd1e107">Caput 3</head>
+            <p xml:id="p9i7y5-d1e866-d1e109">
+               <lb ed="#F" n="27"/>De duplici magnetis, ac magneticorum facie, qua ad polos convertitur.
+            
+            <lb ed="#F" n="28"/>Caput Tertium.
+        </p>
+            <p xml:id="p9i7y5-d1e866-d1e116">
+               <lb ed="#F" n="29"/>Rem ipsam in primis propono, ut illa cognita causam, &amp; 
+            liben<lb ed="#F" n="30" break="no"/>tius, &amp; avidius inquiramus; ne in mentem veniat suspicari 
+            cau<lb ed="#F" n="31" break="no"/>sam nos quaerere de re dubia, si non falsa. In primis igitur 
+            il<lb ed="#F" n="32" break="no"/>lud pronuntio non solum magnetem, sed omnia magnetica
+            <lb ed="#F" n="33"/>corpora, quae magnetis naturam vel aemulantur, vel induunt, quod ex 
+            il<lb ed="#F" n="34" break="no"/>ius commercio, &amp; contactu virtutem illius in se possint derivare, omnia,
+            <lb ed="#F" n="35"/>inquam, ista eam habere vim, ut in polos Mundi suopte ingenio utcunque
+            <lb ed="#F" n="36"/>dirigantur, quocunque tandem in loco collocentur; dummodo naturae
+            <lb ed="#F" n="37"/>possint sequi imperium, nec mole praepediantur sua; atque ita se ad polos
+            <lb ed="#F" n="38"/>ditigere, ut semper sui determinatam partem in Septentrionem dirigant,
+            <lb ed="#F" n="39"/>oppositam in Austrum. Nos rem ipsam oculis prius subijciamus, ut 
+            cogni<lb ed="#F" n="40" break="no"/>to an sit, ex philosophi praecepto, ad indagandum propter quid, gradum
+            <!--25.xml-->
+            <pb ed="#F" n="6"/>
+               <lb ed="#F" n="1"/>
+               <!--line error-->
+               <lb ed="#F" n="2"/>commodè faciamus. Summè 
+            la<lb ed="#F" n="3" break="no"/>pidem magnetem A. B. C. D. &amp;
+            <lb ed="#F" n="4"/>funiculo non contorto, sed 
+            exfi<lb ed="#F" n="5" break="no"/>lis compacto, ac contexto ita 
+            su<lb ed="#F" n="6" break="no"/>spendito ex C. D. ut libretur 
+            pos<lb ed="#F" n="7" break="no"/>sit'que se facilè in quam malverit
+            <lb ed="#F" n="8"/>partem convertere, videbis enim
+            <lb ed="#F" n="9"/>partem B. verbi gratia in E. 
+            po<lb ed="#F" n="10" break="no"/>lum Septentrionalem dirigi, &amp; par
+            <lb ed="#F" n="11"/>tem, A, respicere polum 
+            Austra<lb ed="#F" n="12" break="no"/>lem F. quod si primum B. 
+            con<lb ed="#F" n="13" break="no"/>quieverit in E. etiam si simel 
+            ite<lb ed="#F" n="14" break="no"/>rum, ac tertio deturbes, &amp; B. 
+            con<lb ed="#F" n="15" break="no"/>vertas ad aliam partem, redibit
+          <lb ed="#F" n="16"/>tamen semper ad E. 
+            constantissi<lb ed="#F" n="17" break="no"/>me, nec unquam errore 
+            decipie<lb ed="#F" n="18" break="no"/>tur, aut casu alias sedes 
+            occupa<lb ed="#F" n="19" break="no"/>bit; &amp;, nisi vi detineatur, ubi 
+            pri<lb ed="#F" n="20" break="no"/>mum sibi relictus erit, redibit ad antiquum locum.
+            <lb ed="#F" n="44" type="fixed=6"/>
+               <figure xml:id="p9i7y5-d1e866-Fd1e197">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869749/1300,355,1039,1105/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A F C B E D</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375363-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-d1e866-d1e215">
+               <lb ed="#F" n="21" type="fixed=6"/>Ex isto experimento iam omnibus noto conficitur, duas esse veluti 
+            par<lb ed="#F" n="22" break="no"/>tes in lapide magnete non quidem partes molis, aut quantitatis sed 
+            dire<lb ed="#F" n="23" break="no"/>ctionis, &amp; virtutis, quarum altera in Septentrionem dirigitur, altera in 
+            Au<lb ed="#F" n="24" break="no"/>strum: vel potius unicam esse virtutem in lapide ita se disponendi, ut 
+            Me<lb ed="#F" n="25" break="no"/>ridionalem lineam obtineat, vel ab ea non multum exorbitet, quam ideo
+            <lb ed="#F" n="26"/>duplicem appellamus, quia non vagè, &amp; nullo servato partium discrimine
+            <lb ed="#F" n="27"/>in Meridiana linea se collocare dicitur, sed hoc ita praestat, ut perpetuo pars
+            <lb ed="#F" n="28"/>B. in Septentrionem vergat. A. in
+            <lb ed="#F" n="29"/>Austrum, nec unquam aut B. in F.
+            <lb ed="#F" n="30"/>aut A. in E. conquiescat: dicendum
+            <lb ed="#F" n="31"/>igitur est, natura duce, cuius 
+            sem<lb ed="#F" n="32" break="no"/>per est, determinata ratione agere.
+            <lb ed="#F" n="33"/>ita disponi, ut pars quaedam seù 
+            fa<lb ed="#F" n="34" break="no"/>cies determinatè in Septentrionem
+            <lb ed="#F" n="35"/>convertatur, opposita in Austrum;
+            <lb ed="#F" n="36"/>&amp; ita erunt in lapide illae semper
+            <lb ed="#F" n="37"/>determinatę partes, seù facies, 
+            qua<lb ed="#F" n="38" break="no"/>rum altera Septentrionem 
+            respi<lb ed="#F" n="39" break="no"/>cere vult, altera Austrum.
+            <lb ed="#F" n="45" type="fixed=6"/>
+               <figure xml:id="p9i7y5-d1e866-Fd1e261">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869749/1348,2111,1019,1089/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A C D B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375363-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-d1e866-d1e280">
+               <lb ed="#F" n="40" type="fixed=6"/>Licet hoc idem alio 
+            experimen<lb ed="#F" n="41" break="no"/>to dignoscere. Summe vas satis 
+            am<lb ed="#F" n="42" break="no"/>plum A. B. aqua plenum, &amp; 
+            vascu<lb ed="#F" n="43" break="no"/>lum alterum minus C. D. in quo
+            <!--26.xml-->
+            <pb ed="#F" n="7"/>
+               <lb ed="#F" n="1"/>minore ita magnetem colloca, ut aquis in isto vasculo possit innatare, tunc
+            <lb ed="#F" n="2"/>videbis magnetem in huiusmodi cymbula tanquam optimum 
+            gubernato<lb ed="#F" n="3" break="no"/>rem ità naviculam disponere, &amp; dirigere ut semper proram D. dirigat ad B.
+            <lb ed="#F" n="4"/>verbi gratia, &amp; puppim C. ad A. &amp; quoties naviculam deturbabis a tali situ,
+            <lb ed="#F" n="5"/>toties, velorum sinus quasi complente natura ijsdem acta remigijs 
+            magne<lb ed="#F" n="6" break="no"/>te clavum regente D. ad B. convertetur. Duas igitur natura facies obtinet
+            <lb ed="#F" n="7"/>magnes, alteram, quam in Septentrionem, alteram, quam in Austrum 
+            con<lb ed="#F" n="8" break="no"/>vertat, seù (quod idem apud me est) habet magnes hanc vim, ut unam sui 
+            de<lb ed="#F" n="9" break="no"/>terminatam partem vertat ad Septentrionem, alteram ad Austrum. Hae 
+            ve<lb ed="#F" n="10" break="no"/>rò facies non aliquam sibi quantitatis molem determinant in lapide ita, ut
+            <lb ed="#F" n="11"/>sumpto verbi gratia lapide palmari in altero medio sui palmo sit facies, quę
+            <lb ed="#F" n="12"/>Septentrionem respicit, alterum verò semipalmum facies occupet 
+            Austra<lb ed="#F" n="13" break="no"/>lis; sed totum occupat lapidem virtus Septentrionalis, totum 
+            nihilomi<lb ed="#F" n="14" break="no"/>nus &amp; Austrina; &amp; sic lapidem disponit, ut altera determinata parte 
+            Septen<lb ed="#F" n="15" break="no"/>trionem, altera Austrum respiciat, &amp; ideo non duplicem, sed simplicem
+            <lb ed="#F" n="16"/>quandam qualitatem, seù vim esse pronuntio sic magnetem disponendi.
+        </p>
+            <p xml:id="p9i7y5-d1e866-d1e330">
+               <lb ed="#F" n="17"/>Hoc ex eo conficio primum, quod nullus magnes invenitur 
+            quamtum<lb ed="#F" n="18" break="no"/>vis parvus, qui ex una parte faciem Septentrionalem non habeat, ex altera
+            <lb ed="#F" n="19"/>Australem. Sume lapidem 
+            inte<lb ed="#F" n="20" break="no"/>grum A. B. qui se disponat sua vi,
+            <lb ed="#F" n="21"/>ut B. Septentrionem respiciat. A.
+            <lb ed="#F" n="22"/>Austrum; quoties sibi relictus
+            <lb ed="#F" n="23"/>suae cymbulae gubernacula 
+            mo<lb ed="#F" n="24" break="no"/>derator, ac proinde in toto 
+            lapi<lb ed="#F" n="25" break="no"/>de A. B. B. sit facies 
+            Septentrio<lb ed="#F" n="26" break="no"/>nalis, A. Australis (aliorum 
+            se<lb ed="#F" n="27" break="no"/>quor loquendi morem, meam
+            <lb ed="#F" n="28"/>ipse suo tempore sententiam 
+            ex<lb ed="#F" n="29" break="no"/>ponam) dividatur bifariam 
+            la<lb ed="#F" n="30" break="no"/>pis, non minus duas facies obtinebunt singulae partes, quam totus integer
+            <lb ed="#F" n="31"/>lapis prius possideret, &amp; in parte A. C. E. erit A. facies ut antea Australis,
+            <lb ed="#F" n="32"/>C. E. Septentrionalis, &amp; in alia parte B. D. F. similiter erit B. facies 
+            Septen<lb ed="#F" n="33" break="no"/>trionalis; ut prius D. F. Australis. Cognosces hoc, si seorsum in cymbulis
+            <lb ed="#F" n="34"/>constituas divisi lapidis partes: facies enim A. ad Austrum verget, ut prius
+            <lb ed="#F" n="35"/>C. E. ad Septentrionem; quod idem proportionaliter in alia parte 
+            conspi<lb ed="#F" n="36" break="no"/>cies. Sicut ergo prius ex tali directione in integro lapide licuit conijcere
+            <lb ed="#F" n="37"/>duas esse facies A. Australem, B. Septentrionalem, hoc idem etiam in 
+            par<lb ed="#F" n="38" break="no"/>tibus licebit inferre.
+            <lb ed="#F" n="43" type="fixed=7"/>
+               <figure xml:id="p9i7y5-d1e866-Fd1e383">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869750/1059,1604,1095,677/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">B A C D F E</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375364-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-d1e866-d1e401">
+               <lb ed="#F" n="39" type="fixed=7"/>Colliges hoc idem, si alteram ex his partibus iterum dividas, si tertio
+            <lb ed="#F" n="40"/>rursus seces, hoc idem, si perpetuo in dividendo pergas. ergo in toto lapide
+            <lb ed="#F" n="41"/>facies est Australis, in toto Septentrionalis, atque hae facies non distinctas
+            <lb ed="#F" n="42"/>sibi deposcunt magnetis portiones, sed amico copulantur foedere, atque in
+            
+         <!--27.xml-->
+         <pb ed="#F" n="8"/>
+               <lb ed="#F" n="1"/>eodem habitant subiecto, seù potius totus lapis ab A. B. versus Australis est,
+            <lb ed="#F" n="2"/>austrum'que respicit, totus à B. A. versus in Septentrionem convertitur: 
+            ho<lb ed="#F" n="3" break="no"/>mogeneus est enim lapis, &amp; similium partium, nec deprehendes quousque
+            <lb ed="#F" n="4"/>protendatur vis Australis, quousque Septentrionalis, sed per utramque 
+            to<lb ed="#F" n="5" break="no"/>tam excurrere cognosces. Sustine quod utranque dicam in praesentia: re
+            <lb ed="#F" n="6"/>enim vera unica vis est in magnete, qua sic totus lapis disponitur in 
+            uni<lb ed="#F" n="7" break="no"/>verso.
+        </p>
+            <p xml:id="p9i7y5-d1e866-d1e432">
+               <lb ed="#F" n="8"/>Quod si quis contendat partem A. in diviso remanere Australem, non
+            <lb ed="#F" n="9"/>tamen per se sed ex accidente, faciem oppositam C. E. fieri 
+            Septentriona<lb ed="#F" n="10" break="no"/>lem, nempe solum ex eo quod A. in Austrum vergit C. E. in Septentrionem
+            <lb ed="#F" n="11"/>dirigitur, etiam si pars non sit Septentrionalis: si quis, inquam, ita 
+            conten<lb ed="#F" n="12" break="no"/>dat, sustineat aliquantulum, &amp; proprium locum expectet; ubi hoc 
+            disol<lb ed="#F" n="13" break="no"/>vam. Interim hoc, quod gratis obijcitur, nec alia ratione confirmatur,
+            <lb ed="#F" n="14"/>sciat esse pręvisum, nec declinari à me sed differri. At, inquies, qua ratione
+            <lb ed="#F" n="15"/>potero, ut libuerit, magnetis lapidem durissimum dividere, &amp; in varias 
+            for<lb ed="#F" n="16" break="no"/>mas effingere? Eo scilicet artificio, quo artifices solent &amp; chrystallum, &amp;
+            <lb ed="#F" n="17"/>durissimas gemmas docere artem pati. Confice tibi sertam ex lamina non
+            <lb ed="#F" n="18"/>calybis aut durissimi metalli, sed ex illo cupro mollissimo, quo ollas, 
+            caca<lb ed="#F" n="19" break="no"/>bos'que procudimus, &amp; quo tenuissima fila producuntur; sitque huiusmodi 
+            la<lb ed="#F" n="20" break="no"/>mina maximè levigata in acie nihilque prorsus dentata. Ex hac ferram 
+            fa<lb ed="#F" n="21" break="no"/>bricabis qua si smirum aqua dilutum adhibueris, optimo secabis artificio.
+            <lb ed="#F" n="22"/>Tali enim serra artifices durissimos quosque secant lapides, &amp; tali mihi 
+            so<lb ed="#F" n="23" break="no"/>lum cessit magnes instrumento: limas enim, &amp; alia ferrea instrumenta
+            <lb ed="#F" n="24"/>inertia prorsus reperi; si ergo tali artificio magnetem seces, &amp; reseces, 
+            vi<lb ed="#F" n="25" break="no"/>debis non externam solum faciem ac superficiem, B. vim habere 
+            Septen<lb ed="#F" n="26" break="no"/>trionem respiciendi, sed totam lapidis substantiam hanc virtutem penitus
+            <lb ed="#F" n="27"/>imbibisse, &amp; non solum externam faciem, sed totum lapidem in 
+            Septen<lb ed="#F" n="28" break="no"/>trionem dispositum esse. sic non extrema solum facies A. Austrum amat,
+            <lb ed="#F" n="29"/>sed quotquot resecando superficies excitabis ex illa parte, semper in Austrum
+            <lb ed="#F" n="30"/>convertentur. tota igitur magnetis natura ea est, ut in tota sua substantia
+            <lb ed="#F" n="31"/>procedendo ad unam partem, sit Septentrionalis, tota procedendo ad 
+            alte<lb ed="#F" n="32" break="no"/>ram, sit Australis. et, si liberè sibi relinquatur, ità Meridianam occupet lineam,
+            <lb ed="#F" n="33"/>ut determinatis partibus polos respiciat, &amp; hoc per virtutem, quam non in
+            <lb ed="#F" n="34"/>extrema superficie possidet, aut in determinata sui parte, sed quae totam eius
+            <lb ed="#F" n="35"/>pervadit substantiam. quam virtutem magnetis facies appellamus, seù
+            <lb ed="#F" n="36"/>qualitatem duarum facierum, atque hoc accuratè statim in initio 
+            notan<lb ed="#F" n="37" break="no"/>dum est; in hoc enim ferè tota magnetica philosophia consistit.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

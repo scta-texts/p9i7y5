@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 20</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 20</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="245"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e26278"> <!-- l3c20 -->
+            <head xml:id="p9i7y5-e26278-Hd1e107">Caput 20</head>
+            <p xml:id="p9i7y5-e26278-d1e109">
+            <!--264.xml-->
+               <pb ed="#F" n="245"/>
+               <lb ed="#F" n="1"/>Solo ferro magneticè excitato, expeditè cognosci potest directio, &amp; inclinatio magnetica,
+            <lb ed="#F" n="2"/>quam vix cognoscere possumus ipso magnete. Cap. XX.
+        </p>
+            <p xml:id="p9i7y5-e26278-d1e120">
+               <lb ed="#F" n="3"/>Hic ingeret mihi aliquis dictum illud philosophi. Propter quod
+            <lb ed="#F" n="4"/>unumquodque tale; &amp; illud magis; si enim propter 
+            magne<lb ed="#F" n="5" break="no"/>tem ferrum meridianum, &amp; polos potest demonstrare, &amp; 
+            li<lb ed="#F" n="6" break="no"/>bratum non solum Orizontali motu, meridianum quaerit, sed
+            <lb ed="#F" n="7"/>etiam verticali descensu destinatum invenit punctum infra
+            <lb ed="#F" n="8"/>Orizontem, quo altitudo poli nobis innotescit; si istos novit ferrum 
+            termi<lb ed="#F" n="9" break="no"/>nos demonstrare propter contactum magnetis, cur non magis hoc idem
+            <lb ed="#F" n="10"/>per magnetem ipsum possumus invenire? cum praesertim hoc; quod est ad
+            <lb ed="#F" n="11"/>meridianum se conformare, &amp; ad polos terrae dirigi, seu demonstrare sit 
+            u<lb ed="#F" n="12" break="no"/>num ex illis praedicatis, quae verè possunt de utroque, tam scilicet de magne
+            <lb ed="#F" n="13"/>te, quam de ferro excitatò pronuntiari, nam &amp; magnes Orizontali motu
+            <lb ed="#F" n="14"/>meridianum quaerit, &amp; si libraretur, etiam descenderet verticali 
+            inclinatio<lb ed="#F" n="15" break="no"/>ne infra Orizontem, &amp; propter magnetem ad hos se dirigit ferrum 
+            termi<lb ed="#F" n="16" break="no"/>nos, cur non igitur magis, ac certius à magnete isti monstrantur termini, &amp;
+            <lb ed="#F" n="17"/>hic contrarium pronuntio.
+        </p>
+            <p xml:id="p9i7y5-e26278-d1e155">
+               <lb ed="#F" n="18"/>Dico enim nos per ferrum excitatum per contactum magnetis posse cer
+            <lb ed="#F" n="19"/>tius magneticos terminos definire, quam per ipsum magnetem, à quo tamen
+            <lb ed="#F" n="20"/>vim terminos illos commostrandi ferrum habet. Verum, ne mireris, 
+            anti<lb ed="#F" n="21" break="no"/>qua respuit philosophiae iura magnes, nova semper ingerit portenta, novam
+            <lb ed="#F" n="22"/>philosophandi rationem. in alijs speculativae philosophiae partibus ea, quae
+            <lb ed="#F" n="23"/>sunt pet accidens, contemnuntur, imo nec nominantur; hoc, quod in pręsen
+            <lb ed="#F" n="24"/>tia pono, per accidens contingit, ut ex dicendis manifestum erit, tamen non
+            <lb ed="#F" n="25"/>potest contemni. Forma tibi si potes versorium, vel instrumentum 
+            magne<lb ed="#F" n="26" break="no"/>ticę, inclinationis ex ipso magnetis lapide, vel aliquando ex tali materia for
+            <lb ed="#F" n="27"/>matum proferas. Non habes; quia operosum nimis esset, &amp; impeditum 
+            opi<lb ed="#F" n="28" break="no"/>ficium, imo fortasse impossibile, sed omnia huiusmodi instrumenta ex ferro
+            <lb ed="#F" n="29"/>parantur, &amp; ferrum solum in usu est; quia hoc solo expedite magneticos ter
+            <lb ed="#F" n="30"/>minos invenire possumus. non igitur addam aliam a posteriori rationem,
+            <lb ed="#F" n="31"/>cur propositio, quam hic tracto, vera sit, nisi hanc; quod nullus unquam ad
+            <lb ed="#F" n="32"/>istos terminos inveniendos magnetem adhibuit: quod si melius 
+            inveniren<lb ed="#F" n="33" break="no"/>tur per magnetem, pertinaci studio vincerent nautae difficultatem, &amp; suas py
+            <lb ed="#F" n="34"/>xides ex magnete, non ex chalybe efformarent.
+        </p>
+            <p xml:id="p9i7y5-e26278-d1e195">
+               <lb ed="#F" n="35"/>Quod si causam quaeras, hanc habeto. Ad hoc, ut versorium praecisè 
+            mon<lb ed="#F" n="36" break="no"/>stret terminos magneticos, debet ita supra stylum aptari, ut oino in 
+            extremi<lb ed="#F" n="37" break="no"/>tatibus suę longitudinis habeat facies oppositas: si enim oppositę facies, &amp; vera
+            <lb ed="#F" n="38"/>longitudo magnetica non excurrit ab ultimo extremo ad extremum versorij, ita
+            <lb ed="#F" n="39"/>ut in summis apicibus sint poli, &amp; prorsus in axe medio sit foramen illud, quod sty
+            <lb ed="#F" n="40"/>lo incumbit, non poterit versorium sua directione certo nobis magneticos termi¬
+            <!--265.xml-->
+            <pb ed="#F" n="246"/>
+               <lb ed="#F" n="1"/>commonstrare; sed huiusmodi versorium fere nulla arte quantum vis 
+            ex<lb ed="#F" n="2" break="no"/>quisita poterit fieri ex magnete: quia in magnete vix ullo artificio poterunt
+            <lb ed="#F" n="3"/>inveniri, physicè loquendo, ipsissima puncta polaria; quod tamen oporteret
+            <lb ed="#F" n="4"/>&amp; vix, dum fabricaretur huiusmodi versorium, possent illa puncta, ita in 
+            ex<lb ed="#F" n="5" break="no"/>tremitatibus conservari, ut axis per illa ductus utrinque aequaliter corpus
+            <lb ed="#F" n="6"/>magneticum sibi divideret, quod tamen esset necessarium, ut supra 
+            demon<lb ed="#F" n="7" break="no"/>stravi, ad hoc, ut puncta illa conservarent sibi, &amp; nomen, &amp; rationem 
+            polo<lb ed="#F" n="8" break="no"/>rum in magnete, &amp; essent verè termini longitudinis magnericę, qui tamen
+            <lb ed="#F" n="9"/>soli directionis magneticae norma sunt: ergo non poterit tale fieri versorium.
+            <lb ed="#F" n="10"/>Possent haec omnia adiectis figuris demonstrari, sed rem nec tanti esse, nec
+            <lb ed="#F" n="11"/>adeo obscuram, ut ista indigeat luce, existimo. at vero, quia ferrum, ut supra
+            <lb ed="#F" n="12"/>dictum est, semper verticitatem concipit in sua maiori longitudine 
+            mate<lb ed="#F" n="13" break="no"/>riali, quomodocunque magneti applicetur, facilè omnia ista vitantur 
+            incom<lb ed="#F" n="14" break="no"/>moda, si versorium fiat ex ferro, &amp; deinde exciretur: certi enim erimus polos
+            <lb ed="#F" n="15"/>in summis esse apicibus, &amp; foramen in axe virturis.
+        </p>
+            <p xml:id="p9i7y5-e26278-d1e247">
+               <lb ed="#F" n="16"/>Deinde est quidem magnes ex sui ratione, &amp; natura corpus homogeneum,
+            <lb ed="#F" n="17"/>&amp; in suis omnibus partibus eiusdem virtutis, &amp; directionis, est enim ut 
+            dici<lb ed="#F" n="18" break="no"/>tur, corpus similare; at vero ex accidente contingere potest, &amp; de facto 
+            sae<lb ed="#F" n="19" break="no"/>pissimè contingit, ut partes non sint aequalis virtutis, &amp; saepè in medio 
+            delite<lb ed="#F" n="20" break="no"/>scunt partes cariosae, &amp; externo vitio foedatae: ex quo fit, ut, si quis sumat fru
+            <lb ed="#F" n="21"/>stum magnetis, &amp; exquisitissima etiam arte polos inveniat, dum volet ex 
+            il<lb ed="#F" n="22" break="no"/>lo elaborare versorium, &amp; ad illam gracilitatem lapidem deducere, quae 
+            ne<lb ed="#F" n="23" break="no"/>cessario tamen requiritur, ut mole nequaquam praegravante possit se supra
+            <lb ed="#F" n="24"/>stylum contorquere expedite, deteget fortasse partem aliquam cariosam,
+            <lb ed="#F" n="25"/>quae opus universum eludet, vel partem aliquam robustiorem ex aliqua 
+            par<lb ed="#F" n="26" break="no"/>te abscindet, quae mutationem polorum necessariam inducet, &amp; ita totum
+            <lb ed="#F" n="27"/>corruet opificium; at vero in ferro bene igne praepurgato, &amp; excocto, quale
+            <lb ed="#F" n="28"/>requiritur ad versoria conficienda, non occurrunt huiusmodi difficultates,
+            <lb ed="#F" n="29"/>&amp; pericula; quia melius in bene fuso, &amp; concocto metallo similares partes
+            <lb ed="#F" n="30"/>ad unitatem confluunt, &amp; homogeneam naturam, quam in vena, pro ut ex
+            <lb ed="#F" n="31"/>fodinis ervitur, ut omnium suffragijs constat.
+        </p>
+            <p xml:id="p9i7y5-e26278-d1e284">
+               <lb ed="#F" n="32"/>Tertio licet arte pertinaci possent etiam tandem versoria elaborari, quae
+            <lb ed="#F" n="33"/>terminos, ut ita dicam, Orizontales magnetici motus possent demonstrare;
+            <lb ed="#F" n="34"/>certè nunquam per versorium ex magnete factum sciro potuissemus 
+            incli<lb ed="#F" n="35" break="no"/>nationem magneticam infra Orizontem, quae sola hanc totam philosophiam
+            <lb ed="#F" n="36"/>propemodum collustravit, nisi fortasse solum pera grando orbem. potuisset enim
+            <lb ed="#F" n="37"/>quisque dicere, &amp; de facto sic putasset, illud extremum, quod infra Orizontem
+            <lb ed="#F" n="38"/>descendit, non descendere magnetica trahente directione, sed materiali prę
+            <lb ed="#F" n="39"/>gravante mole: quia nimirum versorium illud non exactè esset 
+            aequilibra<lb ed="#F" n="40" break="no"/>tum; sed putasset ex illa parte plus ponderis habere, ex quo deorsum 
+            trahe<lb ed="#F" n="41" break="no"/>retur; vel certè, si quis hoc dixisset, non poterat evidenter falsitatis 
+            conuin<lb ed="#F" n="42" break="no"/>ci, nec poterat demonstrari inclinationem illam provenire ex formali virtu
+            <!--266.xml-->
+            <pb ed="#F" n="247"/>
+               <lb ed="#F" n="1"/>te magnetis, non ex materiali gravitate lapidis; &amp; solum si illo versorio sic
+            <lb ed="#F" n="2"/>efformato usus quis esset ad peragrandam totam Terram, ultra, citraque 
+            ae<lb ed="#F" n="3" break="no"/>quatorem, poterat fortasse in suspicionem venire huius magneticę 
+            inclina<lb ed="#F" n="4" break="no"/>tionis, dum videt in varia locorum latitudine varie descendere; nunquam 
+            ta<lb ed="#F" n="5" break="no"/>men turo pronunciare aliquid potuisset. at vero, dum versorium 
+            confici<lb ed="#F" n="6" break="no"/>mus ex ferro, &amp; antequam magnetice excitetur, videmus illud esse 
+            exactissi<lb ed="#F" n="7" break="no"/>me aequilibratum, ita ut consistat in qualibet positione, quod mathematici
+            <lb ed="#F" n="8"/>exigunt ad perfectissimam aequilibrationem, ubi verò fuerit excitatum, 
+            vi<lb ed="#F" n="9" break="no"/>demus ad destinatum semper punctum descendere partem illam, quae 
+            res<lb ed="#F" n="10" break="no"/>picit Septentrionem. ex hoc evidenter conficimus, non nisi à magnete talem
+            <lb ed="#F" n="11"/>fieri inclinationem. Quod ex eo multo magis adhuc certum redditur, si
+            <lb ed="#F" n="12"/>observemus, quod illa ipsa pars, quae modo descendit infra Orizontem, quia
+            <lb ed="#F" n="13"/>ita est excitatum versorium, ut haec pars in Septentrionem dirigatur, illa 
+            ip<lb ed="#F" n="14" break="no"/>sa erigetur sursum, &amp; opposita deorsum inclinabit, si versorium opposita 
+            ra<lb ed="#F" n="15" break="no"/>tione à magnete tangatur, &amp; excitetur; ut illa alia iam vergat ad Septentrionem:
+            <lb ed="#F" n="16"/>tunc enim certo certius constabit ex sola magnetica virtute oriri, ut talis
+            <lb ed="#F" n="17"/>pars descendat infra Orizontem: non ex in aequali libratione, quod in 
+            ver<lb ed="#F" n="18" break="no"/>sorio ex magnete elaborato conspicere non liceret; cuius verticitas sic non
+            <lb ed="#F" n="19"/>potest immutari. melius ergo per ferrum magnetice excitatum praecisos ter
+            <lb ed="#F" n="20"/>minos magnetici motus invenire possumus, quam per magnetem ipsum;
+            <lb ed="#F" n="21"/>quod quaerebamus; &amp; ratio etiam quęsita constat ex dictis.
+        </p>
+            <p xml:id="p9i7y5-e26278-d1e360">
+               <lb ed="#F" n="22"/>Atque ex hoc praesertim ultimo constat cur nec ita commodè, nec tutò
+            <lb ed="#F" n="23"/>possent magneticę directionis termini cognosci per magnetem, sicut 
+            cogno<lb ed="#F" n="24" break="no"/>scuntur per ferrum. nam si quis contenderet; si non possit versorium fieri ex
+            <lb ed="#F" n="25"/>magnete (loquor autem de magnete in sua propria natura, non igne, aut 
+            a<lb ed="#F" n="26" break="no"/>lia peste corrupto) posse fieri globum, in quo inveniantur exactissimi poli,
+            <lb ed="#F" n="27"/>&amp; qui duplici circulo aeneo libretur, ut poli duplicem habeant liberum mo
+            <lb ed="#F" n="28"/>tum, verticalem, &amp; Orizontalem, ut possint se circumvolvere, &amp; simul 
+            libe<lb ed="#F" n="29" break="no"/>rè ascendere, &amp; descendere, &amp; hoc modo per magnetem ipsum proprios
+            <lb ed="#F" n="30"/>terminos invenire, primum revoco difficultatem inveniendi praecisissime
+            <lb ed="#F" n="31"/>polos. Secundo fere impossibilem perfectissimam librationem supra 
+            aequa<lb ed="#F" n="32" break="no"/>torem ex polis propter diversitatem partium, quae fere semper insunt magneti,
+            <lb ed="#F" n="33"/>qualis requiritur ad descensum magneticum; denique incertum futurum hu
+            <lb ed="#F" n="34"/>iusmodi descensum provenire ex vi magnetica; &amp; qui versorium 
+            inclina<lb ed="#F" n="35" break="no"/>tionis libraverit sentiet, quam sit physicè impossibile sic librare globum, in
+            <lb ed="#F" n="36"/>quo delitescunt saepe numero cariositates.
+        </p>
+            <p xml:id="p9i7y5-e26278-d1e395">
+               <lb ed="#F" n="37"/>Verum, quando haec omnia scilerent, hoc totum, verum esse satis ex eo 
+            con<lb ed="#F" n="38" break="no"/>stat, quod nullus unquam, ut dicebam, versorium protulit ex vero magnete
+            <lb ed="#F" n="39"/>efformatum; quamvis enim huius rei causam hactenus vulgares homines
+            <lb ed="#F" n="40"/>non cognoverint, sensere tamen rem ipsam fieri non posse, vel certe adeo 
+            es<lb ed="#F" n="41" break="no"/>se impeditum negotium, ut non esset operaepretium; nihiloninus hoc ipsum
+            <lb ed="#F" n="42"/>ponere volvi, tum ut rationem huius afferrem, ne alicui in mentem ve¬
+            <!--267.xml-->
+            <pb ed="#F" n="248"/>
+               <lb ed="#F" n="1"/>niret se eximium aliquid facturum, &amp; ad magneticas directiones 
+            validissi<lb ed="#F" n="2" break="no"/>mum, si versorium ex magnete formasset; nam operam luderet, dum 
+            maxi<lb ed="#F" n="3" break="no"/>mos artis conatus in tali opere faciendo delusos inveniret.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

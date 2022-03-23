@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 36</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 36</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="386"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e41095"> <!-- l4c36 -->
+            <head xml:id="p9i7y5-e41095-Hd1e107">Caput 36</head>
+            <p xml:id="p9i7y5-e41095-d1e109">
+            <!--405.xml-->
+               <pb ed="#F" n="386"/>
+               <lb ed="#F" n="1"/>Magnes iuvatur ad suspendendum ferrum adiuncto sibi altero magnete, si convenienter
+            <lb ed="#F" n="2"/>adiungatur; quod multipliciter potest contingere.
+            <lb ed="#F" n="3"/>Cap. XXXVI.
+        </p>
+            <p xml:id="p9i7y5-e41095-d1e122">
+               <lb ed="#F" n="4"/>Iuvatur magnes ad suspendendum ferrum adventu alterius 
+            magne<lb ed="#F" n="5" break="no"/>tis, sicut quod libet aliud agens roboratur ex coniunctione cum altero
+            <lb ed="#F" n="6"/>agente similium virium: qua ratione illuminatio crescit multiplitatis
+            <lb ed="#F" n="7"/>in unum candelis. Quia tamen peculiaris, quaedam ratio in magneticis 
+            a<lb ed="#F" n="8" break="no"/>gentibus est, quod determinata quadam agant ratione, &amp; ex una parte 
+            inspi<lb ed="#F" n="9" break="no"/>rent qualitatem peculiari ratione excurrentem, &amp; alia eandem producant in
+            <lb ed="#F" n="10"/>contrario situ, ideo ad hoc, ut vires multiplicatis crescant agentibus, debent
+            <lb ed="#F" n="11"/>ita coniungi agentia, ut agant simul ad eandem partem, &amp; uno, eodemque
+            <lb ed="#F" n="12"/>modo, alioquin non solum non conspirabunt ad eundem effectum efficacius
+            <lb ed="#F" n="13"/>producendum, sed collatis potius in contrarium signis se mutuo 
+            insequen<lb ed="#F" n="14" break="no"/>tu, &amp; quasi sibi prędam praeripere cupientia subiectum corpus sibi usurpare
+            <lb ed="#F" n="15"/>studebunt, quodque alterum illorum, producit, alterum destruet, vel certe
+            <lb ed="#F" n="16"/>labefacta re tentabit. Cum autem sint magnetica corpora, &amp; quae magnetice
+            <lb ed="#F" n="17"/>agunt, non solum magnes, sed etiam ferrum, poterit unius magnetis vis 
+            acti<lb ed="#F" n="18" break="no"/>va augeri tam adiunctionie alterius magnetis; quam adiunctione ferri.
+        </p>
+            <p xml:id="p9i7y5-e41095-d1e157">
+               <lb ed="#F" n="19"/>Potest igitur magnes addi magneti, ut vires sibi invicem multiplicent ad
+            <lb ed="#F" n="20"/>suspendendum ferrum, tripliciter. Primo potest addi supta ad polum oppo
+            <lb ed="#F" n="21"/>situm ei, qui ferrum sustentat, secundo ad latus eiusdem poli, tertio infra fer
+            <lb ed="#F" n="22"/>rum iam suspensum. Primo igitur
+            <lb ed="#F" n="23"/>sit magnes. A. B. ex quo pendeat 
+            fer<lb ed="#F" n="24" break="no"/>rum E: sit autem A polus Australis B.
+            <lb ed="#F" n="25"/>Septentionalis si alter magnes 
+            con<lb ed="#F" n="26" break="no"/>venienter illi addatur, puta magnes.
+            <lb ed="#F" n="27"/>C. D. cuius C: sit polus Septentriona
+            <lb ed="#F" n="28"/>lis D. australis; si polus C. addatur su
+            <lb ed="#F" n="29"/>pra polum magnetis A. 
+            adiungen<lb ed="#F" n="30" break="no"/>tur vires imagneti ad suspendem sum
+            <lb ed="#F" n="31"/>ferrum C. Quamvis enim ferrum pen
+            <lb ed="#F" n="32"/>deat ex B &amp; magnes addatur à polo
+            <lb ed="#F" n="33"/>superiori A augentur tamen etiam
+            <lb ed="#F" n="34"/>vires ipsi B. ut robustius illi ferrum
+            <lb ed="#F" n="35"/>adhaereat. Res constat experientia
+            <lb ed="#F" n="36"/>Addito enim magnete sic convenien
+            <lb ed="#F" n="37"/>ter in A. non solum polus B. 
+            sustine<lb ed="#F" n="38" break="no"/>bit ferri quantitatem, quam prius su
+            <lb ed="#F" n="39"/>spendere non poterat, sed etiam 
+            fer<lb ed="#F" n="40" break="no"/>rum, quod prius benè dependebat,
+            <lb ed="#F" n="41"/>senties firmius adhaerere.
+         <lb ed="#F" n="42" type="fixed=386"/>
+               <figure xml:id="p9i7y5-e41095-Fd1e212">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870129/1584,1936,598,1487/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">D C E B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375948-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e41095-d1e231">
+            <!--405.xml-->
+
+         <!--406.xml-->
+               <pb ed="#F" n="387"/>
+               <lb ed="#F" n="1"/>Ratio etiam manifesta est; quia enim illa additio convenienter fit, 
+            iun<lb ed="#F" n="2" break="no"/>guntur enim facies oppositae C. A. &amp; ita fit unum integrum corpus magne
+            <lb ed="#F" n="3"/>ticum D. B. in quo toto quasi in uno integro corpore una facies extrema B.
+            <lb ed="#F" n="4"/>est australis D. septentrionalis, e excurrit axis recta via D. B. ideo, quia totum
+            <lb ed="#F" n="5"/>hoc agens magneticum maius est, &amp; praesertim maius secundum 
+            longitu<lb ed="#F" n="6" break="no"/>dinem, quae magnitudo ex supradictis longè maximè conducit ad actiones
+            <lb ed="#F" n="7"/>magneticas, &amp; ad vehementiores attractiones; cum plures sint partes 
+            ma<lb ed="#F" n="8" break="no"/>gnetis, quae transmittunt suas vires ad punctum B. omnes scilicet, quae sunt
+            <lb ed="#F" n="9"/>à puncto D, usque ad B. plures, inquam, quam essent prius, cum solum partes,
+            <lb ed="#F" n="10"/>quae erant ab A. ad B. transmittebant ad polum B. suas facultates: non est 
+            mi<lb ed="#F" n="11" break="no"/>rum, quod robustius ibi adhaereat ferrum. Et confirmatur, quia, sicuti ex 
+            to<lb ed="#F" n="12" break="no"/>to magnete A. B. si auferantur partes magnetis ex parte A. &amp; imminuatur
+            <lb ed="#F" n="13"/>magnes, etiam si imminuatur alter polus oppositus ipsi B. tamen vires etiam
+            <lb ed="#F" n="14"/>imminuuntur in B quia omnes, &amp; singulae partes lapidis, etiam ipsum A. 
+            con<lb ed="#F" n="15" break="no"/>spirant ad agendum per B. ita si etiam augeatur magnes ex parte A. quamvis
+            <lb ed="#F" n="16"/>augeantur in parte opposita, tamen crescunt etiam vires in B. quia iam fit
+            <lb ed="#F" n="17"/>totum unum magneticum maius B. D.
+        </p>
+            <p xml:id="p9i7y5-e41095-d1e277">
+               <lb ed="#F" n="18"/>Secundo potest addi magnes ad latus ita, ut etiam vires augeantur, licet
+            <lb ed="#F" n="19"/>non ita efficaciter, atque si 
+            ad<lb ed="#F" n="20" break="no"/>deretur, ut in priori casu in
+            <lb ed="#F" n="21"/>parte, scilicet superiori. sit .n.
+            <lb ed="#F" n="22"/>magnes A. B. ex quo pendeat
+            <lb ed="#F" n="23"/>ferrum E. sit autem B. pars
+            <lb ed="#F" n="24"/>magnetis septentrionalis; si
+            <lb ed="#F" n="25"/>sumatur alter magnes C. D.
+            <lb ed="#F" n="26"/>cuius pariter C. sit septentrio
+            <lb ed="#F" n="27"/>nalis, &amp; C. coniungatur ad 
+            la<lb ed="#F" n="28" break="no"/>tus cum B. dico futurum, ut
+            <lb ed="#F" n="29"/>B. firmius retineat ferrum, quam
+            <lb ed="#F" n="30"/>retineret prius. Et quamvis in initio alicui videatur ferrum E. ex tali 
+            adiun<lb ed="#F" n="31" break="no"/>ctione magnetis C. repelli, re tamen vera iuvatur B. ex tali coniunctione ad
+            <lb ed="#F" n="32"/>retinendum ferrum, &amp; si fortasse prius ferrum non poterat sustentare, iam
+            <lb ed="#F" n="33"/>ex tali coniunctione posse apparebit, ut constat experientia.
+         <lb ed="#F" n="43" type="fixed=387"/>
+               <figure xml:id="p9i7y5-e41095-Fd1e317">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870130/1006,1599,930,682/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A B E C D</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375950-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e41095-d1e335">
+               <lb ed="#F" n="34" type="fixed=387"/>Ratio etiam facilis est, &amp; expedita. Sicut enim duo valentius trahunt pon
+            <lb ed="#F" n="35"/>dus, quam trahat unus solus, ita etiam firmius sustentabunt ferrum duo 
+            ma<lb ed="#F" n="36" break="no"/>gnetes, quam unicus sustentet; quia firmius ferrum adhaeret magneti, quo
+            <lb ed="#F" n="37"/>vehementiorem habet in se qualitatem magneticam, &amp; quo qualitas per
+            <lb ed="#F" n="38"/>medium diffusa maior est. sed sicuti quando duo luminosa illuminant idem
+            <lb ed="#F" n="39"/>medium, lumen, quod spectat ad effectum, in medio magis est intensum;
+            <lb ed="#F" n="40"/>ita, quando solus A. B. producebat qualitatem in medio ad E. minus 
+            inten<lb ed="#F" n="41" break="no"/>sa erat qualitas ibi, quam quando ab altero etiam magnete C. D. in eodem
+            <lb ed="#F" n="42"/>medio secundum eandem dimensionem, &amp; situm producetur qualitas. De¬
+            <!--406.xml-->
+
+         <!--407.xml-->
+         <pb ed="#F" n="388"/>
+               <lb ed="#F" n="1"/>bet autem in ista coniunctione, si polus B. septentrionalis, est applicari 
+            pa<lb ed="#F" n="2" break="no"/>Magnet. Philos.
+            <lb ed="#F" n="3"/>riter polus C. alterius magnetis, qui sit septentrionalis: quamvis enim illi
+            <lb ed="#F" n="4"/>duo magnetes in ordine ad mutuam actionem, qua invicem agunt, &amp; 
+            patiun<lb ed="#F" n="5" break="no"/>tur, non coniungantur illo modo natura disponente uti supra 
+            demonstra<lb ed="#F" n="6" break="no"/>tum est, sed polus C. septentrionalis confluat ad A. australem, ut 
+            convenien<lb ed="#F" n="7" break="no"/>ter se habeant ad invicem ratione supra explicata; tamen aliud est loqui de
+            <lb ed="#F" n="8"/>mutua duorum magnetum actione, qua invicem agunt, aliud de actione in
+            <lb ed="#F" n="9"/>ordine ad unum tertium, ut ad ferrum E. Sicuti enim A. B. posito quod B. sit
+            <lb ed="#F" n="10"/>septentrionalis, proijcit virtutem quasi excurrentem ad Septentrionem per
+            <lb ed="#F" n="11"/>E. ita etiam si C, est septentrionalis, qualitas ex illo diffusa procedendo ad E.
+            <lb ed="#F" n="12"/>tendet pariter Septentrionem versus, &amp; ita utriusque vires inspirabunt in
+            <lb ed="#F" n="13"/>ferrum E. qualitatem ad eandem partem. robustius igitur magnes A, B. susti
+            <lb ed="#F" n="14"/>nebit ferrum E. adiuncto sibi altero magnete C. D. modo supra explicato,
+            <lb ed="#F" n="15"/>quod erat ostendendum. Aduerte autem debere coniungi ad latus ita, ut 
+            po<lb ed="#F" n="16" break="no"/>lus C. coniungatur cum B. &amp; D. sit ad partes A. &amp; axes quasi paralleli 
+            ince<lb ed="#F" n="17" break="no"/>dant. Si enim D. esset ad partes oppositas ipsi A. &amp; axes duorum magnetum
+            <lb ed="#F" n="18"/>quasi eodem tractu continuarentur, contrarius succederet effectus: 
+            decide<lb ed="#F" n="19" break="no"/>ret enim ferrum, si prius sustentabatur, ut mox dicam.
+        </p>
+            <p xml:id="p9i7y5-e41095-d1e405">
+               <lb ed="#F" n="20"/>Tertio denique, si magnes magneti adiungatur ad oppositam partem 
+            fer<lb ed="#F" n="21" break="no"/>ri, seu infra ferrum, iuvabitur magnes ad 
+            su<lb ed="#F" n="22" break="no"/>stinendum ferrum. Sit igitur magnes A. B.
+            <lb ed="#F" n="23"/>ex cuius polo B. pendeat ferrum E. si infra
+            <lb ed="#F" n="24"/>ferrum addatur alter magnes C. D. 
+            conve<lb ed="#F" n="25" break="no"/>nienter ita, ut, si polus B, septentrionem respi
+            <lb ed="#F" n="26"/>cit polus C. in austrum dirigatur, ex tali 
+            con<lb ed="#F" n="27" break="no"/>iunctione ferrum E. firmius adhaerebit ipsi
+            <lb ed="#F" n="28"/>B. quod sanè mirum videatur: quamvis 
+            ma<lb ed="#F" n="29" break="no"/>gnes C. D. vim attractivam habeat, &amp; conve
+            <lb ed="#F" n="30"/>nienti polo applicetur, ut ad se ferrum 
+            pro<lb ed="#F" n="31" break="no"/>vocet; nihilominus videbitur alicui quasi
+            <lb ed="#F" n="32"/>repellere, &amp; ferrum eiaculari, dum facit illa
+            <lb ed="#F" n="33"/>positione ferrum E firmius adhęrere polo B.
+            <lb ed="#F" n="34"/>perinde ac si non traheret, sed impelleret ad
+            <lb ed="#F" n="35"/>polum B. tractio nihilominus quaedam est,
+            <lb ed="#F" n="36"/>sed talis tractio, ut firmius quasi figat in 
+            po<lb ed="#F" n="37" break="no"/>lo B. De re ipsa quaestio non est, quia constat
+            <lb ed="#F" n="38"/>experientia; rationem sic habeto, ex qua 
+            ar<lb ed="#F" n="39" break="no"/>canam huius lapidis philosophiam, &amp; per
+            <lb ed="#F" n="40"/>illam naturae authorem magis admireris;
+            <lb ed="#F" n="41"/>qui potest per vim attractivam, &amp; provocativam ad se facere, ut res magis
+            <lb ed="#F" n="42"/>alteri adhaereat. Et si alia res tibi in proximum charitatem non explicat, qua
+            <lb ed="#F" n="43"/>homines propter Deum diligimus, vel ex hoc ipso discas; per illam ipsam
+            <!--407.xml-->
+
+         <!--408.xml-->
+         <pb ed="#F" n="389"/>
+               <lb ed="#F" n="1"/>vim, qua ad Deum raperis, ut beatius cum ipso coniungaris, à Deo quasi 
+            re<lb ed="#F" n="2" break="no"/>cedere, &amp; proximo firmius coniungi, dum in illius discedis utilitatem, &amp; 
+            bea<lb ed="#F" n="3" break="no"/>tae quietis asceticum deseris otium, quo cum Deo constringebaris: quod 
+            san<lb ed="#F" n="4" break="no"/>cti viri praestant, dum à rerum divinarum contemplatione se subducunt,
+            <lb ed="#F" n="5"/>ut proximorum commodis deserviant. Sic enim etiam magnes per illam
+            <lb ed="#F" n="6"/>ipsam qualitatem, qua ferrum trahit ad se, &amp; dum trahit, facit ut firmius 
+            al<lb ed="#F" n="7" break="no"/>teri inhaereat, &amp; quasi à se prepellit contra alterum.
+         <lb ed="#F" n="44" type="fixed=388"/>
+               <figure xml:id="p9i7y5-e41095-Fd1e484">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870131/1660,1710,504,1252/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A B E C D</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375951-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e41095-d1e502">
+               <lb ed="#F" n="8" type="fixed=388"/>Dictum est supra ferrum, quo robustiorem habet duarum facierum 
+            qua<lb ed="#F" n="9" break="no"/>litatem, eo firmius megnetico corpori adhaerere, &amp; quo magnes robustiorem
+            <lb ed="#F" n="10"/>habet virtutem, quam possit ferro communicare, eo firmius sibi ferrum 
+            co<lb ed="#F" n="11" break="no"/>pulare: quod supra demonstratum est. Iam si tam magnes. A. B. quam C. D.
+            <lb ed="#F" n="12"/>ex eo, quod invicem convenienti ratione sint dispositi in eodem medio E.
+            <lb ed="#F" n="13"/>producent qualitatem ambo in eodem situ, &amp; positione, erit in illo medio E.
+            <lb ed="#F" n="14"/>qualitas efficacior, quam si unicum esset solum agens, quod ad illud medium
+            <lb ed="#F" n="15"/>dirigeret suam actionem: ergo etiam ferrum vim habebit magneticam in se
+            <lb ed="#F" n="16"/>maiorem: quandoquidem illam ex virtute in medio effusa, quae hic 
+            supponi<lb ed="#F" n="17" break="no"/>tur maior ex duplici agente. Praeterea potest virtus magnetis C. D. augere 
+            e<lb ed="#F" n="18" break="no"/>tiam vires activas ipsius magnetis A. B. cum enim virtus inferioris 
+            magne<lb ed="#F" n="19" break="no"/>tis pervadat etiam totum superiorem, ut suppono, eo quod sit intra sphęram
+            <lb ed="#F" n="20"/>activitatis illius, poterit etiam vires illius augere, ut non solum in contactu,
+            <lb ed="#F" n="21"/>si minorem habeat vim superior magnes, quam inferior, sed multo maxime
+            <lb ed="#F" n="22"/>in progressu actionis virtus superioris magnetis roboretur à virtute sibi 
+            im<lb ed="#F" n="23" break="no"/>missa ab inferiore: vehementiorem igitur habebit vim, ut in partibus 
+            remo<lb ed="#F" n="24" break="no"/>tioribus possit producere intensiorem effectum, quam antea ex suprapositis.
+            <lb ed="#F" n="25"/>Ergo cum, &amp; ferrum maiorem habeat qualitatem, &amp; magnes superior robu
+            <lb ed="#F" n="26"/>stius agat ex adventu convenienti inferioris, firmius ferrum adhęrebit, quod
+            <lb ed="#F" n="27"/>erat propositum. Insuper huius propositionis veritas patet magnopere ex
+            <lb ed="#F" n="28"/>supra dictis, ubi demonstratum est, &amp; ferrum surripere à ferro magnetem, &amp;
+            <lb ed="#F" n="29"/>inferiorem magnetem pariter à robustiore praedas praeripere, quam tamen
+            <lb ed="#F" n="30"/>non potest retinere, ubi devenerit extra vires maioris magnetis: ergo 
+            infir<lb ed="#F" n="31" break="no"/>mus ille magnes adiuvabatur à robustiore magnete ad retinendum ferrum,
+            <lb ed="#F" n="32"/>quae res magis adhuc ostendit, quod de charitate dicebam, dum ferrum per
+            <lb ed="#F" n="33"/>illam ipsa vim, qua robustiori adhaeret, robustum relinquit, ut infirmiori co
+            <lb ed="#F" n="34"/>puletur; quod proprium est charitatis.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

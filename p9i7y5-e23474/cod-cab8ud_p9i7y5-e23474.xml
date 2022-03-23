@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 11</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 11</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="220"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e23474"> <!-- l3c11 -->
+            <head xml:id="p9i7y5-e23474-Hd1e107">Caput 11</head>
+            <p xml:id="p9i7y5-e23474-d1e109">
+               <lb ed="#F" n="35"/>Non est constanter eadem magnetis à vero Meridiano deviatio in quolibet puncto,
+            <lb ed="#F" n="36"/>eiusdem Meridiani. Caput XI.
+        </p>
+            <p xml:id="p9i7y5-e23474-d1e116">
+               <lb ed="#F" n="37"/>Explicata praecedenti propositione, &amp;, quantum ego arbitror, 
+            clarissi<lb ed="#F" n="38" break="no"/>mè exposita eius causa proxima &amp; vera: modus enim causandi, quem
+            <!--239.xml-->
+            <pb ed="#F" n="220"/>
+               <lb ed="#F" n="1"/>aliquis ex scholarum rigore fortasse desideraret, quomodo scilicet 
+            Ter<lb ed="#F" n="2" break="no"/>rarum tractus illi hoc efficiant, ut divertere faciant ad se versorium: patet
+            <lb ed="#F" n="3"/>alibi expositum in nostra ista philosophia. Interim certo constat hanc 
+            es<lb ed="#F" n="4" break="no"/>se causam, sicuti certo constat distantiam, verbi gratia, esse causam, cur res
+            <lb ed="#F" n="5"/>minor videatur, &amp; in maiori distantia cur adhuc minor appareat, etiam si non
+            <lb ed="#F" n="6"/>clarè sentias, quae ratione hoc distantia possit efficere: nec ullus negabit 
+            iu<lb ed="#F" n="7" break="no"/>re, te causam attulisse, cur nunc minor res videatur, dum distantiam 
+            pro<lb ed="#F" n="8" break="no"/>fers, etiamsi nihil aliud addas. Explicata igitur, ut dixi, deviationis 
+            ma<lb ed="#F" n="9" break="no"/>gneticorum causa; loquor enim in universum de directione magneticorum:
+            <lb ed="#F" n="10"/>nec enim puto solum versorium, aut pyxidem declinare, sed puto 
+            decli<lb ed="#F" n="11" break="no"/>nare etiam magnetem ipsum: Iam aliae duae propositiones explicatae 
+            pate<lb ed="#F" n="12" break="no"/>bunt, &amp; causae in aperto erunt, quarum altera haec sit.
+        </p>
+            <p xml:id="p9i7y5-e23474-d1e153">
+               <lb ed="#F" n="19" type="fixed=220"/>
+               <figure xml:id="p9i7y5-e23474-Fd1e158">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869963/378,1531,2126,1122/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">AMERICA Mexicum Mare del Sun Peruvium Bra Nova Zebla EUROPA Galia Germania Italia Hispania Mare Medite Sing ASIA Asia mi Tartari China Moluche India Persia Arabia AFRICA M: Rubrum Island Oceanus Indicus C. bone spei TERRA AUSTRALIS INCOGNITA</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375692-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="13" type="fixed=220"/>Proposita sit telluris mappa A. B. in hac sumatur aliquis meridianus
+         <lb ed="#F" n="14"/>circulus: dico in quolibet puncto illius meridiani, &amp; in qualibet distantia
+            <lb ed="#F" n="15"/>à polis A. &amp; B. non semper aequaliter magneticum discedere à vero 
+            meri<lb ed="#F" n="16" break="no"/>diano. Probatur hoc primo experientia: nam in meridiano Constantinopo
+            <lb ed="#F" n="17"/>litano discedit, qua parte Septentrionem spectat, ad Orientem per aliquot
+            <lb ed="#F" n="18"/>gradus; at vero in eodem meridiano ultra aequatorem prope caput Bonae
+            <!--239.xml-->
+
+         <!--240.xml-->
+         <pb ed="#F" n="221"/>
+               <lb ed="#F" n="1"/>spei prorsus magnes congruit cum vero meridiano: est enim ibi ferè 
+            pro<lb ed="#F" n="2" break="no"/>montotium, quod propterea appellatur ab Hispanis delas Agullias. Hoc
+            <lb ed="#F" n="3"/>idem posset inductione ostendi in alijs multis meridianis, &amp; in illo ipso delos
+            <lb ed="#F" n="4"/>azores, nam in illo toto, &amp; in quolibet eius puncto circa terram non semper
+            <lb ed="#F" n="5"/>congruit pyxis cum vero meridiano, sed ultra aequatorem ab illo discedit.
+            <lb ed="#F" n="6"/>Verum hoc passim obvium erit, si terram quis percurrere velit in mappa,
+            <lb ed="#F" n="7"/>&amp; ex nautarum observationibus magneticas deviationes computare: nihil
+            <lb ed="#F" n="8"/>enim magis obvium erit, quam non ubique in eodem meridiano, aequaliter
+            <lb ed="#F" n="9"/>declinare pyxidem.
+        </p>
+            <p xml:id="p9i7y5-e23474-d1e216">
+               <lb ed="#F" n="10"/>Huius ratio illa est, quam supra exposui; quia tunc magneticum 
+            con<lb ed="#F" n="11" break="no"/>gruit, cum vero meridiano, quando ex utraque parte illius meridiani 
+            conti<lb ed="#F" n="12" break="no"/>nentium spatia sunt ferè aequalia: tunc declinat ad unam partem, quando
+            <lb ed="#F" n="13"/>ex illa parte longè maior Terrarum tractus iacet, quam ex alia; sed potest
+            <lb ed="#F" n="14"/>contingere, &amp; de facto accidit, ut in aliquo meridiano res ita se habeat, ut
+            <lb ed="#F" n="15"/>in una eius latitudine Terrarum spacia utrinque sint aequalia, in alia 
+            latitu<lb ed="#F" n="16" break="no"/>dine sint longè inaequalia, vel in utraque quidem inaequalia, sed cum magna
+            <lb ed="#F" n="17"/>diversitate in ista ipsa inaequalitate; quia vel longè maior sit una 
+            inaequali<lb ed="#F" n="18" break="no"/>tas in uno parallelo, quam alia in alio, vel hic inaequalitas sit ad Otientem,
+            <lb ed="#F" n="19"/>alibi ad Occidentem. ergo in illo casu non erunt utrobique eaedem 
+            varie<lb ed="#F" n="20" break="no"/>tates, e declinationes magneticorum à vero meridiano. Illud igitur pro
+            <lb ed="#F" n="21"/>ratione adduco, cur non in qualibet latitudine eiusdem meridiani exempli
+            <lb ed="#F" n="22"/>gratia, Constantinopolitani, aequaliter declinent magnetica; quia non 
+            ubi<lb ed="#F" n="23" break="no"/>que aequalia sunt terrarum spacia hinc inde posita ad latera illius 
+            meridia<lb ed="#F" n="24" break="no"/>ni: ad Constantinopolim enim maior terrae regio est ex parte Orientali 
+            to<lb ed="#F" n="25" break="no"/>ta nimirum vastissima Asia; ideo declinat ibi pars Septentrionalis ad Orien
+            <lb ed="#F" n="26"/>tem non nihil. At vero ad Caput Bonae spei utrinque sunt ferè aequales 
+            O<lb ed="#F" n="27" break="no"/>ceani vastitates, &amp; ad frontem habet ferè mediam totam Afticam, ideo ibi
+            <lb ed="#F" n="28"/>congruit cum vero meridiano.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

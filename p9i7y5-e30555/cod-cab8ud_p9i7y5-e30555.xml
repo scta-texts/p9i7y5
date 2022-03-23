@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="285"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e30555"> <!-- l4c1 -->
+            <head xml:id="p9i7y5-e30555-Hd1e107">Caput 1</head>
+            <p xml:id="p9i7y5-e30555-d1e109">
+            <!--304.xml-->
+               <pb ed="#F" n="285"/>
+               <lb ed="#F" n="1"/>DE
+            <lb ed="#F" n="2"/>MAGNETICA
+            <lb ed="#F" n="3"/>PHILOSOPHIA
+            <lb ed="#F" n="4"/>LIBER QUARTUS.
+            <lb ed="#F" n="5"/>In quo ponuntur effectus ad attractionem spectantes,
+            <lb ed="#F" n="6"/>Et eorum causae.
+            <lb ed="#F" n="7"/>Cur istius attractionis causae adeo hactenus ignotae fuerint.
+            <lb ed="#F" n="8"/>Caput Primum.
+        </p>
+            <p xml:id="p9i7y5-e30555-d1e133">
+               <lb ed="#F" n="9"/>Explicaturus in postremo isto libro insigniores 
+            om<lb ed="#F" n="10" break="no"/>nes effectus, qui ex attractione oriuntur, &amp; qui causam
+            <lb ed="#F" n="11"/>videntur mihi habere minimè obviam, eadem via, &amp; 
+            me<lb ed="#F" n="12" break="no"/>thodo utar, qua in praecedenti libro explicavi effectus ad
+            <lb ed="#F" n="13"/>directionem magneticorum spectantes; multa'que 
+            sum<lb ed="#F" n="14" break="no"/>nam ex secundo Libro, in quo huius doctrinae sementem
+            <lb ed="#F" n="15"/>feci. Erunt sanè mira, &amp; scitu dignissima, quae in hoc lib.
+            <lb ed="#F" n="16"/>ponentur, &amp; ea sunt fortasse, quae maximè magneticam naturam 
+            admi<lb ed="#F" n="17" break="no"/>randam reddidere. Sicut enim primus iste effectus in magnete fuit 
+            ob<lb ed="#F" n="18" break="no"/>servatus, ita &amp; plures habuit inspectores, &amp; accuratos philosophos; sed
+            <lb ed="#F" n="19"/>haud scio, an perinde fęliciori eventu. Sicut enim equi, &amp; alia quaelibet
+            <lb ed="#F" n="20"/>generosissima animalia, ubi semel, aut iterum opus, puta attractionem 
+            pon<lb ed="#F" n="21" break="no"/>deris, attentarunt toto impetu, si non sequatur, non possunt amplius ullo
+            <lb ed="#F" n="22"/>ferè artificio adigi ad idem aggrediendum; quasi vereantur, ne si 
+            frustren<lb ed="#F" n="23" break="no"/>tur effectu, ut alias, convincantur infirmiora, &amp; imbecilliora esse, quod 
+            ge<lb ed="#F" n="24" break="no"/>nerosus ille spiritus summopere abhorret: sic &amp; philosophorum ingenia
+            <lb ed="#F" n="25"/>sublimiora, quod vident primo, aut altero conatu se non posse 
+            compre<lb ed="#F" n="26" break="no"/>hendere, iam inter occulta deputant relinquendum, &amp; nostris subductum 
+            co<lb ed="#F" n="27" break="no"/>gnitionibus, ut non ingenij imbecillitatem, sed rei exaggeratam 
+            obscuri<lb ed="#F" n="28" break="no"/>tatem ignorationis causam suadeant. Hac de causa tandiu putarim ego
+            <lb ed="#F" n="29"/>magneticam Philosophiam occultam iacvisse. Utinam enim divina illa
+            <lb ed="#F" n="30"/>ingenia, quae reliquas philosophiae partes excolvere, hanc quoque 
+            versas<lb ed="#F" n="31" break="no"/>sent animo, non iam sanè amplius occulta diceretur magnetis qualitas.
+            <!--305.xml-->
+            <pb ed="#F" n="286"/>
+               <lb ed="#F" n="1"/>Ego vero, qui notam tarditatis non reformido, cum me illam effugere non
+            <lb ed="#F" n="2"/>posse vidram: iterum iterum'que versare non recuso, si fortasse, quod 
+            tam<lb ed="#F" n="3" break="no"/>diu traho, tandem è tenebris extraham.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

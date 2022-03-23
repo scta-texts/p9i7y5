@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 11</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 11</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="144"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e15419"> <!-- l2c11 -->
+            <head xml:id="p9i7y5-e15419-Hd1e107">Caput 11</head>
+            <p xml:id="p9i7y5-e15419-d1e109">
+            <!--163.xml-->
+               <pb ed="#F" n="144"/>
+               <lb ed="#F" n="1"/>Cur Magnetica supra magnetem determinata ratione dirigantur.
+            <lb ed="#F" n="2"/>Caput XI.
+        </p>
+            <p xml:id="p9i7y5-e15419-d1e120">
+               <lb ed="#F" n="3"/>Aliam igitur inire debemus rationem, indicavit Garzonius
+            <lb ed="#F" n="4"/>suam, quam prius expendo, &amp; explico, id quod placet 
+            com<lb ed="#F" n="5" break="no"/>probando, quod non placet refutando. Dixi supra totam
+            <lb ed="#F" n="6"/>vim magneticam, quia in lapide ipso determinatum obtinet
+            <lb ed="#F" n="7"/>situm, &amp; determinata ratione excurrit, determinata etiam
+            <lb ed="#F" n="8"/>ratione sese effundere per medium, non vagè, &amp; inconstanter. Quod ita
+            <lb ed="#F" n="9"/>explico. sicut in ipso lapide virtus est disposita, ut universae vires in polos
+            <lb ed="#F" n="10"/>conspirent, &amp; quasi ad regiam vectigalia dirigant, ipso etiam fatente 
+            Gil<lb ed="#F" n="11" break="no"/>berto, qui propterea dicit in polis firmiorem esse coitionem: quia reliquae
+            <lb ed="#F" n="12"/>omnes partes transmittunt suam actionem, &amp; dirigunt suos conatus 
+            po<lb ed="#F" n="13" break="no"/>lum versus; ita etiam vis activa intelligenda est praecipuè, ac primario à 
+            po<lb ed="#F" n="14" break="no"/>lis disseminari, &amp; quasi ex publico aerario ex universis Reipublicae bonis
+            <lb ed="#F" n="15"/>conflato stipendia omnibus distribui.
+        </p>
+            <p xml:id="p9i7y5-e15419-d1e151">
+               <lb ed="#F" n="16"/>Sit verbi gratia lapis A. B.
+            <lb ed="#F" n="17"/>cuius A: sit pars 
+            septentrio<lb ed="#F" n="18" break="no"/>nalis B. australis, intelligere
+            <lb ed="#F" n="19"/>debemus ex puncto A. 
+            virtu<lb ed="#F" n="20" break="no"/>tem undique diffundi non 
+            se<lb ed="#F" n="21" break="no"/>cus, ac ex luminoso aliquo
+            <lb ed="#F" n="22"/>corpore radij disperguntur.
+            <lb ed="#F" n="23"/>Hi ergo virtutis radij sunt ita
+            <lb ed="#F" n="24"/>dispositi, ut recedendo ab A.
+            <lb ed="#F" n="25"/>habeant faciem 
+            septentrio<lb ed="#F" n="26" break="no"/>nalem proiectam antrorsum,
+            <lb ed="#F" n="27"/>ac propterea ex illo puncto
+            <lb ed="#F" n="28"/>deduxi lineas quaqua versum, in quarum extremitate notavi litteram S. ut
+            <lb ed="#F" n="29"/>indicarem proijcere antrorsum faciem septentrionalem. Similiter ex 
+            par<lb ed="#F" n="30" break="no"/>te B. diffunduntur quaqua versum virtutis radij, qui per se ferunt, seù 
+            proij<lb ed="#F" n="31" break="no"/>ciunt antrorsum faciem meridionalem, sicut eam praefert lapis ipse in 
+            par<lb ed="#F" n="32" break="no"/>te B. ac propterea hos radios notavi littera M. ut ostenderem procedendo
+            <lb ed="#F" n="33"/>ad illam partem esse radium meridionalem, sicuti procedendo ab 
+            extre<lb ed="#F" n="34" break="no"/>mo B. versus est septentrionalis. quod fortasse sibi voluit Porta; qui ex 
+            ob<lb ed="#F" n="35" break="no"/>servationibus Garzonij hoc desumpsit, &amp; quem immerito reprehendit 
+            Gil<lb ed="#F" n="36" break="no"/>bertus; quod dicat centrum virtutis magneticae esse in polo: contendit
+            <lb ed="#F" n="37"/>enim ipse Gilb. potius ex centro lapidis, quam ex polo diffundi virtutis
+            <lb ed="#F" n="38"/>radios.
+         <lb ed="#F" n="42" type="fixed=144"/>
+               <figure xml:id="p9i7y5-e15419-Fd1e206">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869887/1259,1533,1209,778/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A B S S S S S M S M M M M M M S M S S S S S M S M</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375575-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e15419-d1e225">
+               <lb ed="#F" n="39" type="fixed=144"/>Hoc non ideo dico, quia putem vim agendi in magnete solos obtinere
+            <lb ed="#F" n="40"/>polos, &amp; indivisibilia quaedam puncta, de quibus ambigas, an dentur, 
+            ne<lb ed="#F" n="41" break="no"/>dum an vim agendi obtineant (quod si sibi voluit Porta, falsus est) sed quod
+            <!--163.xml-->
+
+         <!--164.xml-->
+         <pb ed="#F" n="145"/>
+               <lb ed="#F" n="1"/>totus dum agit lapis, ex istis quasi punctis prodeat vis activa. Sicut enim
+            <lb ed="#F" n="2"/>universae lapidis partes dirigunt suas vires internas ad polos, ita vicissim à
+            <lb ed="#F" n="3"/>polis collectae vires ad circumiecta corpora diffunduntur. Vel, quod idem
+            <lb ed="#F" n="4"/>est, &amp; fortasse magis rem explicat, sicut in lapide ipso, universa vis activa
+            <lb ed="#F" n="5"/>ad polos dirigitur; ex quo fit, ut quo magis partes fuerint polis proximae,
+            <lb ed="#F" n="6"/>eo magis ostentent vires, cum alijs partibus remotioribus in idem 
+            conan<lb ed="#F" n="7" break="no"/>tibus iuvenitur, ut supra demonstravi; ita etiam vis, quae in medio est 
+            cir<lb ed="#F" n="8" break="no"/>cumfusa à polis, quasi dispergitur, ut vis, quae directè usque ad polos 
+            propa<lb ed="#F" n="9" break="no"/>gata est per interna lapidis: nam exit è polo tanquam è communi termino,
+            <lb ed="#F" n="10"/>&amp; refringitur, &amp; quaqua versum effunditur.
+        </p>
+            <p xml:id="p9i7y5-e15419-d1e262">
+               <lb ed="#F" n="11"/>Neque vero contendo, dum dico virtutis radios diffundi ex polis, ut in
+            <lb ed="#F" n="12"/>figura describuntur, verè radios, &amp; lineas virtutis insignes proseminari:
+            <lb ed="#F" n="13"/>nusquam enim in corporibus designantur, aut distinguuntur huiusmodi
+            <lb ed="#F" n="14"/>lineae; sed sequor in hoc loquendimorem Perspectivorum, qui tamen 
+            ne<lb ed="#F" n="15" break="no"/>que ipsi ex sua loquendi forma, quae tale quid sonare videtur, contendunt
+            <lb ed="#F" n="16"/>verè dari lineas visuales mathematicas distinctas à corpore, sed illas sibi ex
+            <lb ed="#F" n="17"/>sphaera luminosa desumunt, ut illis suas demonstrent propositiones: quia
+            <lb ed="#F" n="18"/>verè totum illud medium, quod est luminoso corpore collustratum, vel in
+            <lb ed="#F" n="19"/>quod luminosum seù visibile corpus suam producit qualitatem, ita est à
+            <lb ed="#F" n="20"/>qualitate illa affectum, &amp; cum tali dependentia à luminoso seù visibili 
+            cor<lb ed="#F" n="21" break="no"/>pore, ut, si ducerentur illae lineae, quas dicunt, &amp; assumunt Perspectivi, 
+            ve<lb ed="#F" n="22" break="no"/>re haberent in se illam qualitatem illo modo affectam, &amp; cum illa 
+            dependen<lb ed="#F" n="23" break="no"/>tia, ac propterea possunt Perspectivi illas lineas assumere; nec, dum sumunt,
+            <lb ed="#F" n="24"/>dicuntur quicquam fingere; quia verè, si ducerentur illae lineae, tales essent.
+            <lb ed="#F" n="25"/>Pari ergo ratione ex toto lapide virtutem diffundi suppono, quae tamen talis
+            <lb ed="#F" n="26"/>est, ut in ea possint lineae designari, quas dico sic esse dispositas, &amp; medium
+            <lb ed="#F" n="27"/>sic illa qualitate affectum, ut si in illo lineae designentur &amp; radij, talem 
+            ha<lb ed="#F" n="28" break="no"/>beant positionem, &amp; situm, qualem definio.
+        </p>
+            <p xml:id="p9i7y5-e15419-d1e304">
+               <lb ed="#F" n="29"/>Concludo igitur sicuti in recta A. B. dirigitur virtus facierum in ipso 
+            la<lb ed="#F" n="30" break="no"/>pide ingenita, ita ut tota virtus A. B. ab A. ad B. sit meridionalis, &amp; tota à
+            <lb ed="#F" n="31"/>B. ad A. septentrionalis: &amp; in hanc reliquae omnes magnetis partes 
+            obli<lb ed="#F" n="32" break="no"/>que dirigunt suas vires, obliquè, in quam, quia non dirigunt vires ab 
+            ex<lb ed="#F" n="33" break="no"/>tremo ad extremum sibi in lapide oppositum linea diametrali, nec 
+            diri<lb ed="#F" n="34" break="no"/>gunt vires per lineas parallelas axi, ea fere ratione, qua lignorum venae per
+            <lb ed="#F" n="35"/>longum excurrere solent, sed omnes in polos collimant; ita etiam in tota
+            <lb ed="#F" n="36"/>vi, quae in aere, &amp; in magneticae virtutis orbe simul cum ea, quae in 
+            ma<lb ed="#F" n="37" break="no"/>gnete posita est, sola invenitur linea diametralis S. A. B. M. quae in 
+            dire<lb ed="#F" n="38" break="no"/>ctum protenditur; reliquae vero partes huic famulantes sunt, &amp; in hanc suas
+            <lb ed="#F" n="39"/>dirigunt vires. Neque satis fuit Gilberto dixisse ex centro lapidis virtutem
+            <lb ed="#F" n="40"/>undique diffundi; debuisset hoc probare, quò nostram infringeret 
+            opinio<lb ed="#F" n="41" break="no"/>nem, quam in Porta, ad quem observationes huius nostrae doctrinae 
+            perve<lb ed="#F" n="42" break="no"/>nerunt, reprehendit: Hoc enim nos dicimus, ex modo, quo magnes al¬
+            <!--165.xml-->
+            <pb ed="#F" n="146"/>
+               <lb ed="#F" n="1"/>licit, &amp; dirigit magnetica, colligimus, &amp; ex eo, quod in ipso lapide 
+            par<lb ed="#F" n="2" break="no"/>tes reliquae, etiam ipso fatente, ad polos vires disponunt. Nequis vero 
+            su<lb ed="#F" n="3" break="no"/>spicetur nos id contendere, puncta solum illa polaria agere: totum enim
+            <lb ed="#F" n="4"/>magnetem agere assevero, ea ratione, qua mox in conclusione, &amp; in 
+            to<lb ed="#F" n="5" break="no"/>tius quaestionis solutione ostendam.
+        </p>
+            <p xml:id="p9i7y5-e15419-d1e352">
+               <lb ed="#F" n="6"/>Quod igitur dico, est, has lapidis vires mensurari tum à perfectione, &amp;
+            <lb ed="#F" n="7"/>forma non vitiata ipsius lapidis, &amp; externo malo non infecta, tum etiam
+            <lb ed="#F" n="8"/>à quantitate, &amp; mole ipsius magnetis. neutra pars habet difficultatem:
+            <lb ed="#F" n="9"/>utrunque enim passim incurrit in sensus; &amp; prima quidem obvia est: mihi
+            <lb ed="#F" n="10"/>enim misit quidam lapidem magnetem satis magnum, qui, cum esset vere
+            <lb ed="#F" n="11"/>magnes, nihil tamen ferri ad se propemodum provocabat, ne ramenta 
+            qui<lb ed="#F" n="12" break="no"/>dem. Secunda etiam pars supra probata est, ubi confeci, si vires non 
+            au<lb ed="#F" n="13" break="no"/>gentur mole, futurum ut tantundem suspendat ferri minutissimus 
+            ma<lb ed="#F" n="14" break="no"/>gnes, quantum ingens massa; praeterquam quod quivis experientia doctus,
+            <lb ed="#F" n="15"/>fatebitur hoc esse verum.
+        </p>
+            <p xml:id="p9i7y5-e15419-d1e376">
+               <lb ed="#F" n="16"/>Dico praeterea sicuti in extremo lapide, &amp; in polis exit quasi qualitas, ut
+            <lb ed="#F" n="17"/>ita dicam, unica, &amp; simplex, quae tota disponitur in ordine ad unam 
+            par<lb ed="#F" n="18" break="no"/>tem, conspirante toto laqide ad illam unciam actionem; ita in partibus 
+            in<lb ed="#F" n="19" break="no"/>termedijs quodammodo videtur se prodere duplex actio, quarum una 
+            impel<lb ed="#F" n="20" break="no"/>lit, seù disponit ad unam partem, &amp; alia pars magnetis quasi proijcit 
+            a<lb ed="#F" n="21" break="no"/>ctionem ad aliam, &amp; quomagis punctum sumitur medium, eo efficacius,
+            <lb ed="#F" n="22"/>quia utraque pars est aequalis, utraque suam habet actionem.
+        </p>
+            <p xml:id="p9i7y5-e15419-d1e394">
+               <lb ed="#F" n="43" type="fixed=146"/>
+               <figure xml:id="p9i7y5-e15419-Fd1e399">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869889/1444,2022,1011,707/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A C E G B H F D</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375578-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="23" type="fixed=146"/>Rem hanc, quae fortasse sub obscura videatur, fere sic explicat 
+            Garzo<lb ed="#F" n="24" break="no"/>nius. Sit magnes A. B. cuius A. polus
+            <lb ed="#F" n="25"/>sit septentrionalis B. australis; à pun
+            <lb ed="#F" n="26"/>cto A. ad anteriora diffunditur 
+            qua<lb ed="#F" n="27" break="no"/>litas tota unius rationis, quę tota ad
+            <lb ed="#F" n="28"/>illam partem .i. ad septentrionem dirigitur;
+            <lb ed="#F" n="29"/>quia, sicut virtus, quae est in lapide
+            <lb ed="#F" n="30"/>à B. parte opposita usque ad A. 
+            pun<lb ed="#F" n="31" break="no"/>ctum actionis, tota est uno modo
+            <lb ed="#F" n="32"/>ordinata ab austro scilicet in septen
+            <lb ed="#F" n="33"/>trionem, ut superius iam satis 
+            pro<lb ed="#F" n="34" break="no"/>batum est; ita, quia eodem modo
+            <lb ed="#F" n="35"/>res se habet in operando, quo est in
+            <lb ed="#F" n="36"/>se, dirigit etiam totam actionem ad
+            <lb ed="#F" n="37"/>unam partem ibi sicut totus lapis est illo modo quasi ordinatus. At
+            <lb ed="#F" n="38"/>verò si sumatur punctum aliquod intermedium, ut C. vel G. quia 
+            conside<lb ed="#F" n="39" break="no"/>rando punctum illud praecisè, &amp; discedendo ab illo puncto lapidem versus
+            <lb ed="#F" n="40"/>per lineam rectam partem ad quamcunque illius, non unica ratione erunt
+            <lb ed="#F" n="41"/>dispositae omnes illae rectae lineae, quae ex C. ducentur, sicuti omnes erant
+            <lb ed="#F" n="42"/>eodem modo dispositae, quae ex A. ducebantur ad interiora lapidis: si enim
+            <!--165.xml-->
+
+         <!--166.xml-->
+         <pb ed="#F" n="147"/>
+               <lb ed="#F" n="1"/>ducatur à C. ad A. excurret haec in septentrionem procedendo A. versus, &amp;
+            <lb ed="#F" n="2"/>ita per lineam A. C. continuatam extra lapidem proijceretur quasi 
+            quali<lb ed="#F" n="3" break="no"/>tas, quae respiceret austrum. si autem ducatur ex C. ad B. haec linea, 
+            excur<lb ed="#F" n="4" break="no"/>ret, &amp; disponetur ad austrum procedendo ad B. polum australem, &amp; ita 
+            li<lb ed="#F" n="5" break="no"/>nea B. C: continuata extra lapidem proijceret qualitatem, quae respiceret
+            <lb ed="#F" n="6"/>septentrionem. ergo ex puncto C. exirent quasi duo radij, quorum unus 
+            di<lb ed="#F" n="7" break="no"/>rigeretur ab A. C. in austrum, alter à B. C. in septentrionem.
+        </p>
+            <p xml:id="p9i7y5-e15419-d1e483">
+               <lb ed="#F" n="8"/>Faciamus igitur totum lapidem A. B. habere vim producendi, ut 
+            quat<lb ed="#F" n="9" break="no"/>tuor, pro sui magnitudine; idest faciamus, ut illa vis qualitatis 
+            magneti<lb ed="#F" n="10" break="no"/>cae, quae crescit, vel decrescit magnitudine, ac mole, ut supra probavi,
+            <lb ed="#F" n="11"/>propter magnitudinem ipsius lapidis, excreverit ad quattuor gradus; 
+            in<lb ed="#F" n="12" break="no"/>telligatur iam divisus lapis quadrifariam, per C. D. E. F. G. H. tunc, cum
+            <lb ed="#F" n="13"/>ex C. diffunditur qualitas, diffundetur ita, ut secundum tres gradus 
+            diri<lb ed="#F" n="14" break="no"/>gat ad septentrionem, secundum unum ad austrum; idest secundum tres
+            <lb ed="#F" n="15"/>gradus dirigatur eo modo, quo dirigeretur in A. secundum unum eo 
+            mo<lb ed="#F" n="16" break="no"/>dio, quo dirigeretur in B. Hoc sic conficio. Lapis B. C. D. tres continet 
+            par<lb ed="#F" n="17" break="no"/>tes, quarum quattuor continet totus A. B. ergo si totus A. B. producit 
+            qua<lb ed="#F" n="18" break="no"/>tuor qualitatis gradus B. C. D. tres tantum producet: quandoquidem 
+            de<lb ed="#F" n="19" break="no"/>crescente mole, pari ratione decrescit activa virtus. Deinde cum lapis B.
+            <lb ed="#F" n="20"/>C. D. totus secundum se à B: C. ad D. respiciat septentrionem ex C. vel
+            <lb ed="#F" n="21"/>D. diffundentur illi tres gradus qualitatis impellentes ad septentrionem 
+            in<lb ed="#F" n="22" break="no"/>sistendo doctrinae supra traditae. Rursus, cum lapis A. C. D. unam 
+            conti<lb ed="#F" n="23" break="no"/>neat partem earum, quarum totus A. B. quatuor continet, si totus A. B.
+            <lb ed="#F" n="24"/>producit quatuor gradus A. C. D. unicum producet: cumque tota pars 
+            la<lb ed="#F" n="25" break="no"/>pidis A. C. D. ab A. ad C. D. respiciat austrum, ex quolibet puncto C. vel D.
+            <lb ed="#F" n="26"/>profluet qualitas australis respiciens, &amp; vergens ad austrum eadem 
+            con<lb ed="#F" n="27" break="no"/>tinuata ratione &amp; cursu, quo est in lapide: ergo ex puncto C. 
+            progrediun<lb ed="#F" n="28" break="no"/>tur quatuor gradus qualitatis tres ex parte B. C. D. dirigentes in 
+            septentrio<lb ed="#F" n="29" break="no"/>nem, unus ex parte A. C. D. in austrum directus.
+        </p>
+            <p xml:id="p9i7y5-e15419-d1e533">
+               <lb ed="#F" n="30"/>Simili ratione demonstrabitur vis ex quolibet extremo puncto sectionis G.
+            <lb ed="#F" n="31"/>H. quae ex adverso secundum tres gradus in austrum dirigat, secundum
+            <lb ed="#F" n="32"/>unum in septentrionem. Cum enim totus lapis A. G. H. ab A. ad G. H. in
+            <lb ed="#F" n="33"/>austrum sit conversus, ex G. vel H. non nascetur nisi qualitas vergens, &amp;
+            <lb ed="#F" n="34"/>dirigens ad easdem partes: &amp; quia tres sunt ex toto lapide partes, tres etiam
+            <lb ed="#F" n="35"/>producet gradus similiter B. G. H. à B. ad G. H. septentrionem respicit ab
+            <lb ed="#F" n="36"/>illa parte, ex G. vel H. emittetur qualitas, quae septentrionem respiciat;
+            <lb ed="#F" n="37"/>cumque haec unicam contineat partem, quarum A. B. quatuor continet,
+            <lb ed="#F" n="38"/>unico etiam virium gradu in septentrionem impellet.
+        </p>
+            <p xml:id="p9i7y5-e15419-d1e555">
+               <lb ed="#F" n="39"/>Denique ex punctis E. &amp; F. orietur qualitas, quae partito imperio, 
+            secun<lb ed="#F" n="40" break="no"/>dum duos gradus in austrum, secundum duos in septentrionem dirigat.
+            <lb ed="#F" n="41"/>Cum enim lapis A. B. sit bifariam divisus in E. F. utraque pars aequalem
+            <lb ed="#F" n="42"/>habebit vim, &amp; utraque aequaliter ad suos impellet terminos. Hoc totum
+            <!--167.xml-->
+            <pb ed="#F" n="148"/>
+               <lb ed="#F" n="1"/>per modum exempli intellectum velim, quantum satis est ad hanc rem 
+            ex<lb ed="#F" n="2" break="no"/>plicandam.
+        </p>
+            <p xml:id="p9i7y5-e15419-d1e575">
+               <lb ed="#F" n="3"/>Hic modus philosophandi vim habet, si considerentur partes lapidis
+            <lb ed="#F" n="4"/>separatae, seù ut separatae: 
+            ve<lb ed="#F" n="5" break="no"/>rum quia lapis totus unus est,
+            <lb ed="#F" n="6"/>&amp; unicam habet actionem,
+            <lb ed="#F" n="7"/>ideo vere haec ratio 
+            philoso<lb ed="#F" n="8" break="no"/>phandi, &amp; solvendi rationem
+            <lb ed="#F" n="9"/>non satisfacit omnino, nec
+            <lb ed="#F" n="10"/>etiam experimenta suffragan
+            <lb ed="#F" n="11"/>tur, &amp; posset evidenter 
+            impu<lb ed="#F" n="12" break="no"/>gnari. posui tamen, quia 
+            no<lb ed="#F" n="13" break="no"/>bis etiam veram pandit 
+            phi<lb ed="#F" n="14" break="no"/>losophandi rationem, quae
+            <lb ed="#F" n="15"/>verè pendet ex diversa partium,
+            <lb ed="#F" n="16"/>seù radiorum actione, quae in diversis punctis esse intelligitur. quod ut osten
+            <lb ed="#F" n="17"/>dam, &amp; per hoc confirmem modum propagationis virtutis magneticae 
+            sup<lb ed="#F" n="18" break="no"/>positum evidenter ex signo à posteriori,
+         <lb ed="#F" n="43" type="fixed=148"/>
+               <figure xml:id="p9i7y5-e15419-Fd1e615">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869891/1259,654,1191,755/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A M C E D B M S S S S S M S M S M M M M M S M S S S S S</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375581-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e15419-d1e633">
+               <lb ed="#F" n="19" type="fixed=148"/>Sit magnes supra positus A. B. dixi ex puncto A. polari prodire radios
+            <lb ed="#F" n="20"/>virtutis quaqua versum, non solum ad anteriora magnetis, sed etiam, quasi
+            <lb ed="#F" n="21"/>reflexos, ad interiora ipsius, qui radij antrorsum in sui fronte deferrunt 
+            fa<lb ed="#F" n="22" break="no"/>ciem septentrionalem, ac perinde notatur S. similiter ex B. prodeunt radij
+            <lb ed="#F" n="23"/>quaqua versum, qui defferunt in extremitate meridionalem frontem, &amp;
+            <lb ed="#F" n="24"/>ideo notatur M. ex quò sequitur, quod ex quolibet puncto, ut ex C. &amp; D.
+            <lb ed="#F" n="25"/>intelligantur prodire duo radij, unus ex A. C: S. alter ex B. C. M. primo si
+            <lb ed="#F" n="26"/>accommodetur ferrum, recipit in sua parte tangente magnetem partem,
+            <lb ed="#F" n="27"/>seù faciem meridionalem, in opposita septentrionalem; secundo si 
+            accom<lb ed="#F" n="28" break="no"/>modetur, contrario modo afficitur. Iam vero ex duobus radij isti 
+            progre<lb ed="#F" n="29" break="no"/>dientes ex polis maiorem habent vim activam, primo, quo fuerint magis
+            <lb ed="#F" n="30"/>directi ad axem, eò efficaciores sunt, secundo, quo fuerint proximiores polo,
+            <lb ed="#F" n="31"/>seù quo passum ponitur in puncto illius radij proximiore ad polum, à quo
+            <lb ed="#F" n="32"/>radius desumitur eo efficacius patitur. His duob. positis, quae satis per se 
+            no<lb ed="#F" n="33" break="no"/>ta sunt, primum enim, vel ex eo constat, quod si obelus puncto A. 
+            applice<lb ed="#F" n="34" break="no"/>tur, semper eligitur ab obelo, ut commodius ibi se habeat dum erigitur ad
+            <lb ed="#F" n="35"/>axem: secundum constat, quia si A. est punctum, à quo exit virtus 
+            dissemi<lb ed="#F" n="36" break="no"/>nata uniformiter difformiter; ergo, quo punctum sumitur propinquius ad
+            <lb ed="#F" n="37"/>A. eò fortior est actio. His inquam positis.
+        </p>
+            <p xml:id="p9i7y5-e15419-d1e677">
+               <lb ed="#F" n="38"/>Si sumatur punctum C. ad illud punctum dirigitur radius A. S. ex A. qui in
+            <lb ed="#F" n="39"/>parte tangente lapidem habet faciem meridionalem, in extremo, seù 
+            pro<lb ed="#F" n="40" break="no"/>iectis partibus extra lapidem habet faciem septentrionalem, similiter ex B.
+            <lb ed="#F" n="41"/>exit radius B. C. M. qui in contactu lapidis habet faciem septentrionalem,
+            <lb ed="#F" n="42"/>proiectam antrorsum australem: si ergo obelus positus in C. conformaretur
+            <!--167.xml-->
+
+         <!--168.xml-->
+         <pb ed="#F" n="149"/>
+               <lb ed="#F" n="1"/>primo radio, aequireret virtutem illius, si secundo, ex eius etiam positione
+            <lb ed="#F" n="2"/>virtutem in se derivaret: verum quia radius A. C. S. habet punctum C. 
+            ma<lb ed="#F" n="3" break="no"/>gis propinquum principio A. quam habet idem punctum radius B. C. M.
+            <lb ed="#F" n="4"/>ideo obelus magis illi, quam huic conformatur, ut efficaciori, ex illoque
+            <lb ed="#F" n="5"/>magis in se qualitatem derivat; quia tamen etiam alter radius B. C. M. suum
+            <lb ed="#F" n="6"/>exerit conatum, deturbat obelum ex directione praecisa radij A. C. S. &amp; non
+            <lb ed="#F" n="7"/>nihil etiam sibi accommodat. quia tamen efficacitas primi est maior, ideo
+            <lb ed="#F" n="8"/>absolute obelus in extremo tangente habet faciem meridionalem, in altero
+            <lb ed="#F" n="9"/>septentrionalem, ut est etiam in radio virtutis C. S. &amp; pro maiori, vel 
+            mi<lb ed="#F" n="10" break="no"/>nori distantia ipsius C. ad A. efficacius etiam, vel debilius in se virtutem 
+            de<lb ed="#F" n="11" break="no"/>rivat, ita ut ex hac directione possit quasi vis directiva mensurari. 
+            contra<lb ed="#F" n="12" break="no"/>rium accidit in puncto D, quod magis accedit ad B. quam A.
+        </p>
+            <p xml:id="p9i7y5-e15419-d1e724">
+               <lb ed="#F" n="13"/>Si verò obelus ponatur in medio lapide seu in aequinoctio E. tunc, quia
+            <lb ed="#F" n="14"/>tanta est vis radiorum; qui proveniunt ex A. quanta illorum, qui 
+            prove<lb ed="#F" n="15" break="no"/>niunt ex B. ideo non est maior ratio, cur uni potius famuletur obelus, quam
+            <lb ed="#F" n="16"/>alteri; &amp; cur potius erigatur iuxta radium A. E. S. quam iuxta B. E. M. hinc
+            <lb ed="#F" n="17"/>est ut prosternatur obelus &amp; iaceat parallelus axi: quia tamen extremitas 
+            il<lb ed="#F" n="18" break="no"/>la obeli, quae est versus A. propinquior est ipsi A. &amp; ideo radij, qui ad illam
+            <lb ed="#F" n="19"/>extremitatem perveniunt, efficaciores sunt, ideo vim concipit in illo 
+            extre<lb ed="#F" n="20" break="no"/>mo ac si tangeret A. in altero extremo vim habet, quam haberet ex contactu
+            <lb ed="#F" n="21"/>B. atque ex hoc patet cur dixerim speculationem Garzoni; evidenter 
+            impu<lb ed="#F" n="22" break="no"/>gnari posse: ex eius enim dicto obelus in C. deberet habere in extremo 
+            tan<lb ed="#F" n="23" break="no"/>gente faciem septentrionalem, in altero australem: vult enim obelum ibi
+            <lb ed="#F" n="24"/>vim habere, quam daret radius A. C. si pars illa esset divisa à reliquo lapide;
+            <lb ed="#F" n="25"/>at si esset divisa, sic produceret qualitatem, ergo &amp; tunc producet; sed 
+            con<lb ed="#F" n="26" break="no"/>trarium experientia ostendit. similiter in medio pars obeli ad B. haberet 
+            fa<lb ed="#F" n="27" break="no"/>ciem septentrionalem pars ad A. Meridionalem: atqui contrarium 
+            ac<lb ed="#F" n="28" break="no"/>cidit.
+        </p>
+            <p xml:id="p9i7y5-e15419-d1e761">
+               <lb ed="#F" n="29"/>Neque vero dicas; ex hoc sequi videtur sphaeram activitatis non esse
+            <lb ed="#F" n="30"/>aequaliter fusam, non enim hoc sequitur: quantum enim ex una qualitatis
+            <lb ed="#F" n="31"/>detrahitur, tantum alteri accrescit, atque ità aequalis utrinque durat sphaera
+            <lb ed="#F" n="32"/>nihilominus.
+        </p>
+            <p xml:id="p9i7y5-e15419-d1e772">
+               <lb ed="#F" n="33"/>Poro ex his, quae hactenus deducta sunt, aliquis non adducatur, ut 
+            cre<lb ed="#F" n="34" break="no"/>dat me velle ex partibus oppositis, oppositas, &amp; sibi contrarias prodire 
+            qua<lb ed="#F" n="35" break="no"/>litates. sicut enim unus &amp; idem est totus lapis nulla compositus 
+            contrarie<lb ed="#F" n="36" break="no"/>tate; ita etiam qualitas tota est una, &amp; simplex, quae ex toto lapide 
+            circum<lb ed="#F" n="37" break="no"/>quaque diffunditur. Quare hoc tantum volo huiusce lapidis hanc esse vim,
+            <lb ed="#F" n="38"/>&amp; rationem agendi, ut agat quidem quaqua versum, agat tamen iuxta 
+            cur<lb ed="#F" n="39" break="no"/>sum, &amp; fluentiam qualitatis, ut ita dicam, quae est in lapide. Quod
+            <lb ed="#F" n="40"/>videtur mihi commode posse explicari modo supraposito, si quasi ex B.
+            <lb ed="#F" n="41"/>intelligantur radij exire ad interiora lapidis, sicuti alij exeunt extra modo
+            <lb ed="#F" n="42"/>supra explicato; qui radij terminentur ad quaelibet puncta lapidis, &amp; ad sep¬
+            <!--169.xml-->
+            <pb ed="#F" n="150"/>
+               <lb ed="#F" n="1"/>tentrionem dirigantur. sicuti ex A. intelliguntur prodire radij qui exeant
+            <lb ed="#F" n="2"/>&amp; ex quolibet puncto lapidis, &amp; vergant in austrum; &amp;, quo radij fuerint
+            <lb ed="#F" n="3"/>magis prope axem, magis directè agunt, &amp; consequenter efficacius, sicuti
+            <lb ed="#F" n="4"/>accidit in luminoso corpore. Ex toto tamen lapide integro unica prodit
+            <lb ed="#F" n="5"/>qualitas, unica ratione disposita, sicuti ex unico luminoso unicum prodit
+            <lb ed="#F" n="6"/>lumen, dispositum tamen pro ratione luminosi: in quo si ducantur illae 
+            li<lb ed="#F" n="7" break="no"/>neae, habent verè illam dispositionem. &amp; hic est proprius agendi modus
+            <lb ed="#F" n="8"/>magneticorum; &amp; hoc pacto suam diffundunt sphaeram activitatis.
+        </p>
+            <p xml:id="p9i7y5-e15419-d1e818">
+               <lb ed="#F" n="43" type="fixed=150"/>
+               <figure xml:id="p9i7y5-e15419-Fd1e823">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869893/1422,1130,1023,1085/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">B C E F A H D T R Q N O S M</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375584-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="9" type="fixed=150"/>Ex his iam apparet solutio difficultatis suprapositae, quam hactenus 
+            om<lb ed="#F" n="10" break="no"/>nes intentatam reliquerunt, &amp; apparebit ratio illius, quod dicebam in 
+            prae<lb ed="#F" n="11" break="no"/>cedenti libro, cur in globo 
+            ma<lb ed="#F" n="12" break="no"/>gnetico A. C. B. D. obelus in A. 
+            di<lb ed="#F" n="13" break="no"/>rectè ad axem dirigatur, &amp; ad 
+            cen<lb ed="#F" n="14" break="no"/>trum in E. vel F. oblique cadat, in
+            <lb ed="#F" n="15"/>C. adiaceat: non enim id pendet
+            <lb ed="#F" n="16"/>ex chordis longioribus, aut 
+            bre<lb ed="#F" n="17" break="no"/>vioribus, ut supra contra 
+            Gilber<lb ed="#F" n="18" break="no"/>tum disputabam; cum haec 
+            desi<lb ed="#F" n="19" break="no"/>gnatio chordae sit aliquid, quod
+            <lb ed="#F" n="20"/>consequitur ex directione obeli;
+            <lb ed="#F" n="21"/>sed haec reddenda: est ratio ex 
+            su<lb ed="#F" n="22" break="no"/>praposita doctrina. Ponatur 
+            obe<lb ed="#F" n="23" break="no"/>lus in E. posito quod lapis sic 
+            ad<lb ed="#F" n="24" break="no"/>huc unus sit, ex B. per radium B.
+            <lb ed="#F" n="25"/>E. M. lapis totus transmittet 
+            vir<lb ed="#F" n="26" break="no"/>tutem directivam in austrum. quare,
+            <lb ed="#F" n="27"/>si nihil aliud esset obelus 
+            consti<lb ed="#F" n="28" break="no"/>tutus in E. dirigeretur à radio B. E. M. &amp; in eo puncto faceret talem 
+            angu<lb ed="#F" n="29" break="no"/>lum cum plano E. H. &amp; disponeret se ad radium M. B. sed quia est alia pars
+            <lb ed="#F" n="30"/>magnetis seu aliud extremum, quodetiam ipsum ex puncto E. transmittit
+            <lb ed="#F" n="31"/>radios virtutis, qui radij proveniunt ex A. &amp; diriguntur in septentrionem
+            <lb ed="#F" n="32"/>per punctum E. transmittet etiam radium A. E. O. directivum in 
+            septentrio<lb ed="#F" n="33" break="no"/>nem, &amp; si nihil aliud esset nisi ille radius magnetis E. A. O. obelus 
+            consti<lb ed="#F" n="34" break="no"/>tutus in E. dirigeretur ab illo radio, &amp; congrueret cum E. O. Quia ergo
+            <lb ed="#F" n="35"/>unus quisque radius conspirat ad agendum per E. &amp; suum effundit 
+            impe<lb ed="#F" n="36" break="no"/>tum suo modo directum, &amp; utraque pars conatur sibi disponere obelum;
+            <lb ed="#F" n="37"/>hinc sit, ut obelus in E. neque accommodetur ad radium E. M. neque ad
+            <lb ed="#F" n="38"/>radium E. O. sed media quadam ratione disponatur, &amp; repellatur a 
+            dire<lb ed="#F" n="39" break="no"/>ctione radij E. M. tantum, quanta est vis radij E. O. dirigentis ad se 
+            compa<lb ed="#F" n="40" break="no"/>rata cum vi radij E. M. Quae vis ex una parte videretur sumenda ex 
+            quan<lb ed="#F" n="41" break="no"/>titate partium, ita ut, sicut se habet portio sphaerae E. A. H. ad portionem
+            <lb ed="#F" n="42"/>sphęrę E. B. H; ita se habeat inversa proportione deviatio obeli à radio C. M.
+            <!--169.xml-->
+
+         <!--170.xml-->
+         <pb ed="#F" n="151"/>
+               <lb ed="#F" n="1"/>ad deviationem à radio E. O. at quia magnetica, ut alibi demonstrabo, non
+            <lb ed="#F" n="2"/>praecisè ex sola mole vim habent activam. sed ex naturali longitudine 
+            mo<lb ed="#F" n="3" break="no"/>do supra explicato, &amp; quo longitudo naturalis est maior, eo vis activa 
+            cae<lb ed="#F" n="4" break="no"/>teris paribus etiam maior est, &amp; quia quo punctum in magnete sumptum
+            <lb ed="#F" n="5"/>propinquum magis est polorum alteri, quia radius brevis magis ad tale
+            <lb ed="#F" n="6"/>punctum provenit ex vicino polo, quam ex remoto, cum A. E. brevior sit
+            <lb ed="#F" n="7"/>quam A. B. efficaciorem habebit vim A. E. O quam B. E. M. &amp; ideo dixi 
+            in<lb ed="#F" n="8" break="no"/>vertendam esse proportionem magnitudinis portionum sphaerae, &amp; 
+            longi<lb ed="#F" n="9" break="no"/>tudinem partium axis. &amp; quia, quò magis radius exit è suo polo directus ad
+            <lb ed="#F" n="10"/>axem, eo maiorem habet efficaciam, quò magis deflectit ab axe minorem,
+            <lb ed="#F" n="11"/>quia radius A. E. O. minus recedit ab axe quam B. E. M. ideo maiorem 
+            ha<lb ed="#F" n="12" break="no"/>bet efficaciam fortasse in eadem proportione omnino radius &amp; A. O. 
+            debe<lb ed="#F" n="13" break="no"/>ret continuari cum axe B. A. &amp; divertit faciendo angulum B. A. O. &amp; radius
+            <lb ed="#F" n="14"/>B. M. deberet continuari cum axe A. B. &amp; divertit faciendo angulum A. B. M.
+            <lb ed="#F" n="15"/>quae diversio sive reflexio est maior, quo minor est iste angulus; ideo 
+            mino<lb ed="#F" n="16" break="no"/>rem habet efficaciam.
+        </p>
+            <p xml:id="p9i7y5-e15419-d1e956">
+               <lb ed="#F" n="17"/>Igitur haec omnia simul sunt sumenda, &amp; dicendum, ut se habet portio
+            <lb ed="#F" n="18"/>sphaerae ad portionem, &amp; longitudo ad longitudinem, proportionaliter in
+            <lb ed="#F" n="19"/>versa proportione, &amp; angulus E. B. R. ad angulum E. A. R. componendo,
+            <lb ed="#F" n="20"/>si fieri potest, simul istas omnes proportiones, &amp; efficiendo duos terminos
+            <lb ed="#F" n="21"/>proportionis, ex quibus omnibus constituitur vis activa singulorum 
+            radio<lb ed="#F" n="22" break="no"/>rum in puncto E. tunc verum forte erit, quod ut se habent ista tria partis E.
+            <lb ed="#F" n="23"/>A. H. scilicet magnitudo, longitudo, &amp; angulus proportionaliter addendo
+            <lb ed="#F" n="24"/>pro quarto longitudinem A. E. ex una, &amp; E. B. ex altera parte ad 
+            magni<lb ed="#F" n="25" break="no"/>tudinem, ad longitudinem, &amp; angulum partis E. B. H. ita se habebit 
+            de<lb ed="#F" n="26" break="no"/>viatio obeli à radio E. M. ad deviationem à radio E. O. hoc est, ita se 
+            habe<lb ed="#F" n="27" break="no"/>bit angulus S. E. M. ad angulum S. E. O. sic videmus, si obelus in C. 
+            aequa<lb ed="#F" n="28" break="no"/>toris puncto collocetur, quia illa tria vel quatuor ibi aequalia sunt videlicet
+            <lb ed="#F" n="29"/>&amp; quantitas magnetis C. B. D. est aequalis quantitati C. A. D. &amp; longitudo
+            <lb ed="#F" n="30"/>A. T. est aequalis longitudini T. B. &amp; angulus C. A. T. est aequalis angulo
+            <lb ed="#F" n="31"/>C. B. T. &amp; linea A. C. lineae C. B. fieri, ut aequè potens sit radius A. C. Q &amp;
+            <lb ed="#F" n="32"/>B. C. H. obelus, inquam, ibi aequaliter deviatur à radio C. Q. &amp; à radio C. H.
+            <lb ed="#F" n="33"/>secundum sua extrema, iacetque parallelus axi A. B. Ex quo etiam videbis
+            <lb ed="#F" n="34"/>causam, cur, si ita constituatur obelus, ut iaceat parallelus axi supra 
+            aequa<lb ed="#F" n="35" break="no"/>torem, sic disponatur, quod ad virtutem, quam acquirit, ut pars quae 
+            ver<lb ed="#F" n="36" break="no"/>git ad B. acquirat vim se convertendi ad partem septentrionalem, ad quam
+            <lb ed="#F" n="37"/>dirigitur A. &amp; pars quae est ad A. acquirat vim se convertendi ad austrum,
+            <lb ed="#F" n="38"/>ad quam partem respicit B. &amp; hic vides per magnetica, &amp; propria principia
+            <lb ed="#F" n="39"/>explicari causam à priori magneticae inclinationis, quam inquirebam libro
+            <lb ed="#F" n="40"/>praecedenti, cuius ut iecit semina Garzonius, licet sub obscure, &amp; aliquo
+            <lb ed="#F" n="41"/>permixto errore ut in initijs contingit, tamen sua non est laude privandus: &amp;
+            <lb ed="#F" n="42"/>quia fortasse, si non totam praecipuam vim habent in directione magneti¬
+            <!--171.xml-->
+            <pb ed="#F" n="152"/>
+               <lb ed="#F" n="1"/>ca illa duo, radij obliquitas maior, vel minor ad axem virtutis, &amp; punctum
+            <lb ed="#F" n="2"/>radij magis propinquum suo principio, ideo non erit fortasse necesse nisi
+            <lb ed="#F" n="3"/>sumere illa duo angulum scilicet E. A. B. &amp; E. B. A. &amp; longitudinem A. E.
+            <lb ed="#F" n="4"/>&amp; E. B. fiat igitur ut maioritas anguli E. A. B. quae iuvat actionem ipsius A.
+            <lb ed="#F" n="5"/>in puncto E. magis ad angulum E. B. A. accedat, &amp; minoritas lineae A. E.
+            <lb ed="#F" n="6"/>quae pariter iuvat actionem, ad longiorem E. B. ità angulus O. E. G. ad G.
+            <lb ed="#F" n="7"/>L. M. sic enim fortasse dirigetur obelus eadem servata ratione.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

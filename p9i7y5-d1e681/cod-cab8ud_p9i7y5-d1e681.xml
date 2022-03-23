@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="4"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-d1e681"> <!-- l1c2 -->
+            <head xml:id="p9i7y5-d1e681-Hd1e107">Caput 2</head>
+            <p xml:id="p9i7y5-d1e681-d1e109">
+               <lb ed="#F" n="35"/>De varijs magnetum qualitatibus, &amp; proprietatibus. Caput Secundum.
+        </p>
+            <p xml:id="p9i7y5-d1e681-d1e114">
+               <lb ed="#F" n="36"/>Ab omnibus de magnete praedicatur, quòd fertum ad se trahat, &amp;
+            <lb ed="#F" n="37"/>si hoc addere velis, quòd ad polum convertatur. Verum, ne 
+            ni<lb ed="#F" n="38" break="no"/>mis, ut inquit ille, nuda prodiret veritas, &amp; brevis extaret 
+            hi<lb ed="#F" n="39" break="no"/>storia magnetica, addita sunt figmenta quaedam, &amp; mendacia,
+            <lb ed="#F" n="40"/>quae precocibus sciolis obijciuntur, &amp; ab illis hauriuntur avidissimè. quae¬
+            <!--23.xml-->
+            <pb ed="#F" n="4"/>
+               <lb ed="#F" n="1"/>dam in praefatione numeravi, alia omitto in praesentia. Medendi vim 
+            ma<lb ed="#F" n="2" break="no"/>gnetis varij recensent, quos omitto; quia res prorsus medica est. horum 
+            ca<lb ed="#F" n="3" break="no"/>talogum habes apud Gilbertum libro primo capite primo. Halli abbas
+            <lb ed="#F" n="4"/>vult dolori pedum, &amp; spasmo mederi: sed inter fabulas à multis re 
+            putan<lb ed="#F" n="5" break="no"/>tur; dolorem etiam capitis dicitur ab aliquibus profligare: meus certè 
+            ma<lb ed="#F" n="6" break="no"/>gnes tantum mihi conferre beneficij non potuit. Alij in magnetem 
+            ini<lb ed="#F" n="7" break="no"/>quiores mentem turbare, &amp; melancholicos efficere putant, ac plerumque 
+            in<lb ed="#F" n="8" break="no"/>terimere. Sic in incerto res medica iacet.
+        </p>
+            <p xml:id="p9i7y5-d1e681-d1e149">
+               <lb ed="#F" n="9"/>Verum magneti gloriosissimum illud esset, quod scripsit referente Gil.
+            <lb ed="#F" n="10"/>perto Garzia de hoste Tradunt, inquit, Indiae Orientalis incolae, magnetem
+            <lb ed="#F" n="11"/>parva quantitate sumptum adolescentiam conservare. Enimuere. si hoc
+            <lb ed="#F" n="12"/>esset, non solum argento appenso emerent plerique magnetem, ut suo et iam 
+            tem<lb ed="#F" n="13" break="no"/>pore factitatum refert Plinius, sed etiam auro copiosissimo, &amp; preciosissimis
+            <lb ed="#F" n="14"/>quibusque rebus sibi tantum bonum compararent: cum enim nihid sit 
+            ve<lb ed="#F" n="15" break="no"/>geta aetate aut iucundius, aut optabilius, quid magnetis precium 
+            compen<lb ed="#F" n="16" break="no"/>saret, quo haec posset conservari. praesertim in exigua sumptione? Refert ille
+            <lb ed="#F" n="17"/>Regem Zeilam patinas, seù ollas ex magnete iussisse confici, in quibus 
+            ci<lb ed="#F" n="18" break="no"/>bus eius coqueretur, ut hanc floridam inventam viridemque servaret. Sed
+            <lb ed="#F" n="19"/>duro sanè vireret succo iuventa, si magnes vigorem sufficeret. Ecquis scit,
+            <lb ed="#F" n="20"/>an ferrei barbarorum animi, nedum corpora magnete epoto nutriantur?
+            <lb ed="#F" n="21"/>iniuriosus ego sanè in magnetem essem, si hanc illi gloriam adime re 
+            vel<lb ed="#F" n="22" break="no"/>lem quamvis non putem illius unius scriptoris suffragium possessionem
+            <lb ed="#F" n="23"/>tam bonae famae potuisse deferre, nec solus tamen ego abiudico, &amp; de 
+            pos<lb ed="#F" n="24" break="no"/>sessione deijcio, quamvis optandum potius quam sperandum hoc auxtilium
+            <lb ed="#F" n="25"/>ab illo dixerim. Verum hic auctor fortasse non advertit hoc ex 
+            chimico<lb ed="#F" n="26" break="no"/>rum, nisi fallor, scholis derivatum esse qui suam magnam medicinam, &amp;
+            <lb ed="#F" n="27"/>lapidem philosophorum magnetem, seù magnesiam vocant, &amp; huic passim
+            <lb ed="#F" n="28"/>lapidi hoc attribuunt. fides sit penes auctores, ut virentem renovet 
+            iuventu<lb ed="#F" n="29" break="no"/>tem modice sumptus. non loquuntur autem de nostro magnete, &amp; fortasse
+            <lb ed="#F" n="30"/>Rex ille deceptus hac voce ex vulgari magnete ollas confecit. Non desunt,
+            <lb ed="#F" n="31"/>qui putent magnetem ferrum inficere, &amp; quasi venenatum reddere. Sic res
+            <lb ed="#F" n="32"/>se habent humanae, ut alij extollant, alij deprimant. putant enim 
+            adinteri<lb ed="#F" n="33" break="no"/>tum ferro magnete excito homines vulnerari. quod si verum esset, non ego
+            <lb ed="#F" n="34"/>nunc ista scriberem, iam enim veneni vim sensissem. fabula haec est: sic 
+            pro<lb ed="#F" n="35" break="no"/>nuntio experientia doctus. Video communiter magnetem inter 
+            exiccan<lb ed="#F" n="36" break="no"/>tia connumerari: effectum tamen hunc si magnes praestat, materialem 
+            pu<lb ed="#F" n="37" break="no"/>to, non formalem. Putant nonnulli illud proprium esse magnetis, &amp; 
+            for<lb ed="#F" n="38" break="no"/>male, ut, si in emplastris adhibeatur, è vulneribus ferrum abstrahat, si forte
+            <lb ed="#F" n="39"/>ibi delitescat. Sed vel ex hoc sentias, quam facile sit ex falso rumore, &amp; 
+            ma<lb ed="#F" n="40" break="no"/>le excepto rem ad diversa, &amp; falsa traducere. Magnes trahit quidem ad se
+            <lb ed="#F" n="41"/>ferrum, sed determinata ratione, ut postea dicetur, &amp; integer, non in 
+            pulve<lb ed="#F" n="42" break="no"/>rem redactus, &amp; aliarum rerum mixtione foedatus: ferrum'que potius ad se
+            <!--24.xml-->
+            <pb ed="#F" n="5"/>
+               <lb ed="#F" n="1"/>ramenta traheret magnetis, ac per hoc recrudesceret vulnus, non remedium
+            <lb ed="#F" n="2"/>afferretur. Quod si aliquis ad huiusmodi remedium magnetem adhibuit,
+            <lb ed="#F" n="3"/>&amp; in emplastro, conterendo magnetem, felici successu ferrum ex vulnere
+            <lb ed="#F" n="4"/>extraxit, id factum est, mihi credat, ex alio quam ex magnete, nec 
+            quid<lb ed="#F" n="5" break="no"/>quam magnes profuit hac in re, ut ex infra dicendis patebit. Tamen haec,
+            <lb ed="#F" n="6"/>&amp; alia medicamentorum genera in quibus sivè benè, sivè malè magnes 
+            ad<lb ed="#F" n="7" break="no"/>hibeatur, alijs examinanda relinquo.
+        </p>
+            <p xml:id="p9i7y5-d1e681-d1e246">
+               <lb ed="#F" n="8"/>Duo igitur mihi solum supersunt, quae propria sunt magnetis, alterum
+            <lb ed="#F" n="9"/>est, quod antiquorum quilibet non ignoravit, quod magnes ad se ferrum
+            <lb ed="#F" n="10"/>provocet, &amp; ut iam loquendi usus obtinuit, ad se trahat: alterum, quod in
+            <lb ed="#F" n="11"/>Mundi polos dirigatur, seù incertas Mundi plagas convertatur, hoc est,
+            <lb ed="#F" n="12"/>quod ita se magnes sibi relictus collocet, ut ferè determinatam lineam 
+            oc<lb ed="#F" n="13" break="no"/>cupet determinatis sui partibus. &amp; quamvis primus ille effectus trahendi
+            <lb ed="#F" n="14"/>ferrum magis notus sit, &amp; vulgaris, tamen secundus etiam iste nautica 
+            py<lb ed="#F" n="15" break="no"/>xide, &amp; horologijs solaribus adeo promanavit in vulgus, ut illum aequè 
+            fe<lb ed="#F" n="16" break="no"/>rè noverint omnes. Placet igitur ab isto secundo exordium tractationis
+            <lb ed="#F" n="17"/>ducere. quamvis enim <name xml:id="p9i7y5-d1e681-Nd1e269">Aristotelis</name>, &amp; rectè philosophantium praeceptum sit,
+            <lb ed="#F" n="18"/>à notioribus nobis incohandum; nec diffitear magis in sensum incurrere
+            <lb ed="#F" n="19"/>vim illam magneticam, qua ferrum trahit, quam qua in polos collimat; hic
+            <lb ed="#F" n="20"/>tamen, ubi in causarum investigatione desudamus, ab hac postrema viam
+            <lb ed="#F" n="21"/>aperiendam duxi, ea praecipuè motus ratione, quia &amp; motus iste simplicior
+            <lb ed="#F" n="22"/>est, &amp; unico absolvitur corpore; ille duo saltem exigit corpora. Adde quod
+            <lb ed="#F" n="23"/>cognita causa istius motus ad alterius inquisitionem aditum faciliorem 
+            in<lb ed="#F" n="24" break="no"/>veniemus. denique quia iste motus conversionis in polos naturalis est, ille
+            <lb ed="#F" n="25"/>quodammodo artificiosus, prius autem quae sunt à natura, tum quae ab 
+            ar<lb ed="#F" n="26" break="no"/>te tractentur.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

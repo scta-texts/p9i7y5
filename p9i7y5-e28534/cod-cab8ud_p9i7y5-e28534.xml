@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 28</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 28</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="266"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e28534"> <!-- l3c28 -->
+            <head xml:id="p9i7y5-e28534-Hd1e107">Caput 28</head>
+            <p xml:id="p9i7y5-e28534-d1e109">
+               <lb ed="#F" n="33"/>rupto magnete. Cap. XXVIII.
+        </p>
+            <p xml:id="p9i7y5-e28534-d1e114">
+               <lb ed="#F" n="34"/>Videtur fortasse istud illi, qui in magneticae philosophiae 
+            pene<lb ed="#F" n="35" break="no"/>tralia nondum fuerit admissus, non solum mirum, sed 
+            pror<lb ed="#F" n="36" break="no"/>sus incredibile. Si enim magnetis verticitas nunquam 
+            im<lb ed="#F" n="37" break="no"/>mutatur, nisi fere destructa forma, &amp; prout res se habet ad 
+            es<lb ed="#F" n="38" break="no"/>se, ita &amp; ad operationem idem manens, idem semper eodem
+            <lb ed="#F" n="39"/>modò operabitur. qui ergo fieri poterit, ut idem punctum omnino 
+            magne<lb ed="#F" n="40" break="no"/>tis, quod suo contactu parti tangenti se communicavit vim se convertendi
+            <!--285.xml-->
+            <pb ed="#F" n="266"/>
+               <lb ed="#F" n="1"/>ad Septentrionem ei, qui eodem modo se tangit, ut prius communicet vim se
+            <lb ed="#F" n="2"/>convertendi ad 
+            Au<lb ed="#F" n="3" break="no"/>strum? &amp; tamen dico
+            <lb ed="#F" n="4"/>hoc verum esse, et ubi
+            <lb ed="#F" n="5"/>rem explicavero 
+            con<lb ed="#F" n="6" break="no"/>stabit etiam facillimam
+            <lb ed="#F" n="7"/>esse, &amp; omnibus obviam
+            <lb ed="#F" n="8"/>huius rei rationem. Sit
+            <lb ed="#F" n="9"/>ergo totus magnes A.
+            <lb ed="#F" n="10"/>B. cuius A vertat in 
+            Se<lb ed="#F" n="11" break="no"/>ptentrionem B. in 
+            Au<lb ed="#F" n="12" break="no"/>strum, &amp; in quo integro sint puncta veluti aequinoctialia C. D. ita ut si quis
+            <lb ed="#F" n="13"/>dividat per C. D. dividat per parallelum in duas partes aequales. Dixi supra,
+            <lb ed="#F" n="14"/>&amp; probavi, quod non solum, si quis applicet versorium, ut altero extremo
+            <lb ed="#F" n="15"/>tangat ipsum A, acquiret illam faciem seu vim se convertendi ad Austrum,
+            <lb ed="#F" n="16"/>sed etiam eandem omnino verticitatem acquiret, si tangat quodlibet 
+            pun<lb ed="#F" n="17" break="no"/>ctum ultra C. versus A. Quoties enim tangitur aliquod punctum magnetis
+            <lb ed="#F" n="18"/>ultra medium longitudinis lapidis alterum polorum versus, acquiritur 
+            ver<lb ed="#F" n="19" break="no"/>ticitas perinde, ac si tangeretur ille ipse polus; nec erit aliud distrimen, sive
+            <lb ed="#F" n="20"/>tangatur polus, sive aliud quodlibet punctum ad illam partem, nisi quod
+            <lb ed="#F" n="21"/>verticitas à ferro concepta non erit fortasse adeo efficax: ergo si integro 
+            la<lb ed="#F" n="22" break="no"/>pidi applices versorium ad E. vel ad F. posito, quod illa puncta non sint in
+            <lb ed="#F" n="23"/>medio lapide, acquiritur ab illo verticitas perinde, ac si tangeretur ipsum A.
+            <lb ed="#F" n="24"/>&amp; consequenter pars tangens convertet se ex virtute concepta ad 
+            Au<lb ed="#F" n="25" break="no"/>strum.
+         <lb ed="#F" n="43" type="fixed=266"/>
+               <figure xml:id="p9i7y5-e28534-Fd1e193">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870008/1201,497,1125,580/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A E F C D B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375762-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e28534-d1e211">
+               <lb ed="#F" n="26" type="fixed=266"/>Atqui fiat iam divisio in E. F. lapidis utcunque, &amp; constituatur lapis A. E.
+            <lb ed="#F" n="27"/>F. quia in isto lapide sunt etiam suae facies oppositae, quae vergunt ad Austrum,
+            <lb ed="#F" n="28"/>&amp; quae ad Septentrionem, &amp; consequenter, quae habent vim excitandi 
+            ma<lb ed="#F" n="29" break="no"/>gneticè, et communicandi ambas facies ex diversis contactibus: siquidem
+            <lb ed="#F" n="30"/>pars A. remanet, ut prius ad Septentrionem directa, pars E. F. ad Austrum 
+            di<lb ed="#F" n="31" break="no"/>rigitur. post istam divisionem, si iam versorium applices, ut altera sui
+            <lb ed="#F" n="32"/>parte tangat punctum E. aut F. ex quorum contactu prius acquirebat vim se
+            <lb ed="#F" n="33"/>convertendi ad Austrum; nunc ex isto contactu acquiret vim se converten
+            <lb ed="#F" n="34"/>di ad Septentrionem: quia iam puncta sunt ultra medietatem lapidis ad par
+            <lb ed="#F" n="35"/>tes oppositus ipsi A. Cum enim illa facies, quae dirigitur ad Austrum, &amp; 
+            quod<lb ed="#F" n="36" break="no"/>libet punctum ultra medium magnetis ad illam partem habeant vim 
+            com<lb ed="#F" n="37" break="no"/>municandi facultatem se convertendi ad Septentrionem, sicuti in toto 
+            inte<lb ed="#F" n="38" break="no"/>gro lapide A. B quia puncta E. F. erant ultra medietatem, &amp; communicabant
+            <lb ed="#F" n="39"/>eandem vim, quam communicabat A. convertendi se scilicet ad Austrum 
+            si<lb ed="#F" n="40" break="no"/>mili ratione; quia iam in parte lapidis A. E. F. eadem puncta E. F. sunt ultra 
+            me<lb ed="#F" n="41" break="no"/>dietatem huius partis ad partem oppositam ipsi A. iam in ista parte eadem
+            <lb ed="#F" n="42"/>puncta E. F. communicabunt eandem faciem, quam in toto integio lapide
+            <!--285.xml-->
+
+         <!--286.xml-->
+         <pb ed="#F" n="267"/>
+               <lb ed="#F" n="1"/>cemmunicabat B. quae opponebatur ipsi A. ergo idemmet punctum E. prius
+            <lb ed="#F" n="2"/>communicabat vim ferro se convertendi ad Austrum, nunc vero nulla 
+            fa<lb ed="#F" n="3" break="no"/>cta in illo varietare substantiae, nec ulla magneticae qualitatis mutatione,
+            <lb ed="#F" n="4"/>communicat vim se convertendi ad Septentrionem ex sola divisione, quae
+            <lb ed="#F" n="5"/>nullam facit substantialem mutationem. Et ratio est, quia puncta E. F. in
+            <lb ed="#F" n="6"/>illo toto lapide, in quo prius erant, ad partes illius poli pertinebant, qui 
+            com<lb ed="#F" n="7" break="no"/>municat vim se convertendi ad Austrum, &amp; ideo eandem &amp; ipsa vim 
+            com<lb ed="#F" n="8" break="no"/>municabant, nunc facta divisione eademmet puncta E. F. in ea parte, in qua
+            <lb ed="#F" n="9"/>sunt, spectant ad partes illius poli, qui communicat vim se convertendi ad
+            <lb ed="#F" n="10"/>Septentrionem; ideo ipsa eandem vim communicant.
+        </p>
+            <p xml:id="p9i7y5-e28534-d1e279">
+               <lb ed="#F" n="11"/>Rem hanc veram esse experimento potest quisque sibi demonstrare, si
+            <lb ed="#F" n="12"/>magnetis lapidem dividere possit. Ratio etiam satis supra demonstrata est.
+            <lb ed="#F" n="13"/>Agunt enim puncta secundum virtutem illius poli, cui magis proxima sunt.
+            <lb ed="#F" n="14"/>Et quia E. propius erat polo australi in integro lapide, agebat secundum vim
+            <lb ed="#F" n="15"/>illius; nunc vero, quia facta divisione est propius polo septentrionali, illi 
+            de<lb ed="#F" n="16" break="no"/>servit, &amp; iuxta eius virtutem agit.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

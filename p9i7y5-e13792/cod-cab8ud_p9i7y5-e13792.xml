@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 7</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 7</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="129"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e13792"> <!-- l2c7 -->
+            <head xml:id="p9i7y5-e13792-Hd1e107">Caput 7</head>
+            <p xml:id="p9i7y5-e13792-d1e109">
+               <lb ed="#F" n="33"/>Quomodo haec qualitas producatur. Caput VII.
+        </p>
+            <p xml:id="p9i7y5-e13792-d1e114">
+               <lb ed="#F" n="34"/>Producitur haec qualitas secundum primam rationem, &amp; 
+            existen<lb ed="#F" n="35" break="no"/>di formam ea via, ac ratione, qua magnes ipse producitur; cum
+            <lb ed="#F" n="36"/>illi sit connata; neque ab ullo agente potest produci, nisi illud
+            <lb ed="#F" n="37"/>agens ea polleat vi, qua possit magnetem procreare. Ad hoc
+            <lb ed="#F" n="38"/>autem, ut sic producatur, eam requirit in subiecto dispositionem, eum rerum
+            <lb ed="#F" n="39"/>apparatum, quem natura postulat, ut magnes prodeat in lucem; ac tandiù
+            <lb ed="#F" n="40"/>procuditur, tantumque temporis ad sui productionem exigit, quanto magnes
+            <!--148.xml-->
+            <pb ed="#F" n="129"/>
+               <lb ed="#F" n="1"/>ipse naturae artificio subest, atque in illius detinetur officinis. Omnino in
+            <lb ed="#F" n="2"/>omnibus ordinem sequitur qualitatum, ac proprietatum, quae à natura 
+            pro<lb ed="#F" n="3" break="no"/>manant. quod si aliquis dubitaret, num sicuti à toto telluris globo dixi 
+            su<lb ed="#F" n="4" break="no"/>pra produci in ferro qualitatem magneticam, si ad longum tempus maneat
+            <lb ed="#F" n="5"/>ferrum in linea meridiana, vel certe erectum perpendiculariter ad terram,
+            <lb ed="#F" n="6"/>num possit eadem ratione dici, hac prima existendi forma produci etiam
+            <lb ed="#F" n="7"/>ab ipso telluris globo in magnete; non libenter ego aquiescerem: esto enim
+            <lb ed="#F" n="8"/>sic à tellure producatur in ferri vena ditiore, in illo tamen, qui verè magnes
+            <lb ed="#F" n="9"/>est, à forma ipsa magnetis provenire crediderim. verum hoc uberius, ubi an
+            <lb ed="#F" n="10"/>magnes, &amp; ferri vena idem sit determinabitur.
+        </p>
+            <p xml:id="p9i7y5-e13792-d1e158">
+               <lb ed="#F" n="11"/>Secundam existendi formam, qua existit intentionaliter, acquirit 
+            imme<lb ed="#F" n="12" break="no"/>diate à qualitate duarum facierum prima ratione existente, vel realiter, &amp; re
+            <lb ed="#F" n="13"/>ipsa permanenter in aliquo corpore magnetieo; cum qualitas in magnete
+            <lb ed="#F" n="14"/>existens agat verè &amp; physicè in tota sphaera per modum unius, cum 
+            qualita<lb ed="#F" n="15" break="no"/>te, quae est in medio, sicuti in universum calorem etiam in igne existentem
+            <lb ed="#F" n="16"/>immediate puto agere per modum unius, cum calore existente in medio,
+            <lb ed="#F" n="17"/>non vero agere immediate in vnam partem medij, &amp; media illa in aliam.
+            <lb ed="#F" n="18"/>Si enim non ponatur agere in superficie sola medij, eadem erit difficultas
+            <lb ed="#F" n="19"/>de qualibet particula medij, in qua dicatur agens principale agere 
+            imme<lb ed="#F" n="20" break="no"/>diatè, quae esset de tota sphaera activitatis. sed hoc alias. Dico igitur 
+            quali<lb ed="#F" n="21" break="no"/>tatem secundum primam existendi formam, &amp; secundum tertiam, ut mox
+            <lb ed="#F" n="22"/>dicam, haberevim immediatè producendi sibi sim le in tota sphaera, quae
+            <lb ed="#F" n="23"/>pro vi, aut activitate magnetis maior, aut minor est, quattuor, atque adeo 
+            e<lb ed="#F" n="24" break="no"/>tiam quinque palmorum, &amp; eo amplius in competenti magnete, quo ad 
+            mo<lb ed="#F" n="25" break="no"/>lem. Haec porro qualitas &amp; vis activa non solum maior est, quo magis 
+            ma<lb ed="#F" n="26" break="no"/>gnes est robustus, in quo scilicet sit parfectior, &amp; intensior qualitas; sed etiam,
+            <lb ed="#F" n="27"/>caeteris paribus, magnes maior sua iuvatur mole ad agendum, longiusque suae
+            <lb ed="#F" n="28"/>iacet semina virtutis, &amp; quò maiorem obtinet quantitatem, eo longius 
+            pro<lb ed="#F" n="29" break="no"/>trahitur vis eius activa.
+        </p>
+            <p xml:id="p9i7y5-e13792-d1e203">
+               <lb ed="#F" n="30"/>Producitur autem haec qualitas secundum hanc existendi rationem 
+            in<lb ed="#F" n="31" break="no"/>tentionalem, cum nullum habeat contrarium, momento temporis, eò quod
+            <lb ed="#F" n="32"/>solum ab agente dependeat: producitur vero uniformiter, difformiter, 
+            mi<lb ed="#F" n="33" break="no"/>nus intensa, quantum sensu comprehenditur, quo magis ab agente 
+            recedi<lb ed="#F" n="34" break="no"/>tur. atque ut hac ratione producatur, non requirit, aut exigit in subiecto 
+            ni<lb ed="#F" n="35" break="no"/>si, ut subiectum sit quantum, corporisque dimensiones obtineat. Quod 
+            du<lb ed="#F" n="36" break="no"/>rum autem sit, aut molle, consistens, aut fluidum, densum, aut rarum, nihi
+            <lb ed="#F" n="37"/>facit: tam facile enim per solidissimum lapidem, aut lignum suam 
+            diffun<lb ed="#F" n="38" break="no"/>dit magnes virtutem, quam per tenuissimum aërem: quo fit, ut non illi 
+            ac<lb ed="#F" n="39" break="no"/>cidat, quod luci contingere videmus; quia enim luminosum corpus 
+            quod<lb ed="#F" n="40" break="no"/>cunque illud sit, sua virtute pervadere non potest opaca corpora, si lux ab
+            <lb ed="#F" n="41"/>eo diffusa ad corpus appellat, quod sua virtute transmeare non possit, 
+            refle<lb ed="#F" n="42" break="no"/>ctit sese, &amp; quod in longum protensa fecisset producta actione, hoc reper¬
+            <!--149.xml-->
+            <pb ed="#F" n="130"/>
+               <lb ed="#F" n="1"/>eusso conatu, dum revertitur, operatur reflexè, servata aequalitate inter 
+            refle<lb ed="#F" n="2" break="no"/>xionis angulum, &amp; incidentiae; ibi'que vires exerit suas. Quod qua ratione
+            <lb ed="#F" n="3"/>fiit, &amp; quomodo lumen reflectatur, quomodo refrangatur, &amp; alia 
+            huiusmo<lb ed="#F" n="4" break="no"/>di, si vita erit superstes, dicetur alias: quod enim communiter dicitur, verba
+            <lb ed="#F" n="5"/>solum quaedam sonat, rem non explicat; non est lux pila, quae retrocedat 
+            re<lb ed="#F" n="6" break="no"/>percussa ad speculum. Non hoc, inquam, accidit huic qualitati, ut reflectat,
+            <lb ed="#F" n="7"/>sicut reflectitur lumen, sed cum haec duarum facierum qualitas ęque omnia
+            <lb ed="#F" n="8"/>permeet corpora, &amp; aequaliter possit esse in omnibus hac secunda existendi
+            <lb ed="#F" n="9"/>forma, nulla potest reflexione roborari: quia nullo potest obiecto corpore
+            <lb ed="#F" n="10"/>praepediri, cumque, ut dictum est, pendeat hac existendi forma non à 
+            subie<lb ed="#F" n="11" break="no"/>cto solo, sed ab agente primario ad motum interiectorum corporum, in 
+            qui<lb ed="#F" n="12" break="no"/>bus haec qualitas sic existit, non movetur, ad divisionem, non dividitur, 
+            eo<lb ed="#F" n="13" break="no"/>rum non sentit motus, aut mutationes, rarefactione non rarescit, 
+            densatio<lb ed="#F" n="14" break="no"/>ne non constipatur, inversione non invertitur propriè, &amp; formaliter. Quae
+            <lb ed="#F" n="15"/>omnia accommodato luminis exemplo in puro medio existentis facilè 
+            intel<lb ed="#F" n="16" break="no"/>ligentur, etsi corpus amoveatur, ubi primum ex viribus magnetici agentis
+            <lb ed="#F" n="17"/>exemptum erit, in eo esse desinet, si dividatur incipiet statim esse in 
+            interie<lb ed="#F" n="18" break="no"/>cto per divisionem corpore, per novam productionem. quod si pars altera
+            <lb ed="#F" n="19"/>divisi corporis procul à magnetico distare incipiat, remittetur in eo 
+            quali<lb ed="#F" n="20" break="no"/>tas proportionaliter (utor hac voce, magnetici agentis, quia hac una 
+            com<lb ed="#F" n="21" break="no"/>prehensum volo magnetem, &amp; ferrum, ferreaque corpora magneticè excita,
+            <lb ed="#F" n="22"/>immo &amp; totius telluris) non sentit corporum, in quibus inest, mutationem,
+            <lb ed="#F" n="23"/>quia ab illorum dispositione non pendet, sed solum à corporis mole, qua
+            <lb ed="#F" n="24"/>mutata sola variatur; prout fit per illam quantitatis variationem magis 
+            re<lb ed="#F" n="25" break="no"/>motum à magnetico agente. unico verbo, dempta reflexione, de qua dixi,
+            <lb ed="#F" n="26"/>lucem sequitur haec qualitas, si lucem intueris, haec qualitas nihilo est 
+            ob<lb ed="#F" n="27" break="no"/>scurior.
+        </p>
+            <p xml:id="p9i7y5-e13792-d1e297">
+               <lb ed="#F" n="28"/>Contemplare qua ratione lux producitur in medium, variatur, alteratur,
+            <lb ed="#F" n="29"/>ab illuminante corpore dependet, &amp; hanc qualitatem illustratam habebis.
+            <lb ed="#F" n="30"/>Hinc, sicuti lux potest procul posita corpora alterare, calefacere, 
+            rareface<lb ed="#F" n="31" break="no"/>re, liquare, cum nihil tale producat in medio; ex sole enim diffusi radij terram
+            <lb ed="#F" n="32"/>hanc fovent, alterant, foecundant, nulla Caelis illata vi; quibus tamen 
+            me<lb ed="#F" n="33" break="no"/>dijs adicum sibi invenit lux ad terram; &amp; hoc quia natura Caelorum non est
+            <lb ed="#F" n="34"/>apta pati, non, quia etiam ibi tantum virium non haberet lux; pari ratione
+            <lb ed="#F" n="35"/>qualitas à magnete diffusa ferrea, vel magnetica corpora alterat, ac 
+            dispo<lb ed="#F" n="36" break="no"/>nit, nihilo intermedijs corporibus alteratis, quod interiecta illa corpora 
+            ca<lb ed="#F" n="37" break="no"/>pacia non sint, sicut non est capax caelum, calefactionis, non quod ibi etiam
+            <lb ed="#F" n="38"/>tantum virium non suppetat ad illam producendam. Fac enim ibi corpus
+            <lb ed="#F" n="39"/>esse ferreum aptum illam recipere alterationem, &amp; statim suas ostendet 
+            vi<lb ed="#F" n="40" break="no"/>res.
+        </p>
+            <p xml:id="p9i7y5-e13792-d1e328">
+               <lb ed="#F" n="41"/>Sicut autem in esse, &amp; conservatione perpetuo à magnetico dependet, ita,
+            <lb ed="#F" n="42"/>&amp; operationem illi defert, nec sibi arrogat. Valet enim usquequaque; ut se
+            <!--150.xml-->
+            <pb ed="#F" n="131"/>
+               <lb ed="#F" n="1"/>res habet ad esse, ita ad operationem. Quare sicut sol omnium collustrator
+            <lb ed="#F" n="2"/>satorque lucis, ac parens dicitur; &amp; magneticum pariter excitare magneticè,
+            <lb ed="#F" n="3"/>&amp; alterare iure optimo dicetur; quamvis, ut loquendi morem sequat 
+            phy<lb ed="#F" n="4" break="no"/>losophorum, ipsa qualitas duarum facierum per medium diffusa alterare
+            <lb ed="#F" n="5"/>dicatur, ut quo, &amp; coniuncta cum qualitate principalis agentis integrare
+            <lb ed="#F" n="6"/>unum principium activum immediatum; quia tamen haec in medio 
+            exi<lb ed="#F" n="7" break="no"/>stens virtus est principalis agentis, ideo dicitur illud agere ut quod.
+        </p>
+            <p xml:id="p9i7y5-e13792-d1e354">
+               <lb ed="#F" n="8"/>Tertiam existendi formam, qua scilicet qualitas duarum facierum in
+            <lb ed="#F" n="9"/>ferro, ferreisque existit corporibus, acquirit per alterationem, sed perfectivam;
+            <lb ed="#F" n="10"/>cuius alterationis causa per se est qualitas in magnete existens, vel in tota
+            <lb ed="#F" n="11"/>tellure, vel etiam existens in alio ferreo corpore: excitatur enim 
+            magneti<lb ed="#F" n="12" break="no"/>cè ferrum, &amp; acquirit magneticam verticitatem, tam beneficio ipsius 
+            ma<lb ed="#F" n="13" break="no"/>gnetis, quam alterius ferri magneticè exciti. attamen agens ultimum, &amp;
+            <lb ed="#F" n="14"/>tangens est ipsa qualitas, quae in medio existit coniuncta cum principali 
+            a<lb ed="#F" n="15" break="no"/>gente magnetico; &amp; ideo haec dicitur agere, ut quo, &amp; illa tanquam 
+            instru<lb ed="#F" n="16" break="no"/>mento utitur principale agens ad agendum. Requiritur igitur ex parte 
+            a<lb ed="#F" n="17" break="no"/>gentis, quod hanc qualitatem producere debet, ut habeat in se qualitatem
+            <lb ed="#F" n="18"/>quarum facierum permanenter, &amp; firmiter inhaerentem, sive deinde tale 
+            a<lb ed="#F" n="19" break="no"/>gens sit magnes, sive ferrum, sive tota terra.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

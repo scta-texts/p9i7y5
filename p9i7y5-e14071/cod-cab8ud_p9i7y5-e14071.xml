@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 8</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 8</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="132"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e14071"> <!-- l2c8 -->
+            <head xml:id="p9i7y5-e14071-Hd1e107">Caput 8</head>
+            <p xml:id="p9i7y5-e14071-d1e109">
+               <lb ed="#F" n="20"/>Quid requiratur, ut haec qualitas hac existendi modo producatur, &amp; ferrum 
+            ma<lb ed="#F" n="21" break="no"/>gneticè excitetur. Cap. VIII.
+        </p>
+            <p xml:id="p9i7y5-e14071-d1e116">
+               <lb ed="#F" n="22"/>Quia passum nunquam applicatur ad recipiendam hanc 
+            quali<lb ed="#F" n="23" break="no"/>tatem intus, ut quasi inseratur in visceribus ipsius agentis, sed
+            <lb ed="#F" n="24"/>semper applicatur extra ipsum agens, sive deinde interveniat
+            <lb ed="#F" n="25"/>contactus physicus suppositi, sive non; requiritur, ut agens
+            <lb ed="#F" n="26"/>producat hanc qualitatem aliqua ratione per medium; quae
+            <lb ed="#F" n="27"/>qualitas per medium diffusa, quia immediatè agit, sibi similem reddit 
+            qua<lb ed="#F" n="28" break="no"/>litatem productam quo ad situm, &amp; positionem modo infra explicando. Ex
+            <lb ed="#F" n="29"/>parte illius, quod talem qualitatem recipere velit; requiritur, ut sit agenti
+            <lb ed="#F" n="30"/>proportionatum passum, &amp; aptum hanc qualitatem in se habere, &amp; ut sit in
+            <lb ed="#F" n="31"/>debita distantia: debet ergo esse, vel magnes, vel corpus magneticum. Dixi
+            <lb ed="#F" n="32"/>debere esse magnetem. nam si huiusmodi lapis senio confectus fuerit, vel
+            <lb ed="#F" n="33"/>temporis iniuria contabuerit, ita, ut duarum facierum qualitas immortua,
+            <lb ed="#F" n="34"/>vel sepulta iaceat, si perfecto magneti apponatur, afflictas, &amp; exanimas 
+            qua<lb ed="#F" n="35" break="no"/>si recipit vires, &amp; iterum se ad meliorem revocat statum. nisi fortè ita 
+            vitia<lb ed="#F" n="36" break="no"/>tus fuerit, ut prorsus in aliam abierit naturam, &amp; vires verae sint 
+            intermor<lb ed="#F" n="37" break="no"/>tuae: non enim tunc alterius magnetis consortium ad vitam revocabit.
+            <lb ed="#F" n="38"/>Dixi illud corpus debere esse magnetem, vel magneticum; huiusmodi 
+            au<lb ed="#F" n="39" break="no"/>tem est fertum excoctum, quod, quo perfectum magis erit, ac magis à 
+            re<lb ed="#F" n="40" break="no"/>crementis, ac sordibus repurgatum, perfectius hanc qualitatem recipiet. Ex
+            <!--151.xml-->
+            <pb ed="#F" n="132"/>
+               <lb ed="#F" n="1"/>quo fit, ut versoria pyxidis nauticae, aut horologiorum solarium, &amp; alia 
+            fer<lb ed="#F" n="2" break="no"/>ramenta, quae ad magneticas operationes debent deservire, optimè fiant ex
+            <lb ed="#F" n="3"/>chalybe, seu aciario perfecto, &amp; optime elaborato, ac polito; immo, &amp; 
+            hu<lb ed="#F" n="4" break="no"/>iusmodi fertamenta, quo puriora fuerint, contra temporis iniurias hanc
+            <lb ed="#F" n="5"/>qualitatem duarum facierum diutius conservant. cuius rei rationem reddam
+            <lb ed="#F" n="6"/>alibi. Hoc autem habet ferrum ex sua propria natura, quae maximè ad 
+            ma<lb ed="#F" n="7" break="no"/>gnetem accedit, nec alia potest huius rei reddi ratio. Hactenus nullum 
+            a<lb ed="#F" n="8" break="no"/>liud explicitè nominabatur corpus, sive metallicum, sive lapideum, sive 
+            a<lb ed="#F" n="9" break="no"/>liud quodcunque, quod qualitatem istam duarum facierum in se 
+            perma<lb ed="#F" n="10" break="no"/>nenter reciperet, &amp; conservaret; nec apud ullum auctorem alterius video
+            <lb ed="#F" n="11"/>factam mentionem, nisi fabulose.
+        </p>
+            <p xml:id="p9i7y5-e14071-d1e188">
+               <lb ed="#F" n="29" type="fixed=132"/>
+               <figure xml:id="p9i7y5-e14071-Fd1e193">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869875/578,2045,1779,623/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">B A D C</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375556-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="12" type="fixed=132"/>Verum ego novissimè in aliud corpus incidi, ut dixi alibi, &amp; ostendi 
+            quo<lb ed="#F" n="13" break="no"/>modo videatur praesensisse Gilbertus, quod &amp; versorium magneticè excitum
+            <lb ed="#F" n="14"/>provocat ad sese, cum facierum distinctione ex legibus magneticis, &amp; 
+            qua<lb ed="#F" n="15" break="no"/>litatem duarum facierum acquirit ex magnetis contactu: lateres nimirum
+            <lb ed="#F" n="16"/>concocti, qui, propter vehementem in fornacibus ignem, ferruminari 
+            so<lb ed="#F" n="17" break="no"/>lent, atque adeo etiam liquelcere, eandemque ob causam nigrum, vel ferreum
+            <lb ed="#F" n="18"/>induunt colorem, &amp; sive ex colore, sive ex duritie, ferreilateres, vel ferrigni
+            <lb ed="#F" n="19"/>solent à nostratibus appellari. Istud ego saepissime sum expertus, praesertim
+            <lb ed="#F" n="20"/>Mantuae, ubi mihi videor terram magis magneticam invenire, alijsque 
+            pro<lb ed="#F" n="21" break="no"/>posui faelici semper ubique eventu. Si enim frustulum huiusmodi lateris
+            <lb ed="#F" n="22"/>sumas, &amp; valido magneti ex arte apponas, qualitatem contrahet duarum
+            <!--151.xml-->
+            <pb ed="#F" n="132"/>
+               <lb ed="#F" n="23"/>facierum, sumè magnetem A. B. cuius A. sit pars septentrionalis B. 
+            austra<lb ed="#F" n="24" break="no"/>lis. sume lateris frustum C. D. si D. semel coniungas cum A. &amp; C. apponas
+            <lb ed="#F" n="25"/>ipsi B, ut robustius excites, contrahet virtutem magneticam lateris frustum,
+            <lb ed="#F" n="26"/>&amp; in parte C. faciem habebit septentrionalem, in D. australem. Quare si
+            <lb ed="#F" n="27"/>tale frustum admoveas versorio C. trahet partem australem versorij, D. 
+            sep<lb ed="#F" n="28" break="no"/>tentrionalem, &amp; ut appateat talem vim lateres huiusmodi à magnete con¬
+            <!--151.xml-->
+
+         <!--152.xml-->
+         <pb ed="#F" n="133"/>
+               <lb ed="#F" n="1"/>cipere, frustum lateris C. D. iterum ad magnetem admoveas contraria 
+            ra<lb ed="#F" n="2" break="no"/>tione, ut nimirum D. tangat B: C. vero A. tunc virtutem, &amp; qualitatem 
+            dua<lb ed="#F" n="3" break="no"/>rum facierum contrario situ contrahet, atque prius haberet, Di enim trahet
+            <lb ed="#F" n="4"/>partem australem, quam prius fugabat in versorio, C. septentrionalem. 
+            Ex<lb ed="#F" n="5" break="no"/>perimentum in promptu est, &amp; obvium.
+        </p>
+            <p xml:id="p9i7y5-e14071-d1e270">
+               <lb ed="#F" n="6"/>Duo tamen observa; alterum est; magnetem in hoc, ut in omnibus 
+            ex<lb ed="#F" n="7" break="no"/>perimentis robustissimum esse debere, quamvis etiam in imbecilliori 
+            veri<lb ed="#F" n="8" break="no"/>tas prodeat licet obscura. alterum est, ut frustum lateris proximè valde 
+            ver<lb ed="#F" n="9" break="no"/>sorio admoveas, &amp; quam proximè, dummodo non tangat: virtus enim hęc,
+            <lb ed="#F" n="10"/>quam concipit, tenuis est, &amp; languida, sensibilis tamen est, &amp; si tuo magnete
+            <lb ed="#F" n="11"/>vis laterem excitare, sumas, si potes, ex fornace recentes, &amp; maximè ferreos:
+            <lb ed="#F" n="12"/>nam si veteres, &amp; antiquos sumas, qui diù alicubi constiterint, in illis iam
+            <lb ed="#F" n="13"/>conceptam qualitatem duarum facierum deprehendes actione telluris pro
+            <lb ed="#F" n="14"/>ductam, ut suo loco experimentis docui; duplicem'que tunc subibis laborem,
+            <lb ed="#F" n="15"/>&amp; antiquam evertendi, &amp; novam inducendi qualitatem. haec sunt corpora,
+            <lb ed="#F" n="16"/>in quibus potest hospitari qualitas duarum facierum, &amp; durare 
+            permanen<lb ed="#F" n="17" break="no"/>ter hac tertia existendi forma, quantum hactenus experimentis 
+            deprehen<lb ed="#F" n="18" break="no"/>dere licuit.
+        </p>
+            <p xml:id="p9i7y5-e14071-d1e301">
+               <lb ed="#F" n="31" type="fixed=133"/>
+               <figure xml:id="p9i7y5-e14071-Fd1e306">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869876/307,2341,1753,697/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A B C D</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375558-r7</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="19" type="fixed=133"/>Alia praeterea nonnulla requiruntur, ut haec qualitas in ferrea huiusmodi
+            <lb ed="#F" n="20"/>corpora commode inducatur. Ac primo requiritur, ut non sit nimis 
+            ma<lb ed="#F" n="21" break="no"/>gnum, &amp; ferè agentis magnitudinem non excedat; alioquin fere 
+            insensibi<lb ed="#F" n="22" break="no"/>lis erit qualitas contracta per contactum magnetis. Obest tamen praesertim
+            <lb ed="#F" n="23"/>nimia crassities; nam ferramenta oblonga, &amp; gracilia qualitatem duarum
+            <lb ed="#F" n="24"/>facierum facilius admittunt; cuius rei, ut aliarum etiam, quae subinde 
+            di<lb ed="#F" n="25" break="no"/>cuntur rationes suo loco conabor afferte proprias, &amp; ex proprijs principijs.
+            <lb ed="#F" n="26"/>Interim satis sit hoc idem advertisse Gilbertum lib. 2. cap. 30. Debet 
+            praete<lb ed="#F" n="27" break="no"/>rea non habuisse prius qualitatem duarum facierum contraria ratione: nam
+            <lb ed="#F" n="28"/>si sumas ferrum iam magneticè excitum A. B. cuius A. sit pars australis B.
+            <!--152.xml-->
+            <pb ed="#F" n="133"/>
+               <lb ed="#F" n="29"/>septentrionalis; &amp; apponas magnetem C. D. cuius C. septentrionalem 
+            par<lb ed="#F" n="30" break="no"/>tem apponas ipsi B. si magnes, &amp; mole sit exiguus prae ferro, &amp; virtute non
+            <!--152.xml-->
+
+         <!--153.xml-->
+         <pb ed="#F" n="134"/>
+               <lb ed="#F" n="1"/>nobilis, non induces ita facilè novam qualitatem in ferrum A. B. 
+            quando<lb ed="#F" n="2" break="no"/>quidem, si deberet inducere in ferrum sic constitutum qualitatem, deberet
+            <lb ed="#F" n="3"/>sic disponere, ut B. esset pars australis; A. septentrionalis. Semper enim ex
+            <lb ed="#F" n="4"/>magneticis legibus pars illa magnetis, quae ferrum tangit, inducit in ferrum
+            <lb ed="#F" n="5"/>à se tactum oppositam sibi faciem, ut si ferrum apponatur magneti, per 
+            lon<lb ed="#F" n="6" break="no"/>gum fiat, ut dicebat Peregrinus, una continua qualitas ex qualitate 
+            agen<lb ed="#F" n="7" break="no"/>tis, &amp; passi; ita ut facies D. magnetis sit australis excurrendo usque ad A. &amp;
+            <lb ed="#F" n="8"/>tota ab A excurrendo D. versus sit septentrionalis. Si magnes igitur ille sic
+            <lb ed="#F" n="9"/>applicatus deberet aliquam qualitatem permanenter in ferrum inducere,
+            <lb ed="#F" n="10"/>eam prius saltem natura destruere deberet, quae in ferro existit, in quo non 
+            pos<lb ed="#F" n="11" break="no"/>sunt esse simul duae contraria ratione positae qualitates: Nisi ergo illi tantum
+            <lb ed="#F" n="12"/>insit virium, ut illam qualitatem, quam in ferro robustissimam suppono,
+            <lb ed="#F" n="13"/>statim expugnare possit, nihil producet.
+        </p>
+            <p xml:id="p9i7y5-e14071-d1e389">
+               <lb ed="#F" n="14"/>Ex quo habes illud notatu dignum, &amp; causam aliquam sentis, cur eum
+            <lb ed="#F" n="15"/>fertum magneticè cupis excitare, illud diligenter advertendum sit, ne si 
+            se<lb ed="#F" n="16" break="no"/>mel faciem unam magnetis, australem verbi gratia, altera ferri extremitate
+            <lb ed="#F" n="17"/>tetigeris, eandem ferri partem etiam ad aliam magnetis faciem applices,
+            <lb ed="#F" n="18"/>quasi melius, &amp; robustius excitaturus; tunc enim, tantum abest, ut melius,
+            <lb ed="#F" n="19"/>&amp; firmius excites, ut immo auferas, quicquid hactenus virium 
+            magnetica<lb ed="#F" n="20" break="no"/>rum ferro contulisti. sed, si uno ferri extremo magnetis partem 
+            septentrio<lb ed="#F" n="21" break="no"/>nalem tetigisti, oppositam ferri extremitatem australi obvertere debes.
+        </p>
+            <p xml:id="p9i7y5-e14071-d1e409">
+               <lb ed="#F" n="22"/>Requiritur etiam, &amp; sufficit, ut ferrum, sive illud quod magneticam 
+            vir<lb ed="#F" n="23" break="no"/>tutem acquirere debet, intra magneticae virtutis orbem collocetur. Quod
+            <lb ed="#F" n="24"/>dico, ut planum faciam, non esse necesse ad hoc, ut talem vim concipiat, ut
+            <lb ed="#F" n="25"/>ferrum magnetem tangat, satis enim est, si sit intra orbem virtutis, ut magis
+            <lb ed="#F" n="26"/>semper ex dicendis constabit. Illud quidem verum est, cum virtus à 
+            magne<lb ed="#F" n="27" break="no"/>te diffusa decrescat uniformiter difformiter, quo magis à principio 
+            recedi<lb ed="#F" n="28" break="no"/>tur; si proximè admoveatur, &amp; tangat ipsum magnetem. plus virtutis ferrum
+            <lb ed="#F" n="29"/>acquirere, non praecisè ex eo quod tangat, sed quia robustiores subit 
+            magne<lb ed="#F" n="30" break="no"/>tis vires.
+        </p>
+            <p xml:id="p9i7y5-e14071-d1e431">
+               <lb ed="#F" n="31"/>Denique non multum temporis in huiusmodi qualitatis productione
+            <lb ed="#F" n="32"/>requiritur, ut existat hac tertia existendi forma; nisi agens esset tenuissimum,
+            <lb ed="#F" n="33"/>ut est totus telluris globus. Nec enim huius qualitatis productio à primarum
+            <lb ed="#F" n="34"/>qualitatum conflictu, &amp; commixtione dependet, ut quando in naturae 
+            offi<lb ed="#F" n="35" break="no"/>cinis magnes producitur; quae primae qualitates cum habeant contrarium,
+            <lb ed="#F" n="36"/>bella miscent, &amp; multum temporis in pugna insumunt; sed peculiari, ac pro
+            <lb ed="#F" n="37"/>pria alteratione perfectiva producitur, quae, ut fiat, vel nullum, vel 
+            perexi<lb ed="#F" n="38" break="no"/>guum temporis spatium postulat; cum nullam invenit sibi infensam 
+            quali<lb ed="#F" n="39" break="no"/>tatem, cum qua vires exerere, &amp; pugnaces exercere debeat spiritus: nisi 
+            for<lb ed="#F" n="40" break="no"/>tè adesset qualitas duarum facierum, quae in eodem subiecto contrarium 
+            ob<lb ed="#F" n="41" break="no"/>tineret situm, ac fit ea quam magnes inducere laborat: tunc enim aliquid
+            <lb ed="#F" n="42"/>fortasse plus temporis postularet haec productio, propter praeexistentiam il¬
+            <!--154.xml-->
+            <pb ed="#F" n="135"/>
+               <lb ed="#F" n="1"/>lius contrarietatis. Et haec de natura illius qualitatis, ac de modo quo 
+            pro<lb ed="#F" n="2" break="no"/>ducitur. Quoniam autem est, ut dixi, qualitas dispositiva subiecti, &amp; quasi
+            <lb ed="#F" n="3"/>situata, vel situativa, quaeque certa quadam ratione excurrit, non mole, sed
+            <lb ed="#F" n="4"/>virtute, videamus iam, quo situ producatur.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

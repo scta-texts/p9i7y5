@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 28</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 28</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="364"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e38763"> <!-- l4c28 -->
+            <head xml:id="p9i7y5-e38763-Hd1e107">Caput 28</head>
+            <p xml:id="p9i7y5-e38763-d1e109">
+               <lb ed="#F" n="28"/>Cap. XXVIII.
+        </p>
+            <p xml:id="p9i7y5-e38763-d1e114">
+               <lb ed="#F" n="29"/>Res ipsa satis clarè exposita est. sit magnes, cui appendas ferrum
+            <lb ed="#F" n="30"/>unciale: sit verò adeo robustus ille magnes, ut si addas aliam
+            <lb ed="#F" n="31"/>ferri unciam illam nihilominus sustineat. Dico, quamvis ad
+            <lb ed="#F" n="32"/>primam unciam alterius pariter unciae ferat additamentum,
+            <lb ed="#F" n="33"/>futurum, ut non sustineat aliam unciam plumbi, immò nec
+            <lb ed="#F" n="34"/>ferè semiunciam, si ad primum ferri pondus addatur. Experimentum rei
+            <lb ed="#F" n="35"/>dubitationem eximet.
+        </p>
+            <p xml:id="p9i7y5-e38763-d1e132">
+               <lb ed="#F" n="36"/>Ratio vero in promptu est, quia ferri coniunctio cum magnete non est
+            <lb ed="#F" n="37"/>atrractio, quasi vero dum magnes coniungit sibi fertum, viosenter 
+            agglu<lb ed="#F" n="38" break="no"/>tinetur illi, &amp; solum externa illa pars, quae connectitur cum magnete, 
+            ar<lb ed="#F" n="39" break="no"/>cano illo nodo copuletur; est amica quędam coniunctio, &amp; ferrum imbibita
+            <lb ed="#F" n="40"/>vi conspirat ad nexum, non solum extrema illa parte, sed tota conspirante
+            <!--383.xml-->
+            <pb ed="#F" n="364"/>
+               <lb ed="#F" n="1"/>mole. Quod si aliquod pondus addatur pendenti ferro, vel aliqua vis, quae
+            <lb ed="#F" n="2"/>conetur ferrum à magnete detrahere, non solum vim inferet illi parti 
+            extre<lb ed="#F" n="3" break="no"/>mae, quae coniungitur cum magnete, sicut accidit, quando duo corpora sunt
+            <lb ed="#F" n="4"/>simul agglutinata: conanti enim seiungere, repugnant solum duo illa 
+            extre<lb ed="#F" n="5" break="no"/>ma, quae glutine illo connectuntur; hic vis infertur partibus etiam 
+            remotio<lb ed="#F" n="6" break="no"/>ribus, quae pari proportionaliter conatu illam affectant connexionem: neque
+            <lb ed="#F" n="7"/>terrum solum passivè se habet ad hunc nexum, sed etiam activè ex qualitate
+            <lb ed="#F" n="8"/>magnetica, quam concepit, petquam adversatur, quantum potest, innatae
+            <lb ed="#F" n="9"/>gravitati, quae trahere conatur deorsum. Sicut ergo aliquando multo 
+            ma<lb ed="#F" n="10" break="no"/>ior est vis gravitatis, quae conatur deorsum, quamvis magnetica, quę trahit
+            <lb ed="#F" n="11"/>sursum, ut coniungat cum magnete, ita aliquando maior est vis 
+            magneti<lb ed="#F" n="12" break="no"/>ca, quae ferrum elevat ad connexionem cum magnete, quam gravitas, quae
+            <lb ed="#F" n="13"/>premit deorsum, &amp; in illo casu, etiam si manu tentes ferrum deorsum 
+            trahe<lb ed="#F" n="14" break="no"/>re, &amp; divellere à magnete, senties vim illam magneticam longè maiorem
+            <lb ed="#F" n="15"/>esse, quam sit gravitas. Si ergo in illo casu gravitatem augeas, ut per plumbi
+            <lb ed="#F" n="16"/>additamentum, adhuc tamen adhaerebit fertum magneti, donec fiat 
+            gravi<lb ed="#F" n="17" break="no"/>tatis incrementum tantum, ut superetur vis magnetica. Ubi vero pergas
+            <lb ed="#F" n="18"/>quidem augere gravitatem, simul vero non augeas vim magneticam cito
+            <lb ed="#F" n="19"/>illam superabis, &amp; ferrum decidet, quod contingit si addas plumbum. At ve
+            <lb ed="#F" n="20"/>ro si ita augeas gravitatem, ut simul etiam vis magnetica sumat 
+            incremen<lb ed="#F" n="21" break="no"/>tum, si non aequale cum gravitate, paulo tamen minus, non ita eirò 
+            supera<lb ed="#F" n="22" break="no"/>bitur vis magnetica à gravitate. Hoc autem contingit, dum ferrum ferro
+            <lb ed="#F" n="23"/>pendenti additur. Dum igitur fit tale incrementum, augetur quidem vis
+            <lb ed="#F" n="24"/>depressiva, idest gravitas, sed augetur etiam vis sublevativa nimirum 
+            ma<lb ed="#F" n="25" break="no"/>gnetica, quia etiam ferrum illud, quod additur, vim habet magneticam,
+            <lb ed="#F" n="26"/>qua sursum fertur magnetem versus, &amp; si non habuit prius talem vim, tunc
+            <lb ed="#F" n="27"/>primum illam concipit; &amp; ideo nec dum gravitas vim magneticam 
+            supe<lb ed="#F" n="28" break="no"/>rat, quia, quamvis multum augeatur, augetur etiam vis magnetica; at vero
+            <lb ed="#F" n="29"/>dum additut plumbum, augetur sola gravitas, non altera vis.
+        </p>
+            <p xml:id="p9i7y5-e38763-d1e213">
+               <lb ed="#F" n="30"/>Sed dices hoc modo non divelleretur ferrum à magnete quocunque 
+            fer<lb ed="#F" n="31" break="no"/>ri incremento, quod constat esse falsum. Respondeo non hoc sequi; quia,
+            <lb ed="#F" n="32"/>quando additur ferii uncia unciae pendenti, augetur gravitas aequaliter, at
+            <lb ed="#F" n="33"/>non augetur aequaliter vis magnetica, quia enim secundum ferrum 
+            remo<lb ed="#F" n="34" break="no"/>tius est a magnete, quam primum, ideo minori etiam conatu tendit ad 
+            ma<lb ed="#F" n="35" break="no"/>gnetem, quam primum, cum sphaera procedat uniformiter difformiter; &amp; ut
+            <lb ed="#F" n="36"/>minor est qualitas, quo magis receditur à magnete, ita minor est conatus ad
+            <lb ed="#F" n="37"/>illam accdentis. Hinc fit, ut tandem per augmentum ferri superetur à 
+            gra<lb ed="#F" n="38" break="no"/>vitate vis magnetica; quia semper gravitas augetur aequaliter, vis autem
+            <lb ed="#F" n="39"/>magnetica per partes minores, &amp; minores. Quod si divas addatur secunda
+            <lb ed="#F" n="40"/>ferri pars priori in parte proxima magnetis, ut fiar veriusque aequale 
+            addita<lb ed="#F" n="41" break="no"/>mentum, dum utrunque ferrum aequaliter distat à magnete. Respondeo 
+            fer<lb ed="#F" n="42" break="no"/>rum secundum non coniungi cum primo vi magnetica iubente, nisi in par¬
+            <!--384.xml-->
+            <pb ed="#F" n="365"/>
+               <lb ed="#F" n="1"/>te remotiore à magnete, ut facies dissimiles coniungantur ex alibi dictis.
+            <lb ed="#F" n="2"/>Quod si velis utrunque ferrum ad magnetem appendere, primò non addes
+            <lb ed="#F" n="3"/>secundum primo, sed duo simul magneti appones; deinde ex secundi 
+            addi<lb ed="#F" n="4" break="no"/>tamento facilè contingit, ut primum decidat etiam si non pendeat secundum
+            <lb ed="#F" n="5"/>ex illo, &amp; consequenter eius gravitas non augeatur propter rationem mox
+            <lb ed="#F" n="6"/>ponendam.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 18</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 18</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="239"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e25548"> <!-- l3c18 -->
+            <head xml:id="p9i7y5-e25548-Hd1e107">Caput 18</head>
+            <p xml:id="p9i7y5-e25548-d1e109">
+               <lb ed="#F" n="30"/>Est haec verticitas primario in magnete, qua se convertit ad polos; sed haec eadem ferro
+            <lb ed="#F" n="31"/>etiam communicatur. Cap. XVIII.
+        </p>
+            <p xml:id="p9i7y5-e25548-d1e116">
+               <lb ed="#F" n="32"/>Quod ferrum magneticè excitatum, hoc est quod magnetem 
+            te<lb ed="#F" n="33" break="no"/>tigerit, si libretur, ad polos convertatur, res est magis fortasse
+            <lb ed="#F" n="34"/>manifesta, quam quod magnes ipse hanc eandem habeat 
+            fa<lb ed="#F" n="35" break="no"/>cultatem; quam tamen vim etiam ipsi magneti innatam esse,
+            <lb ed="#F" n="36"/>&amp; experimentum sentit, &amp; ratio consentit. Si enim gravitas
+            <lb ed="#F" n="37"/>compedes non inijciat, dirigit magnes suos virtutis polos ad polos mundi,
+            <lb ed="#F" n="38"/>&amp; sua directione meridianum demonstrat non minus, quam versorium, aut
+            <lb ed="#F" n="39"/>nautica pyxis; licet propter partium similium formam, &amp; in formem figuram
+            <lb ed="#F" n="40"/>non ita hoc prima fronte obvium videatur; re tamen vera suspenso lapide,
+            <!--258.xml-->
+            <pb ed="#F" n="239"/>
+               <lb ed="#F" n="1"/>nisi prorsus polos ad verticem Cęli, &amp; imum dirigas, convertit se 
+            determi<lb ed="#F" n="2" break="no"/>nata ratione ad polos telluris. Hoc posito duo hic quaeruntur, cur magnes,
+            <lb ed="#F" n="3"/>&amp; magnetica ad polum terrae se convertant, &amp; cur in ferrum magneticus iste
+            <lb ed="#F" n="4"/>vigor possit derivari per contactum.
+        </p>
+            <p xml:id="p9i7y5-e25548-d1e151">
+               <lb ed="#F" n="5"/>Magnetica ad Terram illa ratione convertuntur, ut convenienti ratione
+            <lb ed="#F" n="6"/>excipiant actionem magneticam Terrae, &amp; ab illa actione potius 
+            roboren<lb ed="#F" n="7" break="no"/>tur, &amp; confirmentur, quam laedatur eorum innata qualitas. Cum 
+            magneti<lb ed="#F" n="8" break="no"/>ca omnia non solum in se habeant qualitatem illam, quam appellavimus
+            <lb ed="#F" n="9"/>duarum facierum, à qua formaliter ordinatur quodammodo corpus, &amp; 
+            dis<lb ed="#F" n="10" break="no"/>ponitur in ordine ad universum, ut, quando extrema habet ad polos directa,
+            <lb ed="#F" n="11"/>sit in sua naturali positione; sicuti lignum tunc obtinet illam, quam natura
+            <lb ed="#F" n="12"/>exigit, positionem, cum fuerit erectum, ut determinatam partem sursum ha
+            <lb ed="#F" n="13"/>beat, oppositam deorsum, cum non solum, inquam, habeat in se istam 
+            qua<lb ed="#F" n="14" break="no"/>litatem; sed etiam illam eandem circumquaque diffundere, et extra se 
+            velu<lb ed="#F" n="15" break="no"/>ti disseminare possit; ita ut in tota sphaera, ad quam se virtus activa extendit,
+            <lb ed="#F" n="16"/>non quidem eodem modo, quo est in ipso corpore magnetico, 
+            convenien<lb ed="#F" n="17" break="no"/>ti tamen ratione, atque illa facierum distinctione sit diffusa, sicuti corpus 
+            lu<lb ed="#F" n="18" break="no"/>minosum circunquaque eiaculatur luminis radios, qui tamen sunt in medio
+            <lb ed="#F" n="19"/>dependenter, semper à radioso principio, pro medio autem ad magneticam
+            <lb ed="#F" n="20"/>actionem quodcunque corpus est apum, sicut luminoso quodcunque 
+            dia<lb ed="#F" n="21" break="no"/>phanum, &amp; hoc convenienter: quia, cum haec sit qualitas universi, non 
+            ali<lb ed="#F" n="22" break="no"/>cuius particularis corporis, debuerunt omnia illi desetvire, facilem'que illi
+            <lb ed="#F" n="23"/>aditum aperire. Totus telluris globus corpus est magneticum, ut alibi 
+            pro<lb ed="#F" n="24" break="no"/>batum est. Unde conficitur certa ratione, ut actionem habeat magneticam,
+            <lb ed="#F" n="25"/>qualem in nostrate magnete experintur, qua circunquaque in tota sua sphę
+            <lb ed="#F" n="26"/>ra effundat qualitatem illam duatum facierum iuxta leges magneticas.
+            <lb ed="#F" n="27"/>Verum quoniam haec qualitas à magnetico corpore per medium diffusa cum
+            <lb ed="#F" n="28"/>habet alterandi sibi proportionata corpora alteratione sibi propria, ita ut
+            <lb ed="#F" n="29"/>in tali proportionato corpore, quod scilicet sit subiectum huius qualitatis
+            <lb ed="#F" n="30"/>idoneum, producatur media ista qualitate per medium diffusa, qualitas 
+            dua<lb ed="#F" n="31" break="no"/>rum facierum eiusdem rationis cum illa, quae est in toto telluris globo, seu
+            <lb ed="#F" n="32"/>in quolibet alio magnetico corpore, non poterit produci illa qualitas, nisi
+            <lb ed="#F" n="33"/>in illo situ, &amp;, ut ita dicam, in illa positione, quam possidet in ipso medio.
+            <lb ed="#F" n="34"/>Hinc fit, ut, si adveniat corpus aliquod, quod iam habeat illam qualitatem
+            <lb ed="#F" n="35"/>in se determinata ratione, aut à natura productam, aut immissam aliter à ma
+            <lb ed="#F" n="36"/>gnetico corpore, ut est, verbi gratia magnes, aut versorium magneticè 
+            ex<lb ed="#F" n="37" break="no"/>citatum, si huiusmodi corpus collocetur intra sphaeram magneticę 
+            activita<lb ed="#F" n="38" break="no"/>tis telluris, quae se extendit ad totam aeris regionem, quam nos incolimus,
+            <lb ed="#F" n="39"/>altem, ut experimento possumus definire, dum tale corpus sentit se alterari
+            <lb ed="#F" n="40"/>à qualitate magnetica per medium à tellure diffusa, si non est in 
+            convenien<lb ed="#F" n="41" break="no"/>ti situ, ita, ut qualitas, quae per novam hanc alterationem producitur, sit 
+            eius<lb ed="#F" n="42" break="no"/>dem positionis cum illa, quam iam possidet, convertat se se, ut excipiat hanc
+            <!--259.xml-->
+            <pb ed="#F" n="240"/>
+               <lb ed="#F" n="1"/>novam qualitatem conformiter ad illam, quam iam habet; ita ut potius illa
+            <lb ed="#F" n="2"/>qualitas antiqua à tali nova alteratione perficiatur, quam depravetur, aut
+            <lb ed="#F" n="3"/>imminuatur. Ratio igitur à priori, cur magnes, &amp; magnetica se convertant
+            <lb ed="#F" n="4"/>ad polos terrae est, ut actionem magneticam Terrae, quam habet per 
+            qualita<lb ed="#F" n="5" break="no"/>tem circumquaque diffusam in omnia corpora, excipiat magnes, seu 
+            verso<lb ed="#F" n="6" break="no"/>rium conformiter ad qualitatem, quam iam habet in se, non vero contraria
+            <lb ed="#F" n="7"/>ratione.
+        </p>
+            <p xml:id="p9i7y5-e25548-d1e256">
+               <lb ed="#F" n="8"/>Quod secundo loco proposuimus, est cur haec verticitas ferro 
+            communi<lb ed="#F" n="9" break="no"/>cetur per contactum magnetis? Dico id ex ferri natura provenire. Si quis
+            <lb ed="#F" n="10"/>enim quaerat, cur in speculo excipiatur imago corporis luminosi, seu 
+            colo<lb ed="#F" n="11" break="no"/>rati, &amp; non excipiatur in ligno non speculari, neque in corio &amp;c. &amp; tamen
+            <lb ed="#F" n="12"/>imago colorati circunquaque diffusa, tam appellit ad speculum, quam ad 
+            co<lb ed="#F" n="13" break="no"/>rium. cur ergo non excipitur, &amp; videtur in corio, sicut videtur in speculo?
+            <lb ed="#F" n="14"/>ne plebeius quidem philosophus huius rei causam esse putat obscuram;
+            <lb ed="#F" n="15"/>nec ullus dicet aut hoc esse arcanum naturae, quod sciri non possit, aut 
+            pro<lb ed="#F" n="16" break="no"/>venire ex occulta qualitate, quia rem tenet, &amp; nomina quaedam hisce rebus
+            <lb ed="#F" n="17"/>imposita habet: cum haec sint, non video ego, cur in re nostra dici debeat
+            <lb ed="#F" n="18"/>arcanum esse, &amp; impenetrabile, cur ferrum, &amp; non lignum verticitatem à
+            <lb ed="#F" n="19"/>magnete concipiat: tantundem enim, quantum ad rem spectat de utroque
+            <lb ed="#F" n="20"/>scimus, etiam si nomina hic desint; quia res adeo non fuit protrita omnium
+            <lb ed="#F" n="21"/>sermonibus; immo nec priscis temporibus nota, ne quod ad sem quidem. Ex
+            <lb ed="#F" n="22"/>quo factum est, ut sermonis latini inventores certum illi vocabulum 
+            assi<lb ed="#F" n="23" break="no"/>gnare non potuerint, quod nec alij potest fortasse ferreum: sicut in speculo di
+            <lb ed="#F" n="24"/>ces imaginem excipi ex eo, quod speculum sit corpus tersum, &amp; terminatum:
+            <lb ed="#F" n="25"/>ex quo fit ut aptum sit illam imaginem, quae quamvis ubique sit, &amp; ad 
+            quod<lb ed="#F" n="26" break="no"/>cunque corpus appellat, non tamen ubique sentitur, neque à quolibet ad 
+            o<lb ed="#F" n="27" break="no"/>culum remittitur, in se excipere, &amp; ad oculum sub sensibili forma repellere pos
+            <lb ed="#F" n="28"/>sit. Sicut, inquam, illud provenit ex speculi speciali natura, quam 
+            explica<lb ed="#F" n="29" break="no"/>mus peresse tersum, &amp; terminatum, ita dico ex speciali ferri natura 
+            proveni<lb ed="#F" n="30" break="no"/>re, ut illam qualitatem, quae per totum medium à magnete diffusa est in se,
+            <lb ed="#F" n="31"/>quia est subiectum illi proportionatum, recipiat firmiter, &amp; per modum ha
+            <lb ed="#F" n="32"/>bitus; quam alia corpora, quia talem non habent naturam illi 
+            congruen<lb ed="#F" n="33" break="no"/>tem, recipere nequeunt. Sicuti imago luminosi, &amp; colorati, per totum 
+            qui<lb ed="#F" n="34" break="no"/>dem est diffusa medium; alia tamen corpora à specularibus, quia non habent
+            <lb ed="#F" n="35"/>illam specularem naturam, ita in se excipere non possunt, ut ad oculum 
+            re<lb ed="#F" n="36" break="no"/>flectant; &amp; tamen voces illae tersi &amp;c. re ipsa paulo plus de speculari natura
+            <lb ed="#F" n="37"/>explicant, quam haec ipsa vox specularis natura. non ergo dicatur occultum
+            <lb ed="#F" n="38"/>esse, cur ferrum verticitatem concipiat, dum dicitur id provenire ex eius
+            <lb ed="#F" n="39"/>natura, quod sit subiectum proportionatum magneticae qualitati; sicut non
+            <lb ed="#F" n="40"/>dicitur occultum, cur speculum, &amp; non corium imagines reflectat. adde aliud
+            <lb ed="#F" n="41"/>exemplum, quod alicui videatur magis adhuc rem explicare. appellit radius
+            <lb ed="#F" n="42"/>ad crystallum, vel aquam, appellit, &amp; ad lignum: pervadit chrystallum, non
+            <!--260.xml-->
+            <pb ed="#F" n="241"/>
+               <lb ed="#F" n="1"/>pervadit lignum. quaetis ex me causam huius; Si respondebo, causa est 
+            qua<lb ed="#F" n="2" break="no"/>litas occulta; damnabis me, quod valde sim rudis in philosophia, &amp; dices
+            <lb ed="#F" n="3"/>causam esse patentem; quia illud est corpus diaphanum; alterum opacum.
+            <lb ed="#F" n="4"/>quaero, cur diaphanum pervadit lumen, &amp; non opacum? nec eruditus, ut 
+            opi<lb ed="#F" n="5" break="no"/>nor, respondebit, nisi quia haec est diaphani, &amp; opaci natura, ut primum 
+            per<lb ed="#F" n="6" break="no"/>vadat lumen, non secundum. non tamen putas causam esse occultam. cur
+            <lb ed="#F" n="7"/>qualitatem magneticam excipit ferrum, non excipit lignum, sed 
+            perva<lb ed="#F" n="8" break="no"/>dit? quia haec est ferri, &amp; ligni natura: ne calumnieris quaeso, me causam 
+            oc<lb ed="#F" n="9" break="no"/>cultam pertulisse, si illa non est causa occulta.
+        </p>
+            <p xml:id="p9i7y5-e25548-d1e358">
+               <lb ed="#F" n="10"/>Cur autem ferrum sit subiectum proportionatum ad excipiendam in se il
+            <lb ed="#F" n="11"/>lam qualitatem magnetis, prae alijs corporibus, id ex alio provenire non po
+            <lb ed="#F" n="12"/>test, quam ex eo, quod ferrum similem habet cum magnete naturam, quam
+            <lb ed="#F" n="13"/>similitudinem indicant, imo evincunt similia in utroque corpore 
+            acciden<lb ed="#F" n="14" break="no"/>tia, coloris, ponderis &amp;c. &amp; praecipuè ex eo, quod ex magnete tanquam ex
+            <lb ed="#F" n="15"/>perfectissima vena ferrum optimum percolari dicunt. quod si verum est, ma
+            <lb ed="#F" n="16"/>gnes videbitur vena ferri ditissima, &amp; optima, &amp; ferrum magnes fusus. Cum
+            <lb ed="#F" n="17"/>igitur ferrum, &amp; magnes adeo cognatam habeant naturam, ut exiguo 
+            admo<lb ed="#F" n="18" break="no"/>dum termino distent, non est mirum, quod qualitas magnetis in ferro 
+            pro<lb ed="#F" n="19" break="no"/>ducatur, &amp; non in alio corpore. Tentat scilicet magnes circunquaque effun
+            <lb ed="#F" n="20"/>dendo suam qualitatem, eam in circoniecta corpora producere, sed quia 
+            il<lb ed="#F" n="21" break="no"/>la non sunt proportionata, ut talem habeant qualitatem, illam non excipiunt.
+            <lb ed="#F" n="22"/>at vero ubi ferrum invenerit vel ferreum corpus, quia istud est subiectum
+            <lb ed="#F" n="23"/>proportionatum propter naturae similitudinem, in illo qualitas radicatur.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

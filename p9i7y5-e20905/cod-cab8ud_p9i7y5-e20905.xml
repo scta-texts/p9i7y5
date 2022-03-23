@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="197"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e20905"> <!-- l3c1 -->
+            <head xml:id="p9i7y5-e20905-Hd1e107">Caput 1</head>
+            <p xml:id="p9i7y5-e20905-d1e109">
+            <!--216.xml-->
+               <pb ed="#F" n="197"/>
+               <lb ed="#F" n="1"/>DE
+            <lb ed="#F" n="2"/>MAGNETICA
+            <lb ed="#F" n="3"/>PHILOSOPHIA
+            <lb ed="#F" n="4"/>LIBER TERTIUS
+            <lb ed="#F" n="5"/>In quo ponuntur effectus ad directionem spectantes,
+            <lb ed="#F" n="6"/>Et eorum causę.
+        </p>
+            <p xml:id="p9i7y5-e20905-d1e129">
+               <lb ed="#F" n="7"/>Ratio, &amp; forma addendi hunc librum. Cap. I.
+        </p>
+            <p xml:id="p9i7y5-e20905-d1e134">
+               <lb ed="#F" n="8"/>Duo Mihi dehorum librorum additamento non nihil
+            <lb ed="#F" n="9"/>dubitanti animos addidere, rei difficultas, de qua
+            <lb ed="#F" n="10"/>hic tractatur, &amp; propositionum, seu effectuum, qui 
+            pro<lb ed="#F" n="11" break="no"/>ponentur ingeniorum, ut arbitror fames avidissima. Quia
+            <lb ed="#F" n="12"/>enim in duobus iam expositis libris totam quantam 
+            quan<lb ed="#F" n="13" break="no"/>tam habui fere magneticam philosophiam ex tenebris, in
+            <lb ed="#F" n="14"/>quibus mihi hactenus delitescere visa est, in apertum 
+            lu<lb ed="#F" n="15" break="no"/>cemque dedi, perferente etiam clarissimam facem Gilberto, &amp; in universum
+            <lb ed="#F" n="16"/>totam huius lapidis naturam palam feci; verebar, ut quod est apertè fatear,
+            <lb ed="#F" n="17"/>ne fastidiosi quidam stomachuli nonnullarum rerum iteratam positionem
+            <lb ed="#F" n="18"/>molesta cum nausea reijcerent. Non enim fieri poterit, quin, dum singula
+            <lb ed="#F" n="19"/>colligo spectacula, quibus mirandum naturae theatrum cumulat iste lapis,
+            <lb ed="#F" n="20"/>&amp; praecipuè dum singulorum causas prosequor, multa repetam ex ijs, quae iam
+            <lb ed="#F" n="21"/>superioribus libris sunt dicta.
+        </p>
+            <p xml:id="p9i7y5-e20905-d1e168">
+               <lb ed="#F" n="22"/>Verum, quia non tàm istis ingeniorum apicibus scribimus, qui solum 
+            le<lb ed="#F" n="23" break="no"/>viter indicata statim intelligendi vi penitus pervadunt, &amp; quamcunque 
+            re<lb ed="#F" n="24" break="no"/>petitae rei umbram aversantur, &amp; fugiunt, quàm mei etiam similibus cupio
+            <lb ed="#F" n="25"/>deservire, qui, quod fortasse prima vicè non ita clare perceperunt, si illud
+            <lb ed="#F" n="26"/>ipsum iterum inculcaveris, excipiunt animo tandem, &amp; felicius cognoscunt;
+            <lb ed="#F" n="27"/>ideo statui hos effectus omnes in unum redigere, quamvis aliqua essent 
+            ite<lb ed="#F" n="28" break="no"/>randa ex his, quae dicta sunt.
+        </p>
+            <p xml:id="p9i7y5-e20905-d1e186">
+               <lb ed="#F" n="29"/>Quod si plurimis licuit autoribus ea, quae frequenter in sapientum 
+            volu<lb ed="#F" n="30" break="no"/>minibus fuerint inculcata, in suas transferrè lucubrationes, &amp; iterum nobis
+            <lb ed="#F" n="31"/>ingerere, nec sua se putant laude carituros, si de suo saltem aliquid addant,
+            <lb ed="#F" n="32"/>quod passim factitatum videmus; cur mihi quis vitio vertat, si altius mea
+            <lb ed="#F" n="33"/>iterum nonnulla calco vestigia, quae prius omnino fuerant solum leviter si¬
+            <!--217.xml-->
+            <pb ed="#F" n="198"/>
+               <lb ed="#F" n="1"/>gnata fortasse? Nunc demum cognitionis segetem fortasse demetet animus,
+            <lb ed="#F" n="2"/>cuius solum sementem fecimus in prioribus libris. Omnino arduum adeo,
+            <lb ed="#F" n="3"/>&amp; impeditum est hoc dę magnetica philosophia negotium, adeo novas 
+            af<lb ed="#F" n="4" break="no"/>fert propositiones, sibi adeo imparatam offendit mentem, ut non puerilis
+            <lb ed="#F" n="5"/>censenda sit nonnullarum rerum inculcatio opportuna, illarum praesertim,
+            <lb ed="#F" n="6"/>in quibus huiusce disputationis cardo vertitur.
+        </p>
+            <p xml:id="p9i7y5-e20905-d1e217">
+               <lb ed="#F" n="7"/>Illud accedit, quod hanc tractationem his libris comprehensam 
+            iucun<lb ed="#F" n="8" break="no"/>dissimam futuram spero: in his enim veluti quaesitum colligo fructum ex
+            <lb ed="#F" n="9"/>prioribus libris, dum singulos magnetis effectus, quos in isto amplissimè
+            <lb ed="#F" n="10"/>coaretavit natura lapide, prosequor, &amp; singulorum propriam affero causam,
+            <lb ed="#F" n="11"/>ut dicunt, à priori; nec aliquid praetermitto ex his, quae aut mihi in id 
+            se<lb ed="#F" n="12" break="no"/>dulo incumbenti in mentem venire potuerunt, aut ab alijs curiosis naturae 
+            in<lb ed="#F" n="13" break="no"/>spectoribus vidi observata. Enimvero, quid profuisset huius lapidis 
+            natu<lb ed="#F" n="14" break="no"/>ram introspicere, nisi per regressum demonstrativum, ad quem nobis tàm
+            <lb ed="#F" n="15"/>luculentam praefert facem ingeniorum sydus Aristoteles, singulorum 
+            da<lb ed="#F" n="16" break="no"/>remus rationes? Et quamvis ptęmonstratis fontibus hanc sibi quisque 
+            pos<lb ed="#F" n="17" break="no"/>set haurire veritatem, non ingratum tamen omnibus meum hunc 
+            qualem<lb ed="#F" n="18" break="no"/>cunque laborem futurum arbitror; dum, quod non omnes possent nisi 
+            ad<lb ed="#F" n="19" break="no"/>hibito labore, ipse perficere tentabo; vel certè quos non omnes observarent
+            <lb ed="#F" n="20"/>effectus, hic collectos monstrabo.
+        </p>
+            <p xml:id="p9i7y5-e20905-d1e250">
+               <lb ed="#F" n="21"/>Habebis in isto libro omnes magneticos effectus, qui se produnt in 
+            dire<lb ed="#F" n="22" break="no"/>ctione huius lapidis, qua se constituit in suo magnetico meridiano: &amp; 
+            quam<lb ed="#F" n="23" break="no"/>vis multa supra fuerint adducta, ut quasi ex signis, &amp;t argumentis à 
+            posterio<lb ed="#F" n="24" break="no"/>ri nostra comprobaretur de isto lapide physica speculatio, quae 
+            exprimen<lb ed="#F" n="25" break="no"/>tis, &amp; sensatis effectibus debet inniti, hic tamen placuit omnes simul colligere.
+            <lb ed="#F" n="26"/>Quodsi aliquem desiderabis, ne putes à me aut studiose, aut fraudulenter 
+            omis<lb ed="#F" n="27" break="no"/>sum, sed aut memoriam me feffilisse, aut certè me in illud non incidisse experimentum.
+            <lb ed="#F" n="28"/>Ea poro erit explicandi ratio: proponam quasi titulum ipsum effectum
+            <lb ed="#F" n="29"/>verbis quantum potero clarissimis in sua brevitate; ea ferè ratione, qua solent
+            <lb ed="#F" n="30"/>mathematici suas propositiones praemittere, quas deinde colligunt 
+            habi<lb ed="#F" n="31" break="no"/>ta demonstratione: mox rem incipiam explicare additis figuris, ubi opus
+            <lb ed="#F" n="32"/>fuerit, &amp; expressis rerum formis. Explicata ratione, &amp; probata experientia,
+            <lb ed="#F" n="33"/>eius rationem reddere tentabo ex proprijs magneticae philosophiae principijs,
+            <lb ed="#F" n="34"/>ut illam notam evitem, quam incurrunt philosophantes per communia, do
+            <lb ed="#F" n="35"/>ctrinam ex prioribus libris repetendo, quod aequi bonique consolas, dum
+            <lb ed="#F" n="36"/>tuae, lector, honestissimae studeo voluptati.
+        </p>
+            <p xml:id="p9i7y5-e20905-d1e287">
+               <lb ed="#F" n="37"/>Sicuti vero in isto libro illos enumero effectus, quibus insignem se facit
+            <lb ed="#F" n="38"/>magnes, dum polum respicit, ita consequens illos complectetur, qui ex 
+            fer<lb ed="#F" n="39" break="no"/>ri, &amp; magnetis coitione insurgunt; sic enim mihi videor facilius 
+            impeditis<lb ed="#F" n="40" break="no"/>simum hoc opus posse expedire, &amp; magnes ea directione, qua rectum iter
+            <lb ed="#F" n="41"/>commonstrat per invia maris, simul etiam caligantes ingenij cursus per
+            <lb ed="#F" n="42"/>brevia, &amp; syrtes huius philosophiae diriget ad certum veritatis portum.
+            <!--218.xml-->
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

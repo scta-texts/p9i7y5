@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 24</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 24</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="355"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e37858"> <!-- l4c24 -->
+            <head xml:id="p9i7y5-e37858-Hd1e107">Caput 24</head>
+            <p xml:id="p9i7y5-e37858-d1e109">
+               <lb ed="#F" n="32"/>Vena ferri imbecillis, &amp; iners post longam ignitionem verticitatem concipit etiam 
+            nul<lb ed="#F" n="33" break="no"/>lum tangendo magnetem. Cap. XXIV.
+        </p>
+            <p xml:id="p9i7y5-e37858-d1e116">
+               <lb ed="#F" n="34"/>Quidquid sit de magnete, &amp; vena ferri, utrum idem sint, an res diversę,
+            <lb ed="#F" n="35"/>&amp; diversam habentes naturam, certum illud est, sicut in alijs 
+            metal<lb ed="#F" n="36" break="no"/>licis venis, aliquae venae ditiores sunt, aliquae tenviores, &amp; alicubi me
+            <lb ed="#F" n="37"/>talla plurima admixta scoria effodiuntur, alibi natura felicius enititur, ita in
+            <lb ed="#F" n="38"/>ferri fodinis venam alicubi ditissimam esse, quae ferri copiam, quam sinu 
+            fo<lb ed="#F" n="39" break="no"/>vet, ostentat colore, pondere, &amp; alijs accidentibus; alibi ferrum ervitur, sed
+            <lb ed="#F" n="40"/>externis permixtum impuritatibus, &amp; multa vitiatum labe. Ubi ferri vena
+            <!--374.xml-->
+            <pb ed="#F" n="355"/>
+               <lb ed="#F" n="1"/>ditior est, sicuti in alijs suam ostentat praestantiam, ita etiam in magneticis
+            <lb ed="#F" n="2"/>actionibus se nobilem praebet: vel enim ex se nullo externo excitante 
+            ma<lb ed="#F" n="3" break="no"/>gneticum exhibet vigorem, vel certè facilè à magnete per contactum excita
+            <lb ed="#F" n="4"/>tur; at vero infirmiorem invenies venam, quae nihil magnetici ostendit, 
+            im<lb ed="#F" n="5" break="no"/>mo quantumvis ad magnetem applices, quamvis cum illo hospitetur, &amp; ha
+            <lb ed="#F" n="6"/>bitet, nullam omnino concipit virtutem. Hanc igitur dico longa multarum
+            <lb ed="#F" n="7"/>horarum ignitione, etiam si in ferrum non fluat; nec omnino scoriam exuat,
+            <lb ed="#F" n="8"/>tamen illa ignitione ita disponi, ut iam verticitatem concipere possit, &amp; 
+            con<lb ed="#F" n="9" break="no"/>cipiat.
+        </p>
+            <p xml:id="p9i7y5-e37858-d1e158">
+               <lb ed="#F" n="10"/>Vena igitur ferri sic per ignem disposita concipit vert citatem à toto 
+            tel<lb ed="#F" n="11" break="no"/>luris globo, à quo veluti subiectum capax, &amp; per illam ignitionem 
+            munda<lb ed="#F" n="12" break="no"/>tum, quantum sufficit, extraneis qualitatibus, quae magneticis directionibus
+            <lb ed="#F" n="13"/>obstabant, recipit etiam magneticam qualitatem ea etiam ferè ratione, qua
+            <lb ed="#F" n="14"/>supra dixi ferrum ignitione disponi, ut statim à tota tellure sensibilem 
+            verti<lb ed="#F" n="15" break="no"/>citatem accipiat, quam alioquin non posset, nisi longo annorum decursu
+            <lb ed="#F" n="16"/>contrahere. Eadem enim in hoc est etiam ratio de vena ferri, &amp; de ferro 
+            ip<lb ed="#F" n="17" break="no"/>so: pariter enim utrunque, cum iam sit magneticum corpus, à tellure 
+            exci<lb ed="#F" n="18" break="no"/>tatur, &amp; hinc est, quod vena ferri post illam ignitionem videatur iam ex se
+            <lb ed="#F" n="19"/>verticitatem habere.
+        </p>
+            <p xml:id="p9i7y5-e37858-d1e183">
+               <lb ed="#F" n="20"/>Neque enim est necesse dicere quod, dum sic vena per ignem praeparatur,
+            <lb ed="#F" n="21"/>non solum fiat subiectum aptum ad recipiendum qualitatem hanc duarum
+            <lb ed="#F" n="22"/>facierum ab alio, sed fiat propriè magnes, ex cuius innata vi activè 
+            proma<lb ed="#F" n="23" break="no"/>nat qualitas, &amp; fit principium ad illam activè mittendam, non, inquam, 
+            vi<lb ed="#F" n="24" break="no"/>detur necesse hoc dicere, quod fiat per illam ignitionem tale principium, sed
+            <lb ed="#F" n="25"/>solum sufficit, quod reddatur subiectum aptum, ut excipiat hanc qualitatem:
+            <lb ed="#F" n="26"/>recipit autem illam à toto telluris globo. Verum quia causa nimis ampla est,
+            <lb ed="#F" n="27"/>non videtur ab omnibus, &amp; quia nimis effusa, non comprehenditur.
+        </p>
+            <p xml:id="p9i7y5-e37858-d1e203">
+               <lb ed="#F" n="28"/>Huius porrò rei causa illa est, quia in vena ferri non ditissima externae sunt
+            <lb ed="#F" n="29"/>multae qualitates, quae terream, non sequuntur naturam, multae pręsertim hu
+            <lb ed="#F" n="30"/>miditates iniquae, multum externi vitijs ex quibus efficitur, ut non sit 
+            subie<lb ed="#F" n="31" break="no"/>ctum idoneum ad qualitatem magneticam habendam. Sicut enim ut dixi,
+            <lb ed="#F" n="32"/>ferrum ignitum, dum ignem in se habet non est subiectum aptum pro hac
+            <lb ed="#F" n="33"/>qualitate, unde pro illo tempore recedit si prius forte inerat; ita etiam in
+            <lb ed="#F" n="34"/>hac vena ante ignitionem aderant accidentia quaedam, quae nos non nisi à
+            <lb ed="#F" n="35"/>posteriori possumus dignoscere, quae accidentia cum magneticae naturae non
+            <lb ed="#F" n="36"/>conveniant, hinc fit, ut istam qualitatem dum illa habet, non possit commo
+            <lb ed="#F" n="37"/>do hospicio excipere, vel si aliquae particulae excipiunt aliae plures permixtę
+            <lb ed="#F" n="38"/>effectum magneticum impediant. ubi vero per vehementem illam 
+            ignitio<lb ed="#F" n="39" break="no"/>nem, quasi per magis idoneam concoctionem externa accidentia fuerint 
+            so<lb ed="#F" n="40" break="no"/>luta, &amp; melius ad magneticam naturam provecta, iam poterit in se illum 
+            con<lb ed="#F" n="41" break="no"/>cipere vigorem, &amp; prodere. quod erat propositum.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

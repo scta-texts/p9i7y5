@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="99"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e10703"> <!-- l2c1 -->
+            <head xml:id="p9i7y5-e10703-Hd1e107">Caput 1</head>
+           <p xml:id="p9i7y5-e10703-d1e110">
+            <!--118.xml-->
+            <pb ed="#F" n="99"/>
+            <lb ed="#F" n="1"/>DE
+        <lb ed="#F" n="2"/>MAGNETICA
+        <lb ed="#F" n="3"/>PHILOSOPHIA
+        <lb ed="#F" n="4"/>LIBER SECUNDUS.
+        <lb ed="#F" n="5"/>De altero magnetis effectu, hoc est de attractione
+        <lb ed="#F" n="6"/>magneticorum.
+           </p>
+        <p xml:id="p9i7y5-e10703-d1e126">
+               <lb ed="#F" n="7"/>Ferrum, &amp; magnetes sese re ipsa attrahere ostenditur. Caput Primum.
+        </p>
+            <p xml:id="p9i7y5-e10703-d1e132">
+               <lb ed="#F" n="8"/>Hactenus de primo motu, &amp; effectu magneticorum, &amp; de
+            <lb ed="#F" n="9"/>causis illius disputatum est, quo se magnes, &amp; 
+            magneti<lb ed="#F" n="10" break="no"/>ca ad polum convertunt, seu ad meridianum se 
+            confor<lb ed="#F" n="11" break="no"/>mant, &amp; principium illius motus, &amp; proxima 
+            instru<lb ed="#F" n="12" break="no"/>menta sunt explicata. reliquum est ut alterum effectum,
+            <lb ed="#F" n="13"/>quo magnes ad se, vel alium lapidem magnetem, vel
+            <lb ed="#F" n="14"/>ferrum attrahit, disputationi subijciamus, causamque 
+            in<lb ed="#F" n="15" break="no"/>vestigemus, ex qua multarum quaestionum solutio promanabit. 
+            Huiusmo<lb ed="#F" n="16" break="no"/>di vero magnetis effectus obvius maximè est, &amp; in sensus incurrit; nullusque
+            <lb ed="#F" n="17"/>est, qui magneticam attrahendi vim non commemoret, immo tanquam 
+            la<lb ed="#F" n="18" break="no"/>pidem erectum pro argumento fabularum multi sumunt. Ut autem missas
+            <lb ed="#F" n="19"/>faciamus, quę passim fiunt attractiones nulla certa lege, nullo artificio, dum
+            <lb ed="#F" n="20"/>magnes in ferrum quacunque ratione incidit. de illis loquamur, quibus sese
+            <lb ed="#F" n="21"/>ars immiscet, &amp; non solum rem, sed etiam modum attrahendi, distantiam,
+            <lb ed="#F" n="22"/>&amp; alia huiusmodi exponamus, ex quibus sese ipsius causae cognitio 
+            ape<lb ed="#F" n="23" break="no"/>riat.
+        </p>
+            <p xml:id="p9i7y5-e10703-d1e169">
+               <lb ed="#F" n="24"/>Primum igitur illud ponatur experimentum. sumantur duo lapides in
+            <lb ed="#F" n="25"/>quibus exploratum sit ratione, &amp; artificio à nobis tradito superiori libro,
+            <lb ed="#F" n="26"/>quae nam sit facies, quae suopte ingenio meridiem, quaevè septentrionem 
+            a<lb ed="#F" n="27" break="no"/>met spectare: unus autem ex illis lapidibus ex filo libere pendere permitta
+            <lb ed="#F" n="28"/>tur, vel aquis in cymbula impositus innatare iubeatur, quo liber relictus na
+            <lb ed="#F" n="29"/>turam sequatur ducem, tum manu alter lapis magneticus detineatur. Si 
+            e<lb ed="#F" n="30" break="no"/>nim admoveaturis, quem manu tenemus, pendenti, ea ratione, ut facies eius
+            <lb ed="#F" n="31"/>meridionalis ad faciem meridionalem pendentis accedat, is qui manu 
+            te<lb ed="#F" n="32" break="no"/>netur, repellet, ac propulsabit pendentem. &amp; ex adverso si facies 
+            septentrio<lb ed="#F" n="33" break="no"/>nalis admoveatur meridionali, eam ad se provocabit, &amp; trahet; &amp; omnino
+            <!--119.xml-->
+            <pb ed="#F" n="100"/>
+               <lb ed="#F" n="1"/>alter ex lapidibus, alterius faciem consimilem repellet.
+        </p>
+            <p xml:id="p9i7y5-e10703-d1e200">
+               <lb ed="#F" n="2"/>Hoc idem licet deprehendere alio experimento. Si enim ex uno 
+            magne<lb ed="#F" n="3" break="no"/>tis frusto aliquam particulam abscindas, &amp; huiusmodi particulam sio 
+            su<lb ed="#F" n="4" break="no"/>spendas, senties alterum lajus trahi, alterum reijci ab eadem magnetis facie,
+            <lb ed="#F" n="5"/>cum ab adversa reiectum, ab altera facie revocetur. Simili ratione idem in
+            <lb ed="#F" n="6"/>pyxide nautica, vel versorijs intueberis, si magnete prius exactè sint tacta,
+            <lb ed="#F" n="7"/>&amp; excitata; neque enim indiscriminatim magnes quacunque sui partè 
+            quan<lb ed="#F" n="8" break="no"/>cunque ex partibus versorij ad se reducet; sed pars, quae in magnete respicit
+            <lb ed="#F" n="9"/>septentrionem, eam trahet versorij partem, quae respicit meridiem, &amp; ex 
+            ad<lb ed="#F" n="10" break="no"/>verso, quae respicit meridiem in magnete, septentrionalem pyxidis partem
+            <lb ed="#F" n="11"/>trahet. Denique hoc idem prospicies, si acum libratum filo suspendas, atque
+            <lb ed="#F" n="12"/>ita suspenso magnetem admoveas altera ipsius facie: si enim semel pars
+            <lb ed="#F" n="13"/>septentrionalis lapidis apicem acus contigerit, nunquam eadem pars 
+            lapi<lb ed="#F" n="14" break="no"/>dis ad se aliam acus extremitatem adducet; quin immo, quamvis 
+            fenestra<lb ed="#F" n="15" break="no"/>tam partem obtrundas, dum modo acum liberè sinas dependere, illa 
+            magne<lb ed="#F" n="16" break="no"/>tis facies illam perpetuo repellet: contra verò pars meridionalis in lapide non
+            <lb ed="#F" n="17"/>nisi fenestratam acus partem trahet, semper'que acuminatam propulsabit,
+            <lb ed="#F" n="18"/>ut eam illi obstinate obtrudas. Unde factus est locus fabulae, quod magnes
+            <lb ed="#F" n="19"/>ex una parte ferrum trahat, ex altera repellat, de qua alibi: cum tamen 
+            nul<lb ed="#F" n="20" break="no"/>lo discrimine magnes ad se ferrum trahat, hoc solum religiosè observando,
+            <lb ed="#F" n="21"/>ne illam ferri extremitatem, quam una magnetis facies semel terigit, altera
+            <lb ed="#F" n="22"/>facies magnetis trahat, cum potius eam repellat, ut ad illam, cum qua 
+            foe<lb ed="#F" n="23" break="no"/>dus percussit, accurrat. Hoc idem, quod magnes cum magnere, vel ferro
+            <lb ed="#F" n="24"/>praestat, similiter ferrum magnetica virtute imbutum cum ferro praestabit.
+            <lb ed="#F" n="25"/>quasi vero in hac sola re illius dicti laboraret fides.
+        </p>
+            <p xml:id="p9i7y5-e10703-d1e255">
+               <lb ed="#F" n="26"/>Ad similem Deus adducit similemque parem'que.
+        </p>
+            <p xml:id="p9i7y5-e10703-d1e260">
+               <lb ed="#F" n="27"/>cum facies meridiana, non meridianam sibi similem, sed septentrionalem
+            <lb ed="#F" n="28"/>trahat, septentrionalis vero meridianam.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

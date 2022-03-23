@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 33</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 33</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="377"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e40143"> <!-- l4c33 -->
+            <head xml:id="p9i7y5-e40143-Hd1e107">Caput 33</head>
+            <p xml:id="p9i7y5-e40143-d1e109">
+               <lb ed="#F" n="19"/>Versoria melius fiunt ex optima materia, ex figura oblonga potius, quam quadrilatera, &amp;
+            <lb ed="#F" n="20"/>excitantur melius in utroque extremo, quam in altero tantum.
+            <lb ed="#F" n="21"/>Cap. XXXIII.
+        </p>
+            <p xml:id="p9i7y5-e40143-d1e118">
+               <lb ed="#F" n="22"/>Tria hic simul pono, quae diligenter observanda sunt, dum
+            <lb ed="#F" n="23"/>versoria fiunt ad hoc, ut magis expedite certas habeant 
+            dire<lb ed="#F" n="24" break="no"/>rectiones. Primum spectat ad materiam, ex qua fieri debent.
+            <lb ed="#F" n="25"/>Secundum ad formam, seu figuram, quam habere debent 
+            quae<lb ed="#F" n="26" break="no"/>nam scilicet ex multis aptissima sit, singulas expendendo. Tertium
+            <lb ed="#F" n="27"/>ad actum formalem, seu ad illam magneticam qualitatem, qua virtutem 
+            co<lb ed="#F" n="28" break="no"/>cipiunt, se disponendi magnetice ad polos universi, quomodo scilicet 
+            exci<lb ed="#F" n="29" break="no"/>tari debeant versoria ad hoc, ut expeditiorem habeant conversionem. Quod
+            <lb ed="#F" n="30"/>spectat ad primum.
+        </p>
+            <p xml:id="p9i7y5-e40143-d1e140">
+               <lb ed="#F" n="31"/>Materia supra etiam definita est aptissima, quae optima est: &amp; melius fieri
+            <lb ed="#F" n="32"/>versorium ex optimo ferro, hoc est aciario, &amp; quidem temperato, si fieri 
+            pos<lb ed="#F" n="33" break="no"/>sit. Ostendi enim supra ferrum magis perfectum, &amp; perfectius à scoria perpur
+            <lb ed="#F" n="34"/>gatum, ut facilius trahitur à magnete caeteris paribus, ità certiorem 
+            concipe<lb ed="#F" n="35" break="no"/>re magneticam qualitatem. Unde si fiat aequale versorium ex tali ferro 
+            cer<lb ed="#F" n="36" break="no"/>tius dirigetur; quia maiorem habet virtutem magneticam: similiter vivida
+            <lb ed="#F" n="37"/>magis in ferro temperato, &amp; ad nitorem perpolito conservatur virtus: sic enim,
+            <lb ed="#F" n="38"/>ut supra probavi, non tam facile ferrei spiritus evaporant, quibus vegera
+            <lb ed="#F" n="39"/>virtus continetur tanquam in proprio subiecto, &amp; efficacius disponit.
+        </p>
+            <p xml:id="p9i7y5-e40143-d1e163">
+            <!--396.xml-->
+               <pb ed="#F" n="377"/>
+               <lb ed="#F" n="1"/>Quantum spectat ad figuram, illa communiter oblonga est, &amp; ad 
+            mo<lb ed="#F" n="2" break="no"/>dum simplicis virgulae; est tamen complanata, &amp; contusa, ut lamina, non
+            <lb ed="#F" n="3"/>rotunda, ut obelus; &amp; haec convenientissima est meo iudicio forma. &amp; 
+            pri<lb ed="#F" n="4" break="no"/>mum, quantum spectat ad longitudinem, supra probatum est melius 
+            verri<lb ed="#F" n="5" break="no"/>citatem concipere ferrum oblongum, quam quadratum, aut rotundum; &amp;
+            <lb ed="#F" n="6"/>in universum, cum peculiaris natura huius qualitatis sit, ut se extendat non
+            <lb ed="#F" n="7"/>entitate, sed virtute secundum unam dimensionem, quam longitudinem 
+            ap<lb ed="#F" n="8" break="no"/>pellamus, &amp; omnes internae partes conspirent ad agendum per polos; quo
+            <lb ed="#F" n="9"/>maior fuerit magnetis longitudo, eo certius dirigetur &amp; virtus magnetica
+            <lb ed="#F" n="10"/>se felicius disponet: ergo etiam versorium, quo magis suam quantitatem 
+            se<lb ed="#F" n="11" break="no"/>cundum hanc dimensionem extendet, eò certius dirigetur; quia maiorem con
+            <lb ed="#F" n="12"/>cipiet verticitatem. Et cum ferrum non adhęreat magneti nisi per 
+            verticita<lb ed="#F" n="13" break="no"/>tem prius in se conceptam, si ferrum oblongum fortius adhaeret, maiorem 
+            e<lb ed="#F" n="14" break="no"/>tiam in se habebit virtutem magneticam: ergo etiam ferrum oblongum me
+            <lb ed="#F" n="15"/>lius dirigetur: ergo melius fiet versorium oblongum, quam alterius figurae.
+            <lb ed="#F" n="16"/>Adde quod praescindendo etiam à virtute magnetica, cum versorium certius
+            <lb ed="#F" n="17"/>dirigatur, quò facilius vincit resistentiam materiae, quam praecipue invenit
+            <lb ed="#F" n="18"/>in fricatione supra stylum, si valde sit materiatum, &amp; magnam habeat ferri
+            <lb ed="#F" n="19"/>molem, adeo gravitat supra stylum, ut quamvis tangat solum in summo api
+            <lb ed="#F" n="20"/>ce, non sine magno se conatu possit convertere, &amp; magneticae qualitatis obtem
+            <lb ed="#F" n="21"/>perare directionibus, nisi valde efficax sit virtus illa, &amp; longe maior quam res
+            <lb ed="#F" n="22"/>sistentia. At vero si sit tenue, &amp; subtile, etiam exigua erit ressistentia ex 
+            frica<lb ed="#F" n="23" break="no"/>tione, ac proinde facilis motus, unde quaelibet exigua virtus facile versorium
+            <lb ed="#F" n="24"/>diriget. Quod si dicas, virtus magnetica est proportionata subiecto, magna
+            <lb ed="#F" n="25"/>in magno, parva in parvo; ac proinde, si magnam habeat ferri materiam, ma
+            <lb ed="#F" n="26"/>gnam habebit virtutem magneticam, quę illam maiorem resistentiam pote
+            <lb ed="#F" n="27"/>rit superare: si autem exigua sit materia, exigua quidem erit resistentia, sed 
+            e<lb ed="#F" n="28" break="no"/>xigua etiam erit in parvo illo corpore virtus: atque ut se habet parva illa 
+            vir<lb ed="#F" n="29" break="no"/>tus ad superandam parvam resistentiam, ita se habebit magna virtus ad superan
+            <lb ed="#F" n="30"/>dam magnam; immo videtur velle Arist. 7. phy. tex. 37. quod plus possit 
+            ma<lb ed="#F" n="31" break="no"/>gna virtus simul unita ad superandam magnam resistentiam, quam possint
+            <lb ed="#F" n="32"/>singulae partes seorsim sumptae ad superandas singulas partes 
+            proportiona<lb ed="#F" n="33" break="no"/>tas resistentię: ex quo illud pronunciatum desumitur, virtus unita fortior re
+            <lb ed="#F" n="34"/>spondeo, quidquid sit de illo Aristotilis loco, de quo ibi(loquitur. n. ibi 
+            Aris<lb ed="#F" n="35" break="no"/>manifeste de sensibili effectu, qui non fit à qualibet insensibili parte separata, li
+            <lb ed="#F" n="36"/>cet, dum illa pars est coniuncta cum suo toto, concurrat etiam ipsa pro sua 
+            ratio<lb ed="#F" n="37" break="no"/>ne ad totum sensibilem effectum) re ipsa constare, versorium si nimis grave sit, 
+            debe<lb ed="#F" n="38" break="no"/>re valde exquisita arte levigari foramen, &amp; stylum acui, si debet dirigere. Prę¬
+            <lb ed="#F" n="39"/>terea, si grave sit versorium, facile in frequenti, &amp; in continuata directione ac ro
+            <lb ed="#F" n="40"/>tatione retundetur summus apex styli ab illa maiori sibi imminente gravitate,
+            <lb ed="#F" n="41"/>atque ita iam tanget non in summo apice, sed in parte satis lata: minimum 
+            au<lb ed="#F" n="42" break="no"/>tem quodque discrimen hac in re maximum affert impedimentum ad motum, &amp;
+            <!--397.xml-->
+            <pb ed="#F" n="378"/>
+               <lb ed="#F" n="1"/>conversionem magneticam. Periculum autem huiusmodi non est in 
+            levio<lb ed="#F" n="2" break="no"/>re versorio: non enim tam facile retundetut apex styli ex frequenti 
+            gyratio<lb ed="#F" n="3" break="no"/>ne. &amp; haec in negotio Physico, in quo sumus occulatissimè sunt spectanda,
+            <lb ed="#F" n="4"/>ut absolutè pronuntietur hac vel illa ratione, ex tanta, aut tanta materia ver
+            <lb ed="#F" n="5"/>sorium esse conficiendum. &amp; haec est propria ratio, cur versoria nimis 
+            ma<lb ed="#F" n="6" break="no"/>gna, &amp; materiata non sint bona.
+        </p>
+            <p xml:id="p9i7y5-e40143-d1e278">
+               <lb ed="#F" n="7"/>Ut tamen magis ad ea, quę per se contingunt, descedamus, admitto etiam
+            <lb ed="#F" n="8"/>quod virtus in parvo ferro parva sit, magna in magno, &amp; ut parva parvam
+            <lb ed="#F" n="9"/>uperet resistentiam, ita magna magnam evincat; adhuc tamen absolutè
+            <lb ed="#F" n="10"/>pronuntio, ad directionis usum versorium debere fieri caeteris paribus 
+            lon<lb ed="#F" n="11" break="no"/>gum, &amp; gracile, potius quam crassum, &amp; breve. Quod sic probo: Certum
+            <lb ed="#F" n="12"/>est directionis differentias, &amp; variationes facilius cognosci in magno 
+            cir<lb ed="#F" n="13" break="no"/>culo, quam in parvo: in parvo enim circulo, cuius diameter non superet
+            <lb ed="#F" n="14"/>longitudinem grani ordeacei, duo aut tres gradus illius circuli vix poterunt
+            <lb ed="#F" n="15"/>sensu percipi, propter exiguitatem, immo vix decem sentientur. quod si 
+            cir<lb ed="#F" n="16" break="no"/>culus sit maior, puta quattuor digitorum, quilibet gradus facile sensus 
+            iudi<lb ed="#F" n="17" break="no"/>cium subibit. Si ergo versorij index directionem ostendat in parvo circulo
+            <lb ed="#F" n="18"/>sua collocatione, facilis erit error, ut putem cuspidem ostendere unum 
+            gra<lb ed="#F" n="19" break="no"/>dum, cum ostendat quintum, aut sextum ab illo, quod propter exiguam 
+            di<lb ed="#F" n="20" break="no"/>stantiam non percipiam; &amp; parvus ille error in principio fiet maximus in 
+            fi<lb ed="#F" n="21" break="no"/>ne, productis directionum radijs, vero, scilicet, &amp; putato, ex communi centro.
+            <lb ed="#F" n="22"/>At vero si cuspis ostendat directionem in circulo maiore, facilius percipiam
+            <lb ed="#F" n="23"/>absque erroris periculo, quem gradum pręcisè ostendat hunc ne, an illum
+            <lb ed="#F" n="24"/>Quando autem versorium est breve, ostendit directionem in parvo 
+            circu<lb ed="#F" n="25" break="no"/>lo, quando longius, directiones indicat etiam in circulo maiore. ergo 
+            caete<lb ed="#F" n="26" break="no"/>ris paribus, ad directiones inveniendas cemmodius fiet versorium longum,
+            <lb ed="#F" n="27"/>quam breve. Si debeam igitur insumere tantam ferri materiam ad versorium
+            <lb ed="#F" n="28"/>conficiendum, melius erit si producam in longum, quam si crassam, &amp; brevem
+            <lb ed="#F" n="29"/>relinquam; quia omnino in tanta materia tantam habebo virtutem magne
+            <lb ed="#F" n="30"/>ticam, sivè sit versorium longum, sive breve, quae tantam poterit superare 
+            re<lb ed="#F" n="31" break="no"/>sistentiam, &amp; tamen exactius indicabit veram directionem producta, quam
+            <lb ed="#F" n="32"/>brevis. dum enim excitatur versorium per magnetis contactum, fricatur su
+            <lb ed="#F" n="33"/>pra polum magnetis tota eius longitudo, ita ut tota magnetem successive
+            <lb ed="#F" n="34"/>tangat; ac perinde omnes eius longitudinis partes aequaliter applicantur 
+            ma<lb ed="#F" n="35" break="no"/>gneti, ut mox dicam: ergo absolute versorij figura longior melior est, brevi,
+            <lb ed="#F" n="36"/>&amp; crassa. Ne tamen hinc conficias ad tenuissimam gracilitatem fertum 
+            es<lb ed="#F" n="37" break="no"/>se procudendum. Cum enim, ut dictum est, virtus proportionetur subiecto,
+            <lb ed="#F" n="38"/>si tenuissimum sit subiectum, gracilescit etiam virtus, quae in parvo corpore
+            <lb ed="#F" n="39"/>nunquam magna esse potest; ac proinde quilibet exiguus aurae motus, 
+            quili<lb ed="#F" n="40" break="no"/>bet pulvisculus, qui subintret, si quasi rubigo obducatur, retardabit versorium
+            <lb ed="#F" n="41"/>à sua directione.
+        </p>
+            <p xml:id="p9i7y5-e40143-d1e356">
+               <lb ed="#F" n="42"/>Quod vero spectat ad aequilibrationem versorij horizontalis, illud sapien¬
+            <!--398.xml-->
+            <pb ed="#F" n="379"/>
+               <lb ed="#F" n="1"/>ter monet Gilbertus in versorio praesertim maiusculo advertendum, ita effor
+            <lb ed="#F" n="2"/>mandum esse, ut antequam excitetur, non sint ęqualia utrinque ferri 
+            momen<lb ed="#F" n="3" break="no"/>ta ex foramine, quo aequilibratur, sed pars illa versorij, quae excitanda est, ut
+            <lb ed="#F" n="4"/>convertatur in septentrionem, levior aliquantulo sit, quam opposita. Cum
+            <lb ed="#F" n="5"/>enim ex vi magnetica, ut supra demonstratum est, pars illa, quae dirigitur in
+            <lb ed="#F" n="6"/>Septentrionem, in nostro isto Hemisphaerio septentrionali deorsum tendat,
+            <lb ed="#F" n="7"/>&amp; vi trahatur infra horizontem, magneticus ille conatus debet compensari
+            <lb ed="#F" n="8"/>inaequali ferri libratione, ut maior sit ex parte illa australi ferri gravitas, quę
+            <lb ed="#F" n="9"/>sustineat magneticum conatum, quo pars septentrionalis deorsum fertur, &amp;
+            <lb ed="#F" n="10"/>sic demum, postquam versorium fuerit excitatum, stabit exactè in 
+            horizon<lb ed="#F" n="11" break="no"/>tis plano: quia ubi maior est magneticus conatus, minor est ferri gravitas.
+            <lb ed="#F" n="12"/>Quod fiant complanata versoria, ut lamellam referant, non obelum, ratio non
+            <lb ed="#F" n="13"/>magnetica est, sed materialis; Quia .n. debet versorium habere motum 
+            horizon<lb ed="#F" n="14" break="no"/>talem, forma illa magis idonea est ad talem motum: sic enim facilius scinditur, &amp; quasi
+            <lb ed="#F" n="15"/>dividitur aer. Quod si teretem habeat ductum, aut planicies illa assurgat; maiorem
+            <lb ed="#F" n="16"/>habebit aeris resistentiam, ut dirigatur, sic videmus nos facilius per aquam
+            <lb ed="#F" n="17"/>remum agitare, si caesim ducamus, quam si eodem complanato aquam 
+            im<lb ed="#F" n="18" break="no"/>pellamus. Tunc enim potius navis urgetur, quam aqua loco cedat; quod
+            <lb ed="#F" n="19"/>idem proportionaliter dicendum est de aere, ut ostendunt eriam nobis aves.
+            <lb ed="#F" n="20"/>quae remigio alatum aeris aequora tranant, e experimur nos facilius ensem
+            <lb ed="#F" n="21"/>rotare caesim, quam baculum. facilius ergo etiam rotabitur virtute 
+            magne<lb ed="#F" n="22" break="no"/>tica dirigente, &amp; impellente versorium complanatum ad horizontis planum,
+            <lb ed="#F" n="23"/>quam rotundum. Et haec fuit fortasse causa cur pyxides, nauticae ex chartę
+            <lb ed="#F" n="24"/>circulo factae sint, cui supponitur versorium. Circularis enim illa figura,
+            <lb ed="#F" n="25"/>quae supra suum centrum movetur, facilius motum concipit, &amp; magneticis
+            <lb ed="#F" n="26"/>obtemperat directionibus: ac praeterea, dum rotatur pyxis, non ita facile 
+            or<lb ed="#F" n="27" break="no"/>biculus ille motum concipit, sicut conciperet versorium, sed stat virtute ma
+            <lb ed="#F" n="28"/>gnetica retinente suam directionem: quia circularis ille aeris motus, quo 
+            ro<lb ed="#F" n="29" break="no"/>tata pyxide incitatur, non invenit quasi locum, in quo corpus illud impellat
+            <lb ed="#F" n="30"/>propter circularem figuram: at vero si quis pyxidem circumvolvat, in qua
+            <lb ed="#F" n="31"/>sit inclusum versorium, facile rotabitur etiam versorium ipsum, quia 
+            agita<lb ed="#F" n="32" break="no"/>tus aer secum poterit facilè deferre versorium, dum impellit ad eius latera.
+            <lb ed="#F" n="33"/>Laudatissima igitur versorij forma erit, si fiat ex longiori lamellae ductu,
+            <lb ed="#F" n="34"/>ut solent etiam communiter fieri. Fiunt vero etiam, quae chartaceo circulo
+            <lb ed="#F" n="35"/>supponuntur propyxide nautica alia configuratione versoria, seu alia 
+            ratio<lb ed="#F" n="36" break="no"/>ne disponitur ferrum, ut commodius chartaceum circulum sustineat. Aptat
+            <lb ed="#F" n="37"/>Gilbertus quasi ad modum naviculę, ut in A. ex duabus magni cuiusdam cir
+            <lb ed="#F" n="38"/>culi portionibus, quae extremitatibus se tangunt, &amp; in medio nectuntur
+            <lb ed="#F" n="39"/>transversa hasta, ubi foramen construitur. Verum non video, cur adeo 
+            il<lb ed="#F" n="40" break="no"/>lam formam laudet, &amp; prae caeteris commendet; nisi quia, cum maxime 
+            ac<lb ed="#F" n="41" break="no"/>cedat ad unicam longitudinem, spacium tamen medium relinquit, ut 
+            fora<lb ed="#F" n="42" break="no"/>mini, &amp; stylo sit locus, &amp; apte sustineat chartaceum circulum. Alij dispo¬
+            <!--399.xml-->
+            <pb ed="#F" n="380"/>
+               <lb ed="#F" n="1"/>nunt sub chartae circulo ferream virgulam, ut quadratum, seu rhombum ef
+            <lb ed="#F" n="2"/>ficiat, ut in B. Haec peior sanè est forma; tolerabilis tamen est, &amp; certam adhuc
+            <lb ed="#F" n="3"/>habet directionem, &amp; magneticum motum.
+        </p>
+            <p xml:id="p9i7y5-e40143-d1e467">
+               <lb ed="#F" n="4"/>Non illam tamen laudo, nec adhiberem, sed potius adhiberem priorem
+            <lb ed="#F" n="5"/>A. &amp; solum ab imperitis in hac philo
+            <lb ed="#F" n="6"/>sophia opificibus illo modo 
+            confor<lb ed="#F" n="7" break="no"/>mari pyxides existimo. Denique vidi etiam
+            <lb ed="#F" n="8"/>ferrum chartae suppositum 
+            configu<lb ed="#F" n="9" break="no"/>ratum, ut in C. quam pessimam puto
+            <lb ed="#F" n="10"/>rationem construendae pyxidis, &amp;
+            <lb ed="#F" n="11"/>natam arbitror ab intolerabili illo
+            <lb ed="#F" n="12"/>errore, quòd magnes nostrum tantum
+            <lb ed="#F" n="13"/>respiciat polum Septentrionalem,
+            <lb ed="#F" n="14"/>nulla vero ratione alterum 
+            opposi<lb ed="#F" n="15" break="no"/>tum australem. Ideo enim 
+            coniun<lb ed="#F" n="16" break="no"/>gunt ferramenta ex illa parte, quae
+            <lb ed="#F" n="17"/>debet dirigi in Septentrionem, aliam
+            <lb ed="#F" n="18"/>verò extremam partem relinquunt
+            <lb ed="#F" n="19"/>divaricatam, &amp; divisam. Haec 
+            con<lb ed="#F" n="20" break="no"/>formatio, ut falsum habet fundamen
+            <lb ed="#F" n="21"/>tum, ita tota sponte sua ruit. Reijcio
+            <lb ed="#F" n="22"/>igitur omnino illam formam, ut quę
+            <lb ed="#F" n="23"/>magneticis rationibus directè adver
+            <lb ed="#F" n="24"/>setur: illa enim duo opposita 
+            extre<lb ed="#F" n="25" break="no"/>ma divaricata nunquam dirigentur; &amp;, si alterum altero sit maius, vel effica
+            <lb ed="#F" n="26"/>cius excitatum, aut aliquo accidente robustiorem habeat virtutem 
+            magne<lb ed="#F" n="27" break="no"/>ticam, necessario variationes efficiet valdè sensibiles in directione.
+         <lb ed="#F" n="43" type="fixed=380"/>
+               <figure xml:id="p9i7y5-e40143-Fd1e524">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870123/1510,742,738,1202/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">B C A</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375939-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e40143-d1e542">
+               <lb ed="#F" n="28" type="fixed=380"/>Quod spectat ad modum tangendi paratas acus, &amp; excitandi versoria ad
+            <lb ed="#F" n="29"/>certas conversiones, dico primò, debere excitari robustissimo magnete, 
+            qua<lb ed="#F" n="30" break="no"/>lis est, qui debet adhiberi ad omnes magneticas operationes: infirmus enim
+            <lb ed="#F" n="31"/>magnes infirmam confert vim; quae tamen vis est illa, quae immediatè 
+            diri<lb ed="#F" n="32" break="no"/>vit versorium, &amp; componit ad meridianum magneticum. ergo quae 
+            robu<lb ed="#F" n="33" break="no"/>stior fuerit certiori effectu versorium componet. Quod enim aliqui dicunt,
+            <lb ed="#F" n="34"/>non debere excitari tam robusto magnete, ne nimiam concipiat versorium
+            <lb ed="#F" n="35"/>vim magneticam, ne tanto impetu feratur ad meridianum, ut transiliat; hoc
+            <lb ed="#F" n="36"/>est per accidens: nam, quo maior erit virtus, eo firmius haerebit in 
+            meridia<lb ed="#F" n="37" break="no"/>no; &amp; ita, dum vel navis, vel aliud movebitur, non deviabitur pyxis à 
+            meri<lb ed="#F" n="38" break="no"/>diano, si vehemens sit vis. eum igitur non debeat accurrere, sed stare in 
+            me<lb ed="#F" n="39" break="no"/>ridiano; quo maior erit vis, certius stabit, nec quolibet leni vento, aut motu
+            <lb ed="#F" n="40"/>deviabitur; quicquid dicant nautae imperiti. Secundo debet uterque finis
+            <lb ed="#F" n="41"/>versorij utrique polo magnetis convenienter applicari, ut unumquodque
+            <lb ed="#F" n="42"/>versorij extremum suum tangat magnetis polum, illud scilicet extremum
+            <!--399.xml-->
+
+         <!--400.xml-->
+         <pb ed="#F" n="381"/>
+               <lb ed="#F" n="1"/>versorij, quod debet dirigi in septentrionem applicetur ad illum magnetis
+            <lb ed="#F" n="2"/>polum, qui in austrum convertitur, &amp; contra alterum versorij extremum ad
+            <lb ed="#F" n="3"/>alterum magnetis polum. Cuius rei illa est ratio, quia sphaera activitatis ma
+            <lb ed="#F" n="4"/>gnetis procedit uniformiter difformiter, ac proinde quamvis, si altero tantum
+            <lb ed="#F" n="5"/>versorij extremo unicus tangeretur polus magnetis, etiam alterum extremum,
+            <lb ed="#F" n="6"/>quod magnetem non tangit, conciperet ex illo contactu virturem 
+            magneti<lb ed="#F" n="7" break="no"/>tam, ut alibi demonstratum est: tamen non conciperet ita efficacem, sicuti
+            <lb ed="#F" n="8"/>pars tangens. Ut ergo parem habeat utrunque extremum efficacitatem, 
+            de<lb ed="#F" n="9" break="no"/>bet utrunque ad suum polum convenienter applicari: &amp; hanc eandem ob cau
+            <lb ed="#F" n="10"/>sam, quamvis verticitatem concipiat versorium hoc ipso, quod est intra sphę
+            <lb ed="#F" n="11"/>ram activitatis magnetis, etiam si non tangat, tamen certiorem, &amp; 
+            efficacio<lb ed="#F" n="12" break="no"/>rem concipit, quo propius accedit, atque adeo si tangat: &amp; ideo debet 
+            appli<lb ed="#F" n="13" break="no"/>cari omnino, ut tangat. Et quia contingere potest, ut pulvisculus, vel humi
+            <lb ed="#F" n="14"/>ditas aliqua magneti adhaereat, quae omnimodam impediat coniunctionem,
+            <lb ed="#F" n="15"/>&amp; certum contactum ad firmiorem effectum, bonum erit versorium 
+            fri<lb ed="#F" n="16" break="no"/>care supra magnetem, quasi supra polum lapidis velles exacuere. Cuius 
+            fri<lb ed="#F" n="17" break="no"/>cationis, quidquid aliqui fingant, nullus alius est effectus, nisi, quia sic 
+            certio<lb ed="#F" n="18" break="no"/>res sumus de immediatiori contactu, non quia expergiscatur virtus, ac veluti
+            <lb ed="#F" n="19"/>è somno excitetur, aut aliud tale fiat. Illud autem diligenter advertendum
+            <lb ed="#F" n="20"/>est, quomodo fiat huiusmodi versorij applicatio ad magnetis polos. Debet
+            <lb ed="#F" n="21"/>enim diligenter caveri primo, ne eadem versorij extremitas utrique 
+            extre<lb ed="#F" n="22" break="no"/>mo applicetur magnetis, immo nec propè accedat, quantum fieri potest. Non
+            <lb ed="#F" n="23"/>solum enim sic non robustius excitaretur, sed immo potius iam concepta 
+            ver<lb ed="#F" n="24" break="no"/>ticitas destrueretur ad novae contraria ratione productionem. Debet igitur
+            <lb ed="#F" n="25"/>cuspis polo. A. applicari, &amp; statim converso magnete simulque versorio crux
+            <lb ed="#F" n="26"/>ad. B. applicari, ad alterum scilicet magnetis polum. Secundo fiet 
+            huiusmo<lb ed="#F" n="27" break="no"/>di applicatio, &amp; tactus commodissime tali pacto, non si ductes, &amp; reductes,
+            <lb ed="#F" n="28"/>versorium supra polum saepius promovendo, &amp; retrahendo, sed si applicetur
+            <lb ed="#F" n="29"/>polus magnetis. A. medium versus versorij, &amp; paulatim retrahatur versorium,
+            <lb ed="#F" n="30"/>donec cuspidis perducatur ad praecisum poli contactum, ibique 
+            aliquantu<lb ed="#F" n="31" break="no"/>lum haereat. Quod si placeat, hoc bis ac tertio iteres, applicando tamen sem
+            <lb ed="#F" n="32"/>per versorium ad polum medium ipsius versorij versus, &amp; paulatim 
+            retrahen<lb ed="#F" n="33" break="no"/>do, donec contactus haereat in versorij extremo, si enim duceres contactum
+            <lb ed="#F" n="34"/>à medio ad extremum versorium, &amp; postea ab extremo iterum propelleres
+            <lb ed="#F" n="35"/>contactum admedium, auferres priorem verticitatem, &amp; contrariam 
+            indu<lb ed="#F" n="36" break="no"/>ceres, uti supra demonstravi, gladio ducto supra polum magnetis à cuspide
+            <lb ed="#F" n="37"/>ad manubrium, &amp; postea à manubrio ad cuspidem. Si ergo illa ratione 
+            u<lb ed="#F" n="38" break="no"/>trunque extremum utroque polo tangas, erit excitatum versorium 
+            exactissi<lb ed="#F" n="39" break="no"/>mè, quantum magnetis virtus potest, atque adeo hisce legib. observatis 
+            ver<lb ed="#F" n="40" break="no"/>sorium habebis perfectissimum, quod erat hic propositum.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

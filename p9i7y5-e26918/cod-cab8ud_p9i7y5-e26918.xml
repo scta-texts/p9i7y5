@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 22</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 22</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="252"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e26918"> <!-- l3c22 -->
+            <head xml:id="p9i7y5-e26918-Hd1e107">Caput 22</head>
+            <p xml:id="p9i7y5-e26918-d1e109">
+               <lb ed="#F" n="3"/>Ferrum, si collocetur secundum longitudinem supra magnetem, acquirit verticitatem
+            <lb ed="#F" n="4"/>contraria ratione ac sit in ipso magnete.
+            <lb ed="#F" n="5"/>Cap. XXII.
+        </p>
+            <p xml:id="p9i7y5-e26918-d1e118">
+               <lb ed="#F" n="6"/>Sit magnes A. B. cuius pars A. convertatur in Septentrionem
+            <lb ed="#F" n="7"/>B in Austrum:
+            <lb ed="#F" n="8"/>dico si 
+            applice<lb ed="#F" n="9" break="no"/>tur illi obelus
+            <lb ed="#F" n="10"/>ferreus, non 
+            so<lb ed="#F" n="11" break="no"/>lum acquirere verticitatem se
+            <lb ed="#F" n="12"/>dirigendi ad contrariam 
+            par<lb ed="#F" n="13" break="no"/>tem, atque dirigatur pars 
+            ta<lb ed="#F" n="14" break="no"/>cta, sed si collocetur secundum
+            <lb ed="#F" n="15"/>longitudinem in C. pars illa
+            <lb ed="#F" n="16"/>obeli, vel versorij sic iacentis;
+            <lb ed="#F" n="17"/>quę vergit ad A. non acquiret
+            <lb ed="#F" n="18"/>vim se convertendi ad Septen
+            <lb ed="#F" n="19"/>trionem, ad quam partem se
+            <lb ed="#F" n="20"/>convertit A. nec pars, quae vergit ad B. acquiret vim se convertendi ad 
+            Au<lb ed="#F" n="21" break="no"/>strum, sed contraria ratione pars, quae vergit ad A. acquiret vim se 
+            conver<lb ed="#F" n="22" break="no"/>tendi ad Austrum, &amp; quae ad B. ad Septentrionem dirigetur; sicuti versorium,
+            <lb ed="#F" n="23"/>si altero extremorum dirigatur contra A. pars, quae tangit A. non acquiret
+            <lb ed="#F" n="24"/>vim se convertendi ad eandem partem, ad quam se convertit A. sed ad 
+            op<lb ed="#F" n="25" break="no"/>positam, &amp; consimili ratione res succedet in contactu ipsius B. 
+            Experimen<lb ed="#F" n="26" break="no"/>tum est in promptu; si enim utrunque tam obelum, quam magnetem 
+            seor<lb ed="#F" n="27" break="no"/>sim post contactum filo suspendas, videbis ad contrarias partes omnino se
+            <lb ed="#F" n="28"/>dirigere partem magnetis tactam, &amp; partem obeli, quae tetigit.
+         <lb ed="#F" n="41" type="fixed=251"/>
+               <figure xml:id="p9i7y5-e26918-Fd1e173">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869994/1001,1009,1062,757/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A C B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375739-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e26918-d1e191">
+               <lb ed="#F" n="29" type="fixed=251"/>Hujus autem rei ratio non obscurissima est ex nostra hac philosophia, &amp;
+            <lb ed="#F" n="30"/>ex modo agendi magnetis alibi explicato; cum enim ea ratione, quasi, ut
+            <lb ed="#F" n="31"/>ita dicam, imbibatur virtus magnetica in ferrum ad magnetem accedens,
+            <lb ed="#F" n="32"/>non praecisè; qua est in ipso magnete, ut sic: illa enim virtus, quae intus est in
+            <lb ed="#F" n="33"/>magnete, non ipsa immediate agit, ut dicitur, ut quò, sed ea ratione virtutem
+            <lb ed="#F" n="34"/>acquirat, qua est in ipso medio circa magnetem diffuso: ipsa enim est, quae
+            <lb ed="#F" n="35"/>immediatè agit, &amp; quo quasi instrumento utitur magnes ad producendam
+            <lb ed="#F" n="36"/>qualitatem magneticam in ferrum. Quia ergo virtus, quae est per medium
+            <lb ed="#F" n="37"/>diffusa, &amp; se ipsa agit in aliquibus partibus, videtur quidem esse continenti
+            <lb ed="#F" n="38"/>quodam tractu, prout est in magnete; in alijs vero videtur omnino 
+            contra<lb ed="#F" n="39" break="no"/>rium habere situm: semper tamen ita se habet, ut accedendo ad magnetem
+            <lb ed="#F" n="40"/>respiciat contrariam universi partem, atque respiciat pars illa magnetis, ad
+            <!--270.xml-->
+
+         <!--271.xml-->
+         <pb ed="#F" n="252"/>
+               <lb ed="#F" n="1"/>quam acceditur: ideo non est mirum, quod isto eodem situ in ferrum virtus
+            <lb ed="#F" n="2"/>imbibatur. Repetenda est igitur hic doctrina lib. 2. posita de modo agendi
+            <lb ed="#F" n="3"/>magnetis, &amp; de modo virtutem per medium diffundendi, ex quo non adeo
+            <lb ed="#F" n="4"/>mirum videbitur, quod tantopere miratur Gilbertus illo cap. 11. propagari
+            <lb ed="#F" n="5"/>virtutem aequali ratione, quod ad vim directivam, per totum medium.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

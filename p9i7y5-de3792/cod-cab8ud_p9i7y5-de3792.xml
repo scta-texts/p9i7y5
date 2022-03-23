@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 8</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 8</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="32"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-de3792"> <!-- l1c8 -->
+            <head xml:id="p9i7y5-de3792-Hd1e107">Caput 8</head>
+            <p xml:id="p9i7y5-de3792-d1e109">
+               <lb ed="#F" n="25"/>Gilberti opinio de causa motus Magneticorum. Caput VIII.
+        </p>
+            <p xml:id="p9i7y5-de3792-d1e114">
+               <lb ed="#F" n="26"/>Superest ultimo loco novissima Gilberti sententia, de quo saepe
+            <lb ed="#F" n="27"/>incidit mentio, &amp; saepius insequentibus cum eo erit 
+            agen<lb ed="#F" n="28" break="no"/>dum, quòd accuratissimè omnium hanc philosophiam 
+            per<lb ed="#F" n="29" break="no"/>quia illam omnino non reijcio: talis autem videtur esse, quam
+            <lb ed="#F" n="30"/>ille sparsim suis disseminavit in libris; &amp; quibusdam principijs inniti 
+            vo<lb ed="#F" n="31" break="no"/>lvit, quae non ego hic aut confirmare, aut revellere proposui; sed quid de 
+            ip<lb ed="#F" n="32" break="no"/>sis sentiam subinde indicabo. Putat ergo hic author, ut suadere conatur 
+            li<lb ed="#F" n="33" break="no"/>bro tertio capite primo, totam telluris molem magnum esse magnetem,
+            <lb ed="#F" n="34"/>elementarios'que, ut ipse appellat vulgares philosophos exsibilat; qui 
+            ter<lb ed="#F" n="35" break="no"/>ram inutile pondus, simplicem naturam siccitatis, &amp; frigoris qualitatibus
+            <lb ed="#F" n="36"/>tantum imbutam posuerunt, rerum omnium causas in Caelis, aut stellis, in
+            <lb ed="#F" n="37"/>planetis, in igne sedulo perquirentes; nunquam terrenum globum praeter
+            <lb ed="#F" n="38"/>siccitatem, &amp; frigus, inertes qualitates, effectrices aliquas virtutes, ac sui 
+            ip<lb ed="#F" n="39" break="no"/>sius conformatrices habere per universam molem, &amp; per ima viscera 
+            co<lb ed="#F" n="40" break="no"/>gnoverunt, aut an adessent, inquisierunt, tantum in communem matrem
+            <!--51.xml-->
+            <pb ed="#F" n="32"/>
+               <lb ed="#F" n="1"/>malè animati, &amp; de illa malè meriti videntur. Conatur ergo persuadere 
+            lo<lb ed="#F" n="2" break="no"/>co citato, &amp; libro primo, capite decimo septimo, totam Telluris molem
+            <lb ed="#F" n="3"/>substantiam esse magneticam.
+        </p>
+            <p xml:id="p9i7y5-de3792-d1e160">
+               <lb ed="#F" n="4"/>Deinde libro secundo, capite quarto; supponit singulis in globis 
+            totali<lb ed="#F" n="5" break="no"/>bus huius universi, ut in Sole, Luna, Astris, atque adeo etiam in terra, &amp; 
+            om<lb ed="#F" n="6" break="no"/>nino in omnibus corporibus, quae suo globo mundum integrant, unicam,
+            <lb ed="#F" n="7"/>inesse formam, quam primariam, radicalem, &amp; astręam appellat; quae 
+            glo<lb ed="#F" n="8" break="no"/>bum suum tuetur, &amp; disponit; &amp; quamvis dicat hanc non Peripateticorum
+            <lb ed="#F" n="9"/>causam formalem, sed singulatem esse, non puto tamen velle assistentem
+            <lb ed="#F" n="10"/>esse formam, sed informantem; nisi malit metaphysicam esse formam, &amp;
+            <lb ed="#F" n="11"/>essentialem, non physicam, &amp; componentem. Supponit igitur in singulis
+            <lb ed="#F" n="12"/>huiusmodi globis totalibus, ut in globo terrestri, Lunari, &amp;c. talem esse 
+            for<lb ed="#F" n="13" break="no"/>mam, qua globus ille formatur, ut omnes illius partes primariae, ac verae;
+            <lb ed="#F" n="14"/>idest quae nondum depravatae sunt, &amp; corruptae, ita disponantur, &amp; in tali
+            <lb ed="#F" n="15"/>situ, &amp; ordine collocentur, prout illius totius natura postulat; ità, ut, si pars
+            <lb ed="#F" n="16"/>aliqua ex illis veris, &amp; primigenijs ex suo globo praescindatur, non ab alio,
+            <lb ed="#F" n="17"/>quam ab illa forma totali rursus moveatur, &amp; disponatur, prout forma 
+            to<lb ed="#F" n="18" break="no"/>tius exigit; Sic, inquit, si auferretur à Luna frustulum illius, ad eius formam,
+            <lb ed="#F" n="19"/>&amp; terminos lunaticè componeret sese; idest à forma illa totali globi Lunae
+            <lb ed="#F" n="20"/>pars illa vera, &amp; primigenia illius recisa disponeretur, &amp; situaretur in 
+            ordi<lb ed="#F" n="21" break="no"/>ne ad globum Lunae iuxta naturam, &amp; dispositionem ipsius Lunae; sic 
+            fru<lb ed="#F" n="22" break="no"/>stum Solis solaticè ad Solem confluet; sic ergo etiam, si à terra pars aliqua
+            <lb ed="#F" n="23"/>illius primigenia non corrupta, nec externo malo fędata, avulsa ad terram
+            <lb ed="#F" n="24"/>rursus confluet, &amp; ab illa forma totali, &amp; primaria terrae disponetur, prout
+            <lb ed="#F" n="25"/>totius terrae, &amp; globi natura, &amp; dispositio postulat: situm autem respectu
+            <lb ed="#F" n="26"/>terrae putat esse à polo ad polum; &amp; addit magnetem, qualem nos 
+            habe<lb ed="#F" n="27" break="no"/>mus, terrae esse pręcipuam substantiam homogeniam internae eius medullae
+            <lb ed="#F" n="28"/>coniunctissimam, &amp; simillimam.
+        </p>
+            <p xml:id="p9i7y5-de3792-d1e218">
+               <lb ed="#F" n="29"/>Ex his tribus principijs in illius doctrina sparsim positis in unum 
+            colle<lb ed="#F" n="30" break="no"/>ctis conficitur tota illius hac de re sententia, magnetem, scilicet, ad polos
+            <lb ed="#F" n="31"/>dirigi, quia ita ad terram confluit, &amp; à forma totali ipsius globi disponitur,
+            <lb ed="#F" n="32"/>ut tota terrae substantia postulat: haec autem situatio est à polo ad polum, &amp;
+            <lb ed="#F" n="33"/>hoc, quia est pars primigenia terrae, &amp; tota terra nihil aliud est, quam 
+            ma<lb ed="#F" n="34" break="no"/>gnus magnes, quia ergo totius terrae positio situata est per ordinem ad 
+            po<lb ed="#F" n="35" break="no"/>los, ideo haec etiam illius homogenia pars cum toto consentit. Cur autem
+            <lb ed="#F" n="36"/>metalla reliquaque corpora gravia non ita disponantur, ea erit causa, quia
+            <lb ed="#F" n="37"/>non sunt partes primigeniae terrae, sed mutatae, &amp; externis formis vitiatae.
+        </p>
+            <p xml:id="p9i7y5-de3792-d1e240">
+               <lb ed="#F" n="38"/>Hęc opinio in quibus nam probetur explicabitur, dum meam exponam,
+            <lb ed="#F" n="39"/>sententiam, &amp; tria illa principia examinabo. Interim exposuisse satis sit.
+        </p>
+            
+         </div>
+      </body>
+   </text>
+</TEI>

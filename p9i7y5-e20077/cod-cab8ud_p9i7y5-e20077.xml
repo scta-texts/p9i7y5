@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 20</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 20</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="188"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e20077"> <!-- l2c20 -->
+            <head xml:id="p9i7y5-e20077-Hd1e107">Caput 20</head>
+            <p xml:id="p9i7y5-e20077-d1e109">
+               <lb ed="#F" n="21"/>Confutatur Gilberti opinio de electricis atractionibus, &amp; cur humida, bullae in aqua, &amp;
+            <lb ed="#F" n="22"/>alia confluant, hanc vero non esse electricam atractionem. Cap. XX.
+        </p>
+            <p xml:id="p9i7y5-e20077-d1e116">
+               <lb ed="#F" n="23"/>Ut Gilberto satisfaciam, nec gratis reiecisse videar ad primum
+            <lb ed="#F" n="24"/>primo respondeo per instantiam: si bacilla adinvicem 
+            con<lb ed="#F" n="25" break="no"/>fluunt, quia humida sunt, eo quod humida se mutuo trahant,
+            <lb ed="#F" n="26"/>cur, si totum bacillum C. extrahatur ex aqua, quantumvis hu
+            <lb ed="#F" n="27"/>midum sit, &amp; diffluat, non trahit amplius ad se bacillum E. F.
+            <lb ed="#F" n="28"/>&amp; quantumvis madeat, &amp; propius admoveatur, &amp; liberè pendeat, nihil 
+            pror<lb ed="#F" n="29" break="no"/>sus commovet? si est humiditas bacilli C. quae advocat bacillum E. F. tunc
+            <lb ed="#F" n="30"/>est humidum, &amp; tamen non trahit. alia est ergo causa attractionis 
+            bacillo<lb ed="#F" n="31" break="no"/>rum, qua cessante cessat attractio; cum non cesset utriusque humiditas, &amp;
+            <lb ed="#F" n="32"/>tamen utriusque attractio non appareat. Ut igitur veram causam illius 
+            con<lb ed="#F" n="33" break="no"/>cursus bacillorum, &amp; sequentium effectuum exponam, quae quamvis 
+            vi<lb ed="#F" n="34" break="no"/>deantur parva, &amp; minuta, difficiliorem fortasse habent speculationem, quam
+            <lb ed="#F" n="35"/>subtilia quaedam in Metaphisicis, suppono aquam stagnantem non 
+            impedi<lb ed="#F" n="36" break="no"/>tam in extrema superficie sphaericam esse perfecta sphaericitate, cuius 
+            sphae<lb ed="#F" n="37" break="no"/>rę centrum est in centro terrae. Hoc praeterquam quod fere per se patet, &amp;
+            <lb ed="#F" n="38"/>supponitur, dum agitur de sphaera mundi; demonstratur tamen etiam ab
+            <lb ed="#F" n="39"/>Archimede de his, quae vehuntur in aqua. Cum igitur iste sit situs, &amp; 
+            natu<lb ed="#F" n="40" break="no"/>ralis configuratio aquae, quam figuram acquirit ipsa sibi aqua per suam gra¬
+            <!--207.xml-->
+            <pb ed="#F" n="188"/>
+               <lb ed="#F" n="1"/>vitatem, ex eo, quod naturali impetu habeat fluere deorsum ad loca 
+            proxi<lb ed="#F" n="2" break="no"/>miora centro terrae; sequitur, ut si in extrema, &amp; suprema superficie non 
+            ha<lb ed="#F" n="3" break="no"/>beat aqua istam configurationem, &amp; sphaericam figuram, illa alia 
+            configu<lb ed="#F" n="4" break="no"/>ratio sit illi violenta, à qua impetu suae naturae, &amp; ex vi suae gravitatis, qua
+            <lb ed="#F" n="5"/>fluit deorsum, ad loca humiliora, refugit, quantum potest. Nec est necesse
+            <lb ed="#F" n="6"/>ponere in aqua aliam facultatem praeter gravitatem ad hoc, ut, si 
+            intume<lb ed="#F" n="7" break="no"/>scat in medio verbi gratia, qua intumescesitia turbetur illa sphaerica figura
+            <lb ed="#F" n="8"/>concentrica terrae, recedat vel ex toto, vel ex parte ab illa intumescentia.
+            <lb ed="#F" n="9"/>Quando igitur immittitur aliquod corpus solidum, quod non sit 
+            gravissi<lb ed="#F" n="10" break="no"/>mum in aquam, ut corpus C. efficitur, ut propter corporis illius siccitatem
+            <lb ed="#F" n="11"/>aqua refugiat, sicuti à suo contrario refugit humiditas, vel propter 
+            aliqua<lb ed="#F" n="12" break="no"/>lem unctuositatem illius corporis, quae renuit coniungi cum aqua, efficitur,
+            <lb ed="#F" n="13"/>inquam, ut vitet, quantum potest, aqua, ne adhaereat illi corpori; &amp; ideo fit
+            <lb ed="#F" n="14"/>circa corpus in extrema superficie aquae; dum illud sua gravitate 
+            descende<lb ed="#F" n="15" break="no"/>re tentat, veluti quaedam fossa, ut sensu ipso iudice cognoscere quivis potest.
+      </p>
+            <p xml:id="p9i7y5-e20077-d1e194">
+               <lb ed="#F" n="43" type="fixed=188"/>
+               <figure xml:id="p9i7y5-e20077-Fd1e199">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869931/1209,2027,1046,540/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">C F H E</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375642-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="16" type="fixed=188"/>Turbatur igitur ex hoc illa sphaerica superficies aquae: &amp; quia maior est
+            <lb ed="#F" n="17"/>conatus, quo aqua refugit coniungi cum corpore sibi immisso, quam 
+            gra<lb ed="#F" n="18" break="no"/>vitas illius exiguae aquae, quae deberet accurrere ad replendam illam parvam
+            <lb ed="#F" n="19"/>fossam, ideo ille praevalet, &amp; durat illa innaturalis figura aquae, similiter,
+            <lb ed="#F" n="20"/>postquam aqua bacillum madefecit; si quis manu tantillum extrahat, quia
+            <lb ed="#F" n="21"/>aqua lentorem aliquem habet, quo nec ita facilè deserit corpus, cui iam 
+            ad<lb ed="#F" n="22" break="no"/>haesit, nec partes eiusdem aquae ita facilè abinvicem separantur, &amp; quasi 
+            di<lb ed="#F" n="23" break="no"/>velluntur; hinc sit, ut ad
+            <lb ed="#F" n="24"/>elevationem illius bacilli.
+            <lb ed="#F" n="25"/>E. sublevetur etiam non
+            <lb ed="#F" n="26"/>nihil aqua circa illud; 
+            at<lb ed="#F" n="27" break="no"/>que adeo non nihil circa
+            <lb ed="#F" n="28"/>bacillum intumescat. 
+            Si<lb ed="#F" n="29" break="no"/>militer si ex subere H. 
+            ba<lb ed="#F" n="30" break="no"/>cillum E. F. aliquantulum
+            <lb ed="#F" n="31"/>in extremitate aquae 
+            sub<lb ed="#F" n="32" break="no"/>levetur, circa eius etiam
+            <lb ed="#F" n="33"/>extremitatem fiet alius aquae tumor; &amp; ita per istos duos tumores 
+            turbabi<lb ed="#F" n="34" break="no"/>tur naturalis sphaericitas aquae; quibus tumoribus, utpotè violentis 
+            repu<lb ed="#F" n="35" break="no"/>gnabit quidem naturalis gravitas aquae, quae illos extuberantes montes 
+            vel<lb ed="#F" n="36" break="no"/>let complanare, &amp; aqua in tumoribus illis conatur naturali gravitate fluere
+            <lb ed="#F" n="37"/>deorsum; attamen, quia maior est vis, qua adhaeret, &amp; quasi agglutinatur
+            <lb ed="#F" n="38"/>bacillo, quam gravitas, qua tendit ad locum inferiorem, ideo durat ille 
+            tu<lb ed="#F" n="39" break="no"/>mor contra inclinationem gravitatis aquae; atque ideo interim, quantum
+            <lb ed="#F" n="40"/>spectat ad gravitatem, aqua sic sublevata in tumoribus est in statu violento,
+            <lb ed="#F" n="41"/>ut videas tertio aquam resistere motui simpliciter. Si ergo ex illis duabus
+            <lb ed="#F" n="42"/>extuberationibus fieret unica extuberatio aequalis altitudinis, minor quan¬
+            <!--207.xml-->
+
+         <!--208.xml-->
+         <pb ed="#F" n="189"/>
+               <lb ed="#F" n="1"/>titas aquae sic esset in statu violento. dum ergo appropinquant 
+            extremita<lb ed="#F" n="2" break="no"/>tes. C. &amp; F. ut illae duae eminentiae incipiant, quasi ad radices communicare.
+            <lb ed="#F" n="3"/>ut ex duabus fiat una, statim partes illae aquae incipient defluere ad naturalem
+            <lb ed="#F" n="4"/>figuram, quae abundant, dum ex duobus tuberibus fit unum; &amp; illae sunt,
+            <lb ed="#F" n="5"/>quae suo motu dum diffluunt ad propriam sphaericitatem, trahunt sibi 
+            con<lb ed="#F" n="6" break="no"/>iunctas partes, &amp; coniunguntambas in unam. Haec est igitur ratio vera,
+            <lb ed="#F" n="7"/>cur bacillum C. trahat. F. in aqua; quia quando illae duae extuberationes 
+            in<lb ed="#F" n="8" break="no"/>cipiunt communicare, partes aliquae aquae iam incipiunt posse deffluere ad
+            <lb ed="#F" n="9"/>naturalem figuram, &amp; suo motu, &amp; ex mutua adhaesione, &amp; impetu 
+            tenden<lb ed="#F" n="10" break="no"/>di ad locum proprium; alias trahunt, &amp; fit ex illis duabus extuberatio 
+            uni<lb ed="#F" n="11" break="no"/>ca, &amp; consequenter minores partes aquae iam sunt in situ violento, quoad
+            <lb ed="#F" n="12"/>gravitatem. Provenit ergo ille motus a gravitate aquae fluentis ad proprium
+            <lb ed="#F" n="13"/>locum, &amp; figuram, non ex attractione electrica humidorum; &amp; propter
+            <lb ed="#F" n="14"/>hoc confluunt obeli, non quia se electricè trahant.
+        </p>
+            <p xml:id="p9i7y5-e20077-d1e313">
+               <lb ed="#F" n="15"/>Ad secundum de bullis, quae fiunt in aqua: (nam de guttis aquę non est dif
+            <lb ed="#F" n="16"/>ficultas; nec enim confluunt in unum, nisi locus, in quo plures confluunt
+            <lb ed="#F" n="17"/>sit magis declivis, aut ex casu excipiant omnes impetum ad illam partem
+            <lb ed="#F" n="18"/>vel dum forte incipiunt communicare, ut magis connaturalem habeant 
+            fi<lb ed="#F" n="19" break="no"/>guram, &amp; ab innaturali tumore detumescant: in quo casu constat motum
+            <lb ed="#F" n="20"/>provenire ex gravitate, non ex alia attractiva vi.) De bullis ergo, quia 
+            iu<lb ed="#F" n="21" break="no"/>cunda res est, &amp; digna scitu, ut melius intelligatur, intelligendum prius est,
+            <lb ed="#F" n="22"/>quid sint istae bullae, &amp; quo modo fiant. Non sunt igitur istae bullae, nisi
+            <lb ed="#F" n="23"/>portio quaedam aeris quasi circumvestiti aqua: dum enim in aquam cadit
+            <lb ed="#F" n="24"/>gutta lata, &amp; expansa ad modum vel aerem intercipit, &amp; quasi tegit infra se,
+            <lb ed="#F" n="25"/>&amp; anquam; qui aer non quiescit depressus, &amp; inter illas duas aquas inclusus,
+            <lb ed="#F" n="26"/>sed assurgit. Verum quia aqua, quae aerem tegebat, lentorem habet, &amp; 
+            co<lb ed="#F" n="27" break="no"/>haerentiam partium, quà fit quodammodo ductilis, ideo attenuata, &amp; quasi
+            <lb ed="#F" n="28"/>in subtilissimum velum efformata assurgit, &amp; vestit inclusum aerem, &amp; sic fit
+            <lb ed="#F" n="29"/>bulla. Spuma autem nihil aliud est quam multitudo bullarum simul 
+            con<lb ed="#F" n="30" break="no"/>gestarum.
+        </p>
+            <p xml:id="p9i7y5-e20077-d1e350">
+               <lb ed="#F" n="31"/>Ex quo vides, cur aliqui humores, &amp; aliquae aquae maiorem spumam 
+            effi<lb ed="#F" n="32" break="no"/>ciant quam aliae. Quoties enim humor maiorem habet quasi viscum, &amp;
+            <lb ed="#F" n="33"/>lentorem, &amp; maiorem substantiae puritatem, qua possit attenuari ad 
+            vestien<lb ed="#F" n="34" break="no"/>dum aerem, ne ita facilè velum frangatur, maior spuma efficitur. Hinc 
+            sa<lb ed="#F" n="35" break="no"/>pone, qui fit ex pingui materia per aquam fortem attenuata, tanta 
+            excita<lb ed="#F" n="36" break="no"/>tur spuma, si aqua convenienter immisceatur; quia aqua ex illius 
+            commix<lb ed="#F" n="37" break="no"/>tione lentorem, &amp; conglutinationem induit.
+            <lb ed="#F" n="38"/>Hinc, si corticem ex malo aurantio premas supra spumam vini; illico spu
+            <lb ed="#F" n="39"/>ma illa concidit, quia ex mordacitate illius expressi spiritus potius, quam
+            <lb ed="#F" n="40"/>humoris corroditur viscata illa qualitas, quae continebat bullam elevatam;
+            <lb ed="#F" n="41"/>non vero, ut alicui in mentem venit dubitare, impetu ferientis frangitur: nam
+            <lb ed="#F" n="42"/>si insufflares impetuoso ore, non ita spumam disijceres, sicuti illico concidit
+            <!--209.xml-->
+            <pb ed="#F" n="190"/>
+               <lb ed="#F" n="1"/>ad expressionem acidi spiritus, ut constat experientia.
+        </p>
+            <p xml:id="p9i7y5-e20077-d1e385">
+               <lb ed="#F" n="2"/>Debet autem intercedere vel agitatio humoris, qua aer immisceatur, &amp;
+            <lb ed="#F" n="3"/>quasi intrudatur, vel ebullitio, qua vi ignis in fundo vasis attenuatur 
+            hu<lb ed="#F" n="4" break="no"/>mor, &amp; generatur quasi aer, qui ascendens attollit supremam superficiem
+            <lb ed="#F" n="5"/>aquae, quae non patitur se divelli; sicut pustulae curiculam attollunt, &amp; sic
+            <lb ed="#F" n="6"/>generatur spuma. Aqua igitur, ut ad rem revertar, in bullis, quae 
+            intume<lb ed="#F" n="7" break="no"/>scit, &amp; circumvestit aerem, non est ut sic in suo statu naturali, quo ad 
+            gra<lb ed="#F" n="8" break="no"/>vitatem: vellet enim complanari, &amp; cum reliqua aqua sphaeram efformare:
+            <lb ed="#F" n="9"/>quod assequeretur, nisi &amp; ab incluso aere, &amp; à lentore, quo partes invicem
+            <lb ed="#F" n="10"/>cohęrent, impediretur. Hinc fit, ut quoties ex aliquo externo motore, vel
+            <lb ed="#F" n="11"/>ad motum aquae ita moventur aliquę duę similes bullę, ut iam incipiant 
+            mi<lb ed="#F" n="12" break="no"/>sceri, &amp; communicare, ut ita dicam, in radicibus, statim celeriter in unum
+            <lb ed="#F" n="13"/>confluunt; nec enim confluunt adinvicem, nisi ubi adeo proximè sint, ut
+            <lb ed="#F" n="14"/>incipiant communicare in radicibus aquarum veluti tumuli si nimius
+            <lb ed="#F" n="15"/>aquę lentor non impediat, partes aquae, quę abundare incipiunt ex 
+            com<lb ed="#F" n="16" break="no"/>mistione illarum bullarum, dum aer coniungitur, &amp; consequenter ambiri
+            <lb ed="#F" n="17"/>potest à minori quantitate aquae, defluere incipiunt ad propriam sphę
+            ricita<lb ed="#F" n="18" break="no"/>tem; quę partes dum fluunt deorsum, trahunt alias partes aquę &amp; hinc fit 
+            il<lb ed="#F" n="19" break="no"/>le concursus celeris. Dum enim in unam maiorem bullam ambę illę 
+            coa<lb ed="#F" n="20" break="no"/>lescere incipiunt, minores partes aquę requiruntur ad circonvestiendas 
+            il<lb ed="#F" n="21" break="no"/>las bullas, si in unam maiorem coalescant, quam si maneant duae minores,
+            <lb ed="#F" n="22"/>ut facilè posset demonstrari, nisi fere constaret ad sensum ex tractatu de figu
+            <lb ed="#F" n="23"/>ris isoperimetris. Confluunt ergo bullę ad invicem, non quia electricè se
+            <lb ed="#F" n="24"/>mutuo trahant, sed quia naturaliter aqua vult defluere, quantum potest ad
+            <lb ed="#F" n="25"/>suum naturalem statum. &amp; dum una pars descendit, trahit etiam aliam 
+            si<lb ed="#F" n="26" break="no"/>bi coniunctam, si possit: hoc autem accidit, dum illę duę bullę incipiunt 
+            con<lb ed="#F" n="27" break="no"/>iungi; ideo ubi proximę sint, ut iam aliquę partes aquę, quę in bullis 
+            intume<lb ed="#F" n="28" break="no"/>scebant, incipiant posse defluere, illę dum fluunt, trahunt alias, &amp; sic 
+            viden<lb ed="#F" n="29" break="no"/>tur bullę praecipitare congressum.
+        </p>
+            <p xml:id="p9i7y5-e20077-d1e448">
+               <lb ed="#F" n="30"/>Quod ut sentias verum esse, non vero esse attractionem electricam, 
+            obser<lb ed="#F" n="31" break="no"/>va, quod ubi bullae limbo vasis proximae fuerint, quamvis limbus siccus 
+            fue<lb ed="#F" n="32" break="no"/>rit, eadem velocitate ad illum accurrunt, qua ad invicem confluebant. quod
+            <lb ed="#F" n="33"/>ideo fit, quia, dum ex una parte bulla vasis orificio adhaeret, iam fere 
+            medie<lb ed="#F" n="34" break="no"/>tas illius aquae, quae bullam efformabat, potest defluere ad naturalem figuram,
+            <lb ed="#F" n="35"/>supplente vicem illius ex illa parte orificio vasis, ideo, ubi vas incipit vicem
+            <lb ed="#F" n="36"/>aquae supplere, partes aquae, quae liberantur ab illo munere, statim incipiunt
+            <lb ed="#F" n="37"/>defluere, &amp; illae trahunt alias, &amp; sic coniungitur tota bulla vasi. Et ideo 
+            vi<lb ed="#F" n="38" break="no"/>debis bullam illam quasi dimidiari, ut non retineat rotunditatem, quam
+            <lb ed="#F" n="39"/>prius habebat, sed dimidiatam, ut complanetur ad limbum vasis. quod 
+            au<lb ed="#F" n="40" break="no"/>tem leviora, quae aquis supernatant, ad limbum vasis confluant ubi 
+            proxi<lb ed="#F" n="41" break="no"/>mè appalerint, res est in promptu, &amp; ea oculis cernitur. prope limbum enim
+            <lb ed="#F" n="42"/>vasis aqua seu humor, ut plurimum, est depressus, dum refugit à siccitate la¬
+            <!--210.xml-->
+            <pb ed="#F" n="191"/>
+               <lb ed="#F" n="1"/>biorum, &amp; ita dum corpuscula natantia ad illam veluit fossam devenerint,
+            <lb ed="#F" n="2"/>per acclivem aquae superficiem praecipitant ad limbum vasis.
+        </p>
+            <p xml:id="p9i7y5-e20077-d1e487">
+               <lb ed="#F" n="3"/>Iam etiam satis patet ex dictis cur bacilla conflluant. Imo videtur hoc
+            <lb ed="#F" n="4"/>tandem aliqua saltem ex parte, sensisse Gilbertus, dum dicit id contingere,
+            <lb ed="#F" n="5"/>quia aqua aequalitatem desiderat: re vera enim confluunt bacilla, quia aqua
+            <lb ed="#F" n="6"/>vult defluere ad aequalem superficiem. Illud solum observo, cum dicit 
+            ba<lb ed="#F" n="7" break="no"/>cillum E. cum quo assurgit, &amp; intumescit aqua evitare bacillum F. cum quo 
+            de<lb ed="#F" n="8" break="no"/>primitut unda; id verum esse si bacillum E. manu trahas, seu suspendas, &amp; per
+            <lb ed="#F" n="9"/>hoc facias aquam intumescere nam tunc, cum non possit aqua sublata
+            <lb ed="#F" n="10"/>per E. deprimi, quia manu una cum bacillo suspenditur, &amp; tenetur in
+            <lb ed="#F" n="11"/>statu violento, declinat maiorem violentiam, quam pateretur, si 
+            coniun<lb ed="#F" n="12" break="no"/>geretur cum aqua depraessa per F. maior enim tunc esset tumor, &amp; magis 
+            re<lb ed="#F" n="13" break="no"/>cederet à planitie reliquae, at vero si assurgat subere bacillum E. vel alio 
+            arti<lb ed="#F" n="14" break="no"/>ficio in aqua existente, tunc E. non devitabit F. Rationes igitur istae nihil
+            <lb ed="#F" n="15"/>concludunt, nec probant humida habere hoc, ut adinvicem confluant electricè.
+            <lb ed="#F" n="16"/>Quod verò dicit effluvia illa amplecti corpora, &amp; quasi brachijs extensis
+            <lb ed="#F" n="17"/>trahere ad fontem, propinquitate invalesentibus effluvijs, hoc apud me
+            <lb ed="#F" n="18"/>magnam habet difficultatem. Nam, ut supra dicebam, corpora non habent
+            <lb ed="#F" n="19"/>motum localem, ut habeant motum, sed ut per illum aliquod sibi bonum
+            <lb ed="#F" n="20"/>acquirant: &amp; ideo, ut dicebam, magnes ad magnetem movetur, ut qualitas,
+            <lb ed="#F" n="21"/>quam iam habet in se robustior fiat ex qualitate diffusa ab altero magnete,
+            <lb ed="#F" n="22"/>quae propè alterum magnetem robustior est, ac proinde efficacior. 
+            Move<lb ed="#F" n="23" break="no"/>tur igitur ad magnetem, ut qualitas illa melior evadat. Quod si ad 
+            alectri<lb ed="#F" n="24" break="no"/>ca moventur corpora omnia, quia effluvium ab electrico magis robustum
+            <lb ed="#F" n="25"/>est prope electricum, quam procul; deberet ostendi; quod corpora illa, quae
+            <lb ed="#F" n="26"/>moventur iuventur secundum aliquid ab illo effluvio, &amp; tuuc non esse at
+            <lb ed="#F" n="27"/>tractio, sed concursus, hoc autem non potest ostendi, cum moveantur, 
+            ae<lb ed="#F" n="28" break="no"/>qualiter omnia corpora, sive sicca sint, sive humida, sive composita, sive sim
+            <lb ed="#F" n="29"/>plicia: impossibile autem videtur, quod illo effluvio electrico aequaliter 
+            iu<lb ed="#F" n="30" break="no"/>ventur omnia corpora. Praeterea deberet ostendi, in quo consistat, hoc 
+            bo<lb ed="#F" n="31" break="no"/>num, sicut ostenditur in magneticis, quod consistat in robore aucto illius
+            <lb ed="#F" n="32"/>qualitatis Hic autem nec dicitur, nec videtar posse dici, cum sit nimis 
+            univer<lb ed="#F" n="33" break="no"/>salis attractio. Ut igitur dicam ego, quod sentio, &amp; quam maxima possum claritate.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 35</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 35</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="385"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e40979"> <!-- l4c35 -->
+            <head xml:id="p9i7y5-e40979-Hd1e107">Caput 35</head>
+            <p xml:id="p9i7y5-e40979-d1e109">
+               <lb ed="#F" n="32"/>Ferrum alias magnetice excitatum facilius saepè trahitur, nonnunquam tamen aegrius
+            <lb ed="#F" n="33"/>adhaeret. Cap. XXXV.
+        </p>
+            <p xml:id="p9i7y5-e40979-d1e116">
+               <lb ed="#F" n="34"/>Ferrum aliquando raptim, &amp; incitato cursu ad magnetem 
+            contende<lb ed="#F" n="35" break="no"/>re videbis, aliquando eundem magnetem ęgre acum trahere, qui 
+            alio<lb ed="#F" n="36" break="no"/>quin clavos valide suspenderet. Hoc provenire assero ex varia 
+            magne<lb ed="#F" n="37" break="no"/>ticorum dispositione; si enim convenienter applicentur, trahunt se amice, &amp;
+            <lb ed="#F" n="38"/>iunguntur, si autem incongrua sit coitio, abhorret natura, &amp; respuit 
+            congres<lb ed="#F" n="39" break="no"/>sum. Si ergo sit ferrum ut clavus, aut gladius, qui alias fuerit excitatus 
+            ma<lb ed="#F" n="40" break="no"/>gnetice, &amp; consequenter sit corpus actu iam, non solum potentia magneti¬
+            <!--404.xml-->
+            <pb ed="#F" n="385"/>
+               <lb ed="#F" n="1"/>cum, habeat in se qualitatem magneticam, habebit etiam diversas in 
+            extre<lb ed="#F" n="2" break="no"/>mitatibus facies; Australem, &amp; Septentrionalem, quod omnino magneticis
+            <lb ed="#F" n="3"/>convenit corporibus, &amp; consequenter si magnes convenienter 
+            applice<lb ed="#F" n="4" break="no"/>tur ferro, idest facies oppositae committantur, se trahent ex supradictis, 
+            si<lb ed="#F" n="5" break="no"/>miles vero se fugabunt: si Australis magnetis applicetur Seprentrionali fer
+            <lb ed="#F" n="6"/>ro, coniungentur avidè: sic enim utrique &amp; ferro, &amp; magneti commode 
+            ac<lb ed="#F" n="7" break="no"/>cidit, si autem Australis cum Australi componatur, non solum non 
+            haere<lb ed="#F" n="8" break="no"/>bunt, sed etiam, quantum, poterunt, fugient: utrique enim incommodum
+            <lb ed="#F" n="9"/>est, &amp; iniquum. Hinc ergo fit, ut aliquando magnes ferrum suspendere 
+            re<lb ed="#F" n="10" break="no"/>cuset, quasi virtutem magneticam iam amiserit, quia scilicet facies, seu poli
+            <lb ed="#F" n="11"/>magnetis ad extrema ferri incongrue applicantur; quando nimirum in 
+            fer<lb ed="#F" n="12" break="no"/>ro iam est virtus magnetica. Si enim facies similes ferri, &amp; magnetis 
+            com<lb ed="#F" n="13" break="no"/>mittantur, non coniunguntur, quia debet, antequam iungantur, magnes
+            <lb ed="#F" n="14"/>destruere qualitatem iam alias in ferrum productam, &amp; novam producere
+            <lb ed="#F" n="15"/>contrario situ. Verum, quia hoc non nisi aliquo temporis intervallo fit,
+            <lb ed="#F" n="16"/>in initio magnes ferrum iam excitatum alias non suspendet, donec 
+            anti<lb ed="#F" n="17" break="no"/>quam qualitatem destruat, &amp; novam inducat Aegrius ergo magnes aliquan
+            <lb ed="#F" n="18"/>do ferrum trahit praecise ex eo, quod alias fuerit magnetice excitatum.
+        </p>
+            <p xml:id="p9i7y5-e40979-d1e177">
+               <lb ed="#F" n="19"/>Cur autem ferrum alias excitatum facilius aliquando trahatur à 
+            ma<lb ed="#F" n="20" break="no"/>gnete, si nimirum magnes convenienter applicetur, ratio est, quia, cum
+            <lb ed="#F" n="21"/>ferrum coniungatur cum magnete, ut qualitas, quam habet in se, melius ro
+            <lb ed="#F" n="22"/>boretur, &amp; crescat, ita ut ratio praecisa, &amp; causa, quae efficit illam 
+            coniun<lb ed="#F" n="23" break="no"/>ctionem, sit ipsa virtus magnetica, quae est in ferro: quo haec maior 
+            fue<lb ed="#F" n="24" break="no"/>rit eo melius, &amp; fortius coniungetur. Quamvis enim, ut supta dictum est,
+            <lb ed="#F" n="25"/>efficacius ferrum magneti copuletur, quo sentit se vehementius iuvari, illa
+            <lb ed="#F" n="26"/>tamen est quasi consequens ratio, immediata autem, &amp; praecisa est ipsa 
+            qua<lb ed="#F" n="27" break="no"/>litas, quae est in ferro. Sicut ergo magnetice excitatum versorium 
+            faci<lb ed="#F" n="28" break="no"/>lius dirigitur ad polos mundi, quae directio, ut alias dictum est, quaedam
+            <lb ed="#F" n="29"/>est magnetica attractio totius telluris; ita etiam ferrum, si sit prius 
+            magneti<lb ed="#F" n="30" break="no"/>ce excitatum, facilius fertetur ad magnetem, si convenientet applicetur.
+            <lb ed="#F" n="31"/>Si igitur ferrum non pendeat extremo A. à polo Septentrionali magnetis
+            <lb ed="#F" n="32"/>propter nimiam ferri molem extremum alterum B. fricetur supta polum
+            <lb ed="#F" n="33"/>Australem, &amp; excietur ferrum totum magnetice, iuxta leges supra positas,
+            <lb ed="#F" n="34"/>tunc ferrum sic excitatum pendebit extremo A. ex polo Septentrionali,
+            <lb ed="#F" n="35"/>quod prius obtinere non poteras. Ferrum ergo excitatum melius 
+            aliquan<lb ed="#F" n="36" break="no"/>do, pendet ex magnete, quod erat propositum.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

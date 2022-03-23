@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Praefatio</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Praefatio</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="f16"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-d1e5xx"> <!-- praefatio -->
+            <head xml:id="p9i7y5-d1e5xx-Hd1e107">Praefatio</head>
+            <p xml:id="p9i7y5-d1e5xx-d1e109">
+            <!--16.xml-->
+               <pb ed="#F" n="f16"/>
+               <lb ed="#F" n="1"/>PRAEFATIO
+            <lb ed="#F" n="2"/>AD LECTOREM.
+        </p>
+            <p xml:id="p9i7y5-d1e5xx-d1e120">
+               <lb ed="#F" n="3"/>Illud Mihi semper in tota philosophandi ratione 
+            vi<lb ed="#F" n="4" break="no"/>sum est non solùm iucundissimum, sed etiam praecipuum 
+            in<lb ed="#F" n="5" break="no"/>ter omnia; in quibus philosophorum omnium desudare 
+            de<lb ed="#F" n="6" break="no"/>beat industria, ubi primum ad philosophandum animum
+            <lb ed="#F" n="7"/>adijciunt; ut earum errum causas, quae quotidie in sensus 
+            in<lb ed="#F" n="8" break="no"/>currunt pro ingenij conatu exquirant: quod tamen ab 
+            aliqui<lb ed="#F" n="9" break="no"/>bus, qui se etiam philosophos appellant, nonnunquam 
+            praeter<lb ed="#F" n="10" break="no"/>missum animadverti. Tunc demum enim philosophum aliquem eße credidi, cum rerum
+            <lb ed="#F" n="11"/>causas, quas quotidie cernimus, reddere posset, &amp; illorum effectuum, quos plebeia etiam
+            <lb ed="#F" n="12"/>ingenia observarunt; rationes valeret enodare. Nec enim puto philosophi personam
+            <lb ed="#F" n="13"/>quemquam posse pro dignitate sustinere, etiam si metaphysicas quasdam subtilitates
+            <lb ed="#F" n="14"/>percalleat; nisi illarum rerum, quae à natura quotidie passim producuntur, physicas,
+            <lb ed="#F" n="15"/>&amp; sensibiles causas, in quibus ingenium acquiescat, possit afferre, non quod illas 
+            me<lb ed="#F" n="16" break="no"/>taphysicas speculationes non suspiciam, non admirer, non toto pectore hauriendas 
+            cen<lb ed="#F" n="17" break="no"/>seam; non quod illas praecipuum in sapientiae theatro locum obtinere non iudicem, ac
+            <lb ed="#F" n="18"/>eas esse statuam in quibus merito maxima desudent ingenia, ne dum quod 
+            metaphysi<lb ed="#F" n="19" break="no"/>cas illas speculationes putem contemnendas, quae acerrimè solent ingenia acuere; sed
+            <lb ed="#F" n="20"/>quòd multus semper sui in isto physicarum rerum studio, &amp; multa commentatione
+            <lb ed="#F" n="21"/>harum causas inquirere tentavi atque utinam ingenij mei tarditas cursum mihi in
+            <lb ed="#F" n="22"/>avidissimo conatu non retardasset? aliquid enim tandem essem, assecutus; valdè 
+            cer<lb ed="#F" n="23" break="no"/>tè meo exemplo feliciora aliqua ingenia provocassem: Mirum enim est quam nos 
+            ali<lb ed="#F" n="24" break="no"/>quando ad currendum excitent praecurrentium languidiores nisus, &amp; in aliorum 
+            ir<lb ed="#F" n="25" break="no"/>rita impressione trophaeum sibi statuere posse animus polliceatur.
+        </p>
+            <p xml:id="p9i7y5-d1e5xx-d1e172">
+               <lb ed="#F" n="26"/>Quoniam autem inter ea, quae fatigare etiam possunt summa ingenia principem
+            <lb ed="#F" n="27"/>omnium calculo obtinent locum magnetici effectus, ad magneticam philosophiam 
+            ani<lb ed="#F" n="28" break="no"/>mum adieci lubentissimum: ut si minus hoc ignorantiae quasi asylum expugnassem,
+            <lb ed="#F" n="29"/>ad quod solent vulgares philosophi se recipere, ubi difficile quid insonverit, cuius 
+            cau<lb ed="#F" n="30" break="no"/>sam non percipiant, &amp; per hoc facilem mihi ad aliarum rerum cognitionem aditum
+            <lb ed="#F" n="31"/>aperirem, saltem aliorum solicitaret animos meus iste conatus, ut si ego, cui tam 
+            cur<lb ed="#F" n="32" break="no"/>ta est cognitionis suppellex, non frangor labore, non deterreor difficultate, alij, quibus ad
+            <lb ed="#F" n="33"/>celsissima quaeque ingenij vis nata est, ad feliciorem aspirent eventum, nec sanè vidi
+            <lb ed="#F" n="34"/>quod in ferreo hoc nostro saeculo animum ad philosophandum attrahere possit vehementius,
+            <lb ed="#F" n="35"/>quam magnetica philosophia, nec enim vel ferreus animus magneti possit reluctari.
+        </p>
+            <p xml:id="p9i7y5-d1e5xx-d1e197">
+               <lb ed="#F" n="36"/>Dum haec solicitaret animum cura, factum est, ut optatissimè ad meas devenirent
+            <lb ed="#F" n="37"/>manus praeclarae de magnetica natura commentationes, &amp; acutae observationes 
+            Leonar<lb ed="#F" n="38" break="no"/>di Garzonij Patritij. Veneti, viri è nostra Societate insignis litteraturae, qui quam
+            <!--17.xml-->
+            <pb ed="#F" n="f17"/>
+               <lb ed="#F" n="1"/>sanguinis traxit nobilitatem ex praeclarissima illa Republica, eandem ingenij dotibus
+            <lb ed="#F" n="2"/>egregiè cumulavit. Sed dolui summopere magneticae philosophiae fatum, &amp; 
+            ignora<lb ed="#F" n="3" break="no"/>tioni addictam naturam: antea enim vir ille egregius fato concessit, quam suum de
+            <lb ed="#F" n="4"/>magnetica natura opus potuerit absolvere, quod vernacula lingua procudebat.
+        </p>
+            <p xml:id="p9i7y5-d1e5xx-d1e219">
+               <lb ed="#F" n="5"/>Diù eximiae illius mentis, ut ita dixerim, embrio multorum manibus protritus est, &amp;
+            <lb ed="#F" n="6"/>non solùm Ioannes Baptista Porta, quae in suis de magia naturali libris habet, ex
+            <lb ed="#F" n="7"/>isto desumpsit (ut possem luculenta probatione demonstrare) sed etiam alij ex eodem
+            <lb ed="#F" n="8"/>multa praeclara didicere. Verum quamvis in Garzonio adamarem summopere 
+            phi<lb ed="#F" n="9" break="no"/>losophandi rationem, &amp; ex illo ad causas magneticorum effectuum indagandas 
+            paten<lb ed="#F" n="10" break="no"/>tissimum, &amp; planissimum campum viderem aperiri, nihilominus in experimentis 
+            ali<lb ed="#F" n="11" break="no"/>quando deceptum, aut non ita accuratum, ut oporteret, indolebam, multaque nec 
+            con<lb ed="#F" n="12" break="no"/>temnenda illi subrepserant, quae temporum decursus falsa omnino esse demonstravit;
+            <lb ed="#F" n="13"/>multaque alia, morte interveniente, &amp; exorsam telam praecidente praetermissa 
+            appa<lb ed="#F" n="14" break="no"/>rebant: omnino opus non illo ingenio usquequaque dignum cernebatur; quia tamen
+            <lb ed="#F" n="15"/>multa, quae ab illo dicebantur, egregia erant, quantum ego suspicere poteram, &amp; eius
+            <lb ed="#F" n="16"/>philosophandi, ac commentandi ratio optima videbatur, quae ad magneticam naturam,
+            <lb ed="#F" n="17"/>&amp; ad huius lapidis peculiarem agendi rationem cognoscendam apprimè conduceret, opus
+            <lb ed="#F" n="18"/>illud non esse absolutum vehementer displicebat. Inde Gulielmi Gilberti Londinensis
+            <lb ed="#F" n="19"/>libros offendi de magno magnete Tellure, in quibus accuratissimè magnetica 
+            experi<lb ed="#F" n="20" break="no"/>menta inveni collecta. placuit mihi vel maximè in Gilberto experimentorum certa, &amp;
+            <lb ed="#F" n="21"/>accurata via, sed rationes eorum, quae dicebantur, &amp; physicas causas adhuc magìs 
+            de<lb ed="#F" n="22" break="no"/>siderabam. Ex hoc factum est ut ad hanc magneticam philosophiam avidius animum
+            <lb ed="#F" n="23"/>adijcerem, &amp; totum illud tempus, quod isto annorum decursu difficillima concessere
+            <lb ed="#F" n="24"/>studia, ad se cognata scilicet vi traxerit magnes. Coactus enim sum molestissimis 
+            op<lb ed="#F" n="25" break="no"/>pressus studijs, &amp; varijs distractus curis Horatianum illud exequi valde invitus, ut
+            <lb ed="#F" n="26"/>hoc qualecumque opus nonum premerem in annum. Ex Leonardo ergo Garzonio
+            <lb ed="#F" n="27"/>(ut suus cuique honos tribuatur) multa desumpsi, quae placuerunt de philosophandi
+            <lb ed="#F" n="28"/>ratione: imo &amp; methodum, quam ipse imperfecto illo suo opere servare proposuerat, 
+            se<lb ed="#F" n="29" break="no"/>qui placuit ut plurimum. Gilbertus experimenta multa praebuit non vulgaria.
+            <lb ed="#F" n="30"/>de meo addidi tot annorum decursu, quantum ingenij vires potuerunt, &amp; vivendi
+            <lb ed="#F" n="31"/>ratio permisit, observationes pro meo modulo non contemnendas, &amp; rationes adieci
+            <lb ed="#F" n="32"/>experimentis, causas'que, quantum potui, singulorum, totum'que hoc magneticum opus
+            <lb ed="#F" n="33"/>elaboravi: in quo nisi vererer, ne nimium mihi tribuere viderer, dicerem me clarius,
+            <lb ed="#F" n="34"/>&amp; certius rationem reddere, cur magnes attrahat ferrum, &amp; tali sibi copulet 
+            ra<lb ed="#F" n="35" break="no"/>tione, quam adducere possim: cur tali pacto ad polos dirigatur non secus, atque cur
+            <lb ed="#F" n="36"/>ignis calefaciat, ut, si putas te ex philosophorum scholis scire posse, cur ignis calorem
+            <lb ed="#F" n="37"/>inducat, ita ut ad occultam vim, &amp; facultatem non confugias, ex his itidem libris
+            <lb ed="#F" n="38"/>cognoscere valeas non minus clarè, cur magnes attrahat ferrum, &amp; tali pacto 
+            tra<lb ed="#F" n="39" break="no"/>hat, &amp; cur se ad polum convertat, ne tibi amplius occulta qualitas obtrudatur.
+        </p>
+            <p xml:id="p9i7y5-d1e5xx-d1e297">
+               <lb ed="#F" n="40"/>Nollem ego hic passim decantata describere, neque enim placuit unquam 
+            inutilis<lb ed="#F" n="41" break="no"/>simo labore bibliothecas refercire, aut quae clarè ab alijs dicta sunt, &amp; ornatè, meo
+            <lb ed="#F" n="42"/>humili dicendi genere obscurare. Quae nova occurrunt, ea proferam, &amp; causas eorum,
+            <!--18.xml-->
+            <pb ed="#F" n="f18"/>
+               <lb ed="#F" n="1"/>quae proferuntur addam: quas fortasse apud alios non perinde distinctas habebis: scito
+            <lb ed="#F" n="2"/>enim me iniquissimo animo scribere, nedum transcribere; cum vix quidquam aliud
+            <lb ed="#F" n="3"/>sit in illa arte, quod peius faciam. Auctores do tibi egregios Garzonium, &amp; 
+            Gil<lb ed="#F" n="4" break="no"/>bertum, sed alterius partus, ubi quaedam continet de motu terrae, quasi obdormivit,
+            <lb ed="#F" n="5"/>alter abhortivit nondum efformato faetu. utinam meus iste, qualiscunque tandem sit,
+            <lb ed="#F" n="6"/>aetatem ferre possit longiorem.
+        </p>
+            <p xml:id="p9i7y5-d1e5xx-d1e323">
+               <lb ed="#F" n="7"/>In ipso autem tractationis vestibulo Lectorem admonendum duxi, me nihil 
+            alla<lb ed="#F" n="8" break="no"/>turum in hisce magneticis disputationibus, quod, quantum per me licuit, experimentis
+            <lb ed="#F" n="9"/>semel atque iterum non comprobarim, alijs etiam ad spectaculum convocatis, ut non
+            <lb ed="#F" n="10"/>solum plures haberem veritatis testes, sed me ipsum ab erroris suspicione subducerem;
+            <lb ed="#F" n="11"/>dum curiosius plures idem spectant experimentum. Video enim huiusmodi 
+            praeser<lb ed="#F" n="12" break="no"/>tim in rebus id laborare aliquando authores, in id imminere, ut causam alicuius 
+            ef<lb ed="#F" n="13" break="no"/>fectus, qui animos hominum in admirationem rapiat, maximo ingenij conatu saepissimè
+            <lb ed="#F" n="14"/>exquirant: cum verè deinde talis effectus nusquam appareat, sed prorsus sit 
+            commen<lb ed="#F" n="15" break="no"/>titius. Quod expertus sum, id ea claritate, &amp; verborum perspicuitate adnitor 
+            ex<lb ed="#F" n="16" break="no"/>ponere, quod pro meis viribus possum; variasque adijcio figuras pictasque rerum 
+            for<lb ed="#F" n="17" break="no"/>mas, ubi rem id exigere iudicavi, quo res ipsa non solum animis, sed etiam oculis, si
+            <lb ed="#F" n="18"/>fieri possit, subijciatur; ut arcana magneticae naturae, quae tantis semper involuta 
+            te<lb ed="#F" n="19" break="no"/>nebris visa sunt, iam oculos omnium admittant, &amp; facilia, si contingant, dent se in
+            <lb ed="#F" n="20"/>conspectum. Si tamen falsum aliquod subrepserit experimentum, quod facile accidiße
+            <lb ed="#F" n="21"/>mea mihi suadet imbecillitas, scito me, ut in omnibus alijs sapientum subeo censuram
+            <lb ed="#F" n="22"/>lubentißimè, ita &amp; in hoc non pertinaciter meum velle tueri pronuntiatum. Quare
+            <lb ed="#F" n="23"/>erratum aut corrigas ipse per te te, aut mihi, quod gratissimum erit, significes 
+            cor<lb ed="#F" n="24" break="no"/>rigendum; amabo enim te plurimum, Lector, de hoc munere, à quolibet, si ita res 
+            tu<lb ed="#F" n="25" break="no"/>lerit, dedoceri, &amp; doceri paratus, &amp; cupidus.
+        </p>
+            <p xml:id="p9i7y5-d1e5xx-d1e367">
+               <lb ed="#F" n="26"/>Sed non poßum quin illud addam, quod etiam appositè optavit Garzonius, ad
+            <lb ed="#F" n="27"/>uberiorem voluptatis fructum ex hac tractatione colligendum, &amp; ad facilius 
+            perci<lb ed="#F" n="28" break="no"/>pienda, quae obscuriora videntur, longè maximè conducere, &amp; viam complanare 
+            fa<lb ed="#F" n="29" break="no"/>cillimam, si tibi in initio compares unum aut alterum magnetis frustulum egregium,
+            <lb ed="#F" n="30"/>&amp; robustum, quantum fieri potest. Erit autem ad huiusmodi experimenta idoneum,
+            <lb ed="#F" n="31"/>si tertiam saltem partem ferri attollat, &amp; suspendat pro ratione sui ponderis: vu, si
+            <lb ed="#F" n="32"/>sit magnes novem unciarum, attollat tres uncias ferri nullo alterius ferri auxilio.
+            <lb ed="#F" n="33"/>Habeas etiam aliquam nauticam pyxidem lanceola magnetica instructam, vel 
+            ma<lb ed="#F" n="34" break="no"/>gneticum versorium ex ijs, quibus in horologijs horizontalibus uti consuevimus, &amp;
+            <lb ed="#F" n="35"/>alia huiusmodi ferramenta: quo singula, quae proponuntur possis ingenti cum animi
+            <lb ed="#F" n="36"/>voluptate experimento ipso tibi comprobare, &amp; iucundissimum spectaculum exhibere,
+            <lb ed="#F" n="37"/>atque hac ratione facilius, &amp; altius in animum descendant, cum verissimum illud sit.
+        </p>
+            <p xml:id="p9i7y5-d1e5xx-d1e396">
+               <lb ed="#F" n="38"/>Segnius irritant animos demißa per aurem,
+            <lb ed="#F" n="39"/>Quamquae sunt oculis subiecta fidelibus, &amp; quae
+            <lb ed="#F" n="40"/>Ipse sibi tradit spectator:
+        </p>
+            <p xml:id="p9i7y5-d1e5xx-d1e406">
+               <lb ed="#F" n="41"/>&amp; scientiam hanc totam non tàm ex mea tractatione, quàm ex reipsa possis 
+            hauri<lb ed="#F" n="42" break="no"/>re. Quod eo libentius praemoneo, quo certius scio multos scriptores etiam non infimae
+            <!--19.xml-->
+            <pb ed="#F" n="f19"/>
+               <lb ed="#F" n="1"/>notae speciosa quaedam de magnete commenta ex alijs transcripsisse, quae re ipsa vera
+            <lb ed="#F" n="2"/>non sunt, si experimenti subeant examen; multa passim in toto opere commemorabo:
+            <lb ed="#F" n="3"/>multa apud alios reperies, ut adamantem magneticae virtuti frena inijcere, ita ut,
+            <lb ed="#F" n="4"/>dum inter magnetem, &amp; ferrum interiacet, sua illa duritie quasi murum opponat,
+            <lb ed="#F" n="5"/>quo minus ferrum ad se cogat. allium suo odore, &amp; fricatione magnetis virtutem
+            <lb ed="#F" n="6"/>hebetare, penitusque profligare, &amp; à nautica pyxide magneticas auferre directiones:
+            <lb ed="#F" n="7"/>hircino sanguine magnetem ab adamantis veneficio liberari: conciliari poße per 
+            ma<lb ed="#F" n="8" break="no"/>gnetem uxoribus maritos, aut nuptas revocari maritis: in magnete echeneidis sale
+            <lb ed="#F" n="9"/>isservato vim inesse, qua aurum quod in altissimos puteos deciderit, extrahere possit:
+            <lb ed="#F" n="10"/>album magnetem conquiri posse pro amoris Philtro, quod gratum faciat, &amp; 
+            accep<lb ed="#F" n="11" break="no"/>tum principibus, aut eloquentem. Quae falsa esse, &amp; falso rumore sparsa, ut etiam
+            <lb ed="#F" n="12"/>in doctorum virorum scripta aliquando irrepserint experientia demonstratur. Inter
+            <lb ed="#F" n="13"/>haec commentitia, lapidem etiam Theamedem ponito, quo ferrum ita propulsatur, t
+            <lb ed="#F" n="14"/>trahitur à magnete. Commentitium etiam est magnetem ex ana parte ferrum 
+            trahe<lb ed="#F" n="15" break="no"/>re, ex altera depellere licet locum fabulae dederit veritas, quae suo loco ponetur. sunt
+            <lb ed="#F" n="16"/>alia huiusmodi plurima quorum falsitas ostendi non poterit, nisi fidem rebus ipsis 
+            so<lb ed="#F" n="17" break="no"/>lum, non verbis habeamus, experimentis'que, ubi fieri possit, non aliorum dictis 
+            cre<lb ed="#F" n="18" break="no"/>damus, ac proinde lectorem quaero studiosissimum, qui meis dictis nullam fidem 
+            ha<lb ed="#F" n="19" break="no"/>bere velit, sed experientia tantum propria ea sibi persuadeat, quae dico.
+        </p>
+            <p xml:id="p9i7y5-d1e5xx-d1e458">
+               <lb ed="#F" n="20"/>Tantam hanc tractationem quattuor libris complector, in primis duobus totus ero
+            <lb ed="#F" n="21"/>in magnetica natura investiganda: &amp; quia duo sunt praecipui effectus magnetici; 
+            al<lb ed="#F" n="22" break="no"/>ter, quo se ad polos convertit, alter quo ferrum ad se trahit, priorem primo libro 
+            ex<lb ed="#F" n="23" break="no"/>plicabo, &amp; causas exponendo huius conversionis, magneticam naturam aperiam; 
+            po<lb ed="#F" n="24" break="no"/>steriorem secundo libro una cum modo, &amp; causis praedictae attractionis evolvam, &amp;
+            <lb ed="#F" n="25"/>enodabo. Explicata magnetis natura ut ità dicam in universum, iam tertium ordiar
+            <lb ed="#F" n="26"/>librum in quo omnia ponam experimenta, quae occurrere mihi poterunt de magnetica
+            <lb ed="#F" n="27"/>conversione ad polos, &amp; omnium horum effectuum causam repetam ex dectrina 
+            tra<lb ed="#F" n="28" break="no"/>dita prioribus libris. Quartus denique liber continebit effectus omnes magneticae 
+            at<lb ed="#F" n="29" break="no"/>tractionis, seù varia experimenta, quae in attractione contingunt; quorum causas 
+            re<lb ed="#F" n="30" break="no"/>petam pariter ex superioribus libris. Alia magnetis propria si quae sunt, indico 
+            po<lb ed="#F" n="31" break="no"/>tius statim, quàm tracto.
+        </p>
+            <p xml:id="p9i7y5-d1e5xx-d1e487">
+               <lb ed="#F" n="32"/>Genus dicendi non erit ad eloquentiam compositum: res quaerimus non verba, ac
+            <lb ed="#F" n="33"/>proinde si quid in verbis peccatum sit, multo magis vellem ignosci: iamdiù est, ex
+            <lb ed="#F" n="34"/>quo à mansuetioribus musis fui emancipatus, nullo patrimonio, si tamen unquam
+            <lb ed="#F" n="35"/>me filium agnovere. In hoc igitur genere accipe Lector, quae potes, ut ego non possum
+            <lb ed="#F" n="36"/>polliceri nisi, quae re ipsa possum exhibere. Si tibi verba aliquando abundare 
+            videbun<lb ed="#F" n="37" break="no"/>tur, ne fastidias; illis deservio, qui non ita celeriter percipiunt. gaudeas de tuo 
+            in<lb ed="#F" n="38" break="no"/>genij accumine; sed ne tardioribus eandem invideas cognitionem, quàm tù uno 
+            pro<lb ed="#F" n="39" break="no"/>spectù es aßequutus omnino (ut illud semper Augustini placuit) malo, ut me 
+            repre<lb ed="#F" n="40" break="no"/>hendant Grammatici, quam non intelligant populi: ita volo decem potius verba 
+            abon<lb ed="#F" n="41" break="no"/>dare, quam unum desiderari. verba rebus deserviant, non res verbis; verba non 
+            ma<lb ed="#F" n="42" break="no"/>gni emo, res mihi in pretio sunt. Vale.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 13</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 13</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="231"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e24611"> <!-- l3c13 -->
+            <head xml:id="p9i7y5-e24611-Hd1e107">Caput 13</head>
+            <p xml:id="p9i7y5-e24611-d1e109">
+               <lb ed="#F" n="15"/>Potest certius per magneticas directiones inveniri latitudo regionis seu altitudo Poli, quam
+            <lb ed="#F" n="16"/>etiam linea Meridiana. Cap. XIII.
+        </p>
+            <p xml:id="p9i7y5-e24611-d1e116">
+               <lb ed="#F" n="17"/>Ea ratione posita in praecedenti propositione haec etiam 
+            ex<lb ed="#F" n="18" break="no"/>plicata manet, nec obscurè. Quamvis enim supra 
+            demon<lb ed="#F" n="19" break="no"/>traverim illorum vanum esse laborem, qui putant se posse per
+            <lb ed="#F" n="20"/>magneticas directiones longitudines regionum definire; ita
+            <lb ed="#F" n="21"/>hic pronuntio posse nos non longissima observatione 
+            ma<lb ed="#F" n="22" break="no"/>gnetis beneficio definire cuiusque loci latitudinem, hoc est quantum 
+            quo<lb ed="#F" n="23" break="no"/>libet in loco polus supra Orizontem elevetur, quod unicum ferè restabat ad
+            <lb ed="#F" n="24"/>nauticam disciplinam perficiendam magnete magistro: quia nautarum
+            <lb ed="#F" n="25"/>peritissimi hac maximè via suos cursus certo dirigunt, ac definiunt, per 
+            po<lb ed="#F" n="26" break="no"/>li scilicet altitudines: Explorant enim, verbi gratia, polialtitudinem hodie,
+            <lb ed="#F" n="27"/>&amp; inveniunt esse graduum 39. deinde navem dirigunt perpyxidem, ut 
+            pro<lb ed="#F" n="28" break="no"/>grediatur per lineam, quam tali designant vento, puta Graecum, ut morè 
+            no<lb ed="#F" n="29" break="no"/>stro loquamur, &amp; ad hoc pyxis deservit, ut semper contineant navem in 
+            ta<lb ed="#F" n="30" break="no"/>li linea, quicunque flatus ventorum illam impellant; ita ut non deflectat,
+            <lb ed="#F" n="31"/>neque ad hanc, neque ad illam partem, sed semper progrediatur illa recta
+            <lb ed="#F" n="32"/>linea. Deinde post quartum, aut sextum diem iterum explorant poli 
+            altitu<lb ed="#F" n="33" break="no"/>dinem, &amp; inveniunt esse, verbi gratia, graduum 41. vident igitur se tantum
+            <lb ed="#F" n="34"/>illo tempore itineris confecisse, ut per duos gradus polus sit illis elevatus,
+            <lb ed="#F" n="35"/>norunt verò quantum progrediendum sit, ex suis, quas habent, tabellis ince
+            <lb ed="#F" n="36"/>denti per talem venti lineam, ad hoc, ut polus vno gradu plus elevetur, 
+            no<lb ed="#F" n="37" break="no"/>runt ergo, quot milliaria per talem lineam confecerunt; quandoquidem 
+            il<lb ed="#F" n="38" break="no"/>lis polus per duos gradus factus est elevatior; &amp; ita poterunt pręcisè 
+            defini<lb ed="#F" n="39" break="no"/>re per scalam milliarium, quo in loco determinatè sint, &amp; quantum ad amus
+            <lb ed="#F" n="40"/>sim disceserint ex loco, in quo primo elevationem poli observarunt; quem
+            <!--250.xml-->
+            <pb ed="#F" n="231"/>
+               <lb ed="#F" n="1"/>locum habebunt notatum in mappa. Et haec est in arte nauti ea magis 
+            ex<lb ed="#F" n="2" break="no"/>quisita ratio definiendi verum locum navis per altitudinem scilicet poli.
+            <lb ed="#F" n="3"/>Suas enim, ut dixi habent tabellas, in quibus descriptum est quot milliaria
+            <lb ed="#F" n="4"/>per quamlibet venti lineam, quae in pyxide designetur, conficienda sint, ut
+            <lb ed="#F" n="5"/>mutetur unus gradus altitudinis poli, si quis per talem venti lineam 
+            sem<lb ed="#F" n="6" break="no"/>per progrediatur: quas tabellas optimè potuerunt Geometricis, &amp; 
+            Mathe<lb ed="#F" n="7" break="no"/>maticis rationibus exquisitè elaborare.
+        </p>
+            <p xml:id="p9i7y5-e24611-d1e190">
+               <lb ed="#F" n="8"/>Vides ergo ex hoc quantum intersit rei Nauticae novisse singulis 
+            momen<lb ed="#F" n="9" break="no"/>tis quantum polus elevetur, si fieri possit, absque solis, aut syderum 
+            prospe<lb ed="#F" n="10" break="no"/>ctu. Si enim in longis navigationibus per quindecim, aut viginti dies 
+            nu<lb ed="#F" n="11" break="no"/>bilum patiantur Cęlum, vel Solem, aut sydera non possint observare, vel cer
+            <lb ed="#F" n="12"/>tè Solis meridianam altitudinem, aut amplitudinem ortivam habere non
+            <lb ed="#F" n="13"/>possint, non certo poterunt locum navis definite, nisi ex cęca quadam 
+            expe<lb ed="#F" n="14" break="no"/>rieratia in qua nautae confidunt. Si ergo per magnetem hoc habere 
+            pos<lb ed="#F" n="15" break="no"/>sint, ut certo semper poli elevationem definiant, vides, quantum Nautica,
+            <lb ed="#F" n="16"/>imo tota Civilis Respublica, quae tantum à navigationibus dependet, 
+            ma<lb ed="#F" n="17" break="no"/>gneti debeat, &amp; magneticae philosophiae.
+        </p>
+            <p xml:id="p9i7y5-e24611-d1e215">
+               <lb ed="#F" n="18"/>Cum igitur tam per globum magneticum versorio illi accommodato,
+            <lb ed="#F" n="19"/>quam per unam, aut alteram longam navigationem circa ipsam Terram 
+            fue<lb ed="#F" n="20" break="no"/>rit diligenter obseruatum, quantum in qualibet poli elevatione magnetica
+            <lb ed="#F" n="21"/>infra Orizontem descendant, vel adhibita tabella, quam ego alibi proposui,
+            <lb ed="#F" n="22"/>formetur Instrumentum inclinationis ratione iam exposita, &amp; inferior 
+            he<lb ed="#F" n="23" break="no"/>mispherij pars non in partes, aut gradus aequales dividatur, sed incipiendo
+            <lb ed="#F" n="24"/>ab infimo medio puncto ultimi descensus ascendatur notando puncta seu
+            <lb ed="#F" n="25"/>circulos, ad quos in singulis gradibus descendit magneticum, &amp; notato pun
+            <lb ed="#F" n="26"/>cto apponatur ille numerus graduum, in quo talis fit descensus, ut à nobis
+            <lb ed="#F" n="27"/>factum est in nostro instrumento, &amp; alibi fusius explicatum est, tunc per 
+            ta<lb ed="#F" n="28" break="no"/>le Instrumentum inclinationis expedite, nullo negotio videbis, quanta sit
+            <lb ed="#F" n="29"/>poli altitudo in loco, in quo tunc temporis existis. Versorium enim cuspide
+            <lb ed="#F" n="30"/>quasi digito egregiè tibi quaesitam altitudinem demonstrabit, nulla facta So
+            <lb ed="#F" n="31"/>lis, aut syderum observatione; quod proli Deus immortalis, quantum est
+            <lb ed="#F" n="32"/>beneficium, ut nihil dicam de ipsa re, &amp; arcano naturae mysterio, &amp; 
+            suspicien<lb ed="#F" n="33" break="no"/>da proprietate. Huius rei hìc causam non addo, ne importunè repetam 
+            ali<lb ed="#F" n="34" break="no"/>bi copiosius dicta.
+        </p>
+            <p xml:id="p9i7y5-e24611-d1e254">
+               <lb ed="#F" n="35"/>Illud huius est loci, cur huic tegulae tantum tribuam, ut putem sine 
+            ma<lb ed="#F" n="36" break="no"/>gno errore, &amp; absque evidenti periculo posse adhiberi: Ratio autem 
+            hu<lb ed="#F" n="37" break="no"/>iusce rei ex eo desumitur, quod proximè dicebam; quia nimirum 
+            vehemen<lb ed="#F" n="38" break="no"/>tiorem habent vim magnetica ad descendendum infra Orizontem ad desti
+            <lb ed="#F" n="39"/>natum punctum, &amp; longè maiorem, quam sit illa, qua diriguntur ad 
+            meri<lb ed="#F" n="40" break="no"/>dianum; ac proinde minus ab accidentalibus causis poterit impediri 
+            ver<lb ed="#F" n="41" break="no"/>sorium, ne descendat ad natura quaesitum punctum, &amp; maior vis requiretur,
+            <lb ed="#F" n="42"/>ut ab illo avocetur, quam ut à meridiano amoveatur: quia, ubi est vehemen¬
+            <!--251.xml-->
+            <pb ed="#F" n="232"/>
+               <lb ed="#F" n="1"/>tior efficacia ad aliquem terminum per motum acquirendum, resistentia mi
+            <lb ed="#F" n="2"/>nus impediunt, &amp; robustiora etiam contemnuntur obstacula. Si ergo tantum
+            <lb ed="#F" n="3"/>observationes potuerunt, ut per conversionem pyxidis ad meridianum, quae
+            <lb ed="#F" n="4"/>qualibet minima causa potest retardari, &amp; quae tam frequentes, &amp; incertas
+            <lb ed="#F" n="5"/>habet deviationes, nautica disciplina navem dirigat, nullo fere errandi 
+            pe<lb ed="#F" n="6" break="no"/>riculo, quia iam ferè omnes deviationes insignes fuerunt adnotatae; multo
+            <lb ed="#F" n="7"/>magis eadem disciplina poterit directionis normam absolvere per 
+            inclina<lb ed="#F" n="8" break="no"/>tionem versorij, &amp; ostensionem altitudinis poli, quam certius magnes 
+            de<lb ed="#F" n="9" break="no"/>monstrat, quam demonstret lineam meridianam, &amp; in quo maiores exerit
+            <lb ed="#F" n="10"/>cires, nec quamlibet formidat resistentiam.
+        </p>
+            <p xml:id="p9i7y5-e24611-d1e300">
+               <lb ed="#F" n="11"/>Non tamen sanè negarim posse, &amp; de facto adesse hic etiam anomalias,
+            <lb ed="#F" n="12"/>&amp; irregulares descensus, sicuti sunt in conversione ad meridianum; ita ut in
+            <lb ed="#F" n="13"/>quolibet paralleli puncto semper non aequaliter descendat versorium, vel
+            <lb ed="#F" n="14"/>propter Tertae eminentias, &amp; maiores hic magneticas causas, quam alibi, vel
+            <lb ed="#F" n="15"/>ex alio accidente; tamen dico has variationes pauciores esse, &amp; minores, quam
+            <lb ed="#F" n="16"/>deviationes à meridiano, &amp; quae non maximis observationibus possint prę¬
+            <lb ed="#F" n="17"/>caveri. sicuti praecavetur deviatio à meridiano pertinaci observationum 
+            di<lb ed="#F" n="18" break="no"/>ligentia. Per magnetem ergo melius altitudinem poli definimus, quod
+            <lb ed="#F" n="19"/>erat ostendendum.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

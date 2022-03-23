@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 6</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 6</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="294"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e31423"> <!-- l4c6 -->
+            <head xml:id="p9i7y5-e31423-Hd1e107">Caput 6</head>
+            <p xml:id="p9i7y5-e31423-d1e109">
+               <lb ed="#F" n="16"/>Si lapis rumpatur in parallelo, &amp; eodem modo, quo prius erant coniunctae partes, libratae
+            <lb ed="#F" n="17"/>confluunt, &amp; contraria etiam ratione copulantur. Cap. VI.
+        </p>
+            <p xml:id="p9i7y5-e31423-d1e116">
+               <lb ed="#F" n="18"/>Hoc etiam alibi positum est, dum aliud exponerem: hic tamen quia
+            <lb ed="#F" n="19"/>locus postulat, ut soleo, solum indico. Sit ergo magnes A. B. cuius
+            <lb ed="#F" n="20"/>longitudo seu poli sint in A. B. si dividatur lapis per planum 
+            paral<lb ed="#F" n="21" break="no"/>lelum aequatori, ut per C. D.
+            <lb ed="#F" n="22"/>dico partes, quae resultant.
+            <lb ed="#F" n="23"/>ex divisione, si 
+            suspendan<lb ed="#F" n="24" break="no"/>tur, vel alia ratione liberum
+            <lb ed="#F" n="25"/>habeant motum, &amp; 
+            conflue<lb ed="#F" n="26" break="no"/>re ad invicem ita, ut 
+            pror<lb ed="#F" n="27" break="no"/>sus eodem modo C. coniun
+            <lb ed="#F" n="28"/>gatur, cum D. sicuti illae par
+            <lb ed="#F" n="29"/>tes prius erant coniunctae
+            <lb ed="#F" n="30"/>ante divisionem, &amp; conflue
+            <lb ed="#F" n="31"/>re etiam contraria ratione,
+            <lb ed="#F" n="32"/>ita ut A, coniungatur cum B. &amp; D. C. opponantur.
+         <lb ed="#F" n="41" type="fixed=293"/>
+               <figure xml:id="p9i7y5-e31423-Fd1e153">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870036/851,1898,1108,644/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A C D B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375805-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e31423-d1e171">
+               <lb ed="#F" n="33" type="fixed=293"/>Ratio facilis est; nec enim obliviscitur magnes suae naturae, quamvis 
+            vi<lb ed="#F" n="34" break="no"/>deantur incerta lege partes confluere, ita ut tam C. coniungatur cum D. quam
+            <lb ed="#F" n="35"/>illi opponatur, tamen nunquam D. coniungetur cum A. aut C. cum B. sed
+            <lb ed="#F" n="36"/>sese invicem illae partes fugabunt. Quoniam igitur ex alibi dictis per 
+            divi<lb ed="#F" n="37" break="no"/>sionem hoc modo factam facies, quae ex tali divisione resultant, oppositae
+            <lb ed="#F" n="38"/>sunt ita, ut si D. est Australis C. sit Septentrionalis, &amp; ex proximè 
+            demonstra<lb ed="#F" n="39" break="no"/>tis solae facies oppositae simul confluant, ideo C. libenter copulatur cum D.
+            <lb ed="#F" n="40"/>quoniam autem A, &amp; B. sunt facies oppositae, eadem facilitate, &amp; ijs naturae
+            <!--312.xml-->
+
+         <!--313.xml-->
+         <pb ed="#F" n="294"/>
+               <lb ed="#F" n="1"/>vinculis connectentur ad invicem; quia sic ijsdem obtemperant magneticis
+            <lb ed="#F" n="2"/>legibus. quia autem A. &amp; D. sunt facies similes, se mutuo fugabunt.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

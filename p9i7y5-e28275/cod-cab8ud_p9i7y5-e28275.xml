@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 27</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 27</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="263"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e28275"> <!-- l3c27 -->
+            <head xml:id="p9i7y5-e28275-Hd1e107">Caput 27</head>
+            <p xml:id="p9i7y5-e28275-d1e109">
+               <lb ed="#F" n="11"/>Versorium accurrit ad lamellae centrum, dum illa centro magnetis polum tangit, &amp; 
+            refu<lb ed="#F" n="12" break="no"/>git ab eodem lamellae centro, dum procul removetur magnes; &amp; tamen lamella
+            <lb ed="#F" n="13"/>non mutat verticitatem. Cap. XXVII.
+        </p>
+            <p xml:id="p9i7y5-e28275-d1e118">
+               <lb ed="#F" n="14"/>Sit magnes A. B. ad cuius alterum polorum puta A, applicetur
+            <lb ed="#F" n="15"/>lamella ferrea rotunda, vel saltem, quae ad rotundam accedat
+            <lb ed="#F" n="16"/>figuram, atque ita applicetur, ut centrum lamellae sit prope polum
+            <lb ed="#F" n="17"/>A. si versorium, aut plura etiam versoria applicentur ad lamel¬
+            <!--282.xml-->
+            <pb ed="#F" n="263"/>
+               <lb ed="#F" n="18"/>lam, accurrent cuspide ad centrum illius, &amp; ibi firmiter haerebunt; at vero si
+            <lb ed="#F" n="19"/>procul amoveatur à lamella magnes, iam ad illius centrum non confluent
+            <lb ed="#F" n="20"/>implius versorij cuspides, immò ab illo celeriter, &amp; constantissimè fugient,
+            <lb ed="#F" n="21"/>&amp; solum ad idem centrum accurrent cruces. Quod hoc verum sit, non
+            <lb ed="#F" n="22"/>habet aliam probationem quam facile, &amp; obvium experimentum; cuius 
+            so<lb ed="#F" n="23" break="no"/>lum, ut consuevi, fidem appello, nec aliud unquam magis à lectore 
+            conten<lb ed="#F" n="24" break="no"/>do, quam ut experiatur; sed caveat ab ijs, quae ex accidente contingunt. Dif
+            <lb ed="#F" n="25"/>ficultas ergo solum est in ratione, ne res adeo mira videatur, quod scilicet
+            <lb ed="#F" n="26"/>idem centrum lamellae, dum prope magnetem est, provocet unam versorij
+            <lb ed="#F" n="27"/>partem, dum removetur magnes, eandem non solum non provocet, sed abi
+            <lb ed="#F" n="28"/>gat, &amp; contrariam sibi conciliet.
+         <lb ed="#F" n="30" type="fixed=263"/>
+               <figure xml:id="p9i7y5-e28275-Fd1e160">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870006/180,1738,1791,616/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">B A</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375757-r7</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e28275-d1e178">
+               <lb ed="#F" n="29" type="fixed=263"/>Gilbertus lib. 2. cap. 16. id ex eo provenire putat, quod lamella verficita¬
+            <!--282.xml-->
+
+         <!--283.xml-->
+         <pb ed="#F" n="264"/>
+               <lb ed="#F" n="1"/>tem immutet, &amp; extra orbem virtutis magnetis habeat contrariam 
+            vertici<lb ed="#F" n="2" break="no"/>tatem illi, quam habebat in propinqui, quasi in propinquo sit pars 
+            magne<lb ed="#F" n="3" break="no"/>tis, et centrum polum eundem habeat cum magnete, quod magnetem 
+            tan<lb ed="#F" n="4" break="no"/>git. Sed puto Gilbertum in hoc (pace illius dictum sit) valde à vero 
+            aber<lb ed="#F" n="5" break="no"/>rasse, neque huius effectus, quem non contemnendum putat, dum asterisco
+            <lb ed="#F" n="6"/>notat, causam veram agnovisse, quae ex magnetica agendi ratione iam 
+            sae<lb ed="#F" n="7" break="no"/>pius explicata clarissimè desumitur, imò, quod non piget repetere, ex eo illa
+            <lb ed="#F" n="8"/>doctrina de modo agendi magnetis per regressum magis vera esse 
+            com<lb ed="#F" n="9" break="no"/>probatur; dum per illam optimè redduntur causae singulorum effectuum,
+            <lb ed="#F" n="10"/>qui magnetem longè faciunt insigniorem. possem directè impugnare 
+            Gil<lb ed="#F" n="11" break="no"/>bertum, &amp; rationis falsitatem ostendere, verum satis sit veram perferre 
+            cau<lb ed="#F" n="12" break="no"/>sam cum rectum sit index sui, &amp; obliqui.
+        </p>
+            <p xml:id="p9i7y5-e28275-d1e216">
+               <lb ed="#F" n="13"/>Repetas ergo animo magnetem, ita circumquaque agere ex polo, ut ex
+            <lb ed="#F" n="14"/>illius contactu acquiratur vis à ferro, qua dirigitur ad partem illam, ad quam
+            <lb ed="#F" n="15"/>convertitur alter oppositus polus, qui non tangitur: alterum vero ferri 
+            ex<lb ed="#F" n="16" break="no"/>tremum remotum à contactu acquirere vim se convertendi ad illam partem,
+            <lb ed="#F" n="17"/>ad quam se convertit polus tactus. sicut ergo in bacillo, quod medium 
+            tan<lb ed="#F" n="18" break="no"/>gitur, in medio acquiritur una facies, &amp; in utroque opposito extremo 
+            acqui<lb ed="#F" n="19" break="no"/>ritur contraria illi, quae est in medio, ita &amp; in lamella, dum tangitur in 
+            cen<lb ed="#F" n="20" break="no"/>tro ab A. immittitur quasi in illo centro vis se convertendi ad partem ad
+            <lb ed="#F" n="21"/>quam vertitur B. magnetis, &amp; circumquaque in omni extrema peripheria
+            <lb ed="#F" n="22"/>proijcitur vis opposita convertendi scilicet se ad partem ad quam dirigitur
+            <lb ed="#F" n="23"/>A. hanc verticitatem concipit lamella ex illo contactu, &amp; hanc perpetuo
+            <lb ed="#F" n="24"/>retinet; sive sit prope magnetem, &amp; tangat A. sive sit remota, at vero dum 
+            la<lb ed="#F" n="25" break="no"/>mella suo centro est coniuncta cum magnete A. quia ad illud idem punctum
+            <lb ed="#F" n="26"/>A. accurrunt omnes partes versorij, quae habent vim convertendi se ad 
+            par<lb ed="#F" n="27" break="no"/>tem, ad quam se convertit B. si non adsit illa lamella, ut ostendit 
+            experien<lb ed="#F" n="28" break="no"/>tia, ideo accurrunt etiam tunc ad centrum lamellae: sed versoria tunc non
+            <lb ed="#F" n="29"/>accurrunt ad centrum lamellae quasi ad centrum lamellae, sed potius simul,
+            <lb ed="#F" n="30"/>&amp; centrum lamellae, &amp; omnia versoria accurrunt ad punctum A. at vero cum
+            <lb ed="#F" n="31"/>lamella removetur à magnete, quia non adest amplius punctum A, ad quod
+            <lb ed="#F" n="32"/>simul, &amp; lamella, &amp; versoria confluant, sed relinqutur sola lamella, &amp; hoc
+            <lb ed="#F" n="33"/>est proprium magneticorum, ut omnes illae partes, quae habent vim se 
+            conver<lb ed="#F" n="34" break="no"/>tendi ad eundem polum, fugiant se mutuo propter rationem, de qua alibi
+            <lb ed="#F" n="35"/>est sermo; ideo non est mirum, quod cuspides aversentur centrum lamellae
+            <lb ed="#F" n="36"/>remoto magnete: quandoquidem ex eo, quod et centrum, &amp; cuspides tetige
+            <lb ed="#F" n="37"/>rint idem punctum A. habent vim se convertendi ad eundem polum. Ratio
+            <lb ed="#F" n="38"/>igitur, cur cuspides concurrant ad centrum lamellę, dum tangit magnetem,
+            <lb ed="#F" n="39"/>&amp; fugiant, dum est procul, illa est, quia, dum tangit, accurrunt, non propter
+            <lb ed="#F" n="40"/>lamellam, sed propter polum A. quia scilicet volunt acquirere eandem 
+            ver<lb ed="#F" n="41" break="no"/>ticitatem, quam acquisivit centrum lamillae, at vero, dum est procul, fugiunt
+            <lb ed="#F" n="42"/>cuspides a centro, quia tunc lamella sola, aut trahit, aut fugat, &amp; quia simi¬
+            <!--284.xml-->
+            <pb ed="#F" n="265"/>
+               <lb ed="#F" n="1"/>les magnetis facies se fugiunt, ideo se, &amp; cuspides, &amp; centrum lamellae 
+            fu<lb ed="#F" n="2" break="no"/>gunt; quia ex contactu eiusdem poli A. eandem faciem acquisiverunt. Ista est
+            <lb ed="#F" n="3"/>ergo universalis lex magneticorum, quod omnes illae partes, quae confluunt
+            <lb ed="#F" n="4"/>ad tangendum eundem magnetis polum, remoto magnete fugiunt se 
+            invi<lb ed="#F" n="5" break="no"/>cem; quia, cum acquisiverint similem faciem ab illo eiusdem partis 
+            conta<lb ed="#F" n="6" break="no"/>ctu, semper similes partes se fugiunt.
+        </p>
+            <p xml:id="p9i7y5-e28275-d1e301">
+               <lb ed="#F" n="7"/>Si ergo putavit Gilbertus mutari verticitatem lamellae dum removetur à
+            <lb ed="#F" n="8"/>contactu magnetis ex eo, quod prope magnetem ad eius centrum accurrunt
+            <lb ed="#F" n="9"/>cuspides, procul ab eodem refugiunt, cur non hoc idem dixit de quolibet
+            <lb ed="#F" n="10"/>versorio, &amp; de illo longo obelo, de quo immediatè antea fuerat illi sermo:
+            <lb ed="#F" n="11"/>dum enim obelus ille media sui parte actu tangit magnetem, ad illud 
+            me<lb ed="#F" n="12" break="no"/>dium accurrunt cuspides, si admoveantur versoria; at vero, si removeatur
+            <lb ed="#F" n="13"/>magnes, statim cuspides aversabuntur medium obeli, &amp; tamen non dixit
+            <lb ed="#F" n="14"/>mutari verticitatem in obelo, nec re vera mutatur, immo si plura versoria
+            <lb ed="#F" n="15"/>simul admoveantur ad magnetem, omnia simul committent cuspides ad po
+            <lb ed="#F" n="16"/>lum A. &amp; ita omnes cuspides simul erunt unitae, dum simul tangunt polum
+            <lb ed="#F" n="17"/>A. Verum, ubi removeatur magnes, omnes cuspides statim se mutuo fugiunt,
+            <lb ed="#F" n="18"/>&amp; tamen non mutatur verticitas in versorijs, dum prope magnetem sunt, &amp;
+            <lb ed="#F" n="19"/>ab eodem removentur, etiam si prope magnetem cuspides se mutuo uniant,
+            <lb ed="#F" n="20"/>quotcunque tandem sint, remoto magnete se fugiant. ergo neque hoc 
+            di<lb ed="#F" n="21" break="no"/>catur de lamella, quae concipiatur veluti eorona quaedam ex versorijs confe
+            <lb ed="#F" n="22"/>cta, quorum cuspides simul conveniant ad centrum ipsius lamellae: &amp; si 
+            ad<lb ed="#F" n="23" break="no"/>moveantur alia versoria quotcunque, pariter concurrent ad eundem polum
+            <lb ed="#F" n="24"/>cuspides, remoto magnete se fugient. Dum ergo prope magnetem sunt 
+            ac<lb ed="#F" n="25" break="no"/>currunt simul omnes cuspides, tam, quae in lamella concipiuntur, quam, quae
+            <lb ed="#F" n="26"/>sunt extra; cum removetur magnes; quia illae, quae concipiuntur in lamella,
+            <lb ed="#F" n="27"/>non possunt ab invicem refugere; saltem fugiunt ab ijsdem illae, quae sunt
+            <lb ed="#F" n="28"/>extra. non igitur mutatur lamellae verticitas. &amp; haec ratio ex visceribus 
+            ma<lb ed="#F" n="29" break="no"/>gneticae philosophiae eruitur, &amp; ex modo agendi proprio magneticorum,
+            <lb ed="#F" n="30"/>quem Gilbertus non ita clarè videtur agnovisse.
+        </p>
+            <p xml:id="p9i7y5-e28275-d1e356">
+               <lb ed="#F" n="31"/>Idem punctum magnetis, quod communicavit ferro vim se convertendi ad Austrum, 
+            po<lb ed="#F" n="32" break="no"/>terit etiam communicare vim se convertendi ad Septentrionem in cor¬
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="203"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e21506"> <!-- l3c3 -->
+            <head xml:id="p9i7y5-e21506-Hd1e107">Caput 3</head>
+            <p xml:id="p9i7y5-e21506-d1e109">
+               <lb ed="#F" n="20" type="fixed=202"/>Non dirigitur magnes suis polis ad polos Coeli, nec ad aliquod astrum, sed ad
+            <lb ed="#F" n="21"/>polos Terrae. Cap. III.
+        </p>
+            <p xml:id="p9i7y5-e21506-d1e116">
+               <lb ed="#F" n="22"/>Sit magnes A. B. cuius virtus excurrat secundum 
+            longitu<lb ed="#F" n="23" break="no"/>dinem A. B.
+            <lb ed="#F" n="24"/>dico non 
+            di<lb ed="#F" n="25" break="no"/>rigi secundum
+            <lb ed="#F" n="26"/>partes A. &amp;
+            <lb ed="#F" n="27"/>B. si libretur, ad polos 
+            Coe<lb ed="#F" n="28" break="no"/>li, aut collimare ad aliquod
+            <lb ed="#F" n="29"/>astrum in Coelo, vel certè
+            <lb ed="#F" n="30"/>ad aliquam Coeli partem
+            <lb ed="#F" n="31"/>ut hactenus communi 
+            suf<lb ed="#F" n="32" break="no"/>fragio illi fuerat attributum:
+            <lb ed="#F" n="33"/>sed dico ad polos Terrae 
+            di<lb ed="#F" n="34" break="no"/>rigi, atque ita dirigi, ut 
+            sem<lb ed="#F" n="35" break="no"/>per una determinata parte, verbi gratia A. convertatur ad nostrum polum
+            <lb ed="#F" n="36"/>Septentrionalem, &amp; parte B. ad Australem, ubicunque tandem gentium 
+            con<lb ed="#F" n="37" break="no"/>sistat; sive sit in nostro hemisphaerio, sive in alio; sive sit citra aequatorem
+            <lb ed="#F" n="38"/>sive ultra: semper enim A. ad polum Septentrionalem vertetur B. ad 
+            Au<lb ed="#F" n="39" break="no"/>stralem.
+         <lb ed="#F" n="42" type="fixed=202"/>
+               <figure xml:id="p9i7y5-e21506-Fd1e160">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869945/1292,2212,1095,575/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">B A</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375663-r6</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e21506-d1e178">
+               <lb ed="#F" n="40" type="fixed=202"/>Hujus rei luculentam alibi fecimus fidem certissimis experimentis, &amp;
+            <!--221.xml-->
+
+         <!--221.xml-->
+
+         <!--222.xml-->
+         <pb ed="#F" n="203"/>
+               <lb ed="#F" n="1"/>praecipuè magnetica inclinatione: si enim suspendas arte exquisita 
+            aequili<lb ed="#F" n="2" break="no"/>bratum acum, &amp; magnetice excitetur pars illa, quae septentrionem respicit,
+            <lb ed="#F" n="3"/>descendit infra planum horizontis terram versus; cum tamen polus cęlestis
+            <lb ed="#F" n="4"/>longe multumque elevatus sit supra nostrum finitorem, ac proinde si illam
+            <lb ed="#F" n="5"/>Cęli partem respiceret, deberet sursum elevari hic, non deorsum deprimi; &amp;
+            <lb ed="#F" n="6"/>in illa terrae regione, quae in maiori elevatione poli septentrionalis erit 
+            posi<lb ed="#F" n="7" break="no"/>ta, eo pars illa, quę in septentrionem dirigitur, magis terram versus 
+            deprime<lb ed="#F" n="8" break="no"/>tur, contra quam Cęlum praescriberet, si ad suum ipsum magnetem cogeret
+            <lb ed="#F" n="9"/>famulatum, &amp; suis dirigeret polis.
+        </p>
+            <p xml:id="p9i7y5-e21506-d1e212">
+               <lb ed="#F" n="10"/>Huius rei alia non videtur posse causa assignari, nisi quod magnes 
+            cor<lb ed="#F" n="11" break="no"/>pus est non cęleste, aut sydereum, sed terrestre, &amp; à toto telluris globo non à
+            <lb ed="#F" n="12"/>Cęlo dirigitur. Cum ergo in tota tellure sit vis magnetica, non in Cęlo, ut
+            <lb ed="#F" n="13"/>alibi dicitur, &amp; tellus tota magneticam circumquaque habeat diffusam 
+            acti<lb ed="#F" n="14" break="no"/>vitatis sphaeram; hinc fit, ut magnes, &amp; magnetica corpora non ad Coelum,
+            <lb ed="#F" n="15"/>à quo immediatè in hoc nihil habent, aut expectant auxilij, sed ad terram se
+            <lb ed="#F" n="16"/>conforment. Cum enim illa sit magneticorum corporum natura, ut 
+            adin<lb ed="#F" n="17" break="no"/>vicem magnetice agere, &amp; pari possint, si sint ita disposita, ut ipsorum 
+            natu<lb ed="#F" n="18" break="no"/>ra postulat, ad invicem agunt, &amp; se se perficiunt, ac mutuis fovent nexibus;
+            <lb ed="#F" n="19"/>sicuti, si contraria ratione collocentur, atque vis activa singulorum, &amp; 
+            passi<lb ed="#F" n="20" break="no"/>va exigat, mutuo se oppugnant impetu, &amp; affligunt. cum autem habeant
+            <lb ed="#F" n="21"/>magnetica hanc vim, nisi nimia gravitas compedes inijciat, ut se se 
+            conver<lb ed="#F" n="22" break="no"/>tere possint, &amp; ad mutuum auxilium accommodare, cum tam terrae globus
+            <lb ed="#F" n="23"/>sit corpus magneticum, quam noster etiam lapis, non est mirum, quod stan
+            <lb ed="#F" n="24"/>te terra noster lapis se convertat, &amp; dirigat ex lege magnetica.
+        </p>
+            <p xml:id="p9i7y5-e21506-d1e247">
+               <lb ed="#F" n="44" type="fixed=203"/>
+               <figure xml:id="p9i7y5-e21506-Fd1e252">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869946/1026,2093,1004,1201/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">C D A B</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375664-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="25" type="fixed=203"/>Sicut enim si sumas duo corpora magnetica; ut magnetem A. B. 
+            cuius<lb ed="#F" n="26" break="no"/>cunque figurae, &amp; super 
+            po<lb ed="#F" n="27" break="no"/>nas ferrum magneticè 
+            exci<lb ed="#F" n="28" break="no"/>tum; quia virtus magnetis
+            <lb ed="#F" n="29"/>A. B. ita diffunditur per sphae
+            <lb ed="#F" n="30"/>ram activitatis, ut servet 
+            ha<lb ed="#F" n="31" break="no"/>bitudinem ad A. B. &amp; ita agit
+            <lb ed="#F" n="32"/>per circumiacentia corpora
+            <lb ed="#F" n="33"/>si sint capacia, ut illa 
+            dispo<lb ed="#F" n="34" break="no"/>nat ad consistendum in eade
+            <lb ed="#F" n="35"/>positione, in qua staret A. B.
+            <lb ed="#F" n="36"/>si libraretur; ideo ferrum 
+            su<lb ed="#F" n="37" break="no"/>perpositum intra sphaeram 
+            hu<lb ed="#F" n="38" break="no"/>ius activitatis, quod ex 
+            aequi<lb ed="#F" n="39" break="no"/>librata suspensione libertatem
+            <lb ed="#F" n="40"/>est assecutum, illa ratione se
+            <lb ed="#F" n="41"/>conformat, &amp; non alia. Iam
+            <lb ed="#F" n="42"/>fingas animo A. B. globum esse
+            <lb ed="#F" n="43"/>telluris, quia magneticam
+            <!--222.xml-->
+
+         <!--223.xml-->
+         <pb ed="#F" n="204"/>
+               <lb ed="#F" n="1"/>virtutem tellus circumquaque diffundit secundum longitudinem à polo
+            <lb ed="#F" n="2"/>ad polum ab A. ad B. &amp; disponitur virtus magnetica Terrae, ut excurrat à 
+            po<lb ed="#F" n="3" break="no"/>lo ad polum, &amp; ita diffunditur circa terram per sphaeram activitatis 
+            magne<lb ed="#F" n="4" break="no"/>ticam, ut ita dicam, virtutis effluvium ratione alibi fusius explicata. Hinc
+            <lb ed="#F" n="5"/>sit, ut, si libretur ferrum, quod habeat in se magneticam qualitatem, vel 
+            cer<lb ed="#F" n="6" break="no"/>tè libretur lapis ille, quem nos magnetem appellamus, ita ut se possit libere
+            <lb ed="#F" n="7"/>convertere mole non nimis prae grauante, convertat se per virtutem, quam
+            <lb ed="#F" n="8"/>iam possidet, ita ut actio magnetica terrae, quae in illud sicut, &amp; in alia 
+            circum<lb ed="#F" n="9" break="no"/>iecta corpora agit, iuvet, &amp; augeat qualitatem magneticam, quae iam est in
+            <lb ed="#F" n="10"/>illo, non illam destruat. Et quia hoc consequetur, si consistat in 
+            longitudi<lb ed="#F" n="11" break="no"/>ne meridiana; quia tunc eodem modo posita erit qualitas, quae est in ipso,
+            <lb ed="#F" n="12"/>ac sit illa, quae est in medio, ideo ista ratione convertetur, &amp; non alia, dirigit
+            <lb ed="#F" n="13"/>se ergo magnes ad polos Terrae, non Cęli; quia tali pacto ad terram se 
+            con<lb ed="#F" n="14" break="no"/>formando virium sumit incrementa, quod munus à Cęlo non posset 
+            obti<lb ed="#F" n="15" break="no"/>nere. Loquor autem hic de facto, &amp; quaero, qua ratione magnes de facto se
+            <lb ed="#F" n="16"/>conformet non ad Cęlum, sed ad terram, &amp; cur terram sequatur? nam, utrum, si
+            <lb ed="#F" n="17"/>per impossibile non esset terrę actio, sed solus esset magnes in centro 
+            consti<lb ed="#F" n="18" break="no"/>tutus, se conformaret ad polos Cęli, alia est quaestio, in qua posset quis 
+            cre<lb ed="#F" n="19" break="no"/>dere futurum, ut Cęlum sequeretur magnes: verum hic loquor de eo, quod
+            <lb ed="#F" n="20"/>fit re ipsa. patet ergo magnetica corpora non polos Cęli respicere, sed Terrę.
+            <lb ed="#F" n="21"/>&amp; huius rei causa etiam patet, quod erat propositum.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

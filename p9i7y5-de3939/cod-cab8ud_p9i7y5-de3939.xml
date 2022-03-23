@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 9</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 9</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="33"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-de3939"> <!-- l1c9 -->
+            <head xml:id="p9i7y5-de3939-Hd1e107">Caput 9</head>
+            <p xml:id="p9i7y5-de3939-d1e109">
+              <!--52.xml-->
+              <pb ed="#F" n="33"/>
+               <lb ed="#F" n="1"/>Magnetem ab interno principio moveri, ac dirigi in polos, &amp; ad suum meridianum
+            <lb ed="#F" n="2"/>se conformare. Caput Nonum.
+        </p>
+            <p xml:id="p9i7y5-de3939-d1e116">
+               <lb ed="#F" n="3"/>Hactenus aliorum opiniones proposui de magnetica in polos
+            <lb ed="#F" n="4"/>conversione. iam reliquum est, ut, quid ego sentiam, 
+            expo<lb ed="#F" n="5" break="no"/>nam: quandoquidem aliorum placita omnino non 
+            placue<lb ed="#F" n="6" break="no"/>runt, licet hic etiam illud Ciceronis quadrare videatur, in 
+            hu<lb ed="#F" n="7" break="no"/>iusmodi rebus facilius, quid non sint, quam quid sint, posse
+            <lb ed="#F" n="8"/>afferri.
+        </p>
+            <p xml:id="p9i7y5-de3939-d1e132">
+               <lb ed="#F" n="9"/>Illud in primis statuendum est motum hunc ad polos magneti 
+            natura<lb ed="#F" n="10" break="no"/>lem esse, ac proinde à principio intrinseco, non autem ab extrinseco 
+            pro<lb ed="#F" n="11" break="no"/>venire, neque externam causam extraneumque motorem esse, sed internum
+            <lb ed="#F" n="12"/>in ipsa magnetis natura. Probavimus hoc supra à posteriori impugnantes
+            <lb ed="#F" n="13"/>magneticas illas polares rupes: cum enim videamus non moveri 
+            diffici<lb ed="#F" n="14" break="no"/>lius, nec magis lente dirigi, aut converti ingentem lapidem, atque exiguum
+            <lb ed="#F" n="15"/>ferramentum; atque hoc accidere ferè eadem cum velocitate, &amp; firmitate
+            <lb ed="#F" n="16"/>ubique gentium; si nolumus magnetem moveri ab agente libero, qui possit
+            <lb ed="#F" n="17"/>pro sua libertate multum aut parum virium ad agendum applicare, &amp; 
+            tem<lb ed="#F" n="18" break="no"/>perare, prout libuerit, suae facultatis conatum ad illud, quod moveri 
+            de<lb ed="#F" n="19" break="no"/>bet, quod nullus hactenus finxit; sed admittimus moveri magnetem ab 
+            a<lb ed="#F" n="20" break="no"/>gente naturali; quod semper tantum operatur, quantum potest, &amp; semper
+            <lb ed="#F" n="21"/>universas exerit in agendo vires, manifesto sequitur futurum, ut celerius, ac
+            <lb ed="#F" n="22"/>vehementius exiguum corpus, quam ingens dirigatur: quod cum haud
+            <lb ed="#F" n="23"/>quaquam fieri videamus, clare conficitur non externum, sed internum esse
+            <lb ed="#F" n="24"/>moto rem; cuius vires, cum mobili, crescunt, vel decrescunt.
+        </p>
+            <p xml:id="p9i7y5-de3939-d1e170">
+               <lb ed="#F" n="25"/>Probatur autem hoc idem à priori. Natura suos effectus non destituit 
+            il<lb ed="#F" n="26" break="no"/>lis in rebus, quae ad illorum conservationem conducunt, &amp; illis benigne
+            <lb ed="#F" n="27"/>admodùm ea omnia copiosè impertitur, quibus suam sibi possint tueri 
+            for<lb ed="#F" n="28" break="no"/>mam, omnes'que proprietates, quas à natura receperunt, seque ad 
+            natura<lb ed="#F" n="29" break="no"/>lem statum restituere, si deturbentur, quem ipsorum postulat species: sed
+            <lb ed="#F" n="30"/>magnetis naturalis status, &amp; commoda se conservandi ratio, ut ex 
+            dicen<lb ed="#F" n="31" break="no"/>dis patebit, ea est, ut sit in determinato situ in ordine ad universum, &amp; 
+            de<lb ed="#F" n="32" break="no"/>terminatam sui partem ad determinatos convertat polos; ut illa, quae à 
+            na<lb ed="#F" n="33" break="no"/>tura recepit, possit conservare. ergo à natura vim talem possidebit sibi 
+            in<lb ed="#F" n="34" break="no"/>genitam, qua se ita collocare, &amp; ad eundem situm, ac positionem, si 
+            detur<lb ed="#F" n="35" break="no"/>betur, possit restituere. Maiorem huius argumentationis propositionem
+            <lb ed="#F" n="36"/>non est quod confirmemus, satis illi fidei conciliant res omnes, nec pius in
+            <lb ed="#F" n="37"/>naturam animus aliud de communi matre potest suspicari. Cur indita est
+            <lb ed="#F" n="38"/>lapidi vis deorsum descendendi, neque ad hunc motum efficiendum 
+            aliun<lb ed="#F" n="39" break="no"/>de vires expectat? nisi quia hic ille locus est, quo commodius conquiescit.
+            <lb ed="#F" n="40"/>Quis igni suffecit alas? (nisi tamen quis neget ignem ascendere.) quibus
+            <!--53.xml-->
+            <pb ed="#F" n="34"/>
+               <lb ed="#F" n="1"/>sese in sublime elevat sua sufflatus levitate? ut ibi felicius otietur. Non alia
+            <lb ed="#F" n="2"/>de causa animali ad gradiendum diximus, vires à natura tributas esse, quam
+            <lb ed="#F" n="3"/>ut se pabulo, &amp; sensuum obiectis, quae ubique parata non sunt, perficiat: cur
+            <lb ed="#F" n="4"/>ergo velimus cum solo magnete naturam fuisse noveream; ita ut cogatur
+            <lb ed="#F" n="5"/>alienam expectare liberalitatem ad illum obtinendum situm, &amp; positionem,
+            <lb ed="#F" n="6"/>quam illius forma, &amp; diuturnior conservatio desiderat? Quod ad minorem
+            <lb ed="#F" n="7"/>attinet, magnetis scilicet naturam id exigere, ut determinatam partem 
+            po<lb ed="#F" n="8" break="no"/>lis obvertat; praeter ea, quae fusius à nobis disputabuntur infra; illud in prę¬
+            <lb ed="#F" n="9"/>sentia unicum esto argumentum, quod semper ita in suis venis producatur,
+            <lb ed="#F" n="10"/>ut semper determinatam partem septentrioni obijciat, oppositam austro,
+            <lb ed="#F" n="11"/>quamvis haec pars oculis definiri non possit: ex quo à posteriori certissimè
+            <lb ed="#F" n="12"/>possumus, &amp; evidenter conficere, eum esse optimum, &amp; commodissimum
+            <lb ed="#F" n="13"/>situm, quem semper natura eligit. Verum, ut dixi, constabit ex infra 
+            di<lb ed="#F" n="14" break="no"/>cendis magnetem quandam habere qualitatem ex sua natura, quae 
+            deter<lb ed="#F" n="15" break="no"/>minatam obtinet positionem, &amp; aliam consimilem esse in toto telluris
+            <lb ed="#F" n="16"/>globo; quae qualitates, dum sunt convenienter ad invicem dispositae, se 
+            mu<lb ed="#F" n="17" break="no"/>tuo fovent, &amp; tuentur; si contraria sint ratione compositae, se invicem 
+            de<lb ed="#F" n="18" break="no"/>struunt. debuit ergo magnes vim habere se movendi, &amp; confirmandi suam
+            <lb ed="#F" n="19"/>qualitatem cum qualitate telluris; alioquin dedisset natura illi qualitatem
+            <lb ed="#F" n="20"/>illam, &amp; non dedisset illi vim sibi 
+            il<lb ed="#F" n="21" break="no"/>lam conservandi, si non posset à 
+            con<lb ed="#F" n="22" break="no"/>traria actione telluris, quae ubique
+            <lb ed="#F" n="23"/>viget, se subducere.
+        </p>
+            <p xml:id="p9i7y5-de3939-d1e261">
+               <lb ed="#F" n="43" type="fixed=34"/>
+               <figure xml:id="p9i7y5-de3939-Fd1e266">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869777/1414,1703,877,1503/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text"/>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375405-region_1630484346204_1673</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               <lb ed="#F" n="24" type="fixed=34"/>Confirmatur hoc in consimili re:
+            <lb ed="#F" n="25"/>quia enim plantae, lignorumque 
+            natu<lb ed="#F" n="26" break="no"/>ra postulat, ut determinatam sui 
+            par<lb ed="#F" n="27" break="no"/>tem sursum obvertat, dum 
+            vegeta<lb ed="#F" n="28" break="no"/>tur planta, &amp; ad suam ipsius 
+            diu<lb ed="#F" n="29" break="no"/>turniorem, &amp; feliciorem vitam tali
+            <lb ed="#F" n="30"/>ratione se habeat, conducit; hinc 
+            vi<lb ed="#F" n="31" break="no"/>debis, etiamsi ramum deprimas, 
+            fu<lb ed="#F" n="32" break="no"/>turum, ut, si vita perseveret, virgulae,
+            <lb ed="#F" n="33"/>quas hinc inde emittet depressus 
+            ra<lb ed="#F" n="34" break="no"/>mus, vu saepius observavi, verticem
+            <lb ed="#F" n="35"/>sursum vertant, ut iterum quasi ascen
+            <lb ed="#F" n="36"/>dere conentur, &amp; se ad naturalem 
+            sta<lb ed="#F" n="37" break="no"/>tum restituant; quia sic commodè se
+            <lb ed="#F" n="38"/>habet illorum natura; ut vides in 
+            de<lb ed="#F" n="39" break="no"/>scripto exemplo: ramusculi enim 
+            ad<lb ed="#F" n="40" break="no"/>nascentes in ramo depresso sursum
+            <lb ed="#F" n="41"/>diriguntur: quod si praeciso 
+            trunco<lb ed="#F" n="42" break="no"/>non amplius se ad eundem statum
+            <!--53.xml-->
+          
+         <!--54.xml-->
+         <pb ed="#F" n="35"/>
+               <lb ed="#F" n="1"/>restituit lignum; idest, quia ad sui conservationem, cum non amplius 
+            ter<lb ed="#F" n="2" break="no"/>ra vegetetur illa positione non indiget. Sicut igitur dum vegetatur lignum,
+            <lb ed="#F" n="3"/>vim habet se sursum erigendi, &amp; ad hoc nullum expectat externum 
+            auxi<lb ed="#F" n="4" break="no"/>lium; quia sic ad naturam conducit; ita etiam magnes, quia illius natura
+            <lb ed="#F" n="5"/>postulat, ut, non solum in prima productione, sed, quamdiù eius forma 
+            du<lb ed="#F" n="6" break="no"/>rat, conservetur in tali positione, &amp; talem obtineat in universo situm, cum
+            <lb ed="#F" n="7"/>perpetuo tellus influat, non debet auxiliares copias aliunde expectare ad
+            <lb ed="#F" n="8"/>hoc obtinendum, aut alienis stipendijs sibi milites corrogare. Hoc vero,
+            <lb ed="#F" n="9"/>quod de vegetabilibus in ramo depresso pro exemplo adduxi, observavi
+            <lb ed="#F" n="10"/>ego saepissimè, &amp; alij etiam observarunt, &amp; licet aliquando ex accidenti
+            <lb ed="#F" n="11"/>contrarium contingat, per se tamen physicè, hoc est semper, vel ut 
+            pluri<lb ed="#F" n="12" break="no"/>mum id vel in ipso nascentium ramusculorum exordio, imo &amp; holerum
+            <lb ed="#F" n="13"/>observabis, ut verticem sursum erigant. neque hoc, quod per se contingit,
+            <lb ed="#F" n="14"/>ex accidente, à materia provenire dixeris, sed per se à forma. verum cum hoc
+            <lb ed="#F" n="15"/>pro exemplo adducam, in quibus de veritate non laboratur, nolo 
+            immora<lb ed="#F" n="16" break="no"/>ri, nec de hac re disputare in praesentia; alius locus forte id postulabit. in
+            <lb ed="#F" n="17"/>magnete, quod dixi, certum est.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

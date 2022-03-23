@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 16</title>
+            <author ref="#per-nc88aa">Niccolo Cabeo</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Christoph Sander</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 16</title>
+               <date when="2022-03-23">March 23, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-03-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="175"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="p9i7y5-e18717"> <!-- l2c16 -->
+            <head xml:id="p9i7y5-e18717-Hd1e107">Caput 16</head>
+            <p xml:id="p9i7y5-e18717-d1e109">
+               <lb ed="#F" n="29"/>An pars magnetis, quae in septentrionem convertitur, sit verè septentrionalis.
+            <lb ed="#F" n="30"/>Cap. XVI.
+        </p>
+            <p xml:id="p9i7y5-e18717-d1e116">
+               <lb ed="#F" n="31"/>Non sat multa habebat mira, &amp; in audita haec magnetica 
+            philo<lb ed="#F" n="32" break="no"/>sophia; nisi haec etiam excitaretur quaestio, num pars, quae ver
+            <lb ed="#F" n="33"/>titur in septentrionem sit septentrionalis. Ecquaenam tandem
+            <lb ed="#F" n="34"/>erit pars in magnete septentrionalis, si non est illa, quae in 
+            sep<lb ed="#F" n="35" break="no"/>tentrionem dirigitur? &amp; tamen etiam ex hac huius 
+            philoso<lb ed="#F" n="36" break="no"/>phiae ignoratione lamentatur Gilbertus, quod illam appellant homines per
+            <lb ed="#F" n="37"/>summam ignorationem partem septentrionalem, quae in septentrionem 
+            di<lb ed="#F" n="38" break="no"/>rigitut. Placuit igitur hoc tandem capite quid ipse sentiam, seu potius, quam
+            <lb ed="#F" n="39"/>loquendi formam sequendam putem, exponere.
+        </p>
+            <p xml:id="p9i7y5-e18717-d1e138">
+               <lb ed="#F" n="40"/>Non ego tantam huius lapidis ignorationem esse dixerim, nec tam effusa
+            <!--194.xml-->
+            <pb ed="#F" n="175"/>
+               <lb ed="#F" n="1"/>lamentatione huius philosophiae fatum deploro ex hoc capite, quod 
+            homi<lb ed="#F" n="2" break="no"/>nes etiam sapientes septentrionalem appellant illam partem, quae in 
+            septen<lb ed="#F" n="3" break="no"/>trionem dirigitur: verba enim signa sunt, quae ad significandum ex libera
+            <lb ed="#F" n="4"/>nominum voluntate assumuntur: nec solum inter sapientes verba tanquam
+            <lb ed="#F" n="5"/>rerum tesserae transmittuntur; sed etiam vulgus promiscuè cum sapientibus
+            <lb ed="#F" n="6"/>illis utitur. Debent ergo tales assumi voces, &amp; in illo accipi sensu, qui possit
+            <lb ed="#F" n="7"/>etiam à vulgari ingenio percipi, ne duplicem cogamur habere sermonis 
+            u<lb ed="#F" n="8" break="no"/>sum, quorum uno utamur intersapientes alio plebeculae sententias 
+            aperia<lb ed="#F" n="9" break="no"/>mus. Quare, ut serviamus debiliori parti, quia haec assurgere nequit, cum 
+            al<lb ed="#F" n="10" break="no"/>tera possit, si velit, se sponte demittere, melius fuit philosophi uti consilio, &amp;
+            <lb ed="#F" n="11"/>loqui ut multi intelligunt, sentire ut pauci sapiunt. Quo posito, quis dicat 
+            in<lb ed="#F" n="12" break="no"/>ter vulgares homines, &amp; non se timeat exsibilari, illam esse verè partem 
+            au<lb ed="#F" n="13" break="no"/>stralem in magnete, quae convertitur in septentrionem, illam 
+            septentriona<lb ed="#F" n="14" break="no"/>lem, quae convertitur in austrum? Damnaretur communi sensu, qui sic loque
+            <lb ed="#F" n="15"/>retur. Si placet ergo non discedamus à communibus vocibus, &amp; demus hoc
+            <lb ed="#F" n="16"/>usui loquendi, qui iam obtinuit, ut illa appelletur septentrionalis, quae in
+            <lb ed="#F" n="17"/>septentrionem dirigitur, australis, quae in austrum. qua etiam loquendi 
+            for<lb ed="#F" n="18" break="no"/>ma hactenus usi sumus. Si tamen rem ipsam exquiris, eam sic habeto.
+        </p>
+            <p xml:id="p9i7y5-e18717-d1e187">
+               <lb ed="#F" n="19"/>Primo illud certum est non solum hactenus pluribus experimentis 
+            com<lb ed="#F" n="20" break="no"/>probatum, sed inferius libro 4. copiosius explicandum, similes partes in 
+            ma<lb ed="#F" n="21" break="no"/>gnete, &amp; magneticis corporibus hic apud nos semper se propulsare, &amp; solum
+            <lb ed="#F" n="22"/>dissimiles se advocare, &amp; coniungere; hoc est, si sint duo magnetes, quorum
+            <lb ed="#F" n="23"/>uterque seorsum unum ab altero suspendatur, &amp; notetur utriusque pars illa,
+            <lb ed="#F" n="24"/>quae convertitur in septentrionem, si deinde ambo in suis cymbulis in eodem
+            <lb ed="#F" n="25"/>vase sinantur innatare, nunquam pars illa unius, quae convertebatur in 
+            sep<lb ed="#F" n="26" break="no"/>tentrionem, coniungetur cum illa alterius magnetis, quae pariter in 
+            septen<lb ed="#F" n="27" break="no"/>trionem dirigebatur; sed semper coniungitur cum illa, quae dirigebatur in
+            <lb ed="#F" n="28"/>austrem, neque de hoc potest esse dubitatio.
+        </p>
+            <p xml:id="p9i7y5-e18717-d1e211">
+               <lb ed="#F" n="29"/>Certum est secundo, quoties ferramenta ab aliquo magnete, vel 
+            magne<lb ed="#F" n="30" break="no"/>tico corpore excitantur, semper ferri extremitatem, quae dirigitur ad magne
+            <lb ed="#F" n="31"/>ticum corpus, &amp; illud tangit; vel tangere censetur, acquirere virtutem 
+            con<lb ed="#F" n="32" break="no"/>trariae seu oppositae faciei, atque sit in parte magnetis, quam tangit, seu ad
+            <lb ed="#F" n="33"/>quam propius accedit: ut si pars magnetis tacta spectat septentrionem, idest
+            <lb ed="#F" n="34"/>dirigitur ex sua natura in septentrionem, pars ferri, quae tangit, acquirit vim
+            <lb ed="#F" n="35"/>dirigendi se absolutè in austrum, quoties eximatur extra vires magnetis 
+            ta<lb ed="#F" n="36" break="no"/>cti; ut si sit magnes A. B. &amp; ponatur obelus, qui altero sui extremo tangat,
+            <lb ed="#F" n="37"/>vel propius accedat ad aliquod pnnctum in toto hemisphaerio ad B. pars,
+            <lb ed="#F" n="38"/>seu extremitas obeli C. quae magnetem tangit, acquiret vim contrariam, atque
+            <lb ed="#F" n="39"/>sit in magnete illo; ut si B. suspenso lapide convertitur ad Austrum, pars C.
+            <lb ed="#F" n="40"/>suspenso obelo convertetur in septentrionem, quoties erit extra vires illius
+            <lb ed="#F" n="41"/>magnetis A. B. Patet hoc primo experientia, ad quam nihil aliud requiritur,
+            <lb ed="#F" n="42"/>nisi ut suspendatur utrumque, alterum scorsum ab altero; deinde, quia si po¬
+            <!--195.xml-->
+            <pb ed="#F" n="176"/>
+               <lb ed="#F" n="1"/>natur in proximo corpus, quod sit iam magneticum, ut si in loco E. non 
+            po<lb ed="#F" n="2" break="no"/>natur obelus C. D. qui debeat ex illo contactu verticitatem acquirere, sed sus
+            <lb ed="#F" n="3"/>pendatur ibi particula magnetis, quae iam habeat suam verticitatem, diriget
+            <lb ed="#F" n="4"/>particula illa versus partem B. suam illam extremitatem, quam dirigit in sep
+            <lb ed="#F" n="5"/>tentrionem; &amp; hoc, quia sic se conformat qualitati intentionali, quae per me
+            <lb ed="#F" n="6"/>dium effunditur in tali loco à magnete A. B. ergo qualitas intentionalis ibi
+            <lb ed="#F" n="7"/>per medium effusa sic est disposita. ergo sic illam imbibit obelus in E. positus.
+         <lb ed="#F" n="29" type="fixed=176"/>
+               <figure xml:id="p9i7y5-e18717-Fd1e266">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869919/770,446,1275,930/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">A B C D E F</seg>
+                     <seg type="figure-ideas"/>
+                     <seg type="transkribus-id">900522-34375623-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+            </p>
+            <p xml:id="p9i7y5-e18717-d1e284">
+               <lb ed="#F" n="8" type="fixed=176"/>Tertio, quia si ponatur in polo B. obelus naturali directione componetur,
+            <lb ed="#F" n="9"/>ut vides, in quo casu ex tota qualitate duarum facierum, quae excurrit ab A.
+            <lb ed="#F" n="10"/>ad D. una extremitas A. dirigitur in septentrionem, altera extremitas D. 
+            diri<lb ed="#F" n="11" break="no"/>getur in austrum. ergo virtus, quae est in obelo à D. ad C. respicit 
+            septentrio<lb ed="#F" n="12" break="no"/>nem, &amp; à C. ad D. respicit austrum. &amp; ita pars tangens B. acquirit contrariam
+            <lb ed="#F" n="13"/>faciem, atque habeat B. Illud quidem verum est, quod quoties obelus ille su
+            <lb ed="#F" n="14"/>pra illum magnetem suspendetur, vel intra vires illius librabitur, semper 
+            con<lb ed="#F" n="15" break="no"/>vertet partem C. ad hemisphaerium B. si tamen ponatur extra vires magnetis
+            <lb ed="#F" n="16"/>A. B. semper C. convertet se ad partem oppositam illi; ad quam se convertit
+            <lb ed="#F" n="17"/>pars B.
+        </p>
+            <p xml:id="p9i7y5-e18717-d1e308">
+               <lb ed="#F" n="18"/>Si ergo globus A. B. ponatur globus totius telluris, &amp; obelus sit ferreus 
+            can<lb ed="#F" n="19" break="no"/>cellus, vel aliud huiusmodi ferramentum erectum supra terram, eodem 
+            mo<lb ed="#F" n="20" break="no"/>do videtur philosophandum: concipit enim ex illo contactu telluris in E.
+            <lb ed="#F" n="21"/>quasi ex contactu corporis magnetici in parte, quae tangit globum, vel ad
+            <lb ed="#F" n="22"/>terram convertitur, faciem oppositam, atque sit in hemisphaerio B. ac 
+            proin<lb ed="#F" n="23" break="no"/>de si libraretur contra polum B. converteretur C. ad B. &amp; ita unica tota 
+            qua<lb ed="#F" n="24" break="no"/>litas excurreret ab A, ad D. quae tota respiceret septentrionem; &amp; extremitas
+            <lb ed="#F" n="25"/>ferri D. videtur habere faciem septentrionalem, &amp; extremitas C. australem,
+            <lb ed="#F" n="26"/>&amp; dum fertum suspenditur in F. seu acquirit verticitatem ex contactu terrae
+            <lb ed="#F" n="27"/>in E. in parte, quae dirigitur septentrionem versus, videtur acquirere faciem
+            <lb ed="#F" n="28"/>australem.
+        </p>
+            <p xml:id="p9i7y5-e18717-d1e334">
+            <!--195.xml-->
+
+         <!--196.xml-->
+               <pb ed="#F" n="177"/>
+               <lb ed="#F" n="1"/>Nihilominus quia, ut mox dicam, nunquam potest eximi extra vires 
+            tellu<lb ed="#F" n="2" break="no"/>ris, neque acquirit illam vim se dirigendi praecisè, &amp; absolurè, sed per ordine
+            <lb ed="#F" n="3"/>ad tellurem: in altero autem casu non acquirit vim per ordinem ad illum
+            <lb ed="#F" n="4"/>globum magnetis, quamvis acquirat verè ab illo, quia hęc qualitas duarum
+            <lb ed="#F" n="5"/>facierum non est per se in ferro ad disponendum illud in ordine ad illum
+            <lb ed="#F" n="6"/>magnetem; ideo, quamvis acquirat vim semper se dirigendi B versus quoties
+            <lb ed="#F" n="7"/>ponitur iuxta illum magnetem, non dicitur tamen acquirere faciem B quia
+            <lb ed="#F" n="8"/>si suspendatur procul ab illo magnete, in ordine ad terram, in ordine ad quam
+            <lb ed="#F" n="9"/>habet illam qualitatem, per se convertitur ad partem oppositam, atque sit 
+            il<lb ed="#F" n="10" break="no"/>la, ad quam per se convertitur B. ideo dicitur acquirere faciem oppositam ipsi B.
+            <lb ed="#F" n="11"/>Quod si ferrum ex contactu in E. talem acquireret virtutem convertendi 
+            il<lb ed="#F" n="12" break="no"/>lud extremum B. versus, ut procul ab illo globo nullam haberet directionem,
+            <lb ed="#F" n="13"/>omnino videretur dicendum, illud in parte tangente acquisivisse virtutem,
+            <lb ed="#F" n="14"/>seu faciem ipsius B. at vero sic est in casu nostro. Ferrum enim acquirit vim
+            <lb ed="#F" n="15"/>praecisè se convertendi ad polum telluris, &amp; si intelligeretur eximia vis tellu
+            <lb ed="#F" n="16"/>ris, &amp; cuiuslibet alterius magnetis, nullam fortasse amplius haberet 
+            dire<lb ed="#F" n="17" break="no"/>ctionem. ergo videtur adhuc debere dici in parte tangente tellurem in 
+            he<lb ed="#F" n="18" break="no"/>misphaerio septentrionali acquisivisse faciem septentrionalem.
+        </p>
+            <p xml:id="p9i7y5-e18717-d1e382">
+               <lb ed="#F" n="19"/>Certum est tertio, si suspendantur simul magnes, &amp; ferrum à tellure 
+            exci<lb ed="#F" n="20" break="no"/>tatum, futurum, ut illa pars ferri, quae dirigitur in austrum, coniungatur cum
+            <lb ed="#F" n="21"/>illa parte magnetis, quae dirigitur in septentrionem. ergo illae duae partes
+            <lb ed="#F" n="22"/>magnetis scilicet, &amp; ferri sunt facies dissimiles. Sed illa pars ferri, quae 
+            diri<lb ed="#F" n="23" break="no"/>gitur in austrum, ex proximè dictis, videtur debere dici pars septentrionalis,
+            <lb ed="#F" n="24"/>&amp; in illo extremo fertum habere faciem septentrionalem; ergo pars magne
+            <lb ed="#F" n="25"/>tis, quae dirigitur in septentrionem, etit australis: quod si poneretur magnes
+            <lb ed="#F" n="26"/>esse in polo, erigeretur supra polum, quem tangeret illo extremo; &amp; 
+            conse<lb ed="#F" n="27" break="no"/>quenter pars, quae erat directa in austrum, terminaret quasi cursum virtutis
+            <lb ed="#F" n="28"/>in septentrionem.
+        </p>
+            <p xml:id="p9i7y5-e18717-d1e407">
+               <lb ed="#F" n="29"/>Haec, quae hactenus dixi, certa sunt, &amp; iam extra disputationis aleam 
+            posi<lb ed="#F" n="30" break="no"/>ta: utrum nihiloninus absolutè dicenda sit illa pars, quae dirigitur in septen
+            <lb ed="#F" n="31"/>trionem, septentrionalis, an australis; ubi iam res explicata est, non 
+            magno<lb ed="#F" n="32" break="no"/>pere laboro de modo dicendi. Et sanè quidem verum est ex una parte, si ille
+            <lb ed="#F" n="33"/>magnes libraretur supra telluris polum praecisè ipsum conversurum in polum
+            <lb ed="#F" n="34"/>telluris partem illam, quae modo est directa, in septentrionem, &amp; illam 
+            par<lb ed="#F" n="35" break="no"/>tem, quae modo respicit austrum, excursuram ad polum septentrionalem Cę
+            <lb ed="#F" n="36"/>li, ut est supra obelus in B. &amp; staret in illo situ maximè naturaliter; in quo 
+            ca<lb ed="#F" n="37" break="no"/>su tota virtus magnetica totius globi telluris; una cum virtute illius magne
+            <lb ed="#F" n="38"/>tis, censeretur una qualitas tota duarum facierum, quae in uno extremo esset
+            <lb ed="#F" n="39"/>australis, in altero septentrionalis. &amp; in illo casu, qui esset maximè naturalis
+            <lb ed="#F" n="40"/>magneti, &amp; in quo eius virtus nihil mutaretur, illa facies, quae modo 
+            dirigi<lb ed="#F" n="41" break="no"/>tur in austrum, diceretur, &amp; esset terminus septentrionalis. Hoc verum est.
+            <lb ed="#F" n="42"/>Ex altera parte, ut proximè dicebam, ideo pars ferri, quae tangit A. ma¬
+            <!--197.xml-->
+            <pb ed="#F" n="178"/>
+               <lb ed="#F" n="1"/>magnetis dicitur contrahere faciem oppositam ipsi A. quia quamvis, 
+            quo<lb ed="#F" n="2" break="no"/>ties est intra vires illius magnetis, semper convertatur ad R. nunquam ad B
+            <lb ed="#F" n="3"/>tamen si eximatur extra vires illius, convertit se ad oppositam mundi partem,
+            <lb ed="#F" n="4"/>atque convertat se ipsum A. at verò magnes, &amp; ferrum excitum a tellure 
+            ha<lb ed="#F" n="5" break="no"/>bent solum suam directionem per ordinem ad telluris globum, ita ut, sicuti
+            <lb ed="#F" n="6"/>haec qualitas est, ita debeat nominari perordinem ad tellurem, cum sit vis
+            <lb ed="#F" n="7"/>dirigendi corpus ad tellurem. Ex hoc sequi videtur, illam extremitatem, quę
+            <lb ed="#F" n="8"/>dirigitur ad septentrionem telluris, dicendam esse septentrionalem.
+        </p>
+            <p xml:id="p9i7y5-e18717-d1e462">
+               <lb ed="#F" n="9"/>Mihi ita loqui magis placet: quod eo libentius facio, quo magis invitus
+            <lb ed="#F" n="10"/>discedo à communi loquendi forma. Si nihilominus propter rationem 
+            su<lb ed="#F" n="11" break="no"/>pra positam, melius alicui videatua, si pars illa quae in septentrionem 
+            dirigi<lb ed="#F" n="12" break="no"/>tur, australis appelletur, &amp; sic errores facilius praecavere iudicet, integrum
+            <lb ed="#F" n="13"/>sit unicuique loqui, ut lubet. Et haec dicta sint de attractionibus magneticis
+            <lb ed="#F" n="14"/>in universum. singula uberius dicentur lib. 4.
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>
