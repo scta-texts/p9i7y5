@@ -52,21 +52,25 @@
    <text xml:lang="la">
       <front>
          <div xml:id="starts-on">
-            <pb ed="#F" n="110"/>
+            <pb ed="#F" n="109"/>
          </div>
       </front>
       <body>
          <div xml:id="p9i7y5-e11708"> <!-- l2c3 -->
             <head xml:id="p9i7y5-e11708-Hd1e107">Caput 3</head>
-            <p xml:id="p9i7y5-e11708-d1e109">
+           <p xml:id="p9i7y5-e11708-d1e001">
+             <!--128.xml-->
+             <pb ed="#F" n="109"/>
+             <lb ed="#F" n="1"/>lae 
+             nau<lb ed="#F" n="2" break="no"/>Expenditur opinio Petri Peregrini, de magnetica attractione.
                <lb ed="#F" n="3"/>Cap. III.
-        </p>
+           </p>
             <p xml:id="p9i7y5-e11708-d1e114">
                <lb ed="#F" n="4"/>Praecedenti inclusimus capite reliquorum opiniones de 
             magne<lb ed="#F" n="5" break="no"/>tica attractione, qui mihi magis per communia hac in re 
             phi<lb ed="#F" n="6" break="no"/>losophari visi sunt, nunc duorum est opinio expendenda, qui
-            <lb ed="#F" n="7"/>magis proprijs insistunt principijs, alter est Petrus 
-            Peregri<lb ed="#F" n="8" break="no"/>nus, de quo superiori lib. incidit mentio, qui apud nonnullos in magnetica
+              <lb ed="#F" n="7"/>magis proprijs insistunt principijs, alter est <name ref="#per-PePeMa">Petrus 
+            Peregri<lb ed="#F" n="8" break="no"/>nus</name>, de quo superiori lib. incidit mentio, qui apud nonnullos in magnetica
             <lb ed="#F" n="9"/>philosophia Magistri nomen est assecutus. Is propius rem attingere visus
             <lb ed="#F" n="10"/>est, dum certis experimentis haud dubiam sibi fidem conciliat: supponens
             <lb ed="#F" n="11"/>enim, quod re ipsa est, nec alij commemorasse videntur in magnete duas

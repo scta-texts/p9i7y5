@@ -52,13 +52,15 @@
    <text xml:lang="la">
       <front>
          <div xml:id="starts-on">
-            <pb ed="#F" n="364"/>
+            <pb ed="#F" n="363"/>
          </div>
       </front>
       <body>
          <div xml:id="p9i7y5-e38763"> <!-- l4c28 -->
             <head xml:id="p9i7y5-e38763-Hd1e107">Caput 28</head>
             <p xml:id="p9i7y5-e38763-d1e109">
+              <lb ed="#F" n="26"/>Si ferri uncia pendeat ex magnete addita alia ferri uncia adhuc pendebit, addita 
+              semiun<lb ed="#F" n="27" break="no"/>cia plumbi non pendebit amplius sed decidet ferrum.
                <lb ed="#F" n="28"/>Cap. XXVIII.
         </p>
             <p xml:id="p9i7y5-e38763-d1e114">

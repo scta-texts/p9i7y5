@@ -52,14 +52,16 @@
    <text xml:lang="la">
       <front>
          <div xml:id="starts-on">
-            <pb ed="#F" n="266"/>
+            <pb ed="#F" n="265"/>
          </div>
       </front>
       <body>
          <div xml:id="p9i7y5-e28534"> <!-- l3c28 -->
             <head xml:id="p9i7y5-e28534-Hd1e107">Caput 28</head>
             <p xml:id="p9i7y5-e28534-d1e109">
-               <lb ed="#F" n="33"/>rupto magnete. Cap. XXVIII.
+              <lb ed="#F" n="31"/>Idem punctum magnetis, quod communicavit ferro vim se convertendi ad Austrum, 
+              po<lb ed="#F" n="32" break="no"/>terit etiam communicare vim se convertendi ad Septentrionem in cor
+               <lb ed="#F" n="33" break="no"/>rupto magnete. Cap. XXVIII.
         </p>
             <p xml:id="p9i7y5-e28534-d1e114">
                <lb ed="#F" n="34"/>Videtur fortasse istud illi, qui in magneticae philosophiae 

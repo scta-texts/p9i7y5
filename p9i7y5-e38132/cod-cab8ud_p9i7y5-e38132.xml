@@ -52,7 +52,7 @@
    <text xml:lang="la">
       <front>
          <div xml:id="starts-on">
-            <pb ed="#F" n="358"/>
+            <pb ed="#F" n="357"/>
          </div>
       </front>
       <body>
@@ -253,8 +253,6 @@
             <lb ed="#F" n="19"/>vt foueatur, ex quo maior est ratio cur refugiat abista inuersa positione. 
             Con<lb ed="#F" n="20" break="no"/>seruatur ergo magnes ex conuenienti positione in ordine ad vniuersum,
             <lb ed="#F" n="21"/>quod erat demonstrandum.
-            <lb ed="#F" n="22"/>Magnes melius trahit ferrum mundum, quam rubiginosum, melius aciarium, quam 
-            fer<lb ed="#F" n="23" break="no"/>rum commune, melius temperatum quam molle, vnde versoria perfecta fiant
         </p>
          </div>
       </body>

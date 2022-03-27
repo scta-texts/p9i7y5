@@ -52,7 +52,7 @@
    <text xml:lang="la">
       <front>
          <div xml:id="starts-on">
-            <pb ed="#F" n="263"/>
+            <pb ed="#F" n="262"/>
          </div>
       </front>
       <body>
@@ -166,7 +166,7 @@
             <lb ed="#F" n="18"/>&amp; tamen non mutatur verticitas in versorijs, dum prope magnetem sunt, &amp;
             <lb ed="#F" n="19"/>ab eodem removentur, etiam si prope magnetem cuspides se mutuo uniant,
             <lb ed="#F" n="20"/>quotcunque tandem sint, remoto magnete se fugiant. ergo neque hoc 
-            di<lb ed="#F" n="21" break="no"/>catur de lamella, quae concipiatur veluti eorona quaedam ex versorijs confe
+            di<lb ed="#F" n="21" break="no"/>catur de lamella, quae concipiatur veluti corona quaedam ex versorijs confe
             <lb ed="#F" n="22"/>cta, quorum cuspides simul conveniant ad centrum ipsius lamellae: &amp; si 
             ad<lb ed="#F" n="23" break="no"/>moveantur alia versoria quotcunque, pariter concurrent ad eundem polum
             <lb ed="#F" n="24"/>cuspides, remoto magnete se fugient. Dum ergo prope magnetem sunt 
@@ -175,11 +175,7 @@
             <lb ed="#F" n="27"/>non possunt ab invicem refugere; saltem fugiunt ab ijsdem illae, quae sunt
             <lb ed="#F" n="28"/>extra. non igitur mutatur lamellae verticitas. &amp; haec ratio ex visceribus 
             ma<lb ed="#F" n="29" break="no"/>gneticae philosophiae eruitur, &amp; ex modo agendi proprio magneticorum,
-            <lb ed="#F" n="30"/>quem Gilbertus non ita clarè videtur agnovisse.
-        </p>
-            <p xml:id="p9i7y5-e28275-d1e356">
-               <lb ed="#F" n="31"/>Idem punctum magnetis, quod communicavit ferro vim se convertendi ad Austrum, 
-            po<lb ed="#F" n="32" break="no"/>terit etiam communicare vim se convertendi ad Septentrionem in cor¬
+            <lb ed="#F" n="30"/>quem <name>Gilbertus</name> non ita clarè videtur agnovisse.
         </p>
          </div>
       </body>

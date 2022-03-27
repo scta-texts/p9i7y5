@@ -52,7 +52,7 @@
    <text xml:lang="la">
       <front>
          <div xml:id="starts-on">
-            <pb ed="#F" n="205"/>
+            <pb ed="#F" n="204"/>
          </div>
       </front>
       <body>
@@ -191,9 +191,6 @@
                <lb ed="#F" n="1"/>respicit puncta non alia in finitore, nisi ex accidente, cuius ratio 
             quaereba<lb ed="#F" n="2" break="no"/>tur; nec Peregrini ille magneticus globus fieri potest, qui magneticè colloca
             <lb ed="#F" n="3"/>tus diurna conversione astrorum sequatur perpetuo motum.
-        </p>
-            <p xml:id="p9i7y5-e21765-d1e388">
-               <lb ed="#F" n="4"/>Non solum inutiliter, sed omnino perniciosè fieret versorium magneticum in
         </p>
          </div>
       </body>

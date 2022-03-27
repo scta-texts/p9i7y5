@@ -52,7 +52,7 @@
    <text xml:lang="la">
       <front>
          <div xml:id="starts-on">
-            <pb ed="#F" n=""/>
+            <pb ed="#F" n="297"/>
          </div>
       </front>
       <body>
@@ -111,10 +111,6 @@
             <lb ed="#F" n="38"/>addendum est: semper enim, ubi non interveniat peculiaris quaedam ratio,
             <lb ed="#F" n="39"/>talem magnetica possidebunt conformationem.
         </p>
-            <p xml:id="p9i7y5-e31861-d1e217">
-            <!--316.xml-->
-
-      </p>
          </div>
       </body>
    </text>

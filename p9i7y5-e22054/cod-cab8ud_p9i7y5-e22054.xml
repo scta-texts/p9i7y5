@@ -52,13 +52,14 @@
    <text xml:lang="la">
       <front>
          <div xml:id="starts-on">
-            <pb ed="#F" n="208"/>
+            <pb ed="#F" n="207"/>
          </div>
       </front>
       <body>
          <div xml:id="p9i7y5-e22054"> <!-- l3c5 -->
             <head xml:id="p9i7y5-e22054-Hd1e107">Caput 5</head>
             <p xml:id="p9i7y5-e22054-d1e109">
+              <lb ed="#F" n="4"/>Non solum inutiliter, sed omnino perniciosè fieret versorium magneticum in
                <lb ed="#F" n="5"/>forma Crucis. Cap. V.
         </p>
             <p xml:id="p9i7y5-e22054-d1e114">

@@ -52,13 +52,15 @@
    <text xml:lang="la">
       <front>
          <div xml:id="starts-on">
-            <pb ed="#F" n="405"/>
+            <pb ed="#F" n="404"/>
          </div>
       </front>
       <body>
          <div xml:id="p9i7y5-e43115"> <!-- l4c43 -->
             <head xml:id="p9i7y5-e43115-Hd1e107">Caput 43</head>
             <p xml:id="p9i7y5-e43115-d1e109">
+              <lb ed="#F" n="3"/>Magnes iuvatur maxime ad suspendendum ferrum ex coniunctione cum ferro, magis
+              <lb ed="#F" n="4"/>etiam quam, ex coniunctione cùm altero magnete.
                <lb ed="#F" n="5"/>Cap. XLIII.
         </p>
             <p xml:id="p9i7y5-e43115-d1e114">

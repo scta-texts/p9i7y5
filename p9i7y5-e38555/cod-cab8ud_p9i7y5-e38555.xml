@@ -52,13 +52,15 @@
    <text xml:lang="la">
       <front>
          <div xml:id="starts-on">
-            <pb ed="#F" n="362"/>
+            <pb ed="#F" n="361"/>
          </div>
       </front>
       <body>
          <div xml:id="p9i7y5-e38555"> <!-- l4c27 -->
             <head xml:id="p9i7y5-e38555-Hd1e107">Caput 27</head>
             <p xml:id="p9i7y5-e38555-d1e109">
+              <lb ed="#F" n="22"/>Magnes melius trahit ferrum mundum, quam rubiginosum, melius aciarium, quam 
+              fer<lb ed="#F" n="23" break="no"/>rum commune, melius temperatum quam molle, vnde versoria perfecta fiant
                <lb ed="#F" n="24"/>ex aciario temperato. Cap. XXVII.
         </p>
             <p xml:id="p9i7y5-e38555-d1e114">
@@ -151,8 +153,6 @@
             virtu<lb ed="#F" n="23" break="no"/>tem activam, habebunt ad motum concurrentem, nullaque sociam trahere
             <lb ed="#F" n="24"/>cogetur inertem, &amp; erit utile pondus; quia etiam illa sua sponte se diriget. ergo
             <lb ed="#F" n="25"/>melius fiet versorium ex aciario, quam ex ferro: quod erat demonstrandum.
-            <lb ed="#F" n="26"/>Si ferri uncia pendeat ex magnete addita alia ferri uncia adhuc pendebit, addita 
-            semiun<lb ed="#F" n="27" break="no"/>cia plumbi non pendebit amplius sed decidet ferrum.
         </p>
          </div>
       </body>

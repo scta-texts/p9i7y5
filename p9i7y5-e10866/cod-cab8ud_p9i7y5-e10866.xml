@@ -52,7 +52,7 @@
    <text xml:lang="la">
       <front>
          <div xml:id="starts-on">
-            <pb ed="#F" n="101"/>
+            <pb ed="#F" n="100"/>
          </div>
       </front>
       <body>
@@ -451,12 +451,6 @@
             <lb ed="#F" n="35"/>iam est, ut Petri Peregrini, ac demum Gilberti sententiam discutiamus, qui
             <lb ed="#F" n="36"/>cum melius de magnete philosophati sint, non debent cum reliquis 
             connu<lb ed="#F" n="37" break="no"/>merati.
-        </p>
-            <p xml:id="p9i7y5-e10866-d1e937">
-            <!--128.xml-->
-               <pb ed="#F" n="109"/>
-               <lb ed="#F" n="1"/>lae 
-            nau<lb ed="#F" n="2" break="no"/>Expenditur opinio Petri Peregrini, de magnetica attractione.
         </p>
          </div>
       </body>

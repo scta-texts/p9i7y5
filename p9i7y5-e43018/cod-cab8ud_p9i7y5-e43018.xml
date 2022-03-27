@@ -52,7 +52,7 @@
    <text xml:lang="la">
       <front>
          <div xml:id="starts-on">
-            <pb ed="#F" n="404"/>
+            <pb ed="#F" n="403"/>
          </div>
       </front>
       <body>
@@ -99,10 +99,6 @@
             <pb ed="#F" n="404"/>
                <lb ed="#F" n="1"/>nisi diversa positione horizontali, quod sane per quam mirum est, cum 
             prae<lb ed="#F" n="2" break="no"/>sertim iam huius rei rationem videas à priori, ut dicitur.
-        </p>
-            <p xml:id="p9i7y5-e43018-d1e194">
-               <lb ed="#F" n="3"/>Magnes iuvatur maxime ad suspendendum ferrum ex coniunctione cum ferro, magis
-            <lb ed="#F" n="4"/>etiam quam, ex coniunctione cùm altero magnete.
         </p>
          </div>
       </body>
