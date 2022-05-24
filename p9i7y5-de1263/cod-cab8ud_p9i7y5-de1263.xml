@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -100,7 +99,7 @@
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869752/294,1835,588,831/full/0/default.jpg"/>
             <ab type="figure-details">
               <seg type="figure-text">C D</seg>
-              <seg type="figure-ideas"/>
+              <seg type="figure-ideas">magnetic force plasticity physical objects concrete elements letters text scientific analogy, allegory and symbols related to an experiment practice polarity woodcut integrated in the layout 3d and perspective light/shadow</seg>
               <seg type="transkribus-id">900522-34375367-r6</seg>
             </ab>
             <figDesc/>
@@ -110,7 +109,7 @@
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869752/1034,1956,1102,603/full/0/default.jpg"/>
             <ab type="figure-details">
               <seg type="figure-text">A C B</seg>
-              <seg type="figure-ideas"/>
+              <seg type="figure-ideas">integrated in the layout light/shadow plasticity physical objects concrete elements text letters polarity magnetic force woodcut</seg>
               <seg type="transkribus-id">900522-34375367-r7</seg>
             </ab>
             <figDesc/>
@@ -179,7 +178,7 @@
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869754/246,770,1074,644/full/0/default.jpg"/>
             <ab type="figure-details">
               <seg type="figure-text">B S D A</seg>
-              <seg type="figure-ideas"/>
+              <seg type="figure-ideas">geometrical forms woodcut integrated in the layout light/shadow plasticity physical objects concrete elements abstract elements letters text polarity magnetic force</seg>
               <seg type="transkribus-id">900522-34375370-r5</seg>
             </ab>
             <figDesc/>
@@ -190,7 +189,7 @@
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869754/1442,441,740,1206/full/0/default.jpg"/>
             <ab type="figure-details">
               <seg type="figure-text">I P O R Q M</seg>
-              <seg type="figure-ideas"/>
+              <seg type="figure-ideas">letters woodcut integrated in the layout 3d and perspective light/shadow plasticity physical objects concrete elements magnetic force polarity analogy, allegory and symbols scientific text</seg>
               <seg type="transkribus-id">900522-34375370-r6</seg>
             </ab>
             <figDesc/>
