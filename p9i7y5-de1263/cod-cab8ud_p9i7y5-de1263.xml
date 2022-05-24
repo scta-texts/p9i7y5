@@ -1,227 +1,228 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Caput 4</title>
-            <author ref="#per-nc88aa">Niccolo Cabeo</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-            <respStmt>
-               <name>Christoph Sander</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Caput 4</title>
-               <date when="2022-03-23">March 23, 2022</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2022-03-23" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#F" n="9"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="p9i7y5-de1263"> <!-- l1c4 -->
-            <head xml:id="p9i7y5-de1263-Hd1e107">Caput 4</head>
-            <p xml:id="p9i7y5-de1263-d1e109">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 4</title>
+        <author ref="#per-nc88aa">Niccolo Cabeo</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Christoph Sander</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 4</title>
+          <date when="2022-03-23">March 23, 2022</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="F" n="cod-cab8ud">Ferrara 1629</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2022-03-23" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#F" n="9"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="p9i7y5-de1263"> <!-- l1c4 -->
+        <head xml:id="p9i7y5-de1263-Hd1e107">Caput 4</head>
+        <p xml:id="p9i7y5-de1263-d1e109">
           <!--28.xml-->
-               <pb ed="#F" n="9"/>
-               <lb ed="#F" n="1"/>Qua ratione seù via hae facies in magnete sint dispositae. Caput Quartum.
+          <pb ed="#F" n="9"/>
+          <lb ed="#F" n="1"/>Qua ratione seù via hae facies in magnete sint dispositae. Caput Quartum.
         </p>
-            <p xml:id="p9i7y5-de1263-d1e118">
-               <lb ed="#F" n="2"/>Non excurrunt hae magnetis facies in isto lapide quaqua versum,
-            <lb ed="#F" n="3"/>neque haec virtus vagè, &amp; nullo ordine à natura est 
-            disemi<lb ed="#F" n="4" break="no"/>nata verum quod dixi magnetem versùs unam partem totum
-            <lb ed="#F" n="5"/>Australem esse versùs aliam totum Septentrionalem: qua 
-            ra<lb ed="#F" n="6" break="no"/>tione verum sit, accuratius est explicandum. Sciendum igitur est naturam
-            <lb ed="#F" n="7"/>sibi situm quemdam, ac dimensionem in lapide determinasse, per quam 
-            di<lb ed="#F" n="8" break="no"/>mensionem, hanc virtutem diffundat ea ferè ratione, qua in ligno disposuit
-            <lb ed="#F" n="9"/>natura poros una certa ratione protractos, quibus humorem partibus
-            <lb ed="#F" n="10"/>trasmittat, &amp; incrementum arbores suscipiant: sicut enim lignei pori seù
-            <lb ed="#F" n="11"/>venae non quaquà versum excurrunt, sed determinata ratione, &amp; via, quam
-            <lb ed="#F" n="12"/>viam nos ligni longitudinem appellamus: sic in lapide isto magnetica 
-            vir<lb ed="#F" n="13" break="no"/>tus suas habet occultas venas, quibus virtus quasi procedit, &amp; extenditur.
+        <p xml:id="p9i7y5-de1263-d1e118">
+          <lb ed="#F" n="2"/>Non excurrunt hae magnetis facies in isto lapide quaqua versum,
+          <lb ed="#F" n="3"/>neque haec virtus vagè, &amp; nullo ordine à natura est 
+          disemi<lb ed="#F" n="4" break="no"/>nata verum quod dixi magnetem versùs unam partem totum
+          <lb ed="#F" n="5"/>Australem esse versùs aliam totum Septentrionalem: qua 
+          ra<lb ed="#F" n="6" break="no"/>tione verum sit, accuratius est explicandum. Sciendum igitur est naturam
+          <lb ed="#F" n="7"/>sibi situm quemdam, ac dimensionem in lapide determinasse, per quam 
+          di<lb ed="#F" n="8" break="no"/>mensionem, hanc virtutem diffundat ea ferè ratione, qua in ligno disposuit
+          <lb ed="#F" n="9"/>natura poros una certa ratione protractos, quibus humorem partibus
+          <lb ed="#F" n="10"/>trasmittat, &amp; incrementum arbores suscipiant: sicut enim lignei pori seù
+          <lb ed="#F" n="11"/>venae non quaquà versum excurrunt, sed determinata ratione, &amp; via, quam
+          <lb ed="#F" n="12"/>viam nos ligni longitudinem appellamus: sic in lapide isto magnetica 
+          vir<lb ed="#F" n="13" break="no"/>tus suas habet occultas venas, quibus virtus quasi procedit, &amp; extenditur.
         </p>
-            <p xml:id="p9i7y5-de1263-d1e147">
-               <lb ed="#F" n="14"/>Haec ligni similitudo mihi semper summopere placuit ad explicandam
-            <lb ed="#F" n="15"/>magnetis naturam, &amp; gavisus sum placuisse etiam Gilberto libro tertio 
-            ca<lb ed="#F" n="16" break="no"/>pite sexto, licet ad aliud explicandum illam adducat: quod ipse etiam suo
-            <lb ed="#F" n="17"/>loco praestabo. Et sanè hoc maximè philosophum decet, ex notioribus 
-            no<lb ed="#F" n="18" break="no"/>bis ad ignotiora delabi, &amp; ex his, quae quotidie contrectamus, quaeque 
-            ma<lb ed="#F" n="19" break="no"/>ximè in sensus incurrunt, sensim animum, &amp; cognitionem ad abdita 
-            natu<lb ed="#F" n="20" break="no"/>rae deducere. fit ergo lignum C. D. in quo pori, &amp; meatus non quaquà 
-            ver<lb ed="#F" n="21" break="no"/>sum excurrunt, sed determinante sibi natura viam, certo quodam tramite
+        <p xml:id="p9i7y5-de1263-d1e147">
+          <lb ed="#F" n="14"/>Haec ligni similitudo mihi semper summopere placuit ad explicandam
+          <lb ed="#F" n="15"/>magnetis naturam, &amp; gavisus sum placuisse etiam Gilberto libro tertio 
+          ca<lb ed="#F" n="16" break="no"/>pite sexto, licet ad aliud explicandum illam adducat: quod ipse etiam suo
+          <lb ed="#F" n="17"/>loco praestabo. Et sanè hoc maximè philosophum decet, ex notioribus 
+          no<lb ed="#F" n="18" break="no"/>bis ad ignotiora delabi, &amp; ex his, quae quotidie contrectamus, quaeque 
+          ma<lb ed="#F" n="19" break="no"/>ximè in sensus incurrunt, sensim animum, &amp; cognitionem ad abdita 
+          natu<lb ed="#F" n="20" break="no"/>rae deducere. fit ergo lignum C. D. in quo pori, &amp; meatus non quaquà 
+          ver<lb ed="#F" n="21" break="no"/>sum excurrunt, sed determinante sibi natura viam, certo quodam tramite
           <lb ed="#F" n="22"/>extenduntur à C. nimirum ad D. &amp; hanc ligni longitudinem appellamus:
-            <lb ed="#F" n="23"/>pari etiam ratione in magnete A. C. B. facies istae virtus'que, quam superius
-            <lb ed="#F" n="24"/>commemoravi determinata ratione protenditur ab A. ad B. &amp; sicut in
-            <lb ed="#F" n="25"/>quolibet ligni frustulo venae, ac pori semper sunt ea determinata ratione
-            <lb ed="#F" n="26"/>protracti, qua primum à natura fuerunt dispositi in toto ligno; ita in 
-            qua<lb ed="#F" n="27" break="no"/>libet quantumcumque exigua magnetis particula sunt istae facies, sed ea
-            <lb ed="#F" n="28"/>ratione fitùque dispositae, quem primum à natura obtinuerunt in isto lapide.
-        <!-- doesn't need type fixed because it is in order -->
-        <lb ed="#F" n="29"/>
-               <figure xml:id="p9i7y5-de1263-Fd1e187">
-                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869752/294,1835,588,831/full/0/default.jpg"/>
-                  <ab type="figure-details">
-                     <seg type="figure-text">C D</seg>
-                     <seg type="figure-ideas"/>
-                     <seg type="transkribus-id">900522-34375367-r6</seg>
-                  </ab>
-                  <figDesc/>
-               </figure>
-               <lb ed="#F" n="30"/>
-               <figure xml:id="p9i7y5-de1263-Fd1e207">
-                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869752/1034,1956,1102,603/full/0/default.jpg"/>
-                  <ab type="figure-details">
-                     <seg type="figure-text">A C B</seg>
-                     <seg type="figure-ideas"/>
-                     <seg type="transkribus-id">900522-34375367-r7</seg>
-                  </ab>
-                  <figDesc/>
-               </figure>
-            </p>
-            <p xml:id="p9i7y5-de1263-d1e226">
-         <!--29.xml-->
-               <pb ed="#F" n="10"/>
-               <lb ed="#F" n="1"/>Illud praeterea inter lignum, lapidemque magnetem affine deprehendes,
-            <lb ed="#F" n="2"/>quod, sicut in ligno est determinata positio, quam natura immisit, &amp; 
-            indi<lb ed="#F" n="3" break="no"/>dit, innatus scilicet appetitus aspiciendi sursum, &amp; deorsum per ordinem
-            <lb ed="#F" n="4"/>ad summum Caeli medium, &amp; imum centrum terrę; ita ut si velis ligni 
-            inge<lb ed="#F" n="5" break="no"/>nio famulari, &amp; illud, prout eius natura postulat, collocare, seù restituere in
-            <lb ed="#F" n="6"/>pristinum statum, in quo à natura fuit productum, semper debeas 
-            determi<lb ed="#F" n="7" break="no"/>natam partem sursum versum ad medium Caeli convertere, &amp; oppositam
-            <lb ed="#F" n="8"/>illi partem ad terrae centrum dirigere, ac si lignum vim se collocandi 
-            habe<lb ed="#F" n="9" break="no"/>ret, ut eius natura postulat, quam tamen non habet in ordine ad hoc, 
-            si<lb ed="#F" n="10" break="no"/>bi naturalem quaereret situm, &amp; semper C. elevaretur, D. deprimeretur; ita
-            <lb ed="#F" n="11"/>etiam in magnete determinatus est iacendi situs, sed quod in ligno est 
-            sur<lb ed="#F" n="12" break="no"/>sum, &amp; deorsum, in magnete est ad polos Mundi, &amp; ad Meridianam lineam,
-            <lb ed="#F" n="13"/>ut semper determinata pars Septentrionem respiciat, opposita Austrum; &amp;
-            <lb ed="#F" n="14"/>quoniam magnes vi praeterea se movendi ditatur, &amp; quasi animatur, nisi
-            <lb ed="#F" n="15"/>moles impediat; non iners stertit, ut lignum, si sibi relinquatur, sed 
-            mon<lb ed="#F" n="16" break="no"/>strante iter natura ad notas mundi partes se disponit. Denique sicut non
-            <lb ed="#F" n="17"/>solum in ligno C. D. extrema superficies C. sursum dirigitur, vel cor Caeli
-            <lb ed="#F" n="18"/>respicit, nec sola extrema superficies D. deorsum vertitur, sed tota ligni 
-            sub<lb ed="#F" n="19" break="no"/>stantia, quanta quanta est, tota à D. versus C. sursum est directa, ità ut 
-            sem<lb ed="#F" n="20" break="no"/>per quacunque in parte, &amp; quacunque ratione lignum seces, facies, quae
-            <lb ed="#F" n="21"/>opponitur ipsi D. sursum sit directa: &amp; facies extrema B. ad Septentrionem
-            <lb ed="#F" n="22"/>dirigitur, &amp; A. ad Austrum; sed &amp; substantia intima penitus ab A. ad B. tota
-            <lb ed="#F" n="23"/>Septentrionalis est, &amp; à B. ad A. tota Australis: &amp; quantumvis lapidem
-            <lb ed="#F" n="24"/>comminuas, facies opposita A. quae ex divisione consurget, 
-            Septentriona<lb ed="#F" n="25" break="no"/>lis dicetur, &amp; quaelibet facies quae ex divisione consurget opposita B. 
-            Au<lb ed="#F" n="26" break="no"/>stralis erit. Hoc pacto si cum ligno collatam magnetis naturam attentè
-            <lb ed="#F" n="27"/>speculaberis, &amp; quod in ligno est sursum, &amp; deorsum in lapide dicas esse
-            <lb ed="#F" n="28"/>Septentrionale, &amp; Australe, eius naturam aliqua ratione introspicies.
-     </p>
-            <p xml:id="p9i7y5-de1263-d1e294">
-               <lb ed="#F" n="29"/>Hanc igitur viam qua magnetis vires, &amp; facies extenduntur, magnetis
-            <lb ed="#F" n="30"/>longitudinem appellabimus, cuius metiendae ratio cum artificiali 
-            longi<lb ed="#F" n="31" break="no"/>tudine aut figura, non nisi ex accidente consentit; in quo etiam à ligni non
-            <lb ed="#F" n="32"/>discedit similitudine: in illo enim propriam habes longitudinem 
-            natura<lb ed="#F" n="33" break="no"/>lem, per quam scilicet pori venaeque protenduntur, quidquid sit de 
-            artifi<lb ed="#F" n="34" break="no"/>ciali eius longitudine; quo nomine solemus appellare productiorem eius
-            <lb ed="#F" n="35"/>dimensionem. Huius rei sic habeto argumentum. Sume lignum I. M. ex
-            <lb ed="#F" n="36"/>arboris trunco, in eo vides longitudinem esse à natura definitam, quae 
-            ex<lb ed="#F" n="37" break="no"/>currit ab I. ad M. seca ex illo particulam, O. R. vides hic in hac particula,
-            <lb ed="#F" n="38"/>ut artificialis longitudo à naturali dissentiat, artificialis enim longitudo
-            <lb ed="#F" n="39"/>est O. P. (communiter enim, ut dixi, longitudinem appellamus 
-            productio<lb ed="#F" n="40" break="no"/>rem in corpore dimensionem) at verò naturalis longitudo eiusdem 
-            particu<lb ed="#F" n="41" break="no"/>lae erit O. Q per quam scilicet protenduntur pori, &amp; ligni venae. Sic etiam
-            <lb ed="#F" n="42"/>in magnete duplicem potes advertere, &amp; metiri longitudinem, artificialem
-            <!--30.xml-->
-            <pb ed="#F" n="11"/>
-               <lb ed="#F" n="1"/>seù contingentem, quam scilicet ars, aut casus induxit, &amp; naturalem, quam
-            <lb ed="#F" n="2"/>natura immisit: naturalis longitudo est illa, per quam virtus extenditur 
-            ma<lb ed="#F" n="3" break="no"/>gnetica; artificialis est illa, quam longiori metimur via. Sit lapis A. B. cuius
-            <lb ed="#F" n="4"/>virtus per A. B. diffundatur. longitudinem ergo naturalem determinabit
-            <lb ed="#F" n="5"/>linea A. B. divide lapidem per D. sivè perpendiculariter ad A. B. sivè
-            <lb ed="#F" n="6"/>obliquè; longitudo naturalis non alia erit quam A. D. seù B. S. esto 
-            quanti<lb ed="#F" n="7" break="no"/>tatis aliam dixeris longitudinem, quam artificialem, seù contingentem 
-            ap<lb ed="#F" n="8" break="no"/>pello: illam enim solam veram, &amp; absolutam longitudinem dicimus in
-            <lb ed="#F" n="9"/>magnete, per quam natura ipsa vires extendit.
-        <lb ed="#F" n="23" type="fixed=11"/>
-               <figure xml:id="p9i7y5-de1263-Fd1e353">
-                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869754/246,770,1074,644/full/0/default.jpg"/>
-                  <ab type="figure-details">
-                     <seg type="figure-text">B S D A</seg>
-                     <seg type="figure-ideas"/>
-                     <seg type="transkribus-id">900522-34375370-r5</seg>
-                  </ab>
-                  <figDesc/>
-               </figure>
-               <!--30.xml-->
-               <lb ed="#F" n="24" type="fixed=11"/>
-               <figure xml:id="p9i7y5-de1263-Fd1e376">
-                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869754/1442,441,740,1206/full/0/default.jpg"/>
-                  <ab type="figure-details">
-                     <seg type="figure-text">I P O R Q M</seg>
-                     <seg type="figure-ideas"/>
-                     <seg type="transkribus-id">900522-34375370-r6</seg>
-                  </ab>
-                  <figDesc/>
-               </figure>
-            </p>
-            <p xml:id="p9i7y5-de1263-d1e394">
-         Quare contingere poterit,
-            <lb ed="#F" n="10" type="fixed=11"/>ut lungum habeas lapidem magnetem, qui tamen naturalem habeat 
-            lon<lb ed="#F" n="11" break="no"/>gitudinem brevissimam, sicuti in ligno supraposito O. R. longitudo eius
-            <lb ed="#F" n="12"/>videtur satis producta, &amp; tamen naturalis est brevissima O. Q. Nos igitur
-            <lb ed="#F" n="13"/>imposterum, quoties longitudinem magnetis commemorabimus, nisi 
-            a<lb ed="#F" n="14" break="no"/>liud addatur, naturalem intellectam volumus; eam scilicet per quam virtus
-            <lb ed="#F" n="15"/>diffunditur, ac protenditur: qua autem ratione, &amp; quo artificio possit in 
-            ma<lb ed="#F" n="16" break="no"/>gnete talis longitudo naturalis in apertum trahi, iam nunc dicam. 
-            Adver<lb ed="#F" n="17" break="no"/>tas autem me ita lignum accersere ad magnetis naturam explicandam,
-            <lb ed="#F" n="18"/>ut magnetem ligno similem faciam, non usquequaque idem. 
-            longitudi<lb ed="#F" n="19" break="no"/>nem ergo habet magnes, quam sequitur virtus, seu potius constituit; ut 
-            po<lb ed="#F" n="20" break="no"/>ri in longum protracti longitudinem ligni fingunt; at virtus in magnete
-            <lb ed="#F" n="21"/>ita extenditur. sumpto quolibet magnete; cum sua longitudo sit quaedam
-            <lb ed="#F" n="22"/>linea, quae prorsus per medium lapidem excurrit, quae axis virtutis dicitur
-            <!--30.xml-->
-         <!--31.xml-->
-         <pb ed="#F" n="12"/>
-               <lb ed="#F" n="1"/>secundum longitudinem per illam semper lapis bifariam dividitur, &amp; 
-            re<lb ed="#F" n="2" break="no"/>liquae lapidis partes suos virtutis radios ad hanc lineam, &amp; ad eius extrema
-            <lb ed="#F" n="3"/>dirigunt, non verò extendunt per lineas huic mediae parallelas, sicuti pori
-            <lb ed="#F" n="4"/>in ligno. extrema autem huius lineae polos appellamus, qui poli propriam
-            <lb ed="#F" n="5"/>longitudinem terminant, &amp; determinant, &amp; ad certas mundi plagas 
-            diri<lb ed="#F" n="6" break="no"/>guntui; ut mox dicam, in illa'que tota magneticae attractionis, &amp; 
-            directio<lb ed="#F" n="7" break="no"/>nis vis conspirat, &amp; haec praecipuè puncta quaeruntur in magnete.
+          <lb ed="#F" n="23"/>pari etiam ratione in magnete A. C. B. facies istae virtus'que, quam superius
+          <lb ed="#F" n="24"/>commemoravi determinata ratione protenditur ab A. ad B. &amp; sicut in
+          <lb ed="#F" n="25"/>quolibet ligni frustulo venae, ac pori semper sunt ea determinata ratione
+          <lb ed="#F" n="26"/>protracti, qua primum à natura fuerunt dispositi in toto ligno; ita in 
+          qua<lb ed="#F" n="27" break="no"/>libet quantumcumque exigua magnetis particula sunt istae facies, sed ea
+          <lb ed="#F" n="28"/>ratione fitùque dispositae, quem primum à natura obtinuerunt in isto lapide.
+          <!-- doesn't need type fixed because it is in order -->
+          <lb ed="#F" n="29"/>
+          <figure xml:id="p9i7y5-de1263-Fd1e187">
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869752/294,1835,588,831/full/0/default.jpg"/>
+            <ab type="figure-details">
+              <seg type="figure-text">C D</seg>
+              <seg type="figure-ideas"/>
+              <seg type="transkribus-id">900522-34375367-r6</seg>
+            </ab>
+            <figDesc/>
+          </figure>
+          <lb ed="#F" n="30"/>
+          <figure xml:id="p9i7y5-de1263-Fd1e207">
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869752/1034,1956,1102,603/full/0/default.jpg"/>
+            <ab type="figure-details">
+              <seg type="figure-text">A C B</seg>
+              <seg type="figure-ideas"/>
+              <seg type="transkribus-id">900522-34375367-r7</seg>
+            </ab>
+            <figDesc/>
+          </figure>
         </p>
-         </div>
-      </body>
-   </text>
+        <p xml:id="p9i7y5-de1263-d1e226">
+          <!--29.xml-->
+          <pb ed="#F" n="10"/>
+          <lb ed="#F" n="1"/>Illud praeterea inter lignum, lapidemque magnetem affine deprehendes,
+          <lb ed="#F" n="2"/>quod, sicut in ligno est determinata positio, quam natura immisit, &amp; 
+          indi<lb ed="#F" n="3" break="no"/>dit, innatus scilicet appetitus aspiciendi sursum, &amp; deorsum per ordinem
+          <lb ed="#F" n="4"/>ad summum Caeli medium, &amp; imum centrum terrę; ita ut si velis ligni 
+          inge<lb ed="#F" n="5" break="no"/>nio famulari, &amp; illud, prout eius natura postulat, collocare, seù restituere in
+          <lb ed="#F" n="6"/>pristinum statum, in quo à natura fuit productum, semper debeas 
+          determi<lb ed="#F" n="7" break="no"/>natam partem sursum versum ad medium Caeli convertere, &amp; oppositam
+          <lb ed="#F" n="8"/>illi partem ad terrae centrum dirigere, ac si lignum vim se collocandi 
+          habe<lb ed="#F" n="9" break="no"/>ret, ut eius natura postulat, quam tamen non habet in ordine ad hoc, 
+          si<lb ed="#F" n="10" break="no"/>bi naturalem quaereret situm, &amp; semper C. elevaretur, D. deprimeretur; ita
+          <lb ed="#F" n="11"/>etiam in magnete determinatus est iacendi situs, sed quod in ligno est 
+          sur<lb ed="#F" n="12" break="no"/>sum, &amp; deorsum, in magnete est ad polos Mundi, &amp; ad Meridianam lineam,
+          <lb ed="#F" n="13"/>ut semper determinata pars Septentrionem respiciat, opposita Austrum; &amp;
+          <lb ed="#F" n="14"/>quoniam magnes vi praeterea se movendi ditatur, &amp; quasi animatur, nisi
+          <lb ed="#F" n="15"/>moles impediat; non iners stertit, ut lignum, si sibi relinquatur, sed 
+          mon<lb ed="#F" n="16" break="no"/>strante iter natura ad notas mundi partes se disponit. Denique sicut non
+          <lb ed="#F" n="17"/>solum in ligno C. D. extrema superficies C. sursum dirigitur, vel cor Caeli
+          <lb ed="#F" n="18"/>respicit, nec sola extrema superficies D. deorsum vertitur, sed tota ligni 
+          sub<lb ed="#F" n="19" break="no"/>stantia, quanta quanta est, tota à D. versus C. sursum est directa, ità ut 
+          sem<lb ed="#F" n="20" break="no"/>per quacunque in parte, &amp; quacunque ratione lignum seces, facies, quae
+          <lb ed="#F" n="21"/>opponitur ipsi D. sursum sit directa: &amp; facies extrema B. ad Septentrionem
+          <lb ed="#F" n="22"/>dirigitur, &amp; A. ad Austrum; sed &amp; substantia intima penitus ab A. ad B. tota
+          <lb ed="#F" n="23"/>Septentrionalis est, &amp; à B. ad A. tota Australis: &amp; quantumvis lapidem
+          <lb ed="#F" n="24"/>comminuas, facies opposita A. quae ex divisione consurget, 
+          Septentriona<lb ed="#F" n="25" break="no"/>lis dicetur, &amp; quaelibet facies quae ex divisione consurget opposita B. 
+          Au<lb ed="#F" n="26" break="no"/>stralis erit. Hoc pacto si cum ligno collatam magnetis naturam attentè
+          <lb ed="#F" n="27"/>speculaberis, &amp; quod in ligno est sursum, &amp; deorsum in lapide dicas esse
+          <lb ed="#F" n="28"/>Septentrionale, &amp; Australe, eius naturam aliqua ratione introspicies.
+        </p>
+        <p xml:id="p9i7y5-de1263-d1e294">
+          <lb ed="#F" n="29"/>Hanc igitur viam qua magnetis vires, &amp; facies extenduntur, magnetis
+          <lb ed="#F" n="30"/>longitudinem appellabimus, cuius metiendae ratio cum artificiali 
+          longi<lb ed="#F" n="31" break="no"/>tudine aut figura, non nisi ex accidente consentit; in quo etiam à ligni non
+          <lb ed="#F" n="32"/>discedit similitudine: in illo enim propriam habes longitudinem 
+          natura<lb ed="#F" n="33" break="no"/>lem, per quam scilicet pori venaeque protenduntur, quidquid sit de 
+          artifi<lb ed="#F" n="34" break="no"/>ciali eius longitudine; quo nomine solemus appellare productiorem eius
+          <lb ed="#F" n="35"/>dimensionem. Huius rei sic habeto argumentum. Sume lignum I. M. ex
+          <lb ed="#F" n="36"/>arboris trunco, in eo vides longitudinem esse à natura definitam, quae 
+          ex<lb ed="#F" n="37" break="no"/>currit ab I. ad M. seca ex illo particulam, O. R. vides hic in hac particula,
+          <lb ed="#F" n="38"/>ut artificialis longitudo à naturali dissentiat, artificialis enim longitudo
+          <lb ed="#F" n="39"/>est O. P. (communiter enim, ut dixi, longitudinem appellamus 
+          productio<lb ed="#F" n="40" break="no"/>rem in corpore dimensionem) at verò naturalis longitudo eiusdem 
+          particu<lb ed="#F" n="41" break="no"/>lae erit O. Q per quam scilicet protenduntur pori, &amp; ligni venae. Sic etiam
+          <lb ed="#F" n="42"/>in magnete duplicem potes advertere, &amp; metiri longitudinem, artificialem
+          <!--30.xml-->
+          <pb ed="#F" n="11"/>
+          <lb ed="#F" n="1"/>seù contingentem, quam scilicet ars, aut casus induxit, &amp; naturalem, quam
+          <lb ed="#F" n="2"/>natura immisit: naturalis longitudo est illa, per quam virtus extenditur 
+          ma<lb ed="#F" n="3" break="no"/>gnetica; artificialis est illa, quam longiori metimur via. Sit lapis A. B. cuius
+          <lb ed="#F" n="4"/>virtus per A. B. diffundatur. longitudinem ergo naturalem determinabit
+          <lb ed="#F" n="5"/>linea A. B. divide lapidem per D. sivè perpendiculariter ad A. B. sivè
+          <lb ed="#F" n="6"/>obliquè; longitudo naturalis non alia erit quam A. D. seù B. S. esto 
+          quanti<lb ed="#F" n="7" break="no"/>tatis aliam dixeris longitudinem, quam artificialem, seù contingentem 
+          ap<lb ed="#F" n="8" break="no"/>pello: illam enim solam veram, &amp; absolutam longitudinem dicimus in
+          <lb ed="#F" n="9"/>magnete, per quam natura ipsa vires extendit.
+          <lb ed="#F" n="23" type="fixed=11"/>
+          <figure xml:id="p9i7y5-de1263-Fd1e353">
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869754/246,770,1074,644/full/0/default.jpg"/>
+            <ab type="figure-details">
+              <seg type="figure-text">B S D A</seg>
+              <seg type="figure-ideas"/>
+              <seg type="transkribus-id">900522-34375370-r5</seg>
+            </ab>
+            <figDesc/>
+          </figure>
+          <!--30.xml-->
+          <lb ed="#F" n="24" type="fixed=11"/>
+          <figure xml:id="p9i7y5-de1263-Fd1e376">
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869754/1442,441,740,1206/full/0/default.jpg"/>
+            <ab type="figure-details">
+              <seg type="figure-text">I P O R Q M</seg>
+              <seg type="figure-ideas"/>
+              <seg type="transkribus-id">900522-34375370-r6</seg>
+            </ab>
+            <figDesc/>
+          </figure>
+        </p>
+        <p xml:id="p9i7y5-de1263-d1e394">
+          Quare contingere poterit,
+          <lb ed="#F" n="10" type="fixed=11"/>ut lungum habeas lapidem magnetem, qui tamen naturalem habeat 
+          lon<lb ed="#F" n="11" break="no"/>gitudinem brevissimam, sicuti in ligno supraposito O. R. longitudo eius
+          <lb ed="#F" n="12"/>videtur satis producta, &amp; tamen naturalis est brevissima O. Q. Nos igitur
+          <lb ed="#F" n="13"/>imposterum, quoties longitudinem magnetis commemorabimus, nisi 
+          a<lb ed="#F" n="14" break="no"/>liud addatur, naturalem intellectam volumus; eam scilicet per quam virtus
+          <lb ed="#F" n="15"/>diffunditur, ac protenditur: qua autem ratione, &amp; quo artificio possit in 
+          ma<lb ed="#F" n="16" break="no"/>gnete talis longitudo naturalis in apertum trahi, iam nunc dicam. 
+          Adver<lb ed="#F" n="17" break="no"/>tas autem me ita lignum accersere ad magnetis naturam explicandam,
+          <lb ed="#F" n="18"/>ut magnetem ligno similem faciam, non usquequaque idem. 
+          longitudi<lb ed="#F" n="19" break="no"/>nem ergo habet magnes, quam sequitur virtus, seu potius constituit; ut 
+          po<lb ed="#F" n="20" break="no"/>ri in longum protracti longitudinem ligni fingunt; at virtus in magnete
+          <lb ed="#F" n="21"/>ita extenditur. sumpto quolibet magnete; cum sua longitudo sit quaedam
+          <lb ed="#F" n="22"/>linea, quae prorsus per medium lapidem excurrit, quae axis virtutis dicitur
+          <!--30.xml-->
+          <!--31.xml-->
+          <pb ed="#F" n="12"/>
+          <lb ed="#F" n="1"/>secundum longitudinem per illam semper lapis bifariam dividitur, &amp; 
+          re<lb ed="#F" n="2" break="no"/>liquae lapidis partes suos virtutis radios ad hanc lineam, &amp; ad eius extrema
+          <lb ed="#F" n="3"/>dirigunt, non verò extendunt per lineas huic mediae parallelas, sicuti pori
+          <lb ed="#F" n="4"/>in ligno. extrema autem huius lineae polos appellamus, qui poli propriam
+          <lb ed="#F" n="5"/>longitudinem terminant, &amp; determinant, &amp; ad certas mundi plagas 
+          diri<lb ed="#F" n="6" break="no"/>guntui; ut mox dicam, in illa'que tota magneticae attractionis, &amp; 
+          directio<lb ed="#F" n="7" break="no"/>nis vis conspirat, &amp; haec praecipuè puncta quaeruntur in magnete.
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>
