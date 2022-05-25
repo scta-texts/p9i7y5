@@ -166,7 +166,7 @@
                   <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870083/679,611,1599,816/full/0/default.jpg"/>
                   <ab type="figure-details">
                      <seg type="figure-text">N E O K H L M P G F S R E I T B A C D Q</seg>
-                     <seg type="figure-ideas"/>
+                     <seg type="figure-ideas">abstract elements text geometrical forms letters woodcut integrated in the layout</seg>
                      <seg type="transkribus-id">900522-34375876-r6</seg>
                   </ab>
                   <figDesc/>
@@ -202,7 +202,7 @@
                   <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870084/124,540,1893,831/full/0/default.jpg"/>
                   <ab type="figure-details">
                      <seg type="figure-text">S P M R K B A</seg>
-                     <seg type="figure-ideas"/>
+                     <seg type="figure-ideas">integrated in the layout text letters concrete elements physical objects plasticity light/shadow 3d and perspective woodcut</seg>
                      <seg type="transkribus-id">900522-34375878-r7</seg>
                   </ab>
                   <figDesc/>
@@ -263,7 +263,7 @@
                   <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870085/704,479,1632,818/full/0/default.jpg"/>
                   <ab type="figure-details">
                      <seg type="figure-text">N E M L H K P C R F S E I T B A C D Q</seg>
-                     <seg type="figure-ideas"/>
+                     <seg type="figure-ideas">geometrical forms text letters abstract elements integrated in the layout woodcut</seg>
                      <seg type="transkribus-id">900522-34375879-r6</seg>
                   </ab>
                   <figDesc/>
@@ -357,8 +357,8 @@
                <figure xml:id="p9i7y5-e36231-Fd1e728">
                   <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870087/639,542,1619,816/full/0/default.jpg"/>
                   <ab type="figure-details">
-                     <seg type="figure-text">S P M R K B A</seg>
-                     <seg type="figure-ideas"/>
+                     <seg type="figure-text">N E M L H K G P F R S E I T B A C D Q V</seg>
+                     <seg type="figure-ideas">text letters integrated in the layout geometrical forms abstract elements woodcut</seg>
                      <seg type="transkribus-id">900522-34375882-r6</seg>
                   </ab>
                   <figDesc/>
@@ -386,7 +386,7 @@
                   <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870088/177,884,1878,880/full/0/default.jpg"/>
                   <ab type="figure-details">
                      <seg type="figure-text">S P M R K B A</seg>
-                     <seg type="figure-ideas"/>
+                     <seg type="figure-ideas">letters text woodcut concrete elements plasticity light/shadow 3d and perspective integrated in the layout physical objects</seg>
                      <seg type="transkribus-id">900522-34375884-r6</seg>
                   </ab>
                   <figDesc/>
