@@ -95,17 +95,8 @@
             <lb ed="#F" n="13"/>motus.
         </p>
             <p xml:id="p9i7y5-de5981-d1e179">
-               <lb ed="#F" n="43" type="fixed=52"/>
-               <figure xml:id="p9i7y5-de5981-Fd1e184">
-                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869795/1199,2129,1150,1120/full/0/default.jpg"/>
-                  <ab type="figure-details">
-                     <seg type="figure-text">C A D B M E I N H G F</seg>
-                     <seg type="figure-ideas">magnetic force text inclination letters abstract elements geometrical forms arrows integrated in the layout woodcut</seg>
-                     <seg type="transkribus-id">900522-34375433-r5</seg>
-                  </ab>
-                  <figDesc/>
-               </figure>
-               <lb ed="#F" n="14" type="fixed=52"/>Vel enim fingunt huiusmodi terminum mobilem, vel immobilem: non
+
+               <lb ed="#F" n="14"/>Vel enim fingunt huiusmodi terminum mobilem, vel immobilem: non
             <lb ed="#F" n="15"/>potest dici esse mobilem, quia illa sequerentur incommoda, de quibus 
             ini<lb ed="#F" n="16" break="no"/>tio capitis praecedentis dicebam; videremus enim stante pyxide in eodem
             <lb ed="#F" n="17"/>loco immobiliter, variari versorium, variaque esset eodem die perpetuo 
@@ -120,8 +111,19 @@
             vertere<lb ed="#F" n="26" break="no"/>tur; immo aliquando versorium converteret se ad ortum, &amp; occasum; quod
             <lb ed="#F" n="27"/>nullus adhuc dixit nisi 
             er<lb ed="#F" n="28" break="no"/>rando, &amp; tamen de facto
-            <lb ed="#F" n="29"/>hoc contingeret. Patet hoc
-            <lb ed="#F" n="30"/>tali diagrammate. Sit terrae
+            <lb ed="#F" n="29"/>hoc contingeret.
+                              <lb ed="#F" n="43" type="fixed=52"/>
+               <figure xml:id="p9i7y5-de5981-Fd1e184">
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869795/1199,2129,1150,1120/full/0/default.jpg"/>
+                  <ab type="figure-details">
+                     <seg type="figure-text">C A D B M E I N H G F</seg>
+                     <seg type="figure-ideas">magnetic force text inclination letters abstract elements geometrical forms arrows integrated in the layout woodcut</seg>
+                     <seg type="transkribus-id">900522-34375433-r5</seg>
+                  </ab>
+                  <figDesc/>
+               </figure>
+               Patet hoc
+            <lb ed="#F" n="30" type="fixed=52"/>tali diagrammate. Sit terrae
             <lb ed="#F" n="31"/>globus A. B. C. D. cuius C.
             <lb ed="#F" n="32"/>D. sint poli A. B. aequatur, 
             li<lb ed="#F" n="33" break="no"/>nea C. D, sit sectio 
