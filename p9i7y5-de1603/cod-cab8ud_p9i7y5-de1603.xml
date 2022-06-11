@@ -370,11 +370,11 @@
             su<lb ed="#F" n="28" break="no"/>biacet in septentrionem vertetur D. in austrum collimabit.
             <lb ed="#F" n="45" type="fixed=17"/>
                <figure xml:id="p9i7y5-de1603-Fd1e749">
-                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869760/1085,535,1056,1249/full/0/default.jpg"/>
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869760/1029,2136,1077,966/full/0/default.jpg"/>
                   <ab type="figure-details">
-                     <seg type="figure-text"/>
-                     <seg type="figure-ideas"/>
-                     <seg type="transkribus-id">900522-34375379-r6</seg>
+                     <seg type="figure-text"/> <!--no figure text-->
+                     <seg type="figure-ideas">magnetic force inclination concrete elements physical objects plasticity light/shadow integrated in the layout woodcut/>
+                     <seg type="transkribus-id">900522-34375379-r4</seg>
                   </ab>
                   <figDesc/>
                </figure>
@@ -388,7 +388,7 @@
             tan<lb ed="#F" n="33" break="no"/>gat.
          <lb ed="#F" n="46" type="fixed=17"/>
                <figure xml:id="p9i7y5-de1603-Fd1e783">
-                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869760/1029,2136,1077,966/full/0/default.jpg"/>
+                  <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869760/1085,535,1056,1249/full/0/default.jpg"/>
                   <ab type="figure-details">
                      <seg type="figure-text">F A D C E B</seg>
                      <seg type="figure-ideas">text light/shadow plasticity physical objects arrows letters concrete elements woodcut integrated in the layout 3d and perspective</seg>
